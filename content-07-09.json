@@ -1,0 +1,449 @@
+[
+  {
+    "title": "Module 7 - Decide the Cell's Fate: Apoptosis, the Cell Cycle, and Mitosis",
+    "sourcePages": "cell death and cell division.pdf, slides 1-30",
+    "mission": "Work with blank paper and the slides closed unless a step tells you to look. First, draw two columns labeled APOPTOSIS and MITOSIS. In 90 seconds, write everything you already associate with each word. Open slides 2-14 and build an apoptosis flowchart from trigger to removal; close the slides and redraw it from memory. Open slides 16-29 and make a cell-cycle clock plus a four-frame PMAT comic. Finish by answering the recall and MCQs without looking. Reopen the slides only to repair answers you missed, and write each repair as one short cause -> event -> result chain.",
+    "primer": [
+      "Act it out: curl inward to represent apoptotic shrinkage, make finger 'blebs,' split an imaginary nucleus into fragments, and mime a macrophage engulfing the apoptotic bodies. Say the four events aloud in order.",
+      "Build the extrinsic chain from cards or scraps: TNF -> TNFR1 -> TRADD/FADD + procaspase-8 -> caspase-8 -> executioner caspases -> apoptosis. Shuffle it, then restore the order.",
+      "Build the intrinsic chain beside it: stress -> BAX/BAK pore in mitochondrial outer membrane -> cytochrome c release -> Apaf-1 + procaspase-9 -> caspase-9 -> executioner caspases.",
+      "Sort the BCL-2 family aloud: BCL-2/BCL-XL/MCL-1/BCL-w/A1 oppose apoptosis; BAX/BAK/BOK promote it; BID/BIM/NOXA/BAD are BH3-only inducers.",
+      "Point to an imaginary plasma membrane: phosphatidylserine normally faces inward, but flips outward during apoptosis. Say, 'Annexin V detects the outward PS eat-me signal.'",
+      "Draw the cycle G1 -> S -> G2 -> M, with G0 branching away. Add one verb per phase: grow, copy, prepare, divide; label interphase as about 90% of the cycle.",
+      "Make PMAT physical: condense and dismantle the nuclear boundary; line chromosomes at the equator; pull sister chromatids apart; rebuild nuclei and pinch the cell. Name each stage while moving."
+    ],
+    "recall": [
+      {
+        "q": "Without looking, list four visible or structural features of apoptosis.",
+        "a": "Cell and nuclear shrinkage, loss of adhesion, surface blebbing, chromatin fragmentation, formation of membrane-bound apoptotic bodies, and rapid phagocytic removal are slide-listed features; any four earn full credit."
+      },
+      {
+        "q": "Why does apoptosis usually avoid a strong inflammatory reaction?",
+        "a": "Cell contents remain enclosed by intact membranes, apoptotic bodies are rapidly phagocytosed, and this limits leakage and secondary necrosis."
+      },
+      {
+        "q": "Reconstruct the extrinsic apoptosis pathway from TNF binding to execution.",
+        "a": "TNF binds TNFR1; the receptor recruits TRADD, FADD, and procaspase-8; procaspase-8 activates by cleavage; caspase-8 activates downstream executioner caspases."
+      },
+      {
+        "q": "Reconstruct the intrinsic apoptosis pathway from cellular stress to execution.",
+        "a": "Stress activates pro-apoptotic BCL-2-family members such as BAX/BAK; mitochondrial outer membrane permeabilization releases cytochrome c; cytochrome c joins Apaf-1 and procaspase-9; caspase-9 activates executioner caspases."
+      },
+      {
+        "q": "What does Annexin V reveal, and why?",
+        "a": "It reveals phosphatidylserine exposed on the outer plasma-membrane leaflet because Annexin V binds PS with high affinity; external PS is an apoptotic eat-me signal."
+      },
+      {
+        "q": "State the defining event of G1, S, G2, and G0.",
+        "a": "G1: growth, protein synthesis, and organelle duplication; S: nuclear DNA replication; G2: final protein and energy preparation for division; G0: temporary or permanent quiescence outside active cycling."
+      },
+      {
+        "q": "For prophase, metaphase, anaphase, and telophase, give the chromosome headline.",
+        "a": "Prophase: chromosomes condense; metaphase: chromosomes align at the equator and attach to spindle microtubules through kinetochores; anaphase: sister chromatids separate to opposite poles; telophase: chromosome sets reach the poles and new nuclei form."
+      },
+      {
+        "q": "How does active pRb restrain the cell cycle, and what follows loss of both RB1 copies?",
+        "a": "Hypophosphorylated pRb binds and inactivates E2F, blocking premature G1-to-S progression. Loss of functional pRb removes that control and permits uncontrolled proliferation, including retinoblastoma."
+      }
+    ],
+    "mcqs": [
+      {
+        "q": "Which finding most strongly favors apoptosis rather than uncontrolled membrane rupture?",
+        "options": [
+          "Intact membrane-bound bodies rapidly engulfed by phagocytes",
+          "Immediate release of all cytoplasmic contents",
+          "Persistent tissue inflammation caused by leaked organelles",
+          "Random swelling followed by cell lysis"
+        ],
+        "answer": 0,
+        "explanation": "The slides emphasize intact apoptotic bodies, maintained organelle integrity, and rapid phagocytosis."
+      },
+      {
+        "q": "In the receptor-mediated pathway, which initiator caspase is activated at the TNFR1-associated complex?",
+        "options": [
+          "Caspase-3",
+          "Caspase-8",
+          "Caspase-9",
+          "Caspase-1"
+        ],
+        "answer": 1,
+        "explanation": "TRADD, FADD, and procaspase-8 assemble at activated TNFR1; caspase-8 then activates executioner caspases."
+      },
+      {
+        "q": "Which event directly follows BAX/BAK-mediated mitochondrial outer membrane permeabilization?",
+        "options": [
+          "Externalization of E2F",
+          "Release of cytochrome c",
+          "Activation of TNFR1",
+          "Attachment of kinetochores"
+        ],
+        "answer": 1,
+        "explanation": "BAX/BAK pores allow cytochrome c to leave the mitochondrial intermembrane space."
+      },
+      {
+        "q": "An Annexin V-positive cell most directly indicates exposure of which molecule?",
+        "options": [
+          "Phosphatidylserine",
+          "Cytochrome c",
+          "Cohesin",
+          "E2F"
+        ],
+        "answer": 0,
+        "explanation": "Annexin V binds phosphatidylserine after it moves from the inner to the outer leaflet during apoptosis."
+      },
+      {
+        "q": "At the end of S phase, each replicated chromosome consists of:",
+        "options": [
+          "Two homologous chromosomes joined at their telomeres",
+          "Two sister chromatids held together by cohesins",
+          "One chromatid attached to two nuclei",
+          "Four unrelated DNA molecules"
+        ],
+        "answer": 1,
+        "explanation": "DNA replication creates sister chromatids, which remain associated through cohesins before mitotic separation."
+      },
+      {
+        "q": "Chromosomes are accurately aligned on the spindle midplane during:",
+        "options": [
+          "Prophase",
+          "Metaphase",
+          "Anaphase",
+          "Telophase"
+        ],
+        "answer": 1,
+        "explanation": "Metaphase is defined by alignment at the cell equator or spindle midplane."
+      },
+      {
+        "q": "Which structure provides the chromosome attachment site for spindle microtubules?",
+        "options": [
+          "Phagolysosome",
+          "Kinetochore",
+          "Apoptosome",
+          "Nucleolus"
+        ],
+        "answer": 1,
+        "explanation": "Kinetochores are protein assemblies on specialized chromatin that bind spindle microtubules and motors."
+      },
+      {
+        "q": "Active, hypophosphorylated pRb prevents premature S-phase entry mainly by binding:",
+        "options": [
+          "BAX",
+          "E2F",
+          "Apaf-1",
+          "Annexin V"
+        ],
+        "answer": 1,
+        "explanation": "pRb restrains the G1-to-S transition by binding and inactivating E2F transcription factors."
+      }
+    ],
+    "traps": [
+      "Do not swap the initiators: extrinsic uses caspase-8; intrinsic uses caspase-9.",
+      "Do not call BCL-2 pro-apoptotic: BCL-2 opposes apoptosis, whereas BAX and BAK promote mitochondrial permeabilization.",
+      "DNA replication occurs in S phase, not during mitosis; mitosis distributes the already replicated chromatids.",
+      "Metaphase means alignment; anaphase means separation. If a stem says 'equator,' think metaphase."
+    ],
+    "checkpoint": [
+      "Close everything and draw both apoptosis pathways in under 90 seconds. You pass only if the receptors/adaptors or mitochondria components and the correct initiator caspase appear.",
+      "From a blank circle, recreate G1-S-G2-M-G0 and PMAT in under two minutes. Then explain what happens to DNA at each transition.",
+      "Answer the eight MCQs twice: first normally, then justify why every wrong option is wrong. Continue only after scoring at least 7/8 without guessing."
+    ]
+  },
+  {
+    "title": "Module 8 - Control Cell Identity: Potency, Differentiation, and Reprogramming",
+    "sourcePages": "Stem cells and differentiation.pdf, slides 1-30",
+    "mission": "Start by drawing a potency staircase from totipotent to unipotent and place one example from the slides at each step. Then make a two-column comparison of determination versus differentiation. Use slides 11-16 to sketch blastulation -> inner cell mass -> gastrulation -> three germ layers, adding at least three tissue derivatives per layer. Finally, become the experimentalist: for Till-McCulloch, Gurdon, and Yamanaka, state the input, intervention, observation, and conclusion. Close the slides and teach the whole story in five minutes to an imaginary engineering class.",
+    "primer": [
+      "Say the core distinction aloud: fate is what a cell normally becomes; potency is the range of cell types it can become.",
+      "Draw a narrowing funnel labeled totipotent -> pluripotent -> multipotent -> oligopotent -> unipotent. As the funnel narrows, say, 'developmental potential decreases as fate becomes restricted.'",
+      "Separate two moments: determination is commitment before visible specialization; differentiation is execution of the specialized morphology and physiology.",
+      "Explain cell specialization using one mechanism only: different cells express different subsets of genes, so they contain different subsets of proteins.",
+      "Draw a stem cell division with two outputs: one arrow loops back to 'self-renewal'; the other moves toward a specialized cell. Add quiescence as a common adult stem-cell state.",
+      "Make a germ-layer body map: endoderm -> digestive tract/liver/pancreas; mesoderm -> kidney/cartilage/bone/spleen/circulatory and lymphatic systems; ectoderm -> nail/hair/dermis/brain/spinal cord/retina.",
+      "Turn the reprogramming experiments into a proof ladder: differentiated nucleus can support development (Gurdon/Dolly); defined factors can return differentiated cells to pluripotency (Yamanaka); directed culture can then build organized tissue-like structures such as an optic cup."
+    ],
+    "recall": [
+      {
+        "q": "Distinguish cell fate, potency, determination, and differentiation in one sentence each.",
+        "a": "Fate is what a cell normally becomes; potency is what it can become; determination is commitment to a fate before obvious visible change; differentiation is the later expression of the specialized program and phenotype."
+      },
+      {
+        "q": "Reconstruct the potency hierarchy from broadest to narrowest.",
+        "a": "Totipotent -> pluripotent -> multipotent -> oligopotent -> unipotent."
+      },
+      {
+        "q": "What molecular principle makes a differentiated cell behave differently from its progenitor?",
+        "a": "Differential gene expression: the cells express different gene subsets and therefore contain different protein subsets."
+      },
+      {
+        "q": "Name the three central functional properties of a stem cell.",
+        "a": "Long or unlimited proliferative potential, self-renewal, and the capacity to differentiate into appropriate specialized cells; adult stem cells may also remain quiescent in tissue niches."
+      },
+      {
+        "q": "What developmental rearrangement creates the germ layers, and what are the three mammalian layers?",
+        "a": "Gastrulation reorganizes the blastula and produces ectoderm, mesoderm, and endoderm."
+      },
+      {
+        "q": "Match each germ layer to at least three derivatives from the slides.",
+        "a": "Endoderm: digestive tract, liver, pancreas. Mesoderm: kidney, cartilage, bone, spleen, circulatory and lymphatic systems. Ectoderm: nail, hair, dermis, brain, spinal cord, retina."
+      },
+      {
+        "q": "What did Gurdon's somatic cell nuclear transfer result demonstrate?",
+        "a": "A nucleus from a differentiated tadpole intestinal epithelial cell, transferred into an enucleated Xenopus egg, could in some cases support development into a normal tadpole; differentiation had not irreversibly destroyed the genetic information needed for development."
+      },
+      {
+        "q": "Name the four Yamanaka factors shown and two uses of iPSCs.",
+        "a": "Oct3/4, Sox2, c-Myc, and Klf4. Uses include patient-specific disease models, drug screening in target cells, avoiding some ESC ethical concerns, gene correction with CRISPR/Cas9, and producing cells or tissues for future transplantation."
+      }
+    ],
+    "mcqs": [
+      {
+        "q": "A cell has committed to become muscle but does not yet look different from neighboring cells. It is best described as:",
+        "options": [
+          "Determined",
+          "Differentiated",
+          "Totipotent",
+          "Apoptotic"
+        ],
+        "answer": 0,
+        "explanation": "Determination is commitment to a fate before the cell displays the specialized phenotype."
+      },
+      {
+        "q": "Which sequence correctly orders developmental potential from greatest to least?",
+        "options": [
+          "Unipotent -> oligopotent -> multipotent -> pluripotent -> totipotent",
+          "Totipotent -> pluripotent -> multipotent -> oligopotent -> unipotent",
+          "Pluripotent -> totipotent -> unipotent -> multipotent -> oligopotent",
+          "Multipotent -> totipotent -> oligopotent -> pluripotent -> unipotent"
+        ],
+        "answer": 1,
+        "explanation": "Development progressively restricts the range of possible cell fates."
+      },
+      {
+        "q": "The immediate basis of different behavior in two differentiated cell types is primarily:",
+        "options": [
+          "Different subsets of genes being expressed",
+          "Different genetic codes",
+          "Loss of all unused genes",
+          "Permanent absence of proteins"
+        ],
+        "answer": 0,
+        "explanation": "The slides attribute differentiation to differential gene expression and thus different protein complements."
+      },
+      {
+        "q": "Which is NOT a defining stem-cell capability in the slides?",
+        "options": [
+          "Self-renewal",
+          "Differentiation",
+          "Extended proliferative potential",
+          "Continuous high metabolic activity"
+        ],
+        "answer": 3,
+        "explanation": "Adult stem cells are described as often quiescent, with low metabolic activity, rather than continuously highly active."
+      },
+      {
+        "q": "Which germ-layer match is correct?",
+        "options": [
+          "Endoderm - liver and pancreas",
+          "Mesoderm - brain and retina",
+          "Ectoderm - circulatory system",
+          "Endoderm - cartilage and bone"
+        ],
+        "answer": 0,
+        "explanation": "The slides place digestive tract, liver, and pancreas under endoderm."
+      },
+      {
+        "q": "In Gurdon's experiment, differentiated donor nuclei were placed into:",
+        "options": [
+          "An enucleated Xenopus egg",
+          "A bone-marrow stem cell",
+          "A retroviral vector",
+          "An intact blastula nucleus"
+        ],
+        "answer": 0,
+        "explanation": "The nucleus of the recipient egg was removed before receiving the differentiated intestinal-cell nucleus."
+      },
+      {
+        "q": "Which set contains only the four factors shown as sufficient for iPSC generation?",
+        "options": [
+          "Oct3/4, Sox2, c-Myc, Klf4",
+          "Rx, Pax6, Chx10, Mitf",
+          "BAX, BAK, BID, BAD",
+          "TRADD, FADD, Apaf-1, E2F"
+        ],
+        "answer": 0,
+        "explanation": "The Yamanaka combination in the slides is Oct3/4, Sox2, c-Myc, and Klf4."
+      },
+      {
+        "q": "In the optic-cup culture example, Activin was used to induce expression of:",
+        "options": [
+          "Rx/Rax",
+          "RB1",
+          "TNFR1",
+          "Cytochrome c"
+        ],
+        "answer": 0,
+        "explanation": "The slides describe Activin induction of Rx/Rax, with Rx-positive cells appearing GFP-positive."
+      }
+    ],
+    "traps": [
+      "Fate and potency are not synonyms: fate is the normal destination; potency is the available range.",
+      "Determination comes before visible differentiation. A committed cell can still resemble its neighbors.",
+      "Self-renewal makes more stem cells; differentiation makes specialized descendants. Do not swap the arrows.",
+      "Do not mix the named gene sets: Oct3/4-Sox2-c-Myc-Klf4 are reprogramming factors; Rx/Pax6/Chx10 and related markers belong to the optic-cup example."
+    ],
+    "checkpoint": [
+      "On blank paper, reconstruct the potency funnel and define all five levels. Give a slide example where one is provided.",
+      "Draw the blastula-to-gastrula sequence and label all three germ layers with three derivatives each. Complete it in under three minutes.",
+      "For Till-McCulloch, Gurdon, and Yamanaka, speak a 20-second input -> intervention -> result -> conclusion summary. Then score at least 7/8 on the MCQs."
+    ]
+  },
+  {
+    "title": "Module 9 - Defend the System: Barriers, Innate Cells, and the Innate-Adaptive Handoff",
+    "sourcePages": "Host pathogen interaction.pdf, slides 1-30 (first half: immune-system overview and innate immunity)",
+    "mission": "Treat the body like a defended engineering system. Draw three layers: boundary defenses, rapid internal innate defenses, and slower specific adaptive defenses. Populate each layer from the slides. Next, follow one bacterium from attempted entry to removal: barrier breach -> chemotaxis -> neutrophil arrival -> phagocytosis -> granule-mediated killing -> inflammatory/adaptive signaling. Then follow one virus-infected host cell to NK-cell killing. End by making a comparison table from memory and completing the recall and MCQs without reopening the deck.",
+    "primer": [
+      "Build the top-level contrast from memory: innate is rapid, broad/nonspecific, and lacks memory; adaptive has a lag, is antigen-specific, and develops memory. Say aloud that the two systems interact.",
+      "Sort external innate defenses into three bins: mechanical (skin, mucociliary escalator, flushing), chemical (antimicrobial peptides, stomach HCl, lysozyme), and biological (normal flora competing for nutrients and space).",
+      "Sketch the immune supply network: bone marrow generates blood cells; blood and lymph transport immune cells; liver makes complement proteins; lymphoid organs and tissue-resident immune cells support responses.",
+      "Turn the typical response into a routing diagram: external barriers first; if breached, phagocytes, antimicrobial proteins, inflammation, NK cells, and complement act; adaptive humoral and cell-mediated responses follow.",
+      "Act out neutrophil recruitment: point to an infection, trace a chemical gradient with your finger, move toward it for chemotaxis, engulf the microbe, and 'open' granules containing digestive enzymes and antimicrobial proteins.",
+      "Contrast the phagocytes: neutrophils are abundant rapid responders normally in blood; monocytes circulate and become tissue macrophages; macrophages phagocytose in tissues and present antigen.",
+      "Model NK-cell selection as a missing-signal detector: a normal cell displays expected surface proteins; an infected or cancer cell may lose some; the NK cell releases perforins and proteases to kill the host cell and its intracellular microbes."
+    ],
+    "recall": [
+      {
+        "q": "Why do the slides call the immune system a functional system rather than a single organ system?",
+        "a": "Defense is distributed across skin, mucous membranes, secretions, blood cells and vessels, bone marrow, liver-derived complement, lymphatics and lymphoid organs, plus resident immune cells in many tissues."
+      },
+      {
+        "q": "Give the three headline differences between innate and adaptive immunity.",
+        "a": "Innate immunity has essentially no time lag, is not antigen-specific, and has no memory; adaptive immunity has a lag, is antigen-specific, and develops memory."
+      },
+      {
+        "q": "Give two examples each of mechanical, chemical, and biological external defenses.",
+        "a": "Mechanical: skin, mucociliary escalator, flushing by saliva/tears/urine. Chemical: antimicrobial peptides in sweat, stomach HCl, lysozyme in tears/saliva. Biological: normal flora occupying space and competing with pathogens for nutrients."
+      },
+      {
+        "q": "Name the internal innate defenses in the typical immune-response diagram.",
+        "a": "Phagocytic cells, antimicrobial proteins, inflammatory response, natural killer cells, and complement."
+      },
+      {
+        "q": "Why are neutrophils called primary response cells in these slides?",
+        "a": "They are the most abundant WBCs at about 50-60%, are efficient phagocytes, and rapidly rush to infection sites by chemotaxis."
+      },
+      {
+        "q": "Describe neutrophil action as a five-step chain.",
+        "a": "Detect chemical cues -> move by chemotaxis -> contact and engulf the microbe -> form an intracellular compartment around it -> use granule digestive enzymes and antimicrobial proteins to kill and digest it; neutrophils can also form NETs and promote inflammation/adaptive responses."
+      },
+      {
+        "q": "Relate monocytes to macrophages and distinguish macrophages from neutrophils.",
+        "a": "Monocytes circulate at about 2-10% of WBCs, enter tissues, and become macrophages. Macrophages are tissue 'big eaters' that phagocytose microbes and present antigen, whereas neutrophils normally circulate in blood and arrive rapidly."
+      },
+      {
+        "q": "How do NK cells identify and kill target cells according to the slides?",
+        "a": "Infected or cancer cells may lack normal surface proteins. NK cells recognize this altered or missing-self pattern and release granules containing perforins and proteases, killing the host target and its intracellular microbes."
+      }
+    ],
+    "mcqs": [
+      {
+        "q": "Which combination correctly describes adaptive immunity in the slide comparison?",
+        "options": [
+          "Immediate, nonspecific, no memory",
+          "Lag period, antigen-specific, develops memory",
+          "Immediate, antigen-specific, no memory",
+          "Lag period, nonspecific, no memory"
+        ],
+        "answer": 1,
+        "explanation": "Specificity and memory distinguish adaptive immunity, whose initial response develops after a lag."
+      },
+      {
+        "q": "Which is a biological rather than mechanical or chemical barrier?",
+        "options": [
+          "Normal flora competing for nutrients and space",
+          "Mucociliary escalator",
+          "Stomach hydrochloric acid",
+          "Lysozyme in tears"
+        ],
+        "answer": 0,
+        "explanation": "Resident normal flora provide colonization resistance through antagonistic competition."
+      },
+      {
+        "q": "Which organ is identified as a source of complement proteins?",
+        "options": [
+          "Liver",
+          "Skin",
+          "Thymus",
+          "Spleen"
+        ],
+        "answer": 0,
+        "explanation": "The immune-system overview specifically notes that the liver makes complement proteins."
+      },
+      {
+        "q": "A WBC moves up a chemical gradient toward bacteria. This is:",
+        "options": [
+          "Chemotaxis",
+          "Clonal expansion",
+          "Differentiation",
+          "Cytokinesis"
+        ],
+        "answer": 0,
+        "explanation": "The slides identify chemotaxis as the mechanism by which neutrophils find microbes."
+      },
+      {
+        "q": "Which leukocyte is the most abundant WBC and a major rapid phagocytic responder?",
+        "options": [
+          "Neutrophil",
+          "Monocyte",
+          "B lymphocyte",
+          "Mast cell"
+        ],
+        "answer": 0,
+        "explanation": "Neutrophils are listed at about 50-60% of WBCs and as primary response phagocytes."
+      },
+      {
+        "q": "A circulating cell enters tissue and differentiates into a 'big eater.' The circulating cell is a:",
+        "options": [
+          "Monocyte",
+          "Natural killer cell",
+          "B lymphocyte",
+          "Neutrophil extracellular trap"
+        ],
+        "answer": 0,
+        "explanation": "Monocytes migrate into tissues and become macrophages."
+      },
+      {
+        "q": "Which function links macrophages most directly to adaptive immunity?",
+        "options": [
+          "Antigen presentation",
+          "Stomach acid secretion",
+          "Urine flushing",
+          "Chromosome segregation"
+        ],
+        "answer": 0,
+        "explanation": "Besides tissue phagocytosis, the slides list antigen presentation as a macrophage function."
+      },
+      {
+        "q": "NK-cell cytotoxic granules contain molecules described in the slides as:",
+        "options": [
+          "Perforins and proteases",
+          "Antibodies and HCl",
+          "Cohesins and kinetochores",
+          "Lysozyme and phosphatidylserine"
+        ],
+        "answer": 0,
+        "explanation": "NK cells release perforins and proteases to kill infected or cancerous host cells."
+      }
+    ],
+    "traps": [
+      "Innate does not mean only barriers: phagocytes, complement, inflammation, and NK cells are also innate.",
+      "Neutrophils and macrophages both phagocytose, but neutrophils are abundant rapid blood responders; macrophages are tissue cells derived from monocytes and can present antigen.",
+      "NK cells are lymphocyte-like but are not B or T lymphocytes; in this deck they belong to innate immunity.",
+      "Humoral adaptive response means antibodies; cell-mediated adaptive response means cytotoxic lymphocytes. Do not assign antibodies to neutrophils or NK cells."
+    ],
+    "checkpoint": [
+      "Draw the three-layer defense architecture and correctly place at least 12 slide examples in three minutes: barriers, internal innate defenses, and adaptive defenses.",
+      "Narrate a bacterial invasion and a virus-infected-cell response without notes. Your bacterial story must include chemotaxis, phagocytosis, and granules; your viral story must include missing surface signals, perforins, and proteases.",
+      "Complete the eight MCQs, then cover the answers and convert every option into a true statement. Continue only after scoring at least 7/8."
+    ]
+  }
+]

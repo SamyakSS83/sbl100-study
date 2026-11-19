@@ -1,0 +1,1404 @@
+[
+  {
+    "page": 333,
+    "questions": [
+      {
+        "q": "In the cancer chart, what does incidence measure?",
+        "options": [
+          "Deaths per year",
+          "New cases per year",
+          "Five-year survival",
+          "Metastatic cases only"
+        ],
+        "answer": 1,
+        "explanation": "Incidence is the number of new cases, whereas mortality is the number of deaths."
+      }
+    ]
+  },
+  {
+    "page": 334,
+    "questions": [
+      {
+        "q": "Which term specifically describes cancer cells penetrating the extracellular matrix and basement membrane?",
+        "options": [
+          "Differentiation",
+          "Invasion",
+          "Angiogenesis",
+          "Proliferation"
+        ],
+        "answer": 1,
+        "explanation": "Invasion is local penetration through extracellular matrix and basement membranes."
+      },
+      {
+        "q": "Spread of cancer cells from a primary tumor to a distant organ is called:",
+        "options": [
+          "Apoptosis",
+          "Senescence",
+          "Metastasis",
+          "Hyperplasia"
+        ],
+        "answer": 2,
+        "explanation": "Metastasis is spread from the original primary tumor to another site."
+      }
+    ]
+  },
+  {
+    "page": 335,
+    "questions": [
+      {
+        "q": "Which pair of changes can independently increase tumor cell number?",
+        "options": [
+          "Increased repair and reduced mutation",
+          "Reduced division and increased apoptosis",
+          "Increased division and reduced apoptosis",
+          "Reduced adhesion and increased differentiation"
+        ],
+        "answer": 2,
+        "explanation": "Either increased cell division or decreased apoptosis shifts tissue homeostasis toward cell accumulation."
+      },
+      {
+        "q": "Piling up of transformed cells in culture most directly demonstrates loss of:",
+        "options": [
+          "Anchorage dependence",
+          "Contact inhibition",
+          "DNA replication",
+          "Growth-factor receptors"
+        ],
+        "answer": 1,
+        "explanation": "Normal cells stop dividing when they contact neighbors; transformed cells can lose this contact inhibition and form foci."
+      }
+    ]
+  },
+  {
+    "page": 336,
+    "questions": [
+      {
+        "q": "Which cell type is part of tumor stroma rather than the malignant population?",
+        "options": [
+          "Metastatic clone",
+          "Tumor-initiating cell",
+          "Mutant epithelial cancer cell",
+          "Cancer-associated fibroblast"
+        ],
+        "answer": 3,
+        "explanation": "Fibroblasts, immune cells, and endothelial cells are nonmalignant stromal components."
+      },
+      {
+        "q": "Cancer-associated fibroblasts directly promote tumor progression by remodeling the:",
+        "options": [
+          "Ribosomal subunit",
+          "Mitotic spindle",
+          "Nuclear envelope",
+          "Extracellular matrix"
+        ],
+        "answer": 3,
+        "explanation": "CAFs remodel extracellular matrix and secrete factors affecting growth, invasion, inflammation, and angiogenesis."
+      }
+    ]
+  },
+  {
+    "page": 337,
+    "questions": [
+      {
+        "q": "Under normal oxygen, hydroxylated HIF-alpha is recognized by which protein before degradation?",
+        "options": [
+          "PD-L1",
+          "VHL",
+          "HIF-beta",
+          "VEGF"
+        ],
+        "answer": 1,
+        "explanation": "VHL recognizes hydroxylated HIF-alpha and directs its ubiquitination and degradation."
+      },
+      {
+        "q": "In hypoxia, stabilized HIF-alpha enters the nucleus and pairs with:",
+        "options": [
+          "HIF-beta",
+          "VHL",
+          "Ubiquitin",
+          "Lactate dehydrogenase"
+        ],
+        "answer": 0,
+        "explanation": "HIF-alpha dimerizes with HIF-beta to activate hypoxia-response genes."
+      }
+    ]
+  },
+  {
+    "page": 338,
+    "questions": [
+      {
+        "q": "Which anaerobic pyruvate product is accompanied by carbon dioxide release in yeast?",
+        "options": [
+          "Acetyl-CoA",
+          "Ethanol",
+          "Oxaloacetate",
+          "Lactate"
+        ],
+        "answer": 1,
+        "explanation": "Yeast fermentation converts pyruvate to ethanol and carbon dioxide."
+      }
+    ]
+  },
+  {
+    "page": 339,
+    "questions": [
+      {
+        "q": "The Warburg effect describes high lactate production by cancer cells even when what is available?",
+        "options": [
+          "NADH",
+          "Pyruvate",
+          "Glucose",
+          "Oxygen"
+        ],
+        "answer": 3,
+        "explanation": "Cancer cells can favor lactate-producing glycolysis despite oxygen availability."
+      },
+      {
+        "q": "Which transporter class is shown importing glucose into the tumor cell?",
+        "options": [
+          "SGLT-only",
+          "MCT",
+          "GLUT",
+          "ABC"
+        ],
+        "answer": 2,
+        "explanation": "GLUT transporters import glucose, whereas MCT is shown exporting lactate."
+      }
+    ]
+  },
+  {
+    "page": 340,
+    "questions": [
+      {
+        "q": "Loss of which surface molecule can prevent a CD8 T cell from recognizing a tumor antigen?",
+        "options": [
+          "MHC",
+          "Integrin",
+          "Cadherin",
+          "Collagen"
+        ],
+        "answer": 0,
+        "explanation": "Tumor antigen must be presented by MHC for recognition by the T-cell receptor."
+      },
+      {
+        "q": "Which two cell types are specifically associated with an immunosuppressive tumor microenvironment?",
+        "options": [
+          "Treg and MDSC",
+          "B cells and platelets",
+          "Fibroblasts and osteoclasts",
+          "Neutrophils and erythrocytes"
+        ],
+        "answer": 0,
+        "explanation": "The slide places regulatory T cells and myeloid-derived suppressor cells in the suppressive microenvironment."
+      }
+    ]
+  },
+  {
+    "page": 341,
+    "questions": [
+      {
+        "q": "PD-1 is displayed on which cell in the checkpoint diagram?",
+        "options": [
+          "Fibroblast",
+          "Endothelial cell",
+          "Tumor cell",
+          "T cell"
+        ],
+        "answer": 3,
+        "explanation": "PD-1 is the inhibitory receptor on the T cell; PD-L1 is its ligand on tumor or immune cells."
+      },
+      {
+        "q": "Checkpoint-blocking antibodies restore antitumor activity primarily by removing:",
+        "options": [
+          "T-cell receptor specificity",
+          "MHC presentation",
+          "An inhibitory T-cell signal",
+          "Tumor antigen expression"
+        ],
+        "answer": 2,
+        "explanation": "Anti-PD-1 or anti-PD-L1 blocks an inhibitory interaction; it does not replace antigen recognition."
+      }
+    ]
+  },
+  {
+    "page": 343,
+    "questions": [
+      {
+        "q": "Which carcinogen is associated with chromosome breaks and translocations?",
+        "options": [
+          "Ultraviolet light",
+          "X-rays",
+          "Chemical carcinogens only",
+          "Visible light"
+        ],
+        "answer": 1,
+        "explanation": "The slide associates X-rays with chromosome breaks and translocations."
+      },
+      {
+        "q": "Cancer development typically requires the accumulation of:",
+        "options": [
+          "Multiple rare genetic and epigenetic changes in one lineage",
+          "Only epigenetic changes in stromal cells",
+          "A single chromosome duplication",
+          "One common mutation in many unrelated cells"
+        ],
+        "answer": 0,
+        "explanation": "A substantial number of independent rare genetic and epigenetic accidents accumulate in descendants of one cell."
+      }
+    ]
+  },
+  {
+    "page": 344,
+    "questions": [
+      {
+        "q": "At the cellular level, activation of an oncogene is generally:",
+        "options": [
+          "A dominant loss of function",
+          "A recessive gain of function",
+          "A recessive loss of function",
+          "A dominant gain of function"
+        ],
+        "answer": 3,
+        "explanation": "One activating copy of a proto-oncogene can be sufficient to promote transformation."
+      },
+      {
+        "q": "Why are two inactivating events generally required for a tumor-suppressor gene?",
+        "options": [
+          "Only amplified genes are expressed",
+          "Both copies usually must lose function",
+          "Tumor suppressors are mitochondrial",
+          "Each copy encodes a different protein"
+        ],
+        "answer": 1,
+        "explanation": "One functional tumor-suppressor copy can remain protective, so both copies generally must be inactivated."
+      }
+    ]
+  },
+  {
+    "page": 345,
+    "questions": [
+      {
+        "q": "Normal EGFR signaling begins when EGF binds the receptor's:",
+        "options": [
+          "Intracellular kinase domain",
+          "Extracellular domain",
+          "Nuclear localization signal",
+          "Cytoskeletal tail"
+        ],
+        "answer": 1,
+        "explanation": "EGF binds extracellularly and induces phosphorylation of the intracellular domain."
+      },
+      {
+        "q": "Which protein accelerates conversion of active GTP-bound RAS to inactive GDP-bound RAS?",
+        "options": [
+          "EGFR",
+          "p21",
+          "MDM2",
+          "RAS GAP"
+        ],
+        "answer": 3,
+        "explanation": "RAS GAP accelerates GTP hydrolysis and returns RAS to its GDP-bound OFF state."
+      }
+    ]
+  },
+  {
+    "page": 346,
+    "questions": [
+      {
+        "q": "Which protein is transcriptionally upregulated by p53 to arrest the cell cycle?",
+        "options": [
+          "RAS",
+          "EGFR",
+          "p21",
+          "MDM2 only"
+        ],
+        "answer": 2,
+        "explanation": "p53 induces p21, which inhibits cyclin-CDK complexes."
+      },
+      {
+        "q": "p21 arrests the cell cycle by inhibiting:",
+        "options": [
+          "BAX-BAK complexes",
+          "HIF-VHL complexes",
+          "Cyclin-CDK complexes",
+          "PD-1-PD-L1 complexes"
+        ],
+        "answer": 2,
+        "explanation": "p21 inhibits cyclin-dependent kinase/cyclin activity after DNA damage."
+      }
+    ]
+  },
+  {
+    "page": 347,
+    "questions": [
+      {
+        "q": "Which negative regulator promotes both nuclear export and proteasomal degradation of p53?",
+        "options": [
+          "MDMX",
+          "MDM2",
+          "p21",
+          "BCL-2"
+        ],
+        "answer": 1,
+        "explanation": "MDM2 promotes p53 nuclear export, ubiquitination, and proteasomal degradation."
+      },
+      {
+        "q": "A shared effect of MDM2 and MDMX on p53 is inhibition of its:",
+        "options": [
+          "DNA sequence",
+          "Translation by ribosomes",
+          "Mitochondrial import",
+          "Transcriptional activity"
+        ],
+        "answer": 3,
+        "explanation": "Both regulators can bind p53 and suppress its transcriptional activity."
+      }
+    ]
+  },
+  {
+    "page": 348,
+    "questions": [
+      {
+        "q": "Formation of an MDM2-MDMX heterodimer strengthens which activity toward p53?",
+        "options": [
+          "DNA-polymerase activity",
+          "Phosphatase activity",
+          "Kinase activity",
+          "E3 ubiquitin-ligase activity"
+        ],
+        "answer": 3,
+        "explanation": "The heterodimer enhances E3 activity and p53 ubiquitination."
+      }
+    ]
+  },
+  {
+    "page": 349,
+    "questions": [
+      {
+        "q": "Approximately what fraction of an oral tablet may be active pharmaceutical ingredient?",
+        "options": [
+          "90-95%",
+          "5-10%",
+          "25-35%",
+          "50-60%"
+        ],
+        "answer": 1,
+        "explanation": "The slide states that API may comprise only about 5-10% of the formulation."
+      },
+      {
+        "q": "Which capsule type is best matched with oils or drug dissolved in oil?",
+        "options": [
+          "Hard-shelled capsule",
+          "Soft-shelled capsule",
+          "Enteric tablet",
+          "Compressed lozenge"
+        ],
+        "answer": 1,
+        "explanation": "Soft-shelled capsules are used for oils and oil-based solutions or suspensions."
+      }
+    ]
+  },
+  {
+    "page": 350,
+    "questions": [
+      {
+        "q": "Which sequence correctly orders early events after swallowing a tablet?",
+        "options": [
+          "Disintegration -> dissolution -> absorption",
+          "Dissolution -> hepatic metabolism -> disintegration",
+          "Portal entry -> disintegration -> dissolution",
+          "Absorption -> dissolution -> disintegration"
+        ],
+        "answer": 0,
+        "explanation": "The dosage form first disintegrates, the drug dissolves, and dissolved drug is then absorbed."
+      },
+      {
+        "q": "Which two sites can remove orally absorbed drug before it reaches systemic circulation?",
+        "options": [
+          "Kidney and bladder",
+          "Muscle and bone",
+          "Lung and skin",
+          "Gut wall and liver"
+        ],
+        "answer": 3,
+        "explanation": "Pre-systemic loss can occur through gut-wall metabolism and hepatic first-pass metabolism."
+      }
+    ]
+  },
+  {
+    "page": 351,
+    "questions": [
+      {
+        "q": "Which route is commonly used for insulin because intestinal absorption is difficult?",
+        "options": [
+          "Rectal",
+          "Subcutaneous",
+          "Otic",
+          "Topical"
+        ],
+        "answer": 1,
+        "explanation": "The slide lists insulin and monoclonal antibodies as examples of subcutaneous delivery."
+      },
+      {
+        "q": "A nicotine patch is an example of which administration route?",
+        "options": [
+          "Topical local delivery",
+          "Transdermal controlled delivery",
+          "Intramuscular delivery",
+          "Sublingual delivery"
+        ],
+        "answer": 1,
+        "explanation": "A transdermal patch provides controlled drug delivery through skin into the bloodstream."
+      }
+    ]
+  },
+  {
+    "page": 352,
+    "questions": [
+      {
+        "q": "Which ADME stage moves drug from blood into tissues?",
+        "options": [
+          "Distribution",
+          "Metabolism",
+          "Excretion",
+          "Absorption"
+        ],
+        "answer": 0,
+        "explanation": "Distribution is movement of drug from the circulation into tissues."
+      },
+      {
+        "q": "Which organ system is shown as the principal route of drug excretion?",
+        "options": [
+          "Endocrine system",
+          "Lymphatic system",
+          "Renal system",
+          "Skeletal system"
+        ],
+        "answer": 2,
+        "explanation": "Renal elimination is the main excretion route shown, although bile and other routes also contribute."
+      }
+    ]
+  },
+  {
+    "page": 354,
+    "questions": [
+      {
+        "q": "Plasma-protein binding is primarily a determinant of which ADME stage?",
+        "options": [
+          "Excretion",
+          "Absorption",
+          "Distribution",
+          "Metabolism"
+        ],
+        "answer": 2,
+        "explanation": "Distribution depends on blood flow, size, lipophilicity, and plasma-protein interactions."
+      },
+      {
+        "q": "Conversion of an inactive prodrug into an active compound belongs to:",
+        "options": [
+          "Absorption only",
+          "Distribution only",
+          "Metabolism",
+          "Renal filtration"
+        ],
+        "answer": 2,
+        "explanation": "Metabolic enzymes can activate a prodrug as well as detoxify or create toxicity."
+      }
+    ]
+  },
+  {
+    "page": 355,
+    "questions": [
+      {
+        "q": "Which pharmacokinetic quantity is the time coordinate of the concentration peak?",
+        "options": [
+          "tmax",
+          "AUC",
+          "t1/2",
+          "Cmax"
+        ],
+        "answer": 0,
+        "explanation": "tmax is the time at which Cmax is reached."
+      },
+      {
+        "q": "The area under a plasma concentration-time curve represents:",
+        "options": [
+          "Time to first effect",
+          "Rate of renal filtration",
+          "Maximum safe concentration",
+          "Total drug exposure"
+        ],
+        "answer": 3,
+        "explanation": "AUC integrates concentration across time and represents total exposure."
+      }
+    ]
+  },
+  {
+    "page": 356,
+    "questions": [
+      {
+        "q": "Which reaction is listed as a Phase I-style transformation rather than conjugation?",
+        "options": [
+          "Acetylation",
+          "Glucuronidation",
+          "Sulphonation",
+          "Dealkylation"
+        ],
+        "answer": 3,
+        "explanation": "Dealkylation is an oxidative functionalization reaction; the other choices are conjugations."
+      },
+      {
+        "q": "The general physicochemical result of drug metabolism is conversion of lipophilic molecules into more:",
+        "options": [
+          "Hydrophobic molecules",
+          "Hydrophilic molecules",
+          "Volatile molecules",
+          "Polymeric molecules"
+        ],
+        "answer": 1,
+        "explanation": "Increasing hydrophilicity generally facilitates elimination in bile or urine."
+      }
+    ]
+  },
+  {
+    "page": 357,
+    "questions": [
+      {
+        "q": "Which reactive paracetamol metabolite is detoxified by glutathione?",
+        "options": [
+          "Paracetamol glucuronide",
+          "Paracetamol sulfate",
+          "Acetyl-CoA",
+          "NAPQI"
+        ],
+        "answer": 3,
+        "explanation": "The CYP-dependent route forms NAPQI, which can be conjugated to glutathione."
+      },
+      {
+        "q": "Depletion of glutathione increases toxicity because NAPQI can form:",
+        "options": [
+          "Phospholipid bilayers",
+          "Glucose polymers",
+          "Protein adducts",
+          "DNA primers"
+        ],
+        "answer": 2,
+        "explanation": "Without sufficient glutathione, reactive NAPQI can covalently modify proteins."
+      }
+    ]
+  },
+  {
+    "page": 358,
+    "questions": [
+      {
+        "q": "Which enzymes sequentially shorten a glutathione conjugate toward a cysteine conjugate?",
+        "options": [
+          "Kinase and phosphatase",
+          "Gamma-glutamyl transpeptidase and cysteinyl glycinase",
+          "CYP450 and glucuronyl transferase",
+          "Beta-lyase and catalase"
+        ],
+        "answer": 1,
+        "explanation": "The mercapturic acid pathway removes glutamate and then glycine using these enzymes."
+      },
+      {
+        "q": "N-acetylation of a cysteine conjugate favors formation of a product excreted through:",
+        "options": [
+          "Exhaled air",
+          "Urine",
+          "Sweat only",
+          "Saliva only"
+        ],
+        "answer": 1,
+        "explanation": "Mercapturic-acid derivatives are excreted in urine."
+      }
+    ]
+  },
+  {
+    "page": 359,
+    "questions": [
+      {
+        "q": "Which drug-development stage occurs immediately before testing in humans?",
+        "options": [
+          "Preclinical development",
+          "Regulatory review",
+          "Phase IV surveillance",
+          "Discovery"
+        ],
+        "answer": 0,
+        "explanation": "Preclinical testing evaluates a candidate before clinical development begins."
+      },
+      {
+        "q": "Target identification, target validation, lead finding, and lead optimization belong to:",
+        "options": [
+          "Regulatory review",
+          "Post-marketing surveillance",
+          "Drug discovery",
+          "Phase III trials"
+        ],
+        "answer": 2,
+        "explanation": "These are the major activities in the discovery stage."
+      }
+    ]
+  },
+  {
+    "page": 360,
+    "questions": [
+      {
+        "q": "The development staircase begins with approximately how many drug candidates?",
+        "options": [
+          "10,000",
+          "10",
+          "100",
+          "1,000"
+        ],
+        "answer": 0,
+        "explanation": "The slide illustrates attrition from about 10,000 candidates to one drug molecule."
+      }
+    ]
+  },
+  {
+    "page": 361,
+    "questions": [
+      {
+        "q": "The narrowing drug-development funnel primarily illustrates:",
+        "options": [
+          "Increasing compound diversity",
+          "Progressive candidate attrition",
+          "Decreasing manufacturing scale",
+          "Increasing mutation rate"
+        ],
+        "answer": 1,
+        "explanation": "Most candidates fail as requirements become more stringent through development."
+      }
+    ]
+  },
+  {
+    "page": 363,
+    "questions": [
+      {
+        "q": "Which class of biomolecule is built directly from amino-acid monomers?",
+        "options": [
+          "Nucleic acids",
+          "Polysaccharides",
+          "Steroids",
+          "Proteins"
+        ],
+        "answer": 3,
+        "explanation": "Proteins are polymers of amino acids."
+      }
+    ]
+  },
+  {
+    "page": 364,
+    "questions": [
+      {
+        "q": "Structure-based virtual screening requires information about the:",
+        "options": [
+          "Compound's brand name",
+          "Clinical trial phase",
+          "Three-dimensional target structure",
+          "Patient's blood group"
+        ],
+        "answer": 2,
+        "explanation": "Structure-based screening evaluates compounds against a target structure."
+      },
+      {
+        "q": "Ligand-based screening is most directly guided by:",
+        "options": [
+          "Drug packaging",
+          "Known active molecules",
+          "An adiabatic calorimeter",
+          "Tumor histology alone"
+        ],
+        "answer": 1,
+        "explanation": "Ligand-based methods use features or similarities derived from known active ligands."
+      }
+    ]
+  },
+  {
+    "page": 365,
+    "questions": [
+      {
+        "q": "In high-throughput screening, the primary screen is used to identify:",
+        "options": [
+          "Possible hits",
+          "Approved drugs",
+          "Clinical endpoints",
+          "Patent dates"
+        ],
+        "answer": 0,
+        "explanation": "The primary screen finds compounds with apparent activity for later confirmation."
+      },
+      {
+        "q": "Which technology most directly enables high-throughput testing of large compound libraries?",
+        "options": [
+          "Manual microscopy only",
+          "Surgical imaging",
+          "DNA sequencing alone",
+          "Automated liquid handling and plate readers"
+        ],
+        "answer": 3,
+        "explanation": "Robotic liquid handling and automated detection provide the required throughput."
+      }
+    ]
+  },
+  {
+    "page": 366,
+    "questions": [
+      {
+        "q": "Renin acts upstream of ACE in the RAAS pathway to generate:",
+        "options": [
+          "Aldosterone",
+          "Bradykinin",
+          "Angiotensin I",
+          "Angiotensin II"
+        ],
+        "answer": 2,
+        "explanation": "Renin produces angiotensin I, which ACE then converts to angiotensin II."
+      },
+      {
+        "q": "Angiotensin II promotes release of which hormone in the RAAS pathway?",
+        "options": [
+          "Melatonin",
+          "Aldosterone",
+          "Insulin",
+          "Thyroxine"
+        ],
+        "answer": 1,
+        "explanation": "Angiotensin II stimulates aldosterone release as part of blood-pressure regulation."
+      }
+    ]
+  },
+  {
+    "page": 367,
+    "questions": [
+      {
+        "q": "ACE converts angiotensin I into:",
+        "options": [
+          "Angiotensinogen",
+          "Angiotensin II",
+          "Renin",
+          "Aldosterone"
+        ],
+        "answer": 1,
+        "explanation": "Angiotensin-converting enzyme generates angiotensin II from angiotensin I."
+      }
+    ]
+  },
+  {
+    "page": 368,
+    "questions": [
+      {
+        "q": "Teprotide was originally isolated from the venom of:",
+        "options": [
+          "Naja naja",
+          "Dendroaspis polylepis",
+          "Crotalus atrox",
+          "Bothrops jararaca"
+        ],
+        "answer": 3,
+        "explanation": "The slide identifies the Brazilian pit viper Bothrops jararaca as the source."
+      },
+      {
+        "q": "Teprotide is best described as a:",
+        "options": [
+          "Monoclonal antibody",
+          "Nucleoside analog",
+          "Nonapeptide ACE inhibitor",
+          "Steroid receptor agonist"
+        ],
+        "answer": 2,
+        "explanation": "Teprotide is a nine-residue peptide that inhibits ACE."
+      }
+    ]
+  },
+  {
+    "page": 369,
+    "questions": [
+      {
+        "q": "Which interaction of captopril is stated to be essential for ACE-inhibitory activity?",
+        "options": [
+          "Hydrogen bonding to ATP",
+          "Coordination with Zn2+",
+          "Covalent binding to DNA",
+          "Chelation of Ca2+"
+        ],
+        "answer": 1,
+        "explanation": "Coordination of the catalytic zinc ion is essential for activity."
+      },
+      {
+        "q": "Captopril's carboxylate interacts with ACE through:",
+        "options": [
+          "Ionic and hydrogen-bond interactions",
+          "Disulfide bonds only",
+          "Peptide bonds",
+          "Base pairing"
+        ],
+        "answer": 0,
+        "explanation": "The carboxylate forms both ionic and hydrogen-bond contacts in the active site."
+      }
+    ]
+  },
+  {
+    "page": 370,
+    "questions": [
+      {
+        "q": "Which zinc-binding group is stated to bind Zn2+ more strongly than carboxylate or phosphate?",
+        "options": [
+          "Amide",
+          "Methyl",
+          "Ether",
+          "Thiol"
+        ],
+        "answer": 3,
+        "explanation": "The SAR slide identifies thiol as the strongest of the three zinc-binding groups shown."
+      },
+      {
+        "q": "Esterification of an acidic ACE-inhibitor group is used primarily to create a:",
+        "options": [
+          "Radiotracer",
+          "Metal complex",
+          "Prodrug",
+          "Protein conjugate"
+        ],
+        "answer": 2,
+        "explanation": "Masking carboxylate or phosphate as an ester can improve delivery and create a prodrug."
+      }
+    ]
+  },
+  {
+    "page": 372,
+    "questions": [
+      {
+        "q": "Which step experimentally tests the final hit list from virtual screening?",
+        "options": [
+          "Tablet coating",
+          "Biological assay",
+          "File compression",
+          "Patent search"
+        ],
+        "answer": 1,
+        "explanation": "Computational predictions must be validated in a biological assay."
+      },
+      {
+        "q": "Which pair represents the two main virtual-screening routes shown?",
+        "options": [
+          "Structure-based and ligand-based",
+          "Clinical and preclinical",
+          "Oral and intravenous",
+          "Genetic and epigenetic"
+        ],
+        "answer": 0,
+        "explanation": "Both structure-based and ligand-based workflows converge on a filtered hit list."
+      }
+    ]
+  },
+  {
+    "page": 373,
+    "questions": [
+      {
+        "q": "Why are secondary assays performed after a primary HTS?",
+        "options": [
+          "To manufacture tablets",
+          "To recruit trial participants",
+          "To calculate drug price",
+          "To confirm hits and remove artifacts"
+        ],
+        "answer": 3,
+        "explanation": "Secondary and counter screens test reproducibility and eliminate nonspecific or artifactual activity."
+      },
+      {
+        "q": "Dose-response analysis is performed after:",
+        "options": [
+          "Phase III completion",
+          "Commercial packaging",
+          "Hit confirmation",
+          "Regulatory approval"
+        ],
+        "answer": 2,
+        "explanation": "Confirmed hits are characterized by dose-response before lead selection and optimization."
+      }
+    ]
+  },
+  {
+    "page": 374,
+    "questions": [
+      {
+        "q": "Phenotypic screening starts by selecting compounds that produce:",
+        "options": [
+          "A specific patent classification",
+          "A desired observable biological effect",
+          "A predetermined docking score only",
+          "A known protein crystal structure"
+        ],
+        "answer": 1,
+        "explanation": "The screen begins from a cellular or organismal phenotype rather than a predefined molecular target."
+      },
+      {
+        "q": "Identifying the molecular target after finding a phenotypic hit is called:",
+        "options": [
+          "Target deconvolution",
+          "Lead formulation",
+          "Dose escalation",
+          "First-pass metabolism"
+        ],
+        "answer": 0,
+        "explanation": "Target deconvolution is the later task of discovering what molecule caused the observed phenotype."
+      }
+    ]
+  },
+  {
+    "page": 375,
+    "questions": [
+      {
+        "q": "RAS mutations are found in approximately what fraction of human cancers according to the slide?",
+        "options": [
+          "10%",
+          "30%",
+          "80%",
+          "3%"
+        ],
+        "answer": 1,
+        "explanation": "The slide states that RAS oncogenic mutations occur in about 30% of human cancers."
+      },
+      {
+        "q": "For the compound with EC50 values of 25 nM in HRASG12V and 578 nM in HRASWT, which cells are more sensitive?",
+        "options": [
+          "Both equally",
+          "Sensitivity cannot be inferred",
+          "HRASWT cells",
+          "HRASG12V cells"
+        ],
+        "answer": 3,
+        "explanation": "A lower EC50 indicates higher potency, so the mutant cells are more sensitive."
+      }
+    ]
+  },
+  {
+    "page": 376,
+    "questions": [
+      {
+        "q": "System Xc- supports ferroptosis resistance by supplying cystine for synthesis of:",
+        "options": [
+          "Heme",
+          "Glutathione",
+          "Cholesterol",
+          "Glycogen"
+        ],
+        "answer": 1,
+        "explanation": "Imported cystine supports glutathione synthesis, which GPX4 uses to detoxify lipid hydroperoxides."
+      },
+      {
+        "q": "Which two pathways are shown as glutathione-independent antioxidant defenses against ferroptosis?",
+        "options": [
+          "FSP1-CoQ and DHFR-BH4",
+          "RAS-MAPK and PI3K-AKT",
+          "PD-1-PD-L1 and MHC-TCR",
+          "Renin-ACE and aldosterone"
+        ],
+        "answer": 0,
+        "explanation": "The diagram shows FSP1-CoQ and DHFR-BH4 as parallel antioxidant systems."
+      }
+    ]
+  },
+  {
+    "page": 377,
+    "questions": [
+      {
+        "q": "A prodrug is converted in the body into:",
+        "options": [
+          "A placebo",
+          "A receptor",
+          "A dietary nutrient",
+          "An active drug"
+        ],
+        "answer": 3,
+        "explanation": "A prodrug is an inactive or less active derivative designed to release the active drug in vivo."
+      },
+      {
+        "q": "Which undesirable property can prodrug design be used to reduce?",
+        "options": [
+          "Protein sequence length",
+          "Chromosome number",
+          "Poor solubility",
+          "Target specificity in every case"
+        ],
+        "answer": 2,
+        "explanation": "Prodrugs can improve solubility, permeability, stability, toxicity, taste, or duration."
+      }
+    ]
+  },
+  {
+    "page": 378,
+    "questions": [
+      {
+        "q": "Which enzyme class can activate an ester prodrug?",
+        "options": [
+          "Topoisomerase",
+          "Esterase",
+          "Polymerase",
+          "Helicase"
+        ],
+        "answer": 1,
+        "explanation": "Esterases are among the enzyme classes listed for prodrug activation."
+      },
+      {
+        "q": "Which is a chemical trigger for prodrug activation rather than an enzyme?",
+        "options": [
+          "Peptidase",
+          "Phosphatase",
+          "Decarboxylation",
+          "Esterase"
+        ],
+        "answer": 2,
+        "explanation": "Decarboxylation, hydrolysis, and light are listed as chemical activation mechanisms."
+      }
+    ]
+  },
+  {
+    "page": 380,
+    "questions": [
+      {
+        "q": "SYPRO Orange fluorescence rises during protein unfolding because the dye binds exposed:",
+        "options": [
+          "Phosphate groups",
+          "DNA bases",
+          "Metal ions",
+          "Hydrophobic surfaces"
+        ],
+        "answer": 3,
+        "explanation": "Unfolding exposes hydrophobic regions that bind SYPRO Orange."
+      },
+      {
+        "q": "In a thermal shift assay, Tm is the:",
+        "options": [
+          "Highest fluorescence value in every curve",
+          "Temperature of protein synthesis",
+          "Temperature of the unfolding-transition midpoint",
+          "Temperature at which heating begins"
+        ],
+        "answer": 2,
+        "explanation": "Tm is obtained from the midpoint of the thermal unfolding transition."
+      }
+    ]
+  },
+  {
+    "page": 381,
+    "questions": [
+      {
+        "q": "When comparing RecA stability across pH conditions, a derivative peak farther to the right indicates:",
+        "options": [
+          "Greater fluorescence without unfolding",
+          "Lower Tm and lower stability",
+          "Higher Tm and greater stability",
+          "More protein but unchanged stability"
+        ],
+        "answer": 2,
+        "explanation": "A transition at a higher temperature indicates a higher melting temperature and greater thermal stability."
+      }
+    ]
+  },
+  {
+    "page": 382,
+    "questions": [
+      {
+        "q": "A positive thermal shift occurs when a ligand preferentially stabilizes which protein state?",
+        "options": [
+          "Native folded state",
+          "Aggregated state",
+          "Proteolyzed state",
+          "Covalently fragmented state"
+        ],
+        "answer": 0,
+        "explanation": "Preferential binding to the native state raises the temperature required for unfolding."
+      }
+    ]
+  },
+  {
+    "page": 384,
+    "questions": [
+      {
+        "q": "The approximate emission wavelength labeled for SYPRO Orange is:",
+        "options": [
+          "470 nm",
+          "570 nm",
+          "670 nm",
+          "370 nm"
+        ],
+        "answer": 1,
+        "explanation": "The slide labels SYPRO Orange emission near 570 nm."
+      },
+      {
+        "q": "Why does TSA fluorescence often decline after reaching its peak?",
+        "options": [
+          "The temperature falls",
+          "The dye becomes a ligand",
+          "The protein refolds completely",
+          "Aggregation causes dye dissociation"
+        ],
+        "answer": 3,
+        "explanation": "At high temperature, unfolded proteins aggregate and the dye dissociates, reducing fluorescence."
+      }
+    ]
+  },
+  {
+    "page": 385,
+    "questions": [
+      {
+        "q": "What limitation applies to a positive thermal shift observed in TSA?",
+        "options": [
+          "It proves irreversible covalent binding",
+          "It proves the exact binding site",
+          "It reports stabilization but not the exact binding site",
+          "It directly gives a complete crystal structure"
+        ],
+        "answer": 2,
+        "explanation": "TSA can indicate a stabilizing interaction but does not by itself locate the binding site."
+      }
+    ]
+  },
+  {
+    "page": 386,
+    "questions": [
+      {
+        "q": "What is placed in the ITC reference cell?",
+        "options": [
+          "Buffer",
+          "Protein plus ligand",
+          "Ligand crystal",
+          "Fluorescent dye"
+        ],
+        "answer": 0,
+        "explanation": "The sample cell contains protein, while the reference cell contains buffer."
+      },
+      {
+        "q": "During an exothermic ITC reaction, feedback power supplied to the sample cell:",
+        "options": [
+          "Increases",
+          "Remains fixed at zero",
+          "Alternates randomly",
+          "Decreases"
+        ],
+        "answer": 3,
+        "explanation": "Released heat reduces the heater power required to maintain the sample cell at the reference temperature."
+      }
+    ]
+  },
+  {
+    "page": 387,
+    "questions": [
+      {
+        "q": "For the exothermic ITC example, the sign of binding enthalpy is:",
+        "options": [
+          "Zero",
+          "Undefined",
+          "Positive",
+          "Negative"
+        ],
+        "answer": 3,
+        "explanation": "Heat release corresponds to a negative enthalpy change."
+      },
+      {
+        "q": "Before the next ITC injection, the heat signal should:",
+        "options": [
+          "Remain permanently displaced",
+          "Return to baseline",
+          "Reach its maximum",
+          "Change sign"
+        ],
+        "answer": 1,
+        "explanation": "Baseline recovery separates successive peaks and allows clean integration."
+      }
+    ]
+  },
+  {
+    "page": 388,
+    "questions": [
+      {
+        "q": "Why do successive ITC peaks become smaller during a binding titration?",
+        "options": [
+          "Fewer unoccupied protein sites remain",
+          "The ligand becomes more concentrated",
+          "The reference cell heats permanently",
+          "Protein concentration increases"
+        ],
+        "answer": 0,
+        "explanation": "As binding sites fill, less newly injected ligand can bind and less binding heat is produced."
+      },
+      {
+        "q": "After complete saturation, the small residual ITC peaks mainly represent:",
+        "options": [
+          "Protein synthesis",
+          "Fluorescence quenching",
+          "DNA hybridization",
+          "Heat of dilution"
+        ],
+        "answer": 3,
+        "explanation": "Once no additional binding occurs, the remaining signal is mainly dilution heat."
+      }
+    ]
+  },
+  {
+    "page": 389,
+    "questions": [
+      {
+        "q": "The x-axis of the processed ITC binding isotherm is the molar ratio of:",
+        "options": [
+          "Heat to time",
+          "Sample to reference volume",
+          "Ligand to protein",
+          "Protein to buffer"
+        ],
+        "answer": 2,
+        "explanation": "Integrated injection heats are plotted against the ligand-to-protein molar ratio."
+      },
+      {
+        "q": "Which relationship between association and dissociation constants is shown?",
+        "options": [
+          "Ka = -Kd",
+          "Ka = Kd",
+          "Ka = 1/Kd",
+          "Ka = Kd squared"
+        ],
+        "answer": 2,
+        "explanation": "Association and dissociation constants are reciprocals: Ka equals 1 divided by Kd."
+      }
+    ]
+  },
+  {
+    "page": 390,
+    "questions": [
+      {
+        "q": "Which expression defines the ITC c-value?",
+        "options": [
+          "c = n[P]Ka",
+          "c = [L]/[P]",
+          "c = Ka/Kd",
+          "c = delta H/T"
+        ],
+        "answer": 0,
+        "explanation": "The slide defines c as stoichiometry times protein concentration times association constant."
+      },
+      {
+        "q": "How should ligand dilution heat be corrected during ITC analysis?",
+        "options": [
+          "Subtract a ligand-into-buffer control",
+          "Ignore all late injections",
+          "Multiply all peaks by c",
+          "Add a protein-into-protein control"
+        ],
+        "answer": 0,
+        "explanation": "Ligand is titrated into buffer separately, and that dilution signal is subtracted from the binding experiment."
+      }
+    ]
+  },
+  {
+    "page": 391,
+    "questions": [
+      {
+        "q": "Ubiquitinated p53 is directed to which degradation machinery?",
+        "options": [
+          "Spliceosome",
+          "Centrosome",
+          "Proteasome",
+          "Ribosome"
+        ],
+        "answer": 2,
+        "explanation": "MDM2-mediated ubiquitination directs p53 to proteasomal degradation."
+      },
+      {
+        "q": "Which regulator mainly blocks p53 transcriptional activity without being shown as the principal driver of its degradation?",
+        "options": [
+          "BAX",
+          "MDMX",
+          "MDM2",
+          "p21"
+        ],
+        "answer": 1,
+        "explanation": "MDMX primarily inhibits p53 transcriptional activity, whereas MDM2 additionally promotes export and degradation."
+      }
+    ]
+  },
+  {
+    "page": 392,
+    "questions": [
+      {
+        "q": "Which proteins oligomerize to promote mitochondrial outer-membrane permeabilization?",
+        "options": [
+          "BAX and BAK",
+          "MDM2 and MDMX",
+          "PD-1 and PD-L1",
+          "CFP and YFP"
+        ],
+        "answer": 0,
+        "explanation": "Pro-apoptotic BAX and BAK oligomerize at the mitochondrial membrane."
+      },
+      {
+        "q": "Mitochondrial cytochrome c release promotes formation of the:",
+        "options": [
+          "Proteasome",
+          "Replisome",
+          "Inflammasome only",
+          "Apoptosome"
+        ],
+        "answer": 3,
+        "explanation": "Cytochrome c supports apoptosome assembly, leading to caspase activation."
+      }
+    ]
+  },
+  {
+    "page": 393,
+    "questions": [
+      {
+        "q": "At donor-acceptor distance r = R0, FRET efficiency is:",
+        "options": [
+          "50%",
+          "100%",
+          "0%",
+          "25%"
+        ],
+        "answer": 0,
+        "explanation": "R0 is defined as the Förster radius at which transfer efficiency is 50%."
+      },
+      {
+        "q": "Efficient FRET requires overlap between donor emission and acceptor:",
+        "options": [
+          "Melting curve",
+          "Absorption",
+          "Emission only",
+          "Mass spectrum"
+        ],
+        "answer": 1,
+        "explanation": "Energy transfer requires spectral overlap between donor emission and acceptor absorption."
+      }
+    ]
+  },
+  {
+    "page": 394,
+    "questions": [
+      {
+        "q": "Which four components form the Cameleon calcium sensor?",
+        "options": [
+          "CaM, M13, CFP, and YFP",
+          "BAX, BAK, CFP, and YFP",
+          "PD-1, PD-L1, CFP, and YFP",
+          "HIF-alpha, VHL, CFP, and YFP"
+        ],
+        "answer": 0,
+        "explanation": "Cameleon places calmodulin and its M13-binding segment between CFP and YFP."
+      },
+      {
+        "q": "In Cameleon, calcium binding causes calmodulin to interact with:",
+        "options": [
+          "VHL",
+          "MDM2",
+          "GPX4",
+          "M13"
+        ],
+        "answer": 3,
+        "explanation": "Ca2+-bound calmodulin binds M13, bringing CFP and YFP into a FRET-active arrangement."
+      }
+    ]
+  }
+]

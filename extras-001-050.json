@@ -1,0 +1,642 @@
+[
+  {
+    "page": 3,
+    "questions": [
+      {
+        "q": "Which metabolic function directly converts small precursor units into proteins, nucleic acids, and polysaccharides?",
+        "options": ["Capturing environmental energy", "Polymerizing monomeric precursors", "Degrading specialized pigments", "Converting heat into free energy"],
+        "answer": 1,
+        "explanation": "The slide identifies polymerization of monomeric precursors as the step that produces cellular macromolecules."
+      },
+      {
+        "q": "Which set consists entirely of specialized biomolecules explicitly listed on the slide?",
+        "options": ["Membrane lipids, intracellular messengers, and pigments", "DNA, ribosomes, and chromosomes", "Glucose, oxygen, and carbon dioxide", "ATP, ADP, and inorganic phosphate"],
+        "answer": 0,
+        "explanation": "Membrane lipids, intracellular messengers, and pigments are the slide's examples of biomolecules needed for specialized cellular functions."
+      }
+    ]
+  },
+  {
+    "page": 4,
+    "questions": [
+      {
+        "q": "Which nitrogen-cycle conversion is nitrification rather than nitrogen fixation or denitrification?",
+        "options": ["N2 to NH4+", "NH4+ to NO2−", "NO3− to N2", "Amino acids to proteins"],
+        "answer": 1,
+        "explanation": "The diagram associates oxidation of ammonium to nitrite with nitrification."
+      },
+      {
+        "q": "What happens to useful energy during metabolic energy conversion?",
+        "options": ["All of it is conserved as free energy", "Some is converted to heat while entropy increases", "It is converted completely into nitrogen", "It increases as entropy decreases"],
+        "answer": 1,
+        "explanation": "The slide states that useful free energy is unavoidably lost as heat and that entropy increases."
+      }
+    ]
+  },
+  {
+    "page": 5,
+    "questions": [
+      {
+        "q": "Which process is represented by the downward catabolic side of the diagram?",
+        "options": ["Precursors plus energy forming macromolecules", "Energy-rich nutrients forming energy-depleted products", "ADP and NAD+ forming glucose directly", "Macromolecules forming solar energy"],
+        "answer": 1,
+        "explanation": "Catabolism breaks down energy-containing nutrients and yields energy-depleted products while capturing usable energy."
+      },
+      {
+        "q": "Which pair links energy-producing catabolism to energy-requiring anabolism in the diagram?",
+        "options": ["DNA and RNA", "CO2 and O2 only", "ATP and reduced electron carriers", "Glucose and amino acids only"],
+        "answer": 2,
+        "explanation": "ATP and reduced carriers such as NADH, NADPH, and FADH2 transfer captured energy and reducing power."
+      }
+    ]
+  },
+  {
+    "page": 6,
+    "questions": [
+      {
+        "q": "Why are separate enzyme sets commonly used for opposing anabolic and catabolic pathways?",
+        "options": ["To prevent futile cycling and energy waste", "To force both pathways to run simultaneously", "To eliminate all pathway regulation", "To make every pathway linear"],
+        "answer": 0,
+        "explanation": "Different enzymes permit reciprocal control and prevent energy-wasting simultaneous forward and reverse flux."
+      },
+      {
+        "q": "A pathway that converts several starting materials into one common product is best described as:",
+        "options": ["Divergent", "Convergent", "Cyclic only", "Unregulated"],
+        "answer": 1,
+        "explanation": "Convergent pathways funnel multiple inputs toward fewer common products, a typical catabolic pattern."
+      }
+    ]
+  },
+  {
+    "page": 7,
+    "questions": [
+      {
+        "q": "Which compartment pairing is used to illustrate separation of opposing pathways?",
+        "options": ["Fatty-acid synthesis in cytosol; degradation in mitochondria", "Fatty-acid synthesis in nucleus; degradation in Golgi", "Fatty-acid synthesis in mitochondria; degradation in cytosol", "Fatty-acid synthesis in lysosome; degradation in nucleus"],
+        "answer": 0,
+        "explanation": "The slide separates cytosolic fatty-acid synthesis from mitochondrial fatty-acid degradation."
+      }
+    ]
+  },
+  {
+    "page": 8,
+    "questions": [
+      {
+        "q": "What causes the Michaelis–Menten curve to approach Vmax at high substrate concentration?",
+        "options": ["The enzyme becomes saturated with substrate", "The substrate concentration falls to zero", "The enzyme concentration becomes infinite", "The reaction reaches ΔG = 0"],
+        "answer": 0,
+        "explanation": "At high substrate concentration, available enzyme active sites are occupied, so the rate approaches its maximum."
+      }
+    ]
+  },
+  {
+    "page": 9,
+    "questions": [
+      {
+        "q": "Which regulatory mechanism changes enzyme activity through binding at a site distinct from the catalytic site?",
+        "options": ["Substrate depletion", "Allosteric regulation", "Hormonal control of enzyme synthesis", "Product diffusion"],
+        "answer": 1,
+        "explanation": "Allosteric regulators bind an enzyme and alter its activity without acting as the substrate at the catalytic site."
+      }
+    ]
+  },
+  {
+    "page": 10,
+    "questions": [
+      {
+        "q": "Which sign indicates that products are more disordered than reactants?",
+        "options": ["ΔS < 0", "ΔS > 0", "ΔH < 0", "ΔG = 0"],
+        "answer": 1,
+        "explanation": "A positive entropy change means disorder is greater in the products."
+      },
+      {
+        "q": "Which thermodynamic quantity most directly predicts whether a reaction is energetically favorable under stated conditions?",
+        "options": ["ΔG", "ΔH alone", "ΔS alone", "Vmax"],
+        "answer": 0,
+        "explanation": "Free-energy change, ΔG, combines enthalpy and entropy effects and predicts energetic favorability."
+      }
+    ]
+  },
+  {
+    "page": 11,
+    "questions": [
+      {
+        "q": "At a fixed positive temperature, what is the effect of increasing a positive ΔS in ΔG = ΔH − TΔS?",
+        "options": ["It makes ΔG more positive", "It makes ΔG more negative", "It makes ΔH positive", "It removes temperature dependence"],
+        "answer": 1,
+        "explanation": "A larger positive TΔS term is subtracted from ΔH, lowering ΔG."
+      }
+    ]
+  },
+  {
+    "page": 12,
+    "questions": [
+      {
+        "q": "For aA + bB ⇌ cC + dD, which expression is the equilibrium constant?",
+        "options": ["[A]^a[B]^b/[C]^c[D]^d", "[C]^c[D]^d/[A]^a[B]^b", "[A+B]/[C+D]", "[C][D]/[A+B]"],
+        "answer": 1,
+        "explanation": "Product concentrations are placed over reactant concentrations, with stoichiometric coefficients used as exponents."
+      },
+      {
+        "q": "What hydrogen-ion concentration defines pH 7 in the biochemical standard state?",
+        "options": ["10^−14 M", "10^−7 M", "1 M", "55.5 M"],
+        "answer": 1,
+        "explanation": "The biochemical standard state fixes [H+] at 10^−7 M, corresponding to pH 7."
+      }
+    ]
+  },
+  {
+    "page": 13,
+    "questions": [
+      {
+        "q": "What does the activation-energy peak in an exergonic reaction profile show?",
+        "options": ["Exergonic reactions have no energy barrier", "Reactants must first cross an energy barrier despite negative ΔG", "Products always contain more free energy", "Negative ΔG determines reaction speed"],
+        "answer": 1,
+        "explanation": "A reaction can be thermodynamically favorable yet still require activation energy, so exergonic does not mean instantaneous."
+      }
+    ]
+  },
+  {
+    "page": 14,
+    "questions": [
+      {
+        "q": "If the forward direction of a reaction is endergonic, what is true of the reverse direction under the same conditions?",
+        "options": ["It is also endergonic", "It is exergonic", "It has no free-energy change", "It cannot occur"],
+        "answer": 1,
+        "explanation": "Reversing a reaction reverses the sign of ΔG, making the reverse of an endergonic reaction exergonic."
+      }
+    ]
+  },
+  {
+    "page": 15,
+    "questions": [
+      {
+        "q": "What standard transformed free-energy change corresponds to K′eq = 1?",
+        "options": ["A large negative value", "A large positive value", "Zero", "−RT"],
+        "answer": 2,
+        "explanation": "Because ln 1 = 0, ΔG°′ = −RT ln K′eq equals zero."
+      },
+      {
+        "q": "Which K′eq value indicates that products are favored under standard biochemical conditions?",
+        "options": ["K′eq > 1", "K′eq = 0", "K′eq < 1", "K′eq must be negative"],
+        "answer": 0,
+        "explanation": "A K′eq greater than 1 gives a negative ΔG°′ and favors products."
+      }
+    ]
+  },
+  {
+    "page": 16,
+    "questions": [
+      {
+        "q": "Approximately how much does ΔG°′ change at 25°C for each tenfold change in K′eq?",
+        "options": ["0.57 kJ/mol", "5.7 kJ/mol", "17.1 kJ/mol", "30.5 kJ/mol"],
+        "answer": 1,
+        "explanation": "The table changes by about 5.7 kJ/mol for each factor-of-ten change in K′eq."
+      }
+    ]
+  },
+  {
+    "page": 17,
+    "questions": [
+      {
+        "q": "For A ⇌ B with K′eq = 12, which side is favored under standard biochemical conditions?",
+        "options": ["A, because ΔG°′ is positive", "B, because ΔG°′ is negative", "Neither, because ΔG°′ is zero", "A, because K′eq is greater than 1"],
+        "answer": 1,
+        "explanation": "K′eq greater than 1 gives negative ΔG°′, so the forward reaction toward B is favored."
+      }
+    ]
+  },
+  {
+    "page": 18,
+    "questions": [
+      {
+        "q": "For A + B ⇌ C + D, what effect does increasing product concentrations have on actual ΔG?",
+        "options": ["It lowers Q and makes ΔG more negative", "It raises Q and makes ΔG more positive", "It changes ΔG°′ itself", "It forces ΔG to remain zero"],
+        "answer": 1,
+        "explanation": "Increasing [C][D] raises the reaction quotient Q, increasing the RT ln Q contribution to ΔG."
+      }
+    ]
+  },
+  {
+    "page": 19,
+    "questions": [
+      {
+        "q": "Which two enzymes catalyze the ATP-producing steps shown in glycolysis?",
+        "options": ["Hexokinase and phosphofructokinase", "Phosphoglycerate kinase and pyruvate kinase", "Aldolase and enolase", "Phosphoglucose isomerase and triose phosphate isomerase"],
+        "answer": 1,
+        "explanation": "ATP is generated at the phosphoglycerate kinase and pyruvate kinase steps."
+      },
+      {
+        "q": "Which intermediate is directly converted to pyruvate in the final glycolytic step?",
+        "options": ["3-Phosphoglycerate", "1,3-Bisphosphoglycerate", "Phosphoenolpyruvate", "Glyceraldehyde 3-phosphate"],
+        "answer": 2,
+        "explanation": "Pyruvate kinase transfers phosphate from phosphoenolpyruvate to ADP, producing pyruvate and ATP."
+      }
+    ]
+  },
+  {
+    "page": 21,
+    "questions": [
+      {
+        "q": "What is the ΔG°′ of glucose phosphorylation before it is coupled to ATP hydrolysis?",
+        "options": ["+13.8 kJ/mol", "−13.8 kJ/mol", "+30.5 kJ/mol", "−16.7 kJ/mol"],
+        "answer": 0,
+        "explanation": "The uncoupled phosphorylation of glucose is endergonic with ΔG°′ = +13.8 kJ/mol."
+      },
+      {
+        "q": "Which species cancels when glucose phosphorylation is added to ATP hydrolysis?",
+        "options": ["ATP", "ADP", "Inorganic phosphate", "Glucose 6-phosphate"],
+        "answer": 2,
+        "explanation": "Pi is produced by ATP hydrolysis and consumed in the uncoupled phosphorylation equation, so it cancels in the summed reaction."
+      }
+    ]
+  },
+  {
+    "page": 22,
+    "questions": [
+      {
+        "q": "Which quantity varies with the current concentrations of reactants and products?",
+        "options": ["ΔG", "ΔG°′", "The gas constant R", "Absolute temperature units"],
+        "answer": 0,
+        "explanation": "Actual ΔG contains the concentration-dependent RT ln Q term, whereas ΔG°′ is reaction-specific."
+      },
+      {
+        "q": "Which two tendencies are combined in the net driving force ΔG?",
+        "options": ["Enthalpy and entropy", "Pressure and volume only", "Vmax and KM", "Oxidation and hydrolysis only"],
+        "answer": 0,
+        "explanation": "The summary describes ΔG as the net effect of the tendency toward stable bonding states and the tendency toward greater randomness."
+      }
+    ]
+  },
+  {
+    "page": 23,
+    "questions": [
+      {
+        "q": "A large positive actual ΔG favors which direction?",
+        "options": ["Forward", "Reverse", "Neither direction because the system is at equilibrium", "Both directions irreversibly"],
+        "answer": 1,
+        "explanation": "A large positive ΔG for the written reaction means the reverse direction is energetically favored."
+      },
+      {
+        "q": "What does path independence of ΔG mean?",
+        "options": ["ΔG depends only on initial and final states", "ΔG depends on the number of enzymes used", "Every intermediate must have ΔG = 0", "Only one pathway can connect two states"],
+        "answer": 0,
+        "explanation": "The overall free-energy change is fixed by the initial and final states, regardless of the route taken."
+      }
+    ]
+  },
+  {
+    "page": 24,
+    "questions": [
+      {
+        "q": "What cellular response is promoted when ATP is low relative to ADP?",
+        "options": ["ATP synthesis by oxidative phosphorylation", "Permanent inhibition of ATP synthesis", "Conversion of all ATP to AMP", "Complete shutdown of catabolism"],
+        "answer": 0,
+        "explanation": "A low ATP-to-ADP ratio signals low energy status and promotes ATP production."
+      }
+    ]
+  },
+  {
+    "page": 25,
+    "questions": [
+      {
+        "q": "After capturing free energy, cells commonly convert it into which usable forms?",
+        "options": ["ATP and other energy-rich compounds", "Heat and entropy only", "Nitrogen gas and nitrate", "DNA and RNA only"],
+        "answer": 0,
+        "explanation": "Cells conserve captured free energy in ATP and other energy-rich compounds."
+      }
+    ]
+  },
+  {
+    "page": 26,
+    "questions": [
+      {
+        "q": "Redox potential depends directly on the concentration ratio of:",
+        "options": ["Reducing agent to oxidizing agent", "ATP to total protein", "Products to enzymes", "Water to hydrogen ions only"],
+        "answer": 0,
+        "explanation": "The slide's Nernst-style expression relates redox potential to the ratio of reducing and oxidizing forms."
+      }
+    ]
+  },
+  {
+    "page": 27,
+    "questions": [
+      {
+        "q": "Which statement about the slide's high-energy compounds is correct?",
+        "options": ["Every high-energy compound is a phosphate", "No phosphate compound can be high energy", "High-energy compounds are defined by a large energy release on hydrolysis", "They release less energy than low-energy compounds"],
+        "answer": 2,
+        "explanation": "The classification is based on the magnitude of free energy released during hydrolysis; high-energy examples need not all be phosphates."
+      }
+    ]
+  },
+  {
+    "page": 28,
+    "questions": [
+      {
+        "q": "Which compound is listed as an acyl phosphate?",
+        "options": ["1,3-Bisphosphoglycerate", "Phosphoenolpyruvate", "Acetyl-CoA", "Phosphocreatine"],
+        "answer": 0,
+        "explanation": "The table lists 1,3-bisphosphoglycerate among the acyl phosphates."
+      },
+      {
+        "q": "Which class includes acetyl-CoA and other acyl-CoA compounds?",
+        "options": ["Pyrophosphates", "Enol phosphates", "Thioesters", "Guanidino phosphates"],
+        "answer": 2,
+        "explanation": "Acetyl-CoA and acyl-CoA are listed as thioester examples."
+      }
+    ]
+  },
+  {
+    "page": 29,
+    "questions": [
+      {
+        "q": "Which ATP cleavage products result when pyrophosphate is removed?",
+        "options": ["ADP + Pi", "AMP + PPi", "Adenosine + three Pi", "AMP + ADP"],
+        "answer": 1,
+        "explanation": "Cleavage between the alpha and beta phosphates yields AMP and pyrophosphate."
+      },
+      {
+        "q": "Which components together form the nucleoside portion of ATP?",
+        "options": ["Adenine and ribose", "Ribose and three phosphates", "Adenine and three phosphates", "ADP and inorganic phosphate"],
+        "answer": 0,
+        "explanation": "Adenosine consists of the nitrogenous base adenine attached to ribose."
+      }
+    ]
+  },
+  {
+    "page": 30,
+    "questions": [
+      {
+        "q": "Why can actual ATP-hydrolysis ΔG in a cell differ substantially from −30.5 kJ/mol?",
+        "options": ["Cellular ATP, ADP, and Pi are not all at 1 M", "The standard value contains no ATP", "Living cells do not contain water", "ΔG is independent of concentration"],
+        "answer": 0,
+        "explanation": "Actual ΔG includes the cellular reaction quotient, and cellular metabolite concentrations differ from standard-state concentrations."
+      },
+      {
+        "q": "The metabolite concentrations in the displayed cellular table are primarily in which range?",
+        "options": ["Millimolar", "Exactly 1 molar", "Kilomolar", "Zero concentration"],
+        "answer": 0,
+        "explanation": "The table reports cellular ATP-related metabolites at millimolar concentrations, far below the 1 M standard state."
+      }
+    ]
+  },
+  {
+    "page": 31,
+    "questions": [
+      {
+        "q": "Which free-energy value is most relevant for an enzyme using ATP as a phosphoryl-group donor in the cytosol?",
+        "options": ["Hydrolysis of free ATP4− only", "Hydrolysis of MgATP2−", "Hydrolysis of free AMP", "Oxidation of MgADP−"],
+        "answer": 1,
+        "explanation": "Because Mg2+ complexes ATP and MgATP2− is the true substrate, its hydrolysis free energy is the relevant value."
+      }
+    ]
+  },
+  {
+    "page": 32,
+    "questions": [
+      {
+        "q": "Which ratio appears in the concentration-dependent term for ATP hydrolysis?",
+        "options": ["[ATP]/[ADP][Pi]", "[ADP][Pi]/[ATP]", "[ATP][ADP]/[Pi]", "[Pi]/[ATP][ADP]"],
+        "answer": 1,
+        "explanation": "For ATP + H2O → ADP + Pi, the reaction quotient is [ADP][Pi]/[ATP]."
+      }
+    ]
+  },
+  {
+    "page": 33,
+    "questions": [
+      {
+        "q": "Which glycolytic enzyme forms ATP while converting 1,3-bisphosphoglycerate to 3-phosphoglycerate?",
+        "options": ["Phosphoglycerate kinase", "Pyruvate kinase", "Hexokinase", "Phosphofructokinase"],
+        "answer": 0,
+        "explanation": "Phosphoglycerate kinase transfers a phosphate from 1,3-bisphosphoglycerate to ADP."
+      },
+      {
+        "q": "At which glycolytic step is NAD+ reduced to NADH?",
+        "options": ["Glucose to glucose 6-phosphate", "Fructose 6-phosphate to fructose 1,6-bisphosphate", "Glyceraldehyde 3-phosphate to 1,3-bisphosphoglycerate", "Phosphoenolpyruvate to pyruvate"],
+        "answer": 2,
+        "explanation": "Glyceraldehyde-3-phosphate dehydrogenase oxidizes glyceraldehyde 3-phosphate while reducing NAD+."
+      }
+    ]
+  },
+  {
+    "page": 34,
+    "questions": [
+      {
+        "q": "Hydrolysis of 1,3-bisphosphoglycerate produces which phosphorylated glycolytic intermediate?",
+        "options": ["2-Phosphoglycerate", "3-Phosphoglycerate", "Phosphoenolpyruvate", "Glucose 6-phosphate"],
+        "answer": 1,
+        "explanation": "The hydrolysis diagram shows formation of 3-phosphoglycerate plus inorganic phosphate."
+      },
+      {
+        "q": "Which product-stabilizing mechanism is shown for phosphocreatine hydrolysis?",
+        "options": ["Tautomerization of pyruvate", "Resonance stabilization of creatine", "Polymerization of creatine", "Reduction of NAD+"],
+        "answer": 1,
+        "explanation": "The creatine product is resonance stabilized, helping make phosphocreatine hydrolysis strongly favorable."
+      }
+    ]
+  },
+  {
+    "page": 35,
+    "questions": [
+      {
+        "q": "What is the standard free energy of hydrolysis shown for acetyl-CoA?",
+        "options": ["−13.8 kJ/mol", "−30.5 kJ/mol", "−31.4 kJ/mol", "−61.9 kJ/mol"],
+        "answer": 2,
+        "explanation": "The acetyl-CoA hydrolysis reaction is labeled ΔG°′ = −31.4 kJ/mol."
+      },
+      {
+        "q": "Which ATP cleavage has the more negative standard free energy in the displayed table?",
+        "options": ["ATP → ADP + Pi", "ATP → AMP + PPi", "They are identical", "Neither releases free energy"],
+        "answer": 1,
+        "explanation": "The table lists −45.6 kJ/mol for ATP → AMP + PPi versus −30.5 kJ/mol for ATP → ADP + Pi."
+      }
+    ]
+  },
+  {
+    "page": 36,
+    "questions": [
+      {
+        "q": "After ATP activates glutamate in glutamine synthesis, which molecule attacks the enzyme-bound intermediate?",
+        "options": ["NH3", "CO2", "NADH", "O2"],
+        "answer": 0,
+        "explanation": "Ammonia attacks enzyme-bound glutamyl phosphate, displacing phosphate and forming glutamine."
+      },
+      {
+        "q": "Which group of proteins is explicitly associated with ATP-dependent cycling during DNA-related processes?",
+        "options": ["Helicases, RecA, and some topoisomerases", "Hemoglobin, collagen, and keratin", "Actin, tubulin, and insulin only", "Luciferin, luciferase, and oxyluciferin"],
+        "answer": 0,
+        "explanation": "The slide lists helicases, RecA, some topoisomerases, and replication ATPases as ATP-dependent examples."
+      }
+    ]
+  },
+  {
+    "page": 37,
+    "questions": [
+      {
+        "q": "Which compound shown can transfer phosphate to ADP because it lies above ATP in phosphoryl-transfer potential?",
+        "options": ["Glucose 6-phosphate", "Glycerol phosphate", "Phosphocreatine", "Inorganic phosphate"],
+        "answer": 2,
+        "explanation": "Phosphocreatine has a more negative hydrolysis ΔG°′ than ATP and can donate phosphate to ADP."
+      },
+      {
+        "q": "Why is ATP well positioned as an energy currency in the ranking diagram?",
+        "options": ["It has the highest transfer potential of every compound", "It can accept phosphate from compounds above it and donate to compounds below it", "It cannot participate in group transfer", "Its hydrolysis has ΔG°′ = 0"],
+        "answer": 1,
+        "explanation": "ATP's intermediate transfer potential allows it to receive phosphoryl groups from stronger donors and give them to weaker acceptors."
+      }
+    ]
+  },
+  {
+    "page": 38,
+    "questions": [
+      {
+        "q": "Nucleophilic attack at ATP's gamma phosphate leaves which nucleotide product?",
+        "options": ["AMP", "ADP", "Adenosine", "cAMP"],
+        "answer": 1,
+        "explanation": "Gamma-phosphate attack transfers a phosphoryl group and leaves ADP."
+      },
+      {
+        "q": "Which attack-transfer-product combination is correct?",
+        "options": ["Beta attack—pyrophosphoryl transfer—AMP remains", "Beta attack—adenylyl transfer—ADP remains", "Gamma attack—adenylyl transfer—PPi remains", "Alpha attack—phosphoryl transfer—AMP remains"],
+        "answer": 0,
+        "explanation": "Attack at beta transfers the beta-gamma pyrophosphoryl group and leaves AMP."
+      }
+    ]
+  },
+  {
+    "page": 39,
+    "questions": [
+      {
+        "q": "Which molecule is the enzyme in the firefly light-producing system?",
+        "options": ["Luciferin", "Luciferase", "Luciferyl adenylate", "Oxyluciferin"],
+        "answer": 1,
+        "explanation": "Luciferase catalyzes activation and oxidation steps involving the substrate luciferin."
+      }
+    ]
+  },
+  {
+    "page": 40,
+    "questions": [
+      {
+        "q": "Which factor is proposed to account for differences in flash color among firefly species?",
+        "options": ["Differences in luciferase structure", "Differences in ATP's phosphate number", "Absence of molecular oxygen", "Replacement of luciferin by glucose"],
+        "answer": 0,
+        "explanation": "The slide attributes species-specific light color to structural differences in luciferase."
+      },
+      {
+        "q": "What happens to oxyluciferin after the light-producing reaction?",
+        "options": ["It is permanently discarded", "It is regenerated to luciferin through subsequent reactions", "It directly becomes ATP", "It is converted into molecular oxygen"],
+        "answer": 1,
+        "explanation": "The cycle includes regenerating reactions that return oxyluciferin to luciferin."
+      }
+    ]
+  },
+  {
+    "page": 43,
+    "questions": [
+      {
+        "q": "Which statement best describes a gene in the slide's structural diagram?",
+        "options": ["A segment of DNA within a chromosome", "An entire cell surrounding the nucleus", "A protein located outside DNA", "A complete chromosome pair only"],
+        "answer": 0,
+        "explanation": "The diagram marks a gene as a defined segment of the DNA molecule packaged in a chromosome."
+      }
+    ]
+  },
+  {
+    "page": 44,
+    "questions": [
+      {
+        "q": "Which process transfers residue-by-residue information from DNA to RNA?",
+        "options": ["Replication", "Transcription", "Translation", "Protein folding"],
+        "answer": 1,
+        "explanation": "Transcription copies genetic information from DNA into RNA."
+      },
+      {
+        "q": "Which information transfer is represented by reverse transcription?",
+        "options": ["DNA to RNA", "RNA to DNA", "RNA to protein", "Protein to RNA"],
+        "answer": 1,
+        "explanation": "Reverse transcription uses RNA information to synthesize DNA."
+      }
+    ]
+  },
+  {
+    "page": 45,
+    "questions": [
+      {
+        "q": "During which cell-cycle phase does DNA replication occur?",
+        "options": ["G1 phase", "S phase", "G2 phase", "M phase only"],
+        "answer": 1,
+        "explanation": "The slide states that DNA duplication occurs during S phase."
+      }
+    ]
+  },
+  {
+    "page": 46,
+    "questions": [
+      {
+        "q": "Which protein acts ahead of helicase to relieve torsional strain in the parental DNA?",
+        "options": ["Topoisomerase", "Single-strand binding protein", "DNA ligase", "RNA polymerase"],
+        "answer": 0,
+        "explanation": "The diagram places topoisomerase ahead of helicase on the still-double-stranded DNA."
+      },
+      {
+        "q": "What is the role of single-strand binding proteins at the replication fork?",
+        "options": ["They synthesize RNA primers", "They stabilize the separated parental strands", "They join Okazaki fragments", "They unwind DNA ahead of the fork"],
+        "answer": 1,
+        "explanation": "SSB proteins coat and stabilize exposed single-stranded DNA after helicase separates the strands."
+      }
+    ]
+  },
+  {
+    "page": 48,
+    "questions": [
+      {
+        "q": "Where does transcription occur in eukaryotic cells according to the slide?",
+        "options": ["Cytoplasm", "Nucleus", "Golgi apparatus", "Lysosome"],
+        "answer": 1,
+        "explanation": "The slide contrasts prokaryotic transcription in the cytoplasm with eukaryotic transcription in the nucleus."
+      },
+      {
+        "q": "What event defines promoter escape during transcription?",
+        "options": ["RNA polymerase leaves the promoter and enters productive elongation", "The completed RNA is released", "Introns are removed from pre-mRNA", "DNA replication begins at an origin"],
+        "answer": 0,
+        "explanation": "Promoter escape is the transition after initiation in which RNA polymerase clears the promoter and proceeds into elongation."
+      }
+    ]
+  },
+  {
+    "page": 49,
+    "questions": [
+      {
+        "q": "Which DNA strand is directly read by RNA polymerase during transcription?",
+        "options": ["Coding or sense strand", "Template or antisense strand", "Both strands simultaneously", "Neither DNA strand"],
+        "answer": 1,
+        "explanation": "RNA polymerase uses the template, noncoding, or antisense strand to synthesize complementary RNA."
+      },
+      {
+        "q": "If the coding DNA strand contains 5′-ATGC-3′, what is the corresponding mRNA sequence?",
+        "options": ["5′-ATGC-3′", "5′-UACG-3′", "5′-AUGC-3′", "5′-TACG-3′"],
+        "answer": 2,
+        "explanation": "The mRNA matches the coding strand in the 5′→3′ direction except that U replaces T."
+      }
+    ]
+  },
+  {
+    "page": 50,
+    "questions": [
+      {
+        "q": "Which features remain at the ends of the mature mRNA shown after splicing?",
+        "options": ["5′ cap and poly(A) tail", "Two introns", "Promoter and terminator DNA", "RNA primers and Okazaki fragments"],
+        "answer": 0,
+        "explanation": "The mature mRNA diagram retains the 5′ cap and 3′ poly(A) tail while introns are removed."
+      },
+      {
+        "q": "Which region of the processed mRNA is formed by joining the retained coding segments?",
+        "options": ["The intron-only region", "The exon-derived protein-coding sequence", "The promoter", "The replication origin"],
+        "answer": 1,
+        "explanation": "Splicing removes introns and joins exons, producing the continuous protein-coding sequence in mature mRNA."
+      }
+    ]
+  }
+]

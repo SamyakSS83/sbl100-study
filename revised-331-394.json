@@ -1,0 +1,2709 @@
+[
+  {
+    "page": 331,
+    "title": "Lecture 32: Cancer Biology",
+    "explain": "This lecture introduces how cancer cells differ from normal cells, how the tumor microenvironment supports them, and how tumors alter metabolism and evade immunity.",
+    "mustKnow": [
+      "The lecture topic is cancer biology.",
+      "Major themes are abnormal growth, microenvironment, metabolism, and immune evasion."
+    ],
+    "terms": [
+      {
+        "term": "Cancer biology",
+        "meaning": "The study of malignant cell behavior and tumor development."
+      }
+    ],
+    "diagramGuide": [
+      "This is a lecture divider: Cancer Biology begins here; there is no content diagram to decode."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which topic is introduced by Lecture 32?",
+      "options": [
+        "Genetic engineering",
+        "Cancer biology",
+        "Drug metabolism",
+        "Biophysical techniques"
+      ],
+      "answer": 1,
+      "explanation": "The title slide labels Lecture 32 as Cancer Biology."
+    }
+  },
+  {
+    "page": 332,
+    "title": "Origin of the Word Cancer",
+    "explain": "Hippocrates used the Greek term karkinos, meaning crab or crayfish, for cancer. The name was inspired by the appearance of a solid malignant tumor with veins spreading outward like a crab's legs.",
+    "mustKnow": [
+      "Karkinos is the Greek source of the term cancer.",
+      "The crab comparison came from the appearance of a malignant tumor and its radiating veins."
+    ],
+    "terms": [
+      {
+        "term": "Karkinos",
+        "meaning": "Greek for crab or crayfish; an early term used for cancer."
+      },
+      {
+        "term": "Carcinoma",
+        "meaning": "A cancer arising from epithelial tissue."
+      },
+      {
+        "term": "Malignant",
+        "meaning": "Cancerous, with the capacity for destructive growth and spread."
+      }
+    ],
+    "diagramGuide": [
+      "Compare the radiating extensions around the tumor image with the crab's legs in the adjacent photograph.",
+      "The visual is explaining the historical name, not a biological mechanism."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Why did Hippocrates use the term karkinos for some tumors?",
+      "options": [
+        "Their cut surface had radiating veins like crab legs",
+        "They arose only in aquatic animals",
+        "They contained a hard calcium shell",
+        "They moved laterally through tissue"
+      ],
+      "answer": 0,
+      "explanation": "Karkinos means crab or crayfish; the radiating veins resembled a crab's legs and claws."
+    }
+  },
+  {
+    "page": 333,
+    "title": "Cancer Incidence and Mortality Differ",
+    "explain": "The chart compares new cases with deaths per year across cancer groups. Incidence and mortality are not the same: a common cancer may cause proportionally fewer deaths, while another category may have fewer cases but a closer death count.",
+    "mustKnow": [
+      "Incidence means new cases; mortality means deaths.",
+      "Cancer types differ in both frequency and lethality.",
+      "A high incidence does not automatically mean equally high mortality."
+    ],
+    "terms": [
+      {
+        "term": "Incidence",
+        "meaning": "The number of new cases occurring in a defined period."
+      },
+      {
+        "term": "Mortality",
+        "meaning": "The number of deaths occurring in a defined period."
+      },
+      {
+        "term": "Carcinoma",
+        "meaning": "An epithelial cancer; several organ groups in the chart are carcinomas."
+      }
+    ],
+    "diagramGuide": [
+      "Green bars represent new cases per year; blue bars represent deaths per year.",
+      "Do not rank cancers from one bar alone: incidence and mortality are separate quantities.",
+      "Digestive-organ cancers have the longest incidence bar, while respiratory cancers show a relatively large death burden."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which category in the chart combines high incidence with a particularly large annual death count?",
+      "options": [
+        "Skin melanoma",
+        "Endocrine-system cancers",
+        "Bone and soft-tissue cancers",
+        "Respiratory-system cancers"
+      ],
+      "answer": 3,
+      "explanation": "The respiratory-system row has one of the largest blue death bars and a high green incidence bar."
+    }
+  },
+  {
+    "page": 334,
+    "title": "Three Defining Cancer Behaviors",
+    "explain": "Cancer cells can proliferate without normal growth-factor control, invade through extracellular matrix and basement membranes, and metastasize from the primary tumor to other sites.",
+    "mustKnow": [
+      "Proliferation can continue without normal growth signals.",
+      "Invasion is penetration into surrounding tissue.",
+      "Metastasis is spread from the primary tumor to another site."
+    ],
+    "terms": [
+      {
+        "term": "Proliferation",
+        "meaning": "Increase in cell number through cell division."
+      },
+      {
+        "term": "Invasion",
+        "meaning": "Movement of cancer cells into surrounding tissue."
+      },
+      {
+        "term": "Metastasis",
+        "meaning": "Spread of cancer cells from the primary tumor to other sites."
+      },
+      {
+        "term": "ECM",
+        "meaning": "Extracellular matrix, the material surrounding and supporting cells."
+      }
+    ],
+    "diagramGuide": [
+      "Read the duct sequence left to right: normal duct, contained benign tumor, then malignant cells crossing the basal lamina.",
+      "The body scan illustrates distant tumor deposits, linking local escape to metastasis."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which event distinguishes the malignant duct in the diagram from the benign tumor?",
+      "options": [
+        "Cells stop proliferating",
+        "Cells restore contact inhibition",
+        "Cells breach the basal lamina",
+        "Cells remain confined to the lumen"
+      ],
+      "answer": 2,
+      "explanation": "The malignant-stage cells cross the tissue boundary, which is invasion."
+    }
+  },
+  {
+    "page": 335,
+    "title": "Loss of Growth and Death Controls",
+    "explain": "Normal tissue homeostasis balances cell division with apoptosis. A tumor can form through increased division, decreased apoptosis, or both. Transformed cells also lose contact inhibition and can survive after leaving their normal tissue position.",
+    "mustKnow": [
+      "Homeostasis requires balanced division and cell death.",
+      "More division or less apoptosis can expand a tumor.",
+      "Transformed cells lose contact inhibition.",
+      "Cancer cells may bypass anchorage-dependent survival controls."
+    ],
+    "terms": [
+      {
+        "term": "Contact inhibition",
+        "meaning": "Normal suppression of cell proliferation when cells contact neighbors."
+      },
+      {
+        "term": "Anchorage dependence",
+        "meaning": "The normal requirement for attachment to a suitable surface or matrix for survival."
+      },
+      {
+        "term": "Transformation",
+        "meaning": "Acquisition of abnormal growth properties by a cell."
+      }
+    ],
+    "diagramGuide": [
+      "The left schemes show that either increased division or reduced apoptosis can expand cell number.",
+      "The upper-right diagram links loss of anchorage dependence to apical extrusion and survival outside the normal layer.",
+      "The lower culture images contrast contact-inhibited normal cells with piled-up transformed foci."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which culture phenotype most directly indicates loss of contact inhibition?",
+      "options": [
+        "Cells maintain equal division and apoptosis",
+        "Cells form dense multilayered foci",
+        "Cells stop at a confluent monolayer",
+        "Cells undergo anoikis after detachment"
+      ],
+      "answer": 1,
+      "explanation": "Transformed cells continue growing after contact and pile into foci."
+    }
+  },
+  {
+    "page": 336,
+    "title": "The Tumor Microenvironment",
+    "explain": "A tumor contains malignant cells plus a nonmalignant stroma of fibroblasts, immune cells, endothelial cells, and other support cells. Cancer-associated fibroblasts remodel extracellular matrix and release components that influence tumor growth, invasion, inflammation, and angiogenesis.",
+    "mustKnow": [
+      "Tumor stroma is nonmalignant supporting tissue.",
+      "Stroma includes fibroblasts, immune cells, and endothelial cells.",
+      "Cancer-associated fibroblasts promote several aspects of progression."
+    ],
+    "terms": [
+      {
+        "term": "Stroma",
+        "meaning": "The nonmalignant cells and supporting tissue surrounding tumor cells."
+      },
+      {
+        "term": "CAF",
+        "meaning": "A carcinoma-associated fibroblast altered to support tumor progression."
+      },
+      {
+        "term": "Angiogenesis",
+        "meaning": "Formation of new blood vessels."
+      }
+    ],
+    "diagramGuide": [
+      "The central tumor is embedded in stroma containing immune cells, fibroblasts, vessels, pericytes, lymphatics, and extracellular matrix.",
+      "CAFs are shown adjacent to tumor cells because they remodel matrix and secrete signals that support progression."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which labeled stromal cell is specifically activated into a tumor-supporting CAF?",
+      "options": [
+        "Fibroblast",
+        "Pericyte",
+        "Endothelial cell",
+        "Tumor-associated lymphocyte"
+      ],
+      "answer": 0,
+      "explanation": "Carcinoma-associated fibroblasts arise from activated fibroblasts."
+    }
+  },
+  {
+    "page": 337,
+    "title": "Hypoxia Activates HIF Signaling",
+    "explain": "Tumor regions farther from blood vessels receive less oxygen and can become hypoxic or necrotic. In normal oxygen, HIF-alpha is hydroxylated, recognized by VHL, ubiquitinated, and degraded. In hypoxia, HIF-alpha survives, enters the nucleus with HIF-beta, and activates genes for responses such as angiogenesis, metabolism, and erythropoiesis.",
+    "mustKnow": [
+      "Oxygen falls with distance from tumor blood vessels.",
+      "Normoxia promotes VHL-dependent HIF-alpha degradation.",
+      "Hypoxia stabilizes HIF-alpha.",
+      "HIF activates adaptive genes including angiogenesis and metabolism genes."
+    ],
+    "terms": [
+      {
+        "term": "Hypoxia",
+        "meaning": "A condition of low oxygen availability."
+      },
+      {
+        "term": "HIF",
+        "meaning": "Hypoxia-inducible factor, a transcription factor activated under low oxygen."
+      },
+      {
+        "term": "VHL",
+        "meaning": "A protein that helps target hydroxylated HIF-alpha for degradation in oxygenated cells."
+      },
+      {
+        "term": "Ubiquitination",
+        "meaning": "Attachment of ubiquitin that can mark a protein for proteasomal degradation."
+      }
+    ],
+    "diagramGuide": [
+      "Oxygen falls with distance from the blood vessel: oxygenated rim, hypoxic zone, then necrotic core.",
+      "Under normoxia, hydroxylated HIF-alpha is recognized by VHL, ubiquitinated, and degraded.",
+      "Under hypoxia, HIF-alpha escapes degradation, enters the nucleus with HIF-beta, and activates response genes."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Loss of which step allows HIF-alpha to accumulate during hypoxia?",
+      "options": [
+        "Binding to HIF-beta",
+        "DNA binding in the nucleus",
+        "Transcription of angiogenic genes",
+        "Oxygen-dependent hydroxylation"
+      ],
+      "answer": 3,
+      "explanation": "Hydroxylation is the oxygen-dependent mark that enables VHL recognition and degradation."
+    }
+  },
+  {
+    "page": 338,
+    "title": "Fates of Pyruvate",
+    "explain": "Glycolysis converts glucose to pyruvate. Under aerobic conditions, pyruvate becomes acetyl-CoA and is oxidized through the citric acid cycle. Under hypoxic or anaerobic conditions, pyruvate can be reduced to lactate, regenerating NAD+, or converted to ethanol and carbon dioxide in yeast.",
+    "mustKnow": [
+      "Glycolysis produces pyruvate from glucose.",
+      "Aerobic pyruvate enters acetyl-CoA and the citric acid cycle.",
+      "Lactate fermentation regenerates NAD+.",
+      "Yeast can produce ethanol and carbon dioxide."
+    ],
+    "terms": [
+      {
+        "term": "Glycolysis",
+        "meaning": "The pathway that converts glucose into pyruvate."
+      },
+      {
+        "term": "Fermentation",
+        "meaning": "A pathway that regenerates NAD+ without oxygen-dependent respiration."
+      },
+      {
+        "term": "Lactate dehydrogenase",
+        "meaning": "The enzyme that interconverts pyruvate and lactate while interconverting NADH and NAD+."
+      },
+      {
+        "term": "Acetyl-CoA",
+        "meaning": "A metabolic intermediate that enters the citric acid cycle."
+      }
+    ],
+    "diagramGuide": [
+      "All routes begin with glucose-to-pyruvate glycolysis.",
+      "Aerobic pyruvate enters acetyl-CoA and the citric-acid cycle; anaerobic branches regenerate NAD+ through lactate or ethanol formation.",
+      "The lactate branch uses lactate dehydrogenase; the yeast branch releases carbon dioxide."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which product is formed from pyruvate in vigorously contracting muscle under low oxygen?",
+      "options": [
+        "Ethanol plus carbon dioxide",
+        "Oxaloacetate",
+        "Lactate",
+        "Acetyl-CoA"
+      ],
+      "answer": 2,
+      "explanation": "The diagram assigns lactate fermentation to muscle and erythrocytes."
+    }
+  },
+  {
+    "page": 339,
+    "title": "The Warburg Effect",
+    "explain": "Cancer cells often favor conversion of pyruvate to lactate even when oxygen is available. This metabolic reprogramming regenerates NAD+, which supports continued conversion of glucose to pyruvate through glycolysis.",
+    "mustKnow": [
+      "The Warburg effect is high lactate-producing glycolysis in cancer cells despite oxygen availability.",
+      "Pyruvate-to-lactate conversion consumes NADH and regenerates NAD+.",
+      "Regenerated NAD+ supports continued glycolysis."
+    ],
+    "terms": [
+      {
+        "term": "Warburg effect",
+        "meaning": "Preference of many cancer cells for lactate-producing glycolysis even in oxygen."
+      },
+      {
+        "term": "Metabolic reprogramming",
+        "meaning": "A change in how cells obtain and use energy and biosynthetic materials."
+      },
+      {
+        "term": "NAD+",
+        "meaning": "An oxidized electron carrier required for a step in glycolysis."
+      }
+    ],
+    "diagramGuide": [
+      "The differentiated cell sends most pyruvate to oxidative phosphorylation; the tumor cell emphasizes glucose uptake and lactate export despite oxygen.",
+      "MCT exports lactate; GLUTs import glucose.",
+      "Lactate-associated signaling in the center links the metabolic shift to angiogenesis, invasion, inflammation, and progression."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What is the immediate redox benefit of pyruvate-to-lactate conversion in a tumor cell?",
+      "options": [
+        "Formation of acetyl-CoA",
+        "Regeneration of NAD+",
+        "Production of FADH2",
+        "Consumption of ATP"
+      ],
+      "answer": 1,
+      "explanation": "Lactate dehydrogenase oxidizes NADH to NAD+, sustaining glycolysis."
+    }
+  },
+  {
+    "page": 340,
+    "title": "Ways Tumors Evade Immunity",
+    "explain": "CD8 T cells normally recognize tumor antigens displayed by MHC. Tumors can evade this response by losing tumor antigens or MHC, expressing nonclassical HLA molecules, delivering inhibitory signals to T cells, releasing suppressive cytokines, or building an immunosuppressive microenvironment with cells such as Treg and MDSC.",
+    "mustKnow": [
+      "Loss of antigen or MHC reduces T-cell recognition.",
+      "Inhibitory ligands and cytokines suppress T-cell activity.",
+      "Treg and MDSC contribute to an immunosuppressive microenvironment."
+    ],
+    "terms": [
+      {
+        "term": "MHC",
+        "meaning": "A cell-surface molecule that presents peptide antigens to T cells."
+      },
+      {
+        "term": "Treg",
+        "meaning": "A regulatory T cell that can suppress immune responses."
+      },
+      {
+        "term": "MDSC",
+        "meaning": "A myeloid-derived suppressor cell that inhibits antitumor immunity."
+      },
+      {
+        "term": "Immune evasion",
+        "meaning": "Avoidance or suppression of immune recognition and attack."
+      }
+    ],
+    "diagramGuide": [
+      "Panel A is effective anti-tumor immunity: antigen-MHC recognition activates a CD8 T cell.",
+      "Panels B-D show three escape levels: failed recognition, direct T-cell inhibition, and a suppressive microenvironment.",
+      "Treg and MDSC are placed in the suppressive microenvironment panel."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "A tumor retains antigen presentation but expresses an inhibitory ligand that suppresses the CD8 T cell. Which evasion class is shown?",
+      "options": [
+        "T-cell inhibition",
+        "Loss of tumor antigen",
+        "Loss of MHC expression",
+        "Recruitment failure of fibroblasts"
+      ],
+      "answer": 0,
+      "explanation": "An inhibitory ligand-receptor interaction belongs to the T-cell-inhibition mechanism in panel C."
+    }
+  },
+  {
+    "page": 341,
+    "title": "PD-1 and PD-L1 Checkpoint Blockade",
+    "explain": "PD-L1 on a tumor or immune cell binds PD-1 on a T cell and lowers T-cell activity. Anti-PD-1 or anti-PD-L1 antibodies block this inhibitory interaction, increasing T-cell activity and promoting tumor-cell death.",
+    "mustKnow": [
+      "PD-1 is shown on the T cell.",
+      "PD-L1 binding suppresses T-cell activity.",
+      "Blocking PD-1 or PD-L1 can restore antitumor T-cell activity."
+    ],
+    "terms": [
+      {
+        "term": "PD-1",
+        "meaning": "An inhibitory checkpoint receptor on T cells."
+      },
+      {
+        "term": "PD-L1",
+        "meaning": "A ligand that can inhibit T cells by binding PD-1."
+      },
+      {
+        "term": "Checkpoint inhibitor",
+        "meaning": "A therapy that blocks an inhibitory immune-receptor interaction."
+      },
+      {
+        "term": "TCR",
+        "meaning": "The T-cell receptor that recognizes antigen presented by MHC."
+      }
+    ],
+    "diagramGuide": [
+      "Left: PD-L1 binding PD-1 suppresses T-cell activity even while MHC engages the TCR.",
+      "Right: anti-PD-1 or anti-PD-L1 interrupts the checkpoint and restores T-cell activity.",
+      "The antibodies do not replace antigen recognition; they remove an inhibitory signal."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which pairing is directly disrupted by checkpoint-blocking antibodies in the figure?",
+      "options": [
+        "TCR-MHC",
+        "CD8-MHC I",
+        "EGF-EGFR",
+        "PD-1-PD-L1"
+      ],
+      "answer": 3,
+      "explanation": "The therapeutic antibodies block the PD-1:PD-L1 inhibitory interaction."
+    }
+  },
+  {
+    "page": 342,
+    "title": "Lecture 33: Cancer and Drug Development",
+    "explain": "This lecture continues cancer genetics and then introduces principles of drug formulation and absorption.",
+    "mustKnow": [
+      "The lecture connects cancer biology with drug development.",
+      "The first section covers oncogenes, tumor suppressors, and p53."
+    ],
+    "terms": [
+      {
+        "term": "Drug development",
+        "meaning": "The process of turning a therapeutic idea into a usable medicine."
+      }
+    ],
+    "diagramGuide": [
+      "This divider starts Lecture 33, which bridges Cancer Biology and Drug Development."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which two subject areas are joined in Lecture 33?",
+      "options": [
+        "Genetic engineering and motors",
+        "Stem cells and host defense",
+        "Cancer biology and drug development",
+        "Immunology and bioenergetics"
+      ],
+      "answer": 2,
+      "explanation": "Both subjects are printed on the title slide."
+    }
+  },
+  {
+    "page": 343,
+    "title": "Cancer Develops Through Accumulated Changes",
+    "explain": "Cancer development is linked to mutagenesis. Chemical carcinogens can alter nucleotide sequences, X-rays can cause chromosome breaks and translocations, and UV light can damage specific DNA bases. A cancer usually emerges only after multiple rare genetic and epigenetic changes accumulate in descendants of one cell.",
+    "mustKnow": [
+      "Chemical carcinogens, X-rays, and UV light damage DNA in different ways.",
+      "Cancer usually requires multiple independent changes.",
+      "The altered lineage begins from a single cell.",
+      "Both genetic and epigenetic changes can contribute."
+    ],
+    "terms": [
+      {
+        "term": "Mutagenesis",
+        "meaning": "Production of changes in genetic material."
+      },
+      {
+        "term": "Carcinogen",
+        "meaning": "An agent that promotes cancer development."
+      },
+      {
+        "term": "Translocation",
+        "meaning": "A chromosome rearrangement in which a segment moves to a new location."
+      },
+      {
+        "term": "Epigenetic change",
+        "meaning": "A heritable change in gene activity that does not require a DNA-sequence change."
+      }
+    ],
+    "diagramGuide": [
+      "Left: sequential mutant-cell production and clonal proliferation culminate in invasive growth.",
+      "Center: chromosome mis-segregation creates aneuploid daughter cells.",
+      "Right: lagging chromosomes can form micronuclei and undergo chromothripsis."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which carcinogen-effect pairing matches the slide?",
+      "options": [
+        "X-rays - specific thymine dimers only",
+        "X-rays - chromosome breaks and translocations",
+        "UV light - whole-genome duplication",
+        "Chemical carcinogens - spindle assembly only"
+      ],
+      "answer": 1,
+      "explanation": "The slide assigns chromosome breaks and translocations to radiation such as X-rays."
+    }
+  },
+  {
+    "page": 344,
+    "title": "Oncogenes Versus Tumor Suppressors",
+    "explain": "A proto-oncogene becomes an oncogene through an activating gain-of-function change, and one altered copy can promote transformation. Tumor-suppressor loss is usually recessive at the cellular level: one working copy can remain protective, so both copies generally must be inactivated. Proto-oncogenes can be activated by coding or regulatory mutations, gene amplification, or chromosome rearrangement.",
+    "mustKnow": [
+      "Oncogene activation is a gain of function.",
+      "One activating oncogene mutation can be sufficient.",
+      "Tumor-suppressor inactivation is a loss of function.",
+      "Both tumor-suppressor copies generally must be lost."
+    ],
+    "terms": [
+      {
+        "term": "Proto-oncogene",
+        "meaning": "A normal gene that can become cancer-promoting when overactivated."
+      },
+      {
+        "term": "Oncogene",
+        "meaning": "An activated gene that promotes uncontrolled growth or transformation."
+      },
+      {
+        "term": "Tumor-suppressor gene",
+        "meaning": "A gene whose normal function restrains cancer development."
+      },
+      {
+        "term": "Gene amplification",
+        "meaning": "An increase in gene-copy number that can increase gene product."
+      }
+    ],
+    "diagramGuide": [
+      "Top left: a single activating mutation can convert a proto-oncogene into an oncogene.",
+      "Top right: tumor-suppressor loss generally requires two inactivating events.",
+      "Bottom: proto-oncogenes can be activated by coding mutation, regulatory mutation, amplification, or rearrangement."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which alteration can activate a proto-oncogene without changing its coding sequence?",
+      "options": [
+        "Gene amplification",
+        "Loss of both alleles",
+        "Promoter deletion that abolishes expression",
+        "Nonsense mutation causing truncation and decay"
+      ],
+      "answer": 0,
+      "explanation": "Amplification increases production of a normal proto-oncogene product."
+    }
+  },
+  {
+    "page": 345,
+    "title": "EGFR and RAS Proto-Oncogenes",
+    "explain": "Normal EGFR signaling begins when EGF binds the receptor's extracellular domain, leading to phosphorylation of its intracellular domain. Truncation or other activating mutations can cause inappropriate receptor activation. RAS-family GTPases—HRAS, NRAS, and KRAS—are also proto-oncogene products.",
+    "mustKnow": [
+      "EGF binding activates EGFR phosphorylation and signaling.",
+      "EGFR truncation can produce inappropriate hyperactivation.",
+      "HRAS, NRAS, and KRAS are RAS GTPases."
+    ],
+    "terms": [
+      {
+        "term": "EGFR",
+        "meaning": "Epidermal growth factor receptor, a signaling receptor that can become oncogenic."
+      },
+      {
+        "term": "Hyperphosphorylation",
+        "meaning": "Excessive phosphorylation associated here with inappropriate receptor activation."
+      },
+      {
+        "term": "RAS GTPase",
+        "meaning": "A molecular switch protein that signals in a GTP-bound state."
+      },
+      {
+        "term": "Activating mutation",
+        "meaning": "A mutation that increases or inappropriately turns on protein function."
+      }
+    ],
+    "diagramGuide": [
+      "EGF binding induces receptor phosphorylation; extracellular-domain truncation produces ligand-independent phosphorylation.",
+      "RAS is OFF when GDP-bound and ON when GTP-bound.",
+      "RAS GAP accelerates return to the GDP-bound OFF state."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which molecular state represents active RAS in the diagram?",
+      "options": [
+        "GDP-bound RAS",
+        "RAS bound only to GAP",
+        "Unphosphorylated EGFR",
+        "GTP-bound RAS"
+      ],
+      "answer": 3,
+      "explanation": "The figure marks RAS-GTP as ON and RAS-GDP as OFF."
+    }
+  },
+  {
+    "page": 346,
+    "title": "p53 Stops the Cell Cycle After DNA Damage",
+    "explain": "DNA damage raises p53 activity. As a transcription factor, p53 increases p21 expression. p21 inhibits cyclin-CDK complexes, pausing the cell cycle while repair occurs. Cancer-associated p53 mutations commonly disable this transcriptional tumor-suppressor function.",
+    "mustKnow": [
+      "DNA damage induces p53.",
+      "p53 upregulates p21.",
+      "p21 inhibits cyclin-CDK and arrests the cell cycle.",
+      "Cancer mutations often inactivate p53."
+    ],
+    "terms": [
+      {
+        "term": "p53",
+        "meaning": "A tumor-suppressor transcription factor activated by cellular damage."
+      },
+      {
+        "term": "p21",
+        "meaning": "A p53-induced inhibitor of cyclin-CDK activity."
+      },
+      {
+        "term": "CDK",
+        "meaning": "A cyclin-dependent kinase that helps drive cell-cycle progression."
+      },
+      {
+        "term": "Cell-cycle arrest",
+        "meaning": "A temporary or permanent stop in cell-cycle progression."
+      }
+    ],
+    "diagramGuide": [
+      "The cell-cycle wheel places p21 downstream of p53 and upstream of cyclin-CDK inhibition.",
+      "The protein structure maps cancer-associated and anticancer mutations to different positions.",
+      "Follow the causal chain: DNA damage -> p53 -> p21 -> CDK/cyclin inhibition -> arrest."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which change would most directly defeat p53-mediated cell-cycle arrest after DNA damage?",
+      "options": [
+        "Reduced cyclin-CDK activity",
+        "Activation of a checkpoint kinase",
+        "Loss of p21 induction",
+        "Increased DNA repair"
+      ],
+      "answer": 2,
+      "explanation": "p21 is the p53-induced inhibitor that shuts down cyclin-CDK activity."
+    }
+  },
+  {
+    "page": 347,
+    "title": "MDM2 and MDMX Restrain p53",
+    "explain": "MDM2 and MDMX bind p53 and inhibit its transcriptional activity. MDM2 also promotes p53 nuclear export, ubiquitination, and proteasomal degradation, reducing expression of p53 target genes responsible for tumor suppression.",
+    "mustKnow": [
+      "MDM2 and MDMX are negative regulators of p53.",
+      "Both can inhibit p53 transcriptional activity.",
+      "MDM2 promotes p53 ubiquitination and proteasomal degradation."
+    ],
+    "terms": [
+      {
+        "term": "MDM2",
+        "meaning": "A p53-binding negative regulator that promotes p53 ubiquitination and degradation."
+      },
+      {
+        "term": "MDMX",
+        "meaning": "A p53-binding negative regulator that suppresses p53 transcriptional activity."
+      },
+      {
+        "term": "Proteasomal degradation",
+        "meaning": "Destruction of a tagged protein by the proteasome."
+      },
+      {
+        "term": "Nuclear export",
+        "meaning": "Movement of a molecule from the nucleus to the cytoplasm."
+      }
+    ],
+    "diagramGuide": [
+      "At the DNA, both p53-MDMX and p53-MDM2 complexes inhibit p53 transcriptional activity.",
+      "MDM2 additionally drives nuclear export, ubiquitination, and proteasomal degradation of p53.",
+      "The arrows form a route from nuclear p53 to cytoplasmic destruction."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which MDM2 action is not shown as the principal action of MDMX in this diagram?",
+      "options": [
+        "Reducing p53 target-gene expression",
+        "Promoting p53 ubiquitination and proteasomal degradation",
+        "Binding p53",
+        "Inhibiting p53 transcriptional activity"
+      ],
+      "answer": 1,
+      "explanation": "The slide assigns the ubiquitination/export/degradation route specifically to MDM2."
+    }
+  },
+  {
+    "page": 348,
+    "title": "MDMX Modulates MDM2 Activity",
+    "explain": "MDMX binds p53 and blocks its transcriptional activity. It can also form a heterodimer with MDM2, enhancing MDM2's E3 activity toward p53 and strengthening p53 degradation. The MDM2-MDMX interaction also changes the stability and ubiquitination of the regulators themselves.",
+    "mustKnow": [
+      "MDMX directly inhibits p53 transcriptional activity.",
+      "MDMX forms a heterodimer with MDM2.",
+      "The heterodimer strengthens ubiquitination of p53.",
+      "MDM2 and MDMX also regulate each other's stability."
+    ],
+    "terms": [
+      {
+        "term": "Heterodimer",
+        "meaning": "A complex made from two different protein subunits."
+      },
+      {
+        "term": "E3 activity",
+        "meaning": "Ubiquitin-ligase activity that helps attach ubiquitin to selected targets."
+      },
+      {
+        "term": "Self-ubiquitination",
+        "meaning": "Attachment of ubiquitin to the ubiquitin ligase itself."
+      },
+      {
+        "term": "Transactivation domain",
+        "meaning": "A transcription-factor region that helps activate target-gene expression."
+      }
+    ],
+    "diagramGuide": [
+      "Upper branch: MDMX binds p53 and inhibits transcription.",
+      "Middle branch: an MDMX-MDM2 heterodimer has stronger E3 activity toward p53 than MDM2 alone.",
+      "Lower branches show reciprocal effects on MDM2 and MDMX ubiquitination and stability."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What is the consequence of forming the MDM2-MDMX heterodimer shown in the central branch?",
+      "options": [
+        "Enhanced E3 activity toward p53",
+        "Loss of all p53 binding",
+        "Activation of p53 transcription",
+        "Conversion of MDM2 into a kinase"
+      ],
+      "answer": 0,
+      "explanation": "The heterodimer is labeled as having stronger E3 activity than MDM2 alone."
+    }
+  },
+  {
+    "page": 349,
+    "title": "What Oral Tablets and Capsules Contain",
+    "explain": "Only about 5-10% of an oral formulation may be active pharmaceutical ingredient. Much of the rest consists of fillers, lubricants, glidants, and materials that help the dose disintegrate and dissolve. Hard capsules carry dry powders or pellets, while soft capsules are suited to oils or drug dissolved or suspended in oil.",
+    "mustKnow": [
+      "API may form only 5-10% of an oral product.",
+      "Excipients support manufacturing, disintegration, and dissolution.",
+      "Hard capsules hold dry powders or pellets.",
+      "Soft capsules are used for oils or oil-based contents."
+    ],
+    "terms": [
+      {
+        "term": "API",
+        "meaning": "Active pharmaceutical ingredient, the component producing the intended drug effect."
+      },
+      {
+        "term": "Excipient",
+        "meaning": "A non-active formulation component such as a filler, lubricant, or glidant."
+      },
+      {
+        "term": "Disintegration",
+        "meaning": "Breaking of a tablet or capsule contents into smaller pieces."
+      },
+      {
+        "term": "Dissolution",
+        "meaning": "Movement of drug molecules into solution."
+      }
+    ],
+    "diagramGuide": [
+      "The percentage labels contrast a small API fraction with a much larger excipient fraction.",
+      "Hard capsules are paired with powders or pellets; soft capsules with oils or oil-based drug.",
+      "The structures and packages are examples, not a reaction pathway."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which dosage-form pairing is correct?",
+      "options": [
+        "Hard capsule - exclusively volatile liquid",
+        "Tablet - approximately 90% API",
+        "Soft capsule - dry miniature pellets only",
+        "Soft capsule - API dissolved or suspended in oil"
+      ],
+      "answer": 3,
+      "explanation": "The slide assigns oils and oil-based formulations to soft-shelled capsules."
+    }
+  },
+  {
+    "page": 350,
+    "title": "Steps Limiting Oral Drug Absorption",
+    "explain": "After an oral dose, the formulation must disintegrate and the drug must dissolve, cross the gastrointestinal wall, and enter the portal vein. Gut-wall and liver metabolism can remove part of the dose before it reaches systemic circulation. The fraction that reaches circulation contributes to bioavailability.",
+    "mustKnow": [
+      "Disintegration and dissolution occur before absorption.",
+      "Drug crosses the gastrointestinal wall into portal blood.",
+      "Gut-wall and hepatic metabolism can reduce the amount reaching circulation.",
+      "Bioavailability reflects drug reaching systemic circulation."
+    ],
+    "terms": [
+      {
+        "term": "Absorption",
+        "meaning": "Movement of a drug from its administration site into the bloodstream."
+      },
+      {
+        "term": "Portal vein",
+        "meaning": "The vessel carrying absorbed gastrointestinal contents to the liver."
+      },
+      {
+        "term": "Hepatic metabolism",
+        "meaning": "Chemical processing of a drug by the liver."
+      },
+      {
+        "term": "Bioavailability",
+        "meaning": "The fraction of an administered dose that reaches systemic circulation."
+      }
+    ],
+    "diagramGuide": [
+      "Follow the route: dosage form -> disintegration/dissolution -> GI preparation -> portal vein -> liver -> hepatic vein/systemic circulation.",
+      "Side arrows mark losses by fecal excretion, gut-wall metabolism, and hepatic metabolism.",
+      "Bioavailability is assessed after these pre-systemic losses."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which route exposes an absorbed oral drug to hepatic metabolism before systemic circulation?",
+      "options": [
+        "Lymphatic vessel to kidney",
+        "Aorta to stomach",
+        "Portal vein to liver",
+        "Hepatic vein to intestine"
+      ],
+      "answer": 2,
+      "explanation": "GI absorption drains into the portal vein and then the liver."
+    }
+  },
+  {
+    "page": 351,
+    "title": "Drug Administration Routes",
+    "explain": "The route of administration controls where a drug enters the body and how quickly or directly it reaches its target. IV delivery enters the bloodstream directly, while routes such as oral, intramuscular, subcutaneous, inhaled, topical, transdermal, sublingual, epidural, and rectal delivery use different tissues for absorption.",
+    "mustKnow": [
+      "IV delivery avoids breakdown in the digestive tract.",
+      "Intramuscular delivery can be absorbed rapidly because muscle has many blood vessels.",
+      "Subcutaneous delivery is used for drugs such as insulin and monoclonal antibodies.",
+      "Transdermal patches provide controlled delivery through the skin."
+    ],
+    "terms": [
+      {
+        "term": "IV",
+        "meaning": "Intravenous delivery directly into a vein."
+      },
+      {
+        "term": "IM",
+        "meaning": "Intramuscular injection into muscle."
+      },
+      {
+        "term": "SC",
+        "meaning": "Subcutaneous injection below the dermis and epidermis."
+      },
+      {
+        "term": "Sublingual",
+        "meaning": "Delivery under the tongue for absorption through the mucous membrane."
+      }
+    ],
+    "diagramGuide": [
+      "Use the body map to distinguish local routes from routes entering blood rapidly.",
+      "IV is intravascular; IM enters vascular muscle; SC is below dermis; sublingual crosses oral mucosa.",
+      "Transdermal patches emphasize controlled delivery, unlike topical preparations intended mainly for local action."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which route is paired with direct entry into venous circulation through oral mucosa?",
+      "options": [
+        "Otic",
+        "Sublingual",
+        "Topical",
+        "Intramuscular"
+      ],
+      "answer": 1,
+      "explanation": "The slide states that sublingual drugs cross the mucous membrane and enter venous circulation."
+    }
+  },
+  {
+    "page": 352,
+    "title": "ADME Properties",
+    "explain": "ADME summarizes what the body does to a drug: it is absorbed into blood, distributed to tissues, chemically modified by metabolism, and removed by excretion. These stages determine how much active drug reaches its target and how long it remains in the body.",
+    "mustKnow": [
+      "Absorption moves a drug from its administration site into blood.",
+      "Distribution moves the drug from blood into tissues.",
+      "Metabolism can inactivate a drug or activate a prodrug.",
+      "Excretion occurs mainly through the kidneys, but also through bile and other routes."
+    ],
+    "terms": [
+      {
+        "term": "ADME",
+        "meaning": "Absorption, distribution, metabolism, and excretion."
+      },
+      {
+        "term": "Bioavailability",
+        "meaning": "The fraction of an administered drug that reaches systemic circulation."
+      },
+      {
+        "term": "CYP450",
+        "meaning": "A major enzyme family involved in drug metabolism."
+      }
+    ],
+    "diagramGuide": [
+      "Read ADME vertically as a sequence, but note that each box has distinct determinants.",
+      "Distribution is governed by blood flow, size, lipophilicity, and plasma-protein interaction.",
+      "Metabolism is mainly CYP450-mediated; excretion is mainly renal, with several secondary routes."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which property is listed as a determinant of distribution rather than absorption?",
+      "options": [
+        "Plasma-protein interaction",
+        "Dosage form",
+        "Route of administration",
+        "Food interaction at administration"
+      ],
+      "answer": 0,
+      "explanation": "Plasma-protein binding appears in the distribution box."
+    }
+  },
+  {
+    "page": 353,
+    "title": "Lecture 34: Drug Development",
+    "explain": "This lecture section focuses on how drugs move through the body, how they are metabolized, and how a large pool of candidate compounds is narrowed to an approved drug.",
+    "mustKnow": [
+      "The section links pharmacokinetics, metabolism, and the drug-development pipeline."
+    ],
+    "terms": [
+      {
+        "term": "Drug development",
+        "meaning": "The process of turning a candidate molecule into a tested and approved medicine."
+      }
+    ],
+    "diagramGuide": [
+      "This divider begins Lecture 34 on Drug Development."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which lecture number introduces the pharmacokinetics and metabolism section?",
+      "options": [
+        "Lecture 32",
+        "Lecture 35",
+        "Lecture 37",
+        "Lecture 34"
+      ],
+      "answer": 3,
+      "explanation": "The title slide identifies this as Lecture 34."
+    }
+  },
+  {
+    "page": 354,
+    "title": "ADME Revisited",
+    "explain": "A drug must pass through four linked stages. Route and formulation affect absorption; blood flow and binding affect distribution; enzymes alter the drug during metabolism; and kidneys, bile, lungs, or secretions remove it during excretion.",
+    "mustKnow": [
+      "ADME stages are linked rather than independent.",
+      "Distribution depends on factors such as blood flow, molecular size, lipophilicity, and plasma-protein binding.",
+      "Kidney removal is the main excretion route shown."
+    ],
+    "terms": [
+      {
+        "term": "Lipophilicity",
+        "meaning": "A molecule's tendency to dissolve in fats rather than water."
+      },
+      {
+        "term": "Plasma protein",
+        "meaning": "A blood protein that can bind a drug and affect its distribution."
+      },
+      {
+        "term": "Prodrug",
+        "meaning": "An inactive or less active compound converted into an active drug in the body."
+      }
+    ],
+    "diagramGuide": [
+      "Absorption covers entry to blood and bioavailability; distribution covers movement from blood to tissues.",
+      "Metabolism can detoxify, create toxicity, or activate a prodrug.",
+      "Excretion is mainly renal but can also occur through bile, lungs, and secretions."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "A compound becomes pharmacologically active only after CYP450 conversion. Which ADME statement fits it?",
+      "options": [
+        "It is distributed only in plasma",
+        "It bypasses chemical alteration",
+        "It is a prodrug activated during metabolism",
+        "It is excreted before absorption"
+      ],
+      "answer": 2,
+      "explanation": "The metabolism box explicitly includes conversion of a prodrug to its active form."
+    }
+  },
+  {
+    "page": 355,
+    "title": "Pharmacokinetic Concentration Curve",
+    "explain": "A plasma-concentration curve tracks drug level over time. Cmax is the highest concentration, tmax is when that peak occurs, half-life describes how quickly the level falls, and AUC measures total exposure.",
+    "mustKnow": [
+      "Cmax is the maximum plasma concentration.",
+      "tmax is the time at which Cmax occurs.",
+      "t1/2 is the drug half-life.",
+      "AUC represents total drug exposure over time."
+    ],
+    "terms": [
+      {
+        "term": "Cmax",
+        "meaning": "Maximum observed plasma-drug concentration."
+      },
+      {
+        "term": "tmax",
+        "meaning": "Time required to reach Cmax."
+      },
+      {
+        "term": "Half-life",
+        "meaning": "Time required for the drug concentration to fall by half."
+      },
+      {
+        "term": "AUC",
+        "meaning": "Area under the concentration-time curve, representing total exposure."
+      }
+    ],
+    "diagramGuide": [
+      "MEC is the minimum effective concentration; MSC is the upper safety threshold shown below the toxic level.",
+      "Cmax is the curve's peak and tmax is its time coordinate.",
+      "AUC is the area under the entire concentration-time curve and represents total exposure."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Two formulations have the same Cmax, but formulation X has a larger AUC. What differs most directly?",
+      "options": [
+        "Minimum effective concentration",
+        "Total drug exposure",
+        "Peak concentration",
+        "Time of peak by definition"
+      ],
+      "answer": 1,
+      "explanation": "AUC, not Cmax, measures total exposure over time."
+    }
+  },
+  {
+    "page": 356,
+    "title": "Drug Metabolism Reactions",
+    "explain": "Drug metabolism generally makes lipophilic compounds more water-compatible so they can be eliminated. Oxidation, reduction, hydrolysis, and related reactions introduce or expose functional groups, while conjugation attaches highly hydrophilic groups.",
+    "mustKnow": [
+      "Metabolism commonly converts lipophilic molecules into more hydrophilic products.",
+      "Hydroxylation, hydrolysis, reduction, dealkylation, and oxidation are listed metabolic reactions.",
+      "Glucuronidation, sulphonation, glutathione conjugation, methylation, and acetylation are conjugation reactions.",
+      "Metabolism may detoxify a drug, activate it, or produce a toxic metabolite."
+    ],
+    "terms": [
+      {
+        "term": "Hydroxylation",
+        "meaning": "Addition of a hydroxyl group during metabolism."
+      },
+      {
+        "term": "Hydrolysis",
+        "meaning": "Bond cleavage using water, such as cleavage of an ester or amide."
+      },
+      {
+        "term": "Conjugation",
+        "meaning": "Attachment of a hydrophilic group to a drug or metabolite."
+      },
+      {
+        "term": "Glucuronidation",
+        "meaning": "Conjugation with glucuronic acid to aid elimination."
+      }
+    ],
+    "diagramGuide": [
+      "Left list: Phase I-style reactions oxidize, reduce, or hydrolyze lipophilic drugs.",
+      "Right list: conjugation attaches hydrophilic endogenous groups.",
+      "The central flow warns that metabolism can yield detoxified, active, or toxic metabolites."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which reaction is a conjugation rather than a Phase I functionalization?",
+      "options": [
+        "Glucuronidation",
+        "Epoxidation",
+        "Oxidative deamination",
+        "Dealkylation"
+      ],
+      "answer": 0,
+      "explanation": "Glucuronidation is listed among conjugation reactions."
+    }
+  },
+  {
+    "page": 357,
+    "title": "Paracetamol Metabolism",
+    "explain": "Paracetamol follows multiple metabolic routes. Most is converted to conjugated products, while a smaller route creates a reactive metabolite that can be neutralized by glutathione. The diagram highlights glutathione as a protective detoxification molecule.",
+    "mustKnow": [
+      "Paracetamol has several competing metabolic pathways.",
+      "Glutathione detoxifies a reactive paracetamol metabolite.",
+      "Loss of sufficient glutathione increases the danger from the reactive pathway."
+    ],
+    "terms": [
+      {
+        "term": "Glutathione",
+        "meaning": "A cellular molecule that conjugates and detoxifies reactive compounds."
+      },
+      {
+        "term": "Reactive metabolite",
+        "meaning": "A chemically reactive metabolic product capable of damaging cellular molecules."
+      },
+      {
+        "term": "Conjugate",
+        "meaning": "A product formed by attaching another chemical group to a molecule."
+      }
+    ],
+    "diagramGuide": [
+      "Most paracetamol goes to glucuronide and sulfate conjugates.",
+      "A smaller CYP route forms NAPQI, which is detoxified by glutathione to an APAP-GSH conjugate.",
+      "When not detoxified, NAPQI can form protein adducts; a separate deacetylation route is also shown."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which metabolite is directly neutralized by glutathione in the pathway?",
+      "options": [
+        "Paracetamol glucuronide",
+        "Paracetamol sulfate",
+        "p-Aminophenol",
+        "NAPQI"
+      ],
+      "answer": 3,
+      "explanation": "The diagram connects NAPQI to glutathione and the APAP-GSH conjugate."
+    }
+  },
+  {
+    "page": 358,
+    "title": "Phase III Handling of Glutathione Conjugates",
+    "explain": "Glutathione conjugates can be processed through the mercapturic acid pathway. Enzymes shorten the glutathione portion to a cysteine conjugate, which may be N-acetylated and excreted in urine. A competing beta-lyase route can generate reactive thiols that damage the kidney.",
+    "mustKnow": [
+      "The mercapturic acid pathway degrades glutathione conjugates.",
+      "Cysteine conjugates can be N-acetylated before urinary excretion.",
+      "Beta-lyase can instead produce reactive thiols associated with nephrotoxicity."
+    ],
+    "terms": [
+      {
+        "term": "Mercapturic acid pathway",
+        "meaning": "A pathway that processes glutathione conjugates toward excretion."
+      },
+      {
+        "term": "N-acetylation",
+        "meaning": "Addition of an acetyl group to nitrogen."
+      },
+      {
+        "term": "Beta-lyase",
+        "meaning": "An enzyme that can break down cysteine conjugates to reactive thiols."
+      },
+      {
+        "term": "Nephrotoxicity",
+        "meaning": "Toxic damage to the kidneys."
+      }
+    ],
+    "diagramGuide": [
+      "Top sequence: glutathione conjugate loses glutamate, then glycine, yielding a cysteine conjugate; NAT-mediated acetylation forms a mercapturic-acid derivative.",
+      "Bottom branch: beta-lyase converts a cysteine conjugate into a reactive thiol associated with nephrotoxicity."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which enzyme-dependent branch is associated with formation of a nephrotoxic reactive thiol?",
+      "options": [
+        "Gamma-glutamyl transpeptidase cleavage alone",
+        "Cysteinyl glycinase cleavage alone",
+        "Beta-lyase cleavage",
+        "N-acetyltransferase conjugation"
+      ],
+      "answer": 2,
+      "explanation": "The lower pathway labels beta-lyase and ends in a reactive thiol."
+    }
+  },
+  {
+    "page": 359,
+    "title": "Main Drug-Development Stages",
+    "explain": "Drug development moves from discovery to preclinical testing, clinical development in humans, and regulatory review. Each stage asks a different question: whether a lead exists, whether it appears sufficiently safe and active before human use, whether it works in people, and whether authorities approve it.",
+    "mustKnow": [
+      "Drug discovery includes target identification, validation, lead finding, and lead optimization.",
+      "Preclinical development includes short-term testing, formulation, and pharmacokinetics.",
+      "Clinical development proceeds through Phase I, II, and III studies.",
+      "Regulatory approval follows review of efficacy and safety data."
+    ],
+    "terms": [
+      {
+        "term": "Preclinical",
+        "meaning": "Testing performed before human clinical trials."
+      },
+      {
+        "term": "Clinical trial",
+        "meaning": "A controlled study of a drug in human participants."
+      },
+      {
+        "term": "Regulatory approval",
+        "meaning": "Authorization by a regulatory authority to market a drug."
+      }
+    ],
+    "diagramGuide": [
+      "Read the pipeline left to right: discovery, preclinical development, clinical development, regulatory approval.",
+      "Clinical Step 1 emphasizes small safety/tolerance studies; Step 2 efficacy plus longer toxicity; Step 3 large trials.",
+      "Regulatory review follows the clinical stages."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "At which stage are selected side effects first studied in healthy volunteers?",
+      "options": [
+        "Regulatory approval",
+        "Clinical development Step 1",
+        "Lead finding",
+        "Preclinical formulation"
+      ],
+      "answer": 1,
+      "explanation": "Step 1 lists selected side effects in healthy volunteers."
+    }
+  },
+  {
+    "page": 360,
+    "title": "From 10,000 Candidates to One Drug",
+    "explain": "Drug discovery is a severe filtering process. Thousands of candidates are progressively tested against many requirements, including target activity, safety, stability, solubility, reversibility, oral usefulness, patentability, and manufacturability, until very few remain.",
+    "mustKnow": [
+      "About 10,000 candidates may be narrowed to one drug molecule.",
+      "Potency alone is not enough for a candidate to succeed.",
+      "Safety, pharmacokinetic, formulation, and manufacturing properties also matter."
+    ],
+    "terms": [
+      {
+        "term": "Candidate",
+        "meaning": "A molecule being evaluated as a possible drug."
+      },
+      {
+        "term": "Lead optimization",
+        "meaning": "Modification of a promising compound to improve its overall drug properties."
+      },
+      {
+        "term": "Manufacturability",
+        "meaning": "The practicality of producing a molecule reliably at useful scale."
+      }
+    ],
+    "diagramGuide": [
+      "The staircase is a multi-parameter filter from 10,000 candidates to one molecule.",
+      "The labels span potency/selectivity through solubility, permeability, metabolic stability, safety, patentability, and manufacturability.",
+      "A candidate can fail despite strong target activity if it fails a later property."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which criterion appears latest on the staircase, closest to the surviving drug?",
+      "options": [
+        "Manufacturability",
+        "Target engagement",
+        "Potency",
+        "Selectivity"
+      ],
+      "answer": 0,
+      "explanation": "Manufacturability is printed at the top of the final steps."
+    }
+  },
+  {
+    "page": 361,
+    "title": "Attrition and Scale-Up",
+    "explain": "The development funnel shown reduces roughly 10,000 discovery compounds to about 250 entering preclinical work, about five entering clinical development, and one final compound. The manufacturing images emphasize that the surviving molecule must also be produced safely and at large scale.",
+    "mustKnow": [
+      "Drug development has very high attrition.",
+      "The funnel shown narrows 10,000 compounds to 250, then five, then one.",
+      "Large-scale manufacturing is part of turning a compound into a usable product."
+    ],
+    "terms": [
+      {
+        "term": "Attrition",
+        "meaning": "Loss of candidates as they fail successive development stages."
+      },
+      {
+        "term": "Scale-up",
+        "meaning": "Expansion of production from small laboratory quantities to manufacturing quantities."
+      }
+    ],
+    "diagramGuide": [
+      "The funnel quantifies attrition: about 10,000 discovery compounds -> 250 preclinical -> 5 clinical -> 1 approved.",
+      "Clinical phases I-IV are listed beside the narrow portion.",
+      "The plant photographs emphasize process development and scale-up after molecular selection."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Approximately what fraction of the original 10,000 compounds reaches clinical development in the illustrated funnel?",
+      "options": [
+        "250 of 10,000",
+        "1 of 250",
+        "5 of 250",
+        "5 of 10,000"
+      ],
+      "answer": 3,
+      "explanation": "The funnel labels five compounds at clinical development from an initial 10,000."
+    }
+  },
+  {
+    "page": 362,
+    "title": "Lecture 35: Drug Discovery",
+    "explain": "This lecture section introduces biological drug targets, computational screening, high-throughput screening, the RAAS pathway, and the development of ACE inhibitors.",
+    "mustKnow": [
+      "The section connects target biology with methods for discovering and optimizing drugs."
+    ],
+    "terms": [
+      {
+        "term": "Drug discovery",
+        "meaning": "The early process of finding and improving molecules that act on a biological target."
+      }
+    ],
+    "diagramGuide": [
+      "This divider begins Lecture 35 on Drug Development."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which topic begins immediately after this divider?",
+      "options": [
+        "FRET microscopy",
+        "Apoptotic caspases",
+        "Biomolecules as drug targets",
+        "Cancer incidence"
+      ],
+      "answer": 2,
+      "explanation": "The next slide introduces biomolecule classes relevant to drug development."
+    }
+  },
+  {
+    "page": 363,
+    "title": "Biomolecules as Drug Targets",
+    "explain": "Drug discovery can focus on different classes of biomolecules. Proteins include receptors, enzymes, carrier proteins, and structural proteins; nucleic acids include DNA and RNA; lipids form cell membranes; and carbohydrates appear on cell surfaces and in recognition molecules.",
+    "mustKnow": [
+      "Important protein targets include receptors and enzymes.",
+      "DNA and RNA are nucleic-acid targets.",
+      "Lipids and carbohydrates can also participate in drug-relevant biology."
+    ],
+    "terms": [
+      {
+        "term": "Receptor",
+        "meaning": "A biomolecule that recognizes a signal or ligand and produces a response."
+      },
+      {
+        "term": "Carrier protein",
+        "meaning": "A protein that transports another molecule."
+      },
+      {
+        "term": "Nucleic acid",
+        "meaning": "DNA or RNA, molecules that store or use genetic information."
+      },
+      {
+        "term": "Cell-surface carbohydrate",
+        "meaning": "A carbohydrate exposed on a cell that can aid recognition."
+      }
+    ],
+    "diagramGuide": [
+      "Four target classes are arranged vertically: proteins, nucleic acids, lipids, and carbohydrates.",
+      "Examples beside proteins include receptors, enzymes, carriers, and tubulin; carbohydrates include antigens and recognition molecules."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which listed target is classified as a structural protein?",
+      "options": [
+        "Cell-surface antigen",
+        "Tubulin",
+        "DNA",
+        "Phospholipid"
+      ],
+      "answer": 1,
+      "explanation": "Tubulin appears under structural proteins."
+    }
+  },
+  {
+    "page": 364,
+    "title": "Computational Drug Discovery",
+    "explain": "In-silico virtual screening uses computation to rank molecules before laboratory testing. Structure-based methods use a target's three-dimensional structure for docking, scoring, and ranking, while ligand-based methods use known ligands through similarity, pharmacophore, or QSAR models. Predicted hits still require a biological assay.",
+    "mustKnow": [
+      "Structure-based screening uses the target structure.",
+      "Ligand-based screening uses information from known ligands.",
+      "Docking and scoring rank predicted binders.",
+      "Computational hits must be tested experimentally."
+    ],
+    "terms": [
+      {
+        "term": "Virtual screening",
+        "meaning": "Computational evaluation of many compounds as potential hits."
+      },
+      {
+        "term": "Docking",
+        "meaning": "Prediction of how a molecule may fit into a target binding site."
+      },
+      {
+        "term": "Pharmacophore",
+        "meaning": "A pattern of features associated with biological activity."
+      },
+      {
+        "term": "QSAR",
+        "meaning": "A model relating chemical structure to measured biological activity."
+      }
+    ],
+    "diagramGuide": [
+      "Top split: structure-based screening starts from a protein structure; ligand-based screening starts from known small molecules.",
+      "Both streams pass through filters for drug-likeness/toxicity and ADME.",
+      "A final hit list still proceeds to a biological assay."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which method belongs to ligand-based virtual screening?",
+      "options": [
+        "Pharmacophore mapping",
+        "Protein-ligand docking",
+        "Structure-based scoring",
+        "Active-site geometry ranking"
+      ],
+      "answer": 0,
+      "explanation": "Pharmacophore mapping is listed in the ligand-based branch."
+    }
+  },
+  {
+    "page": 365,
+    "title": "High-Throughput Screening",
+    "explain": "High-throughput screening, or HTS, uses automated assays to test very large compound libraries rapidly. Primary hits are checked again in secondary assays, confirmed hits are evaluated for dose-response behavior, and promising compounds become leads for optimization.",
+    "mustKnow": [
+      "HTS searches compound libraries for initial hits.",
+      "Automation allows many samples to be tested rapidly.",
+      "Primary hits require confirmation and dose-response testing.",
+      "Confirmed hits can become leads for medicinal chemistry."
+    ],
+    "terms": [
+      {
+        "term": "HTS",
+        "meaning": "Automated testing of large numbers of compounds in an assay."
+      },
+      {
+        "term": "Hit",
+        "meaning": "A compound that produces the desired result in a screening assay."
+      },
+      {
+        "term": "Lead",
+        "meaning": "A promising hit selected for further optimization."
+      },
+      {
+        "term": "Dose-response",
+        "meaning": "The relationship between compound concentration and measured effect."
+      }
+    ],
+    "diagramGuide": [
+      "The funnel starts with a biological assay and a large chemical library.",
+      "Primary hits undergo secondary/counter screens, confirmation, then SAR and medicinal chemistry before becoming leads.",
+      "Automation images explain how many compounds can be tested quickly."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What is the main purpose of a counter screen after the primary HTS?",
+      "options": [
+        "Increase the library size",
+        "Replace the biological assay with docking",
+        "Begin Phase III clinical trials",
+        "Eliminate nonspecific or artifactual hits"
+      ],
+      "answer": 3,
+      "explanation": "Secondary and counter screens test whether primary activity is genuine and specific."
+    }
+  },
+  {
+    "page": 366,
+    "title": "Renin-Angiotensin-Aldosterone System",
+    "explain": "Low blood pressure or low sodium activates renin release from the kidney. Renin helps generate angiotensin I, and ACE converts it to angiotensin II. Angiotensin II raises blood pressure through vasoconstriction and by promoting aldosterone-dependent sodium and water retention.",
+    "mustKnow": [
+      "Low blood pressure stimulates renin release.",
+      "ACE converts angiotensin I to angiotensin II.",
+      "Angiotensin II causes vasoconstriction.",
+      "Aldosterone increases sodium and water retention, increasing blood pressure."
+    ],
+    "terms": [
+      {
+        "term": "Renin",
+        "meaning": "A kidney-released enzyme that initiates the RAAS cascade."
+      },
+      {
+        "term": "ACE",
+        "meaning": "Angiotensin-converting enzyme, which generates angiotensin II from angiotensin I."
+      },
+      {
+        "term": "Angiotensin II",
+        "meaning": "A RAAS peptide that promotes vasoconstriction and aldosterone release."
+      },
+      {
+        "term": "Aldosterone",
+        "meaning": "A hormone that increases renal sodium and water retention."
+      }
+    ],
+    "diagramGuide": [
+      "Start at low blood volume/pressure: kidney JG cells release renin.",
+      "Liver angiotensinogen is processed to angiotensin I; lung ACE produces angiotensin II.",
+      "Angiotensin II causes vasoconstriction and aldosterone release; aldosterone increases sodium and water retention, restoring pressure."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which intervention would most directly reduce formation of angiotensin II from angiotensin I?",
+      "options": [
+        "Renin stimulation",
+        "Increased sodium reabsorption",
+        "ACE inhibition",
+        "Aldosterone agonism"
+      ],
+      "answer": 2,
+      "explanation": "ACE is the enzyme shown between angiotensin I and angiotensin II."
+    }
+  },
+  {
+    "page": 367,
+    "title": "Angiotensin Peptides and ACE",
+    "explain": "Angiotensins are related peptide hormones generated by stepwise cleavage. The slide shows angiotensin I as a peptide substrate and ACE as the enzyme that removes residues to generate shorter angiotensin products, including active angiotensin II.",
+    "mustKnow": [
+      "Angiotensin I is a peptide precursor.",
+      "ACE processes angiotensin I into a shorter peptide product.",
+      "ACE has a defined active site that recognizes peptide substrates."
+    ],
+    "terms": [
+      {
+        "term": "Peptide",
+        "meaning": "A chain of amino acids linked by peptide bonds."
+      },
+      {
+        "term": "Precursor",
+        "meaning": "A molecule converted into another product in a pathway."
+      },
+      {
+        "term": "Active site",
+        "meaning": "The region of an enzyme where substrate binding and catalysis occur."
+      }
+    ],
+    "diagramGuide": [
+      "The numbered circles show peptide shortening from angiotensin I.",
+      "ACE and ACE2 generate different products: ACE makes angiotensin II, whereas ACE2 routes toward angiotensin 1-9 or 1-7.",
+      "The structural panels locate a catalytic Zn2+ in the enzyme active site."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which product is generated directly from angiotensin I by ACE in the diagram?",
+      "options": [
+        "Angiotensin 1-5",
+        "Angiotensin II",
+        "Angiotensin 1-7",
+        "Angiotensin IV"
+      ],
+      "answer": 1,
+      "explanation": "The left branch labels ACE conversion of angiotensin I to angiotensin II."
+    }
+  },
+  {
+    "page": 368,
+    "title": "Captopril: First ACE Inhibitor",
+    "explain": "The path to captopril began with teprotide, a nine-amino-acid ACE inhibitor isolated from Brazilian pit-viper venom. Researchers synthesized analogs of this venom peptide, leading to captopril, the first orally bioavailable ACE inhibitor.",
+    "mustKnow": [
+      "Bothrops jararaca venom showed blood-pressure-lowering activity.",
+      "Teprotide is a nonapeptide that inhibits ACE.",
+      "Captopril was developed from analog studies inspired by teprotide.",
+      "Captopril was the first orally bioavailable ACE inhibitor."
+    ],
+    "terms": [
+      {
+        "term": "Teprotide",
+        "meaning": "A nine-amino-acid ACE-inhibiting peptide isolated from pit-viper venom."
+      },
+      {
+        "term": "ACE inhibitor",
+        "meaning": "A compound that blocks angiotensin-converting enzyme."
+      },
+      {
+        "term": "Orally bioavailable",
+        "meaning": "Able to reach systemic circulation in an active form after oral dosing."
+      },
+      {
+        "term": "Analog",
+        "meaning": "A chemically related molecule made by modifying a starting structure."
+      }
+    ],
+    "diagramGuide": [
+      "The slide connects pit-viper venom to teprotide, then medicinal-chemistry analogs to captopril.",
+      "Teprotide is a nonapeptide and inhibits ACE but captopril is highlighted as orally bioavailable.",
+      "The historical timeline ends with medical approval in 1980."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What property distinguished captopril from the venom peptide lead teprotide?",
+      "options": [
+        "Oral bioavailability",
+        "Nine-amino-acid length",
+        "Isolation directly from venom",
+        "Lack of ACE inhibition"
+      ],
+      "answer": 0,
+      "explanation": "Captopril is identified as the first orally bioavailable ACE inhibitor."
+    }
+  },
+  {
+    "page": 369,
+    "title": "How Captopril Binds ACE",
+    "explain": "Captopril uses several contacts in the ACE active site. Its zinc-binding group coordinates the catalytic Zn2+, its carboxylate forms ionic and hydrogen-bond interactions, and hydrophobic portions occupy hydrophobic binding regions.",
+    "mustKnow": [
+      "Coordination with Zn2+ is essential for captopril activity.",
+      "The carboxylate forms ionic and hydrogen-bond interactions.",
+      "Hydrophobic substituents can strengthen contacts in hydrophobic pockets."
+    ],
+    "terms": [
+      {
+        "term": "Coordination",
+        "meaning": "Binding interaction between a metal ion and an electron-donating group."
+      },
+      {
+        "term": "Carboxylate",
+        "meaning": "The negatively charged form of a carboxylic acid group."
+      },
+      {
+        "term": "Hydrogen bond",
+        "meaning": "A directional noncovalent attraction involving a hydrogen-bearing group."
+      },
+      {
+        "term": "Hydrophobic pocket",
+        "meaning": "A nonpolar region of a protein binding site."
+      }
+    ],
+    "diagramGuide": [
+      "The left atomic diagram labels residues contacting captopril and the catalytic zinc.",
+      "The right pocket separates zinc-binding, hydrogen-bonding, hydrophobic, and ionic regions.",
+      "Captopril's thiol coordinates Zn2+; its carboxylate makes ionic/H-bond contacts."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which captopril functional group coordinates the ACE Zn2+ most directly?",
+      "options": [
+        "Carboxylate",
+        "Amide carbonyl",
+        "Methyl group",
+        "Thiol"
+      ],
+      "answer": 3,
+      "explanation": "The diagram draws the sulfur-containing thiol at the zinc-binding site."
+    }
+  },
+  {
+    "page": 370,
+    "title": "Structure-Activity Relationships of ACE Inhibitors",
+    "explain": "ACE-inhibitor activity depends on recurring structural features. The N-ring contains a carboxylic acid, larger hydrophobic rings can improve potency and pharmacokinetics, and zinc-binding groups such as thiol, carboxylate, or phosphate interact with ACE. Esterification can create prodrugs.",
+    "mustKnow": [
+      "The N-ring must contain a carboxylic acid in the SAR shown.",
+      "Larger hydrophobic N-rings can improve potency and pharmacokinetics.",
+      "Thiol binds Zn2+ more strongly than the carboxylate and phosphate groups shown.",
+      "Esterification of carboxylate or phosphate can produce a prodrug."
+    ],
+    "terms": [
+      {
+        "term": "SAR",
+        "meaning": "Structure-activity relationship: how structural changes alter biological activity."
+      },
+      {
+        "term": "Thiol",
+        "meaning": "A sulfur-containing -SH group."
+      },
+      {
+        "term": "Esterification",
+        "meaning": "Conversion of an acid group into an ester."
+      },
+      {
+        "term": "Potency",
+        "meaning": "The amount of a compound required to produce a given effect."
+      }
+    ],
+    "diagramGuide": [
+      "The generic pharmacophore places a Zn2+-binding group at one end and an N-ring carboxylic acid at the other.",
+      "Thiol, carboxylate, and phosphate are compared as zinc-binding groups; thiol is stated to bind most strongly.",
+      "Esterifying acidic groups can mask charge and create prodrugs, as illustrated by enalapril versus enalaprilat."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which compound shown is the ester prodrug of enalaprilat?",
+      "options": [
+        "Quinaprilat",
+        "Captopril",
+        "Enalapril",
+        "Lisinopril"
+      ],
+      "answer": 2,
+      "explanation": "Enalapril is the esterified prodrug paired with active enalaprilat."
+    }
+  },
+  {
+    "page": 371,
+    "title": "Lecture 36: Discovery and Techniques",
+    "explain": "This lecture section combines drug-discovery strategies with experimental techniques, moving from computational and phenotypic screening to prodrugs and thermal shift assays.",
+    "mustKnow": [
+      "The section links compound discovery, drug-property improvement, and protein-stability measurement."
+    ],
+    "terms": [
+      {
+        "term": "Biophysical technique",
+        "meaning": "A method that measures a physical property of a biological molecule or interaction."
+      }
+    ],
+    "diagramGuide": [
+      "This divider begins Lecture 36, combining Drug Development with Techniques in Biochemistry and Biophysics."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which pair of themes is announced for Lecture 36?",
+      "options": [
+        "Stem cells and microbial pathogenesis",
+        "Drug development and biochemical/biophysical techniques",
+        "Cancer incidence and immunology",
+        "Bioenergetics and genetics"
+      ],
+      "answer": 1,
+      "explanation": "Both themes are printed on the title slide."
+    }
+  },
+  {
+    "page": 372,
+    "title": "Virtual Screening Workflow",
+    "explain": "Computational screening can begin from either a protein structure or known active ligands. Both routes rank candidate molecules, produce a final hit list, and pass those compounds to a biological assay for experimental confirmation.",
+    "mustKnow": [
+      "Structure-based and ligand-based screening are two computational routes.",
+      "Computation creates a ranked hit list rather than proving activity.",
+      "Biological assays validate predicted hits."
+    ],
+    "terms": [
+      {
+        "term": "Hit list",
+        "meaning": "A ranked set of compounds predicted to be promising."
+      },
+      {
+        "term": "Biological assay",
+        "meaning": "An experiment that measures a compound's biological activity."
+      }
+    ],
+    "diagramGuide": [
+      "Structure-based and ligand-based virtual screening converge on a filtered hit list.",
+      "Drug-likeness, toxicity, ADME, and filtering rate are depicted as sequential constraints.",
+      "The biological assay is the experimental validation step after computation."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What should happen immediately after a computational final hit list is produced?",
+      "options": [
+        "Test hits in a biological assay",
+        "Declare regulatory approval",
+        "Begin Phase III trials",
+        "Discard molecular structures"
+      ],
+      "answer": 0,
+      "explanation": "The flowchart sends the final hit list to a biological assay."
+    }
+  },
+  {
+    "page": 373,
+    "title": "HTS Workflow",
+    "explain": "High-throughput screening uses automated liquid handling and detection systems to test many compounds. A primary screen identifies possible activity, secondary assays confirm it, and dose-response analysis helps select a lead.",
+    "mustKnow": [
+      "HTS depends heavily on automation.",
+      "Secondary assays reduce false or nonreproducible hits.",
+      "Dose-response testing follows hit confirmation.",
+      "The goal is a credible lead for optimization."
+    ],
+    "terms": [
+      {
+        "term": "Primary screen",
+        "meaning": "The first large-scale assay used to find possible hits."
+      },
+      {
+        "term": "Secondary assay",
+        "meaning": "A follow-up test used to confirm and characterize primary hits."
+      },
+      {
+        "term": "Liquid handler",
+        "meaning": "An automated instrument that dispenses small liquid volumes."
+      }
+    ],
+    "diagramGuide": [
+      "Primary screen -> secondary/counter screen -> confirmed hits -> SAR/medicinal chemistry -> leads -> clinical trials.",
+      "The narrowing diamonds show attrition at each decision point.",
+      "Robotic liquid handling and plate readers enable throughput."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which step directly precedes structure-activity relationship analysis in the workflow?",
+      "options": [
+        "Primary screen",
+        "Clinical trials",
+        "Biological target selection",
+        "Confirmed hits"
+      ],
+      "answer": 3,
+      "explanation": "The funnel places confirmed hits immediately before SAR and medicinal chemistry."
+    }
+  },
+  {
+    "page": 374,
+    "title": "Phenotypic Screening",
+    "explain": "Phenotypic screening selects compounds because they produce a desired change in cells or organisms, such as stopping unwanted proliferation. It does not require the molecular target to be known first, but target identification may be needed later.",
+    "mustKnow": [
+      "Phenotypic screening begins with an observable biological effect.",
+      "The target does not need to be known before screening.",
+      "Target deconvolution may be required after an active compound is found."
+    ],
+    "terms": [
+      {
+        "term": "Phenotype",
+        "meaning": "An observable characteristic or response of a cell or organism."
+      },
+      {
+        "term": "Target-based screening",
+        "meaning": "Screening compounds directly against a predefined molecular target."
+      },
+      {
+        "term": "Target deconvolution",
+        "meaning": "Identification of the molecular target responsible for a compound's phenotypic effect."
+      }
+    ],
+    "diagramGuide": [
+      "Phenotype-led discovery starts with a biological effect and may identify the molecular target later.",
+      "Target-led discovery starts with a defined target and screens for molecules that modulate it.",
+      "The blue callout highlights target deconvolution as a later burden in phenotypic screening."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What is the characteristic follow-up problem after a phenotypic hit is found?",
+      "options": [
+        "Obtaining a target structure before screening",
+        "Avoiding all cell-based assays",
+        "Identifying the compound's molecular target",
+        "Measuring whether any phenotype occurred"
+      ],
+      "answer": 2,
+      "explanation": "Phenotypic screening can find active compounds before their targets are known, requiring target deconvolution."
+    }
+  },
+  {
+    "page": 375,
+    "title": "Phenotypic Screening Against RAS Mutants",
+    "explain": "HRAS, KRAS, and NRAS are small GTPases involved in proliferation, growth, and apoptosis. Oncogenic RAS mutations can drive uncontrolled cell division. The example compares compound potency in mutant HRASG12V cells with wild-type HRAS cells; lower EC50 values in the mutant indicate mutant-selective activity.",
+    "mustKnow": [
+      "HRAS, KRAS, and NRAS are small GTPases.",
+      "RAS mutations can cause uncontrolled cell growth and occur in about 30% of human cancers.",
+      "Lower EC50 means greater potency.",
+      "The compounds shown are more potent in HRASG12V than in wild-type HRAS."
+    ],
+    "terms": [
+      {
+        "term": "Small GTPase",
+        "meaning": "A signaling protein that switches between GTP-bound and GDP-bound states."
+      },
+      {
+        "term": "Oncogene",
+        "meaning": "A gene whose activating alteration can promote cancer."
+      },
+      {
+        "term": "EC50",
+        "meaning": "Concentration producing half of the compound's maximum measured effect."
+      },
+      {
+        "term": "Wild type",
+        "meaning": "The standard nonmutant form used for comparison."
+      }
+    ],
+    "diagramGuide": [
+      "The EC50 pairs compare mutant HRASG12V with wild-type HRAS; lower EC50 means greater potency.",
+      "Both example compounds inhibit mutant cells at much lower concentrations than wild-type cells.",
+      "The workflow begins with a large library and filters for growth inhibition and mutant selectivity."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which compound in the slide shows the larger mutant-versus-wild-type selectivity ratio?",
+      "options": [
+        "The data do not include wild-type EC50 values",
+        "ML162",
+        "ML210",
+        "They are identical"
+      ],
+      "answer": 1,
+      "explanation": "ML162 compares 25 nM with 578 nM, a larger fold difference than 71 nM versus 272 nM for ML210."
+    }
+  },
+  {
+    "page": 376,
+    "title": "Ferroptosis",
+    "explain": "Ferroptosis is a regulated cell-death process driven by iron-associated oxidation of polyunsaturated phospholipids. The pathway diagram contrasts reactions that generate lipid peroxides with antioxidant systems, including glutathione-dependent peroxidase activity and ferroptosis-suppressor pathways, that limit this damage.",
+    "mustKnow": [
+      "Ferroptosis is associated with lipid peroxidation.",
+      "Polyunsaturated fatty acids in phospholipids provide oxidation-sensitive substrates.",
+      "Iron uptake and lipoxygenase-linked reactions can promote oxidative damage.",
+      "Glutathione/peroxidase and FSP pathways oppose ferroptosis."
+    ],
+    "terms": [
+      {
+        "term": "Ferroptosis",
+        "meaning": "Regulated cell death associated with iron-dependent lipid peroxidation."
+      },
+      {
+        "term": "PUFA",
+        "meaning": "Polyunsaturated fatty acid."
+      },
+      {
+        "term": "Lipid peroxidation",
+        "meaning": "Oxidative damage to membrane lipids."
+      },
+      {
+        "term": "FSP",
+        "meaning": "Ferroptosis suppressor protein."
+      }
+    ],
+    "diagramGuide": [
+      "Left arm loads PUFAs into phospholipids and promotes iron/LOX-dependent lipid peroxidation.",
+      "System Xc- supplies cystine for glutathione; GPX4 uses glutathione to remove lipid hydroperoxides.",
+      "FSP1-CoQ and DHFR-BH4 are parallel antioxidant defenses; ML162 is shown binding GPX4."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Inhibition of which protein by ML162 removes a glutathione-dependent defense against ferroptosis?",
+      "options": [
+        "GPX4",
+        "ACSL4",
+        "LPCAT3",
+        "TFRC1"
+      ],
+      "answer": 0,
+      "explanation": "The structure panel labels ML162 at GPX4, which detoxifies lipid hydroperoxides using glutathione."
+    }
+  },
+  {
+    "page": 377,
+    "title": "Why Make a Prodrug?",
+    "explain": "A prodrug is an inactive or less active derivative converted into the active drug inside the body. Prodrugs are designed to reduce poor properties such as low solubility, weak absorption, instability, toxicity, bad taste, or short duration, and may enable a different route or dosage form.",
+    "mustKnow": [
+      "A prodrug must be converted into an active drug in the body.",
+      "Prodrugs can improve physicochemical or biological properties.",
+      "They can alter route of administration or dosage form.",
+      "Possible goals include better solubility, permeability, stability, taste, or duration."
+    ],
+    "terms": [
+      {
+        "term": "Prodrug",
+        "meaning": "An inactive or less active drug derivative converted to the active form in the body."
+      },
+      {
+        "term": "Physicochemical property",
+        "meaning": "A physical or chemical feature such as solubility or stability."
+      },
+      {
+        "term": "Permeability",
+        "meaning": "Ability of a molecule to cross a biological barrier."
+      },
+      {
+        "term": "Dosage form",
+        "meaning": "The physical form in which a medicine is administered."
+      }
+    ],
+    "diagramGuide": [
+      "The central body diagram shows an inactive prodrug converted by metabolism into an active drug that distributes to tissues.",
+      "The left list names properties a prodrug may improve, including solubility, permeability, stability, toxicity, taste, and duration.",
+      "A prodrug changes delivery properties; it is not merely a lower dose of the same active form."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which problem is most directly addressed by masking a polar group to improve membrane crossing?",
+      "options": [
+        "Short patent life",
+        "Target mutation",
+        "High receptor selectivity",
+        "Poor membrane permeability"
+      ],
+      "answer": 3,
+      "explanation": "Poor membrane permeability is one of the explicit prodrug rationales."
+    }
+  },
+  {
+    "page": 378,
+    "title": "How Prodrugs Are Activated",
+    "explain": "A prodrug contains a removable group or linking strategy that masks part of the drug. Activation can occur through enzymes such as phosphatases, esterases, and peptidases, through chemical processes such as hydrolysis, decarboxylation, or light, or through a mixture of both.",
+    "mustKnow": [
+      "Enzymes can activate prodrugs.",
+      "Chemical reactions can also activate prodrugs.",
+      "Phosphatase, esterase, and peptidase are listed activating enzymes.",
+      "Hydrolysis, decarboxylation, and light are listed chemical triggers."
+    ],
+    "terms": [
+      {
+        "term": "Esterase",
+        "meaning": "An enzyme that hydrolyzes ester bonds."
+      },
+      {
+        "term": "Phosphatase",
+        "meaning": "An enzyme that removes phosphate groups."
+      },
+      {
+        "term": "Peptidase",
+        "meaning": "An enzyme that cleaves peptide bonds."
+      },
+      {
+        "term": "Promoiety",
+        "meaning": "A temporary chemical group attached to improve a drug property and later removed."
+      }
+    ],
+    "diagramGuide": [
+      "Top scheme: a promoiety masks the drug; enzymatic or chemical transformation removes it after crossing a barrier.",
+      "The list separates enzyme activation from hydrolysis, decarboxylation, and light activation.",
+      "The PDT image is an example of light-triggered activation at a target tissue."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which activation mechanism does not require an enzyme?",
+      "options": [
+        "Peptidase cleavage",
+        "Phosphatase cleavage",
+        "Photochemical activation by light",
+        "Esterase cleavage"
+      ],
+      "answer": 2,
+      "explanation": "Light is listed under chemical activation, whereas the other choices are enzymes."
+    }
+  },
+  {
+    "page": 379,
+    "title": "Prodrug Strategy for Masking Bad Taste",
+    "explain": "A water-soluble drug can dissolve in the mouth and contact taste receptors, creating an unpleasant taste. Converting it to a less water-soluble prodrug reduces dissolution in the mouth. The example converts bitter chloramphenicol into chloramphenicol palmitate.",
+    "mustKnow": [
+      "Taste requires dissolved molecules to contact taste receptors.",
+      "Reducing water solubility can reduce dissolution in the mouth.",
+      "Chloramphenicol palmitate is shown as a taste-masking prodrug."
+    ],
+    "terms": [
+      {
+        "term": "Chloramphenicol",
+        "meaning": "The water-soluble bitter drug used in the slide example."
+      },
+      {
+        "term": "Chloramphenicol palmitate",
+        "meaning": "A less water-soluble prodrug used to mask chloramphenicol's taste."
+      },
+      {
+        "term": "Taste receptor",
+        "meaning": "A receptor activated by dissolved chemicals in the mouth."
+      }
+    ],
+    "diagramGuide": [
+      "Chloramphenicol is converted to the palmitate ester shown on the right.",
+      "The added hydrophobic chain lowers water solubility, reducing dissolution in saliva and contact with taste receptors.",
+      "The active drug must later be regenerated from the prodrug."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Why does chloramphenicol palmitate taste less bitter than chloramphenicol?",
+      "options": [
+        "It permanently destroys the active drug",
+        "It dissolves less in the mouth",
+        "It binds taste receptors more strongly",
+        "It is more water soluble"
+      ],
+      "answer": 1,
+      "explanation": "Reduced aqueous solubility limits oral dissolution and taste-receptor contact."
+    }
+  },
+  {
+    "page": 380,
+    "title": "Thermal Shift Assay",
+    "explain": "A thermal shift assay measures protein stability by heating a protein while monitoring fluorescence. SYPRO Orange fluoresces more when it binds hydrophobic surfaces exposed during unfolding. The midpoint of the unfolding transition is the melting temperature, Tm; fluorescence later falls as unfolded proteins aggregate and release dye.",
+    "mustKnow": [
+      "TSA measures changes in protein thermal stability.",
+      "SYPRO Orange binds exposed hydrophobic surfaces.",
+      "Fluorescence rises as the protein unfolds.",
+      "Tm is the midpoint of the unfolding transition."
+    ],
+    "terms": [
+      {
+        "term": "TSA",
+        "meaning": "Thermal shift assay."
+      },
+      {
+        "term": "SYPRO Orange",
+        "meaning": "A fluorescent dye that binds exposed hydrophobic protein surfaces."
+      },
+      {
+        "term": "Tm",
+        "meaning": "Melting temperature at the midpoint of thermal unfolding."
+      },
+      {
+        "term": "Denaturation",
+        "meaning": "Loss of a protein's folded structure."
+      }
+    ],
+    "diagramGuide": [
+      "SYPRO Orange is weakly fluorescent with folded protein, then binds exposed hydrophobic surfaces during unfolding.",
+      "The melt curve rises to a fluorescence peak; the transition midpoint is Tm.",
+      "At still higher temperature, aggregation and dye dissociation reduce fluorescence."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Why can fluorescence fall after the TSA curve reaches its maximum?",
+      "options": [
+        "Aggregated protein releases or excludes the dye",
+        "The protein refolds completely at higher temperature",
+        "SYPRO Orange becomes a covalent ligand",
+        "All hydrophobic surfaces become more exposed indefinitely"
+      ],
+      "answer": 0,
+      "explanation": "The slide links the post-peak decline to aggregation and dye dissociation."
+    }
+  },
+  {
+    "page": 381,
+    "title": "Using TSA to Compare Protein Stability",
+    "explain": "The RecA curves show how buffer pH changes the temperature at which unfolding occurs. A curve shifted to a higher temperature has a higher Tm and indicates greater thermal stability under that condition. The derivative plot helps locate each transition peak.",
+    "mustKnow": [
+      "TSA can compare protein stability across buffer conditions.",
+      "A higher-temperature transition means a higher Tm.",
+      "A higher Tm indicates greater thermal stability.",
+      "The example tests the effect of pH on RecA."
+    ],
+    "terms": [
+      {
+        "term": "RecA",
+        "meaning": "An ATP-dependent protein involved in DNA-damage repair."
+      },
+      {
+        "term": "Melt curve",
+        "meaning": "Fluorescence plotted against temperature during protein unfolding."
+      },
+      {
+        "term": "Derivative plot",
+        "meaning": "A transformed melt curve used to identify the unfolding-transition peak."
+      }
+    ],
+    "diagramGuide": [
+      "Top panel shows raw fluorescence; bottom derivative peaks sharpen each unfolding transition.",
+      "A right-shifted transition/derivative peak means a higher Tm and greater stability.",
+      "Compare buffer conditions by peak position, not simply by peak height."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which plotted feature should be used to identify the Tm most precisely?",
+      "options": [
+        "Initial fluorescence at 10 C",
+        "Maximum raw fluorescence amplitude only",
+        "Final fluorescence at 100 C",
+        "Peak of the derivative curve"
+      ],
+      "answer": 3,
+      "explanation": "The derivative maximum marks the steepest transition and is used to locate Tm."
+    }
+  },
+  {
+    "page": 382,
+    "title": "Detecting Ligand Binding with TSA",
+    "explain": "If a small molecule binds preferentially to the native folded protein, it can stabilize that structure. The protein-ligand complex then unfolds at a higher temperature than the unbound protein, producing a positive shift in Tm and in the melt curve.",
+    "mustKnow": [
+      "A stabilizing ligand preferentially binds the native protein.",
+      "Ligand stabilization raises the complex's Tm.",
+      "A positive thermal shift can indicate protein-ligand interaction."
+    ],
+    "terms": [
+      {
+        "term": "Ligand",
+        "meaning": "A molecule that binds to a protein."
+      },
+      {
+        "term": "Thermal shift",
+        "meaning": "A change in melting temperature relative to a comparison sample."
+      },
+      {
+        "term": "Native state",
+        "meaning": "The normally folded form of a protein."
+      }
+    ],
+    "diagramGuide": [
+      "Blue sample curves and the red reference are compared by horizontal position.",
+      "A stabilizing ligand shifts the protein transition toward higher temperature; vertical dashed lines mark the corresponding Tm values.",
+      "The yellow non-protein control remains near baseline."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "A ligand-bound sample curve shifts 4 C to the right of the unbound reference. What is the supported conclusion?",
+      "options": [
+        "The protein has no thermal transition",
+        "The dye is unnecessary for the assay",
+        "The ligand stabilizes the folded protein",
+        "The ligand lowers Tm"
+      ],
+      "answer": 2,
+      "explanation": "A positive Tm shift indicates preferential binding to and stabilization of the native state."
+    }
+  },
+  {
+    "page": 383,
+    "title": "Lecture 37: Biochemistry and Biophysics Techniques",
+    "explain": "This lecture section covers techniques for measuring protein stability and molecular interactions, including thermal shift assays, isothermal titration calorimetry, and FRET.",
+    "mustKnow": [
+      "The section compares fluorescence-based and heat-based measurements of molecular behavior."
+    ],
+    "terms": [
+      {
+        "term": "Biophysics",
+        "meaning": "Application of physical principles and measurements to biological systems."
+      }
+    ],
+    "diagramGuide": [
+      "This divider begins Lecture 37 on Techniques in Biochemistry and Biophysics."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which measurement methods are developed in this lecture section?",
+      "options": [
+        "Chromatography only",
+        "TSA, ITC, and FRET",
+        "PCR, ELISA, and Western blotting",
+        "MRI, CT, and ultrasound"
+      ],
+      "answer": 1,
+      "explanation": "The following slides cover thermal shift assays, isothermal titration calorimetry, and FRET."
+    }
+  },
+  {
+    "page": 384,
+    "title": "TSA Signal and Melting Temperature",
+    "explain": "In TSA, a protein is gradually heated. Exposed hydrophobic surfaces bind SYPRO Orange as the protein unfolds, increasing fluorescence. The transition midpoint gives Tm, while aggregation at still higher temperature can release dye and reduce the signal.",
+    "mustKnow": [
+      "Protein unfolding exposes hydrophobic regions.",
+      "SYPRO Orange binding increases fluorescence.",
+      "Tm is read from the midpoint of the unfolding transition.",
+      "Aggregation can cause fluorescence to decrease after the peak."
+    ],
+    "terms": [
+      {
+        "term": "Hydrophobic surface",
+        "meaning": "A nonpolar protein region normally buried away from water."
+      },
+      {
+        "term": "Aggregation",
+        "meaning": "Association of unfolded proteins into larger clusters."
+      },
+      {
+        "term": "Fluorescence",
+        "meaning": "Light emitted by a molecule after it absorbs light."
+      }
+    ],
+    "diagramGuide": [
+      "The signal sequence is dye binding during unfolding, rising fluorescence, then aggregation-associated decline.",
+      "Tm is read at the unfolding transition midpoint, not at the final baseline.",
+      "The small molecular sketch labels SYPRO Orange emission near 570 nm."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What molecular feature of an unfolding protein creates the TSA fluorescence increase?",
+      "options": [
+        "Exposure of hydrophobic surfaces",
+        "Formation of new peptide bonds",
+        "Loss of all aromatic residues",
+        "Release of DNA"
+      ],
+      "answer": 0,
+      "explanation": "SYPRO Orange binds exposed hydrophobic surfaces."
+    }
+  },
+  {
+    "page": 385,
+    "title": "TSA as a Binding Assay",
+    "explain": "A ligand that binds and stabilizes the folded protein shifts the melt curve toward higher temperatures. Comparing the protein alone with protein-plus-ligand therefore gives a quick indication of a stabilizing interaction.",
+    "mustKnow": [
+      "Compare ligand-bound and unbound protein curves.",
+      "A positive Tm shift indicates stabilization.",
+      "TSA detects a stability change rather than directly locating the binding site."
+    ],
+    "terms": [
+      {
+        "term": "Protein-ligand complex",
+        "meaning": "A protein with a ligand bound to it."
+      },
+      {
+        "term": "Positive shift",
+        "meaning": "Movement of the unfolding transition to a higher temperature."
+      }
+    ],
+    "diagramGuide": [
+      "The ligand-bound sample is identified by a melt transition shifted to higher temperature relative to the reference.",
+      "The derivative plot makes the positive Tm shift easier to compare.",
+      "A stabilizing shift reports binding but does not by itself give a full binding constant."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which observation is evidence for a stabilizing protein-ligand interaction in TSA?",
+      "options": [
+        "A lower initial dye concentration",
+        "An unchanged Tm with a taller baseline",
+        "Loss of every fluorescence signal",
+        "A higher derivative-peak temperature"
+      ],
+      "answer": 3,
+      "explanation": "The ligand-stabilized protein unfolds later, shifting Tm and the derivative peak rightward."
+    }
+  },
+  {
+    "page": 386,
+    "title": "Isothermal Titration Calorimeter",
+    "explain": "An isothermal titration calorimeter contains a sample cell with protein and a reference cell with buffer inside an insulated jacket. The instrument measures the feedback power needed to keep both cells at the same temperature as binding releases or absorbs heat.",
+    "mustKnow": [
+      "The sample cell contains protein and the reference cell contains buffer.",
+      "The instrument detects tiny temperature differences between the cells.",
+      "Feedback power maintains equal temperatures.",
+      "Exothermic binding decreases sample-cell feedback power; endothermic binding increases it."
+    ],
+    "terms": [
+      {
+        "term": "ITC",
+        "meaning": "Isothermal titration calorimetry, a method that measures heat during molecular binding."
+      },
+      {
+        "term": "Reference cell",
+        "meaning": "The control cell, containing buffer in the setup shown."
+      },
+      {
+        "term": "Exothermic",
+        "meaning": "Releasing heat."
+      },
+      {
+        "term": "Endothermic",
+        "meaning": "Absorbing heat."
+      }
+    ],
+    "diagramGuide": [
+      "The instrument has matched reference and sample cells inside an adiabatic jacket.",
+      "A thermopile senses a temperature difference; feedback power restores equality.",
+      "Exothermic binding reduces required sample-cell heating, whereas endothermic binding increases it."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "During an endothermic binding event, how does the instrument maintain equal cell temperatures?",
+      "options": [
+        "It removes buffer from the reference cell",
+        "It stops ligand injection permanently",
+        "It increases feedback power to the sample cell",
+        "It decreases feedback power to the sample cell"
+      ],
+      "answer": 2,
+      "explanation": "The slide states that an endothermic reaction requires increased feedback power."
+    }
+  },
+  {
+    "page": 387,
+    "title": "Early ITC Injections",
+    "explain": "At the start of an ITC titration, protein binding sites are mostly free, so an injected ligand binds extensively and produces a large heat signal. In the exothermic example, heat release means delta H is negative and the feedback power decreases. The signal returns to baseline before the next injection.",
+    "mustKnow": [
+      "Early injections can produce large peaks because many binding sites are free.",
+      "Exothermic binding has negative delta H.",
+      "After binding reaches equilibrium, the signal returns to baseline.",
+      "The next injection is made after baseline recovery."
+    ],
+    "terms": [
+      {
+        "term": "Delta H",
+        "meaning": "Enthalpy change of the binding reaction."
+      },
+      {
+        "term": "Baseline",
+        "meaning": "The stable instrument signal before or between injection peaks."
+      },
+      {
+        "term": "Equilibrium",
+        "meaning": "A state with no net change in binding populations."
+      }
+    ],
+    "diagramGuide": [
+      "At the first injections, protein is in excess and many sites are free, so binding heat is large.",
+      "For the exothermic example, delta H is negative and feedback power decreases.",
+      "Each signal must return to baseline before the next injection for clean peak integration."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Why is the first exothermic ITC injection typically larger than a late injection?",
+      "options": [
+        "Ligand concentration is zero initially",
+        "More unoccupied protein sites are available",
+        "Only heat of dilution occurs initially",
+        "The protein is already saturated initially"
+      ],
+      "answer": 1,
+      "explanation": "Early in the titration, most injected ligand binds because many sites are free."
+    }
+  },
+  {
+    "page": 388,
+    "title": "ITC Saturation",
+    "explain": "As repeated ligand injections fill more protein binding sites, less newly injected ligand can bind and each heat peak becomes smaller. Once the protein is saturated, the remaining signal is mainly the heat of dilution rather than binding.",
+    "mustKnow": [
+      "Peak size decreases as protein binding sites become occupied.",
+      "Complete occupancy is called saturation.",
+      "After saturation, the observed signal is mainly heat of dilution."
+    ],
+    "terms": [
+      {
+        "term": "Saturation",
+        "meaning": "The state in which essentially all available binding sites are occupied."
+      },
+      {
+        "term": "Heat of dilution",
+        "meaning": "Heat produced or absorbed when a solution is diluted, independent of specific binding."
+      }
+    ],
+    "diagramGuide": [
+      "The peak train shrinks from left to right as binding sites become occupied.",
+      "At the end, small nearly constant peaks represent mainly heat of dilution.",
+      "Saturation changes peak area, not merely the time between injections."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What does the residual signal represent after complete protein saturation?",
+      "options": [
+        "Heat of ligand dilution",
+        "Maximum binding enthalpy at empty sites",
+        "Protein synthesis",
+        "Covalent dye labeling"
+      ],
+      "answer": 0,
+      "explanation": "Once no new specific binding occurs, the remaining heat is primarily dilution heat."
+    }
+  },
+  {
+    "page": 389,
+    "title": "Reading ITC Results",
+    "explain": "The raw ITC trace contains one heat peak per ligand injection. Integrating each peak gives the heat per injection, which is plotted against the ligand-to-protein molar ratio to form a binding isotherm. Its plateau, inflection point, and slope provide enthalpy, stoichiometry, and binding affinity.",
+    "mustKnow": [
+      "Each raw peak corresponds to one ligand injection.",
+      "Peak areas are integrated to obtain heat values.",
+      "Integrated heat is plotted against ligand-to-protein molar ratio.",
+      "ITC can provide enthalpy, stoichiometry, and affinity."
+    ],
+    "terms": [
+      {
+        "term": "Binding isotherm",
+        "meaning": "A binding-response curve measured at constant temperature."
+      },
+      {
+        "term": "Stoichiometry",
+        "meaning": "The number of ligand molecules bound per protein molecule or binding unit."
+      },
+      {
+        "term": "Ka",
+        "meaning": "Association constant; larger values indicate stronger association."
+      },
+      {
+        "term": "Kd",
+        "meaning": "Dissociation constant; Ka equals 1 divided by Kd in the relation shown."
+      }
+    ],
+    "diagramGuide": [
+      "Left: raw power-versus-time peaks, one per injection.",
+      "Right: integrated peak areas plotted against ligand:protein molar ratio form a binding isotherm.",
+      "The isotherm yields delta H, stoichiometry n, and affinity; Ka equals 1/Kd."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which processing step converts the raw injection trace into points on the binding isotherm?",
+      "options": [
+        "Taking only the tallest peak height",
+        "Subtracting the protein concentration from time",
+        "Differentiating ligand molar ratio",
+        "Integrating the area of each heat peak"
+      ],
+      "answer": 3,
+      "explanation": "The slide explicitly states that integrated peak areas generate the right-panel points."
+    }
+  },
+  {
+    "page": 390,
+    "title": "ITC c-Value and Dilution Control",
+    "explain": "A useful ITC binding curve must have enough sigmoid shape to estimate binding parameters accurately. The c-value, c = n[P]Ka, controls this shape through stoichiometry, protein concentration, and association strength. Heat from ligand dilution must be measured separately and subtracted.",
+    "mustKnow": [
+      "A sigmoidal isotherm is needed for accurate binding-affinity analysis.",
+      "The c-value is given as n times protein concentration times Ka.",
+      "Ligand dilution itself can release or absorb heat.",
+      "A ligand-into-buffer control is subtracted from the binding experiment."
+    ],
+    "terms": [
+      {
+        "term": "c-value",
+        "meaning": "The ITC parameter n[P]Ka that influences binding-isotherm sigmoidicity."
+      },
+      {
+        "term": "Sigmoidicity",
+        "meaning": "The degree to which a curve has an S shape."
+      },
+      {
+        "term": "Dilution control",
+        "meaning": "Ligand titrated into buffer to measure nonbinding heat effects."
+      }
+    ],
+    "diagramGuide": [
+      "The family of curves shows that very low or very high c values give poorly informative shapes; an intermediate sigmoidal curve is preferred.",
+      "c combines stoichiometry, protein concentration, and association constant: c = n[P]Ka.",
+      "Ligand-into-buffer controls measure dilution heat for subtraction."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "If protein concentration is doubled while n and Ka remain constant, what happens to c?",
+      "options": [
+        "It becomes zero",
+        "It is unchanged",
+        "It doubles",
+        "It halves"
+      ],
+      "answer": 2,
+      "explanation": "Because c = n[P]Ka, c is directly proportional to protein concentration."
+    }
+  },
+  {
+    "page": 391,
+    "title": "MDM2 and MDMX Control p53",
+    "explain": "The diagram shows MDM2 and MDMX as negative regulators of the tumor suppressor p53. MDM2 binds p53, promotes its ubiquitination, nuclear export, and proteasomal degradation, reducing p53-driven tumor-suppressor gene activity.",
+    "mustKnow": [
+      "MDM2 and MDMX negatively regulate p53.",
+      "MDM2 can promote p53 ubiquitination.",
+      "Ubiquitinated p53 can be degraded by the proteasome.",
+      "Reducing p53 lowers expression of p53 target genes."
+    ],
+    "terms": [
+      {
+        "term": "p53",
+        "meaning": "A tumor-suppressor transcription factor activated by cellular stress and DNA damage."
+      },
+      {
+        "term": "MDM2",
+        "meaning": "A negative regulator that binds p53 and promotes its ubiquitination and degradation."
+      },
+      {
+        "term": "Ubiquitination",
+        "meaning": "Attachment of ubiquitin that can mark a protein for degradation."
+      },
+      {
+        "term": "Proteasome",
+        "meaning": "A cellular complex that degrades selected proteins."
+      }
+    ],
+    "diagramGuide": [
+      "Nuclear p53 activates tumor-suppressor target genes.",
+      "MDMX mainly blocks p53 transcriptional activity; MDM2 blocks activity and promotes export, ubiquitination, and degradation.",
+      "The top route ends at the proteasome after ubiquitin addition."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which intervention would most directly increase nuclear p53 abundance according to the diagram?",
+      "options": [
+        "Increasing MDMX binding to p53",
+        "Blocking MDM2-mediated ubiquitination",
+        "Increasing MDM2 nuclear export activity",
+        "Enhancing proteasomal recognition of p53"
+      ],
+      "answer": 1,
+      "explanation": "Preventing MDM2-dependent ubiquitination interrupts the route to export and proteasomal degradation."
+    }
+  },
+  {
+    "page": 392,
+    "title": "Bcl-2 Family Regulation of Apoptosis",
+    "explain": "The Bcl-2 protein family controls the mitochondrial decision to undergo apoptosis. Pro-apoptotic and anti-apoptotic family members interact at the mitochondrial membrane; their balance determines whether mitochondrial permeabilization and downstream caspase activation occur.",
+    "mustKnow": [
+      "Bcl-2 family proteins regulate the mitochondrial apoptosis pathway.",
+      "The family contains both pro-apoptotic and anti-apoptotic members.",
+      "Their interactions control mitochondrial membrane permeabilization.",
+      "Mitochondrial permeabilization promotes downstream caspase activation."
+    ],
+    "terms": [
+      {
+        "term": "Bcl-2 family",
+        "meaning": "A group of proteins that promote or block mitochondrial apoptosis."
+      },
+      {
+        "term": "Apoptosis",
+        "meaning": "A regulated program of cell death."
+      },
+      {
+        "term": "Mitochondrial permeabilization",
+        "meaning": "Formation of openings that allow apoptotic factors to leave mitochondria."
+      },
+      {
+        "term": "Caspase",
+        "meaning": "A protease that executes or regulates apoptosis."
+      }
+    ],
+    "diagramGuide": [
+      "Left pathway: apoptotic stimulus -> pro-apoptotic proteins -> BAX/BAK oligomerization -> cytochrome c release -> apoptosome -> caspases -> apoptosis.",
+      "Right pathway: BCL-2 overexpression restrains BAX/BAK, blocks cytochrome c release, and favors survival.",
+      "The key decision point is mitochondrial outer-membrane permeabilization."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which event is prevented by BCL-2 overexpression in the right-hand pathway?",
+      "options": [
+        "BAX/BAK-driven cytochrome c release",
+        "Expression of all BCL-2-family proteins",
+        "Formation of mitochondria",
+        "Synthesis of procaspases"
+      ],
+      "answer": 0,
+      "explanation": "Anti-apoptotic BCL-2 prevents BAX/BAK activation and mitochondrial cytochrome c release."
+    }
+  },
+  {
+    "page": 393,
+    "title": "Förster Resonance Energy Transfer",
+    "explain": "FRET transfers excitation energy from a donor fluorophore to a nearby acceptor without photon emission between them. Efficient transfer requires overlap between donor emission and acceptor absorption spectra and a very short distance. Efficiency follows E = 1/[1 + (r/R0)^6], so it falls steeply as distance increases.",
+    "mustKnow": [
+      "FRET requires a donor and an acceptor fluorophore.",
+      "Donor emission must overlap acceptor absorption.",
+      "FRET is strongly distance dependent and usually occurs within about 10 nm.",
+      "R0 is the distance at which transfer efficiency is 50%."
+    ],
+    "terms": [
+      {
+        "term": "FRET",
+        "meaning": "Distance-dependent nonradiative energy transfer from a donor to an acceptor fluorophore."
+      },
+      {
+        "term": "Donor",
+        "meaning": "The fluorophore that supplies excitation energy."
+      },
+      {
+        "term": "Acceptor",
+        "meaning": "The nearby fluorophore that receives energy from the donor."
+      },
+      {
+        "term": "Förster radius",
+        "meaning": "R0, the donor-acceptor distance giving 50% transfer efficiency."
+      }
+    ],
+    "diagramGuide": [
+      "The spectral plot requires donor emission to overlap acceptor absorption; the yellow overlap region visualizes this condition.",
+      "The energy-level scheme depicts nonradiative resonance transfer from excited donor to acceptor.",
+      "The equation shows sixth-power distance dependence; at r = R0, efficiency is 50%."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "If donor-acceptor distance changes from R0 to 2R0, which efficiency is closest?",
+      "options": [
+        "25%",
+        "50%",
+        "About 98.5%",
+        "About 1.5%"
+      ],
+      "answer": 3,
+      "explanation": "E = 1/(1 + 2^6) = 1/65, approximately 1.5%."
+    }
+  },
+  {
+    "page": 394,
+    "title": "Cameleon FRET Sensor for Calcium",
+    "explain": "Cameleon is a genetically encoded calcium sensor containing calmodulin and the M13 calmodulin-binding segment between CFP and YFP. Without Ca2+, the fluorophores remain arranged for weak FRET and cyan emission. Ca2+ makes calmodulin bind M13, bringing CFP and YFP into a FRET-active arrangement and producing yellow emission.",
+    "mustKnow": [
+      "Cameleon monitors Ca2+ concentration in living cells.",
+      "It contains calmodulin, M13, CFP, and YFP.",
+      "Without Ca2+, the signal is mainly cyan.",
+      "With Ca2+, calmodulin binds M13, FRET increases, and the signal becomes yellow."
+    ],
+    "terms": [
+      {
+        "term": "Cameleon",
+        "meaning": "A FRET-based genetically encoded sensor for cellular Ca2+."
+      },
+      {
+        "term": "Calmodulin",
+        "meaning": "A Ca2+-binding protein that changes conformation when calcium binds."
+      },
+      {
+        "term": "M13",
+        "meaning": "A calmodulin-binding peptide module used in the sensor."
+      },
+      {
+        "term": "CFP/YFP",
+        "meaning": "Cyan and yellow fluorescent proteins serving as the FRET donor and acceptor."
+      }
+    ],
+    "diagramGuide": [
+      "Top cartoon: excitation of CFP gives no FRET when proteins A and B are apart, but YFP emission when interaction brings them together.",
+      "Bottom: Cameleon places CaM and M13 between CFP and YFP.",
+      "Without Ca2+ the output is cyan; Ca2+-dependent CaM-M13 binding increases FRET and yellow emission."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which signal change reports an increase in intracellular Ca2+ for Cameleon?",
+      "options": [
+        "Increased CFP with no YFP emission",
+        "A shift from yellow to cyan",
+        "Increased YFP relative to CFP emission",
+        "Loss of both CFP and YFP fluorescence"
+      ],
+      "answer": 2,
+      "explanation": "Ca2+ promotes CaM-M13 association, increasing CFP-to-YFP FRET and yellow output."
+    }
+  }
+]

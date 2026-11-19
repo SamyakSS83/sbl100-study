@@ -1,0 +1,154 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SBL100 Question Bank</title>
+<style>
+:root{color-scheme:light dark;--bg:#eef1ed;--panel:#fff;--ink:#15201a;--muted:#647069;--line:#cbd2cd;--accent:#176b48;--accent2:#dff1e7;--bad:#a33b2b;--bad2:#fbe4df;--good:#147044}
+@media(prefers-color-scheme:dark){:root{--bg:#0e1511;--panel:#18211c;--ink:#edf5ef;--muted:#a8b5ad;--line:#34443a;--accent:#77d6a3;--accent2:#203d2e;--bad:#ff9d8e;--bad2:#3d211c;--good:#78dda4}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.5 ui-sans-serif,system-ui,-apple-system,sans-serif}
+a{color:var(--accent)}button,select{font:inherit;color:inherit}
+.top{position:sticky;top:0;z-index:5;padding:10px 16px;background:var(--panel);border-bottom:1px solid var(--line);display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+h1{font-size:17px;margin:0}.grow{flex:1}.meta{color:var(--muted);font-size:13px}
+.btn{border:1px solid var(--line);border-radius:9px;background:transparent;padding:7px 12px;cursor:pointer;text-decoration:none;color:var(--ink)}.btn:hover{border-color:var(--accent)}
+.btn.on{background:var(--accent2);border-color:var(--accent)}
+.layout{display:grid;grid-template-columns:300px 1fr;min-height:calc(100vh - 54px)}
+nav{position:sticky;top:54px;height:calc(100vh - 54px);overflow:auto;background:var(--panel);border-right:1px solid var(--line);padding:10px}
+.trow{display:flex;gap:8px;align-items:flex-start;padding:7px 8px;border-radius:9px;cursor:pointer}.trow:hover{background:var(--accent2)}
+.trow input{margin-top:4px}.trow small{display:block;color:var(--muted)}
+.minibar{height:4px;background:var(--line);border-radius:2px;margin-top:3px;overflow:hidden}.minibar i{display:block;height:100%;background:var(--accent)}
+.navtools{display:flex;gap:6px;margin-bottom:8px}
+main{padding:16px;max-width:1000px;width:100%;margin:0 auto}
+.filters{display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin-bottom:12px}
+.q{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:14px 16px;margin-bottom:12px}
+.q.right{border-left:5px solid var(--good)}.q.wrongq{border-left:5px solid var(--bad)}
+.qhead{display:flex;gap:8px;flex-wrap:wrap;color:var(--muted);font-size:12.5px;margin-bottom:6px}
+.qtext{font-weight:650;font-size:16px;margin-bottom:10px}
+.choices{display:grid;gap:7px}.choice{border:1px solid var(--line);border-radius:9px;background:transparent;padding:9px 12px;text-align:left;cursor:pointer}.choice:hover:not(:disabled){border-color:var(--accent)}
+.choice:disabled{cursor:default}.choice.correct{border-color:var(--good);background:var(--accent2)}.choice.wrong{border-color:var(--bad);background:var(--bad2)}
+.fb{margin-top:10px;padding:10px 12px;background:var(--accent2);border-radius:9px}
+.answer{margin-top:10px;padding:10px 12px;background:var(--accent2);border-radius:9px}
+.row{display:flex;gap:8px;margin-top:10px;flex-wrap:wrap;align-items:center}
+.stats{font-variant-numeric:tabular-nums}
+.empty{padding:40px;text-align:center;color:var(--muted)}
+body.collapsed .layout{grid-template-columns:1fr}body.collapsed nav{display:none}
+@media(max-width:900px){.layout{grid-template-columns:1fr}nav{display:none;position:fixed;inset:54px 0 0 0;height:auto;z-index:10}nav.open{display:block!important}main{padding:10px}}
+</style>
+</head>
+<body>
+<header class="top">
+  <button id="menuBtn" class="btn" title="Show/hide topics">☰ Topics</button>
+  <h1>SBL100 · Question Bank</h1>
+  <span id="stats" class="meta stats"></span>
+  <span class="grow"></span>
+  <a class="btn" href="slides.html">Slides &amp; notes</a>
+  <a class="btn" href="index.html">Home</a>
+</header>
+<div class="layout">
+  <nav id="nav"></nav>
+  <main>
+    <div class="filters">
+      <span class="meta">Show:</span>
+      <button class="btn" data-f="all">All</button>
+      <button class="btn" data-f="new">Unattempted</button>
+      <button class="btn" data-f="wrong">Got wrong</button>
+      <button class="btn" data-f="right">Got right</button>
+      <span class="meta" style="margin-left:8px">Type:</span>
+      <select id="kind" class="btn"><option value="all">MCQ + recall</option><option value="mcq">MCQ only</option><option value="recall">Recall only</option></select>
+      <label class="meta"><input type="checkbox" id="shuffle"> Shuffle</label>
+      <span class="grow"></span>
+      <button class="btn" id="reset">Reset selected topics</button>
+    </div>
+    <div id="summary" class="meta" style="margin-bottom:10px"></div>
+    <div id="list"></div>
+    <div class="row" style="justify-content:center;margin:10px 0 40px"><button class="btn" id="more" hidden>Load more</button></div>
+  </main>
+</div>
+<script>
+const D=__DATA__;
+const KEY="sbl-question-bank-v1";
+const $=id=>document.getElementById(id);
+const esc=s=>String(s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const L=i=>String.fromCharCode(65+i);
+let S={sel:[],filter:"all",kind:"all",shuffle:false,ans:{}};
+try{Object.assign(S,JSON.parse(localStorage.getItem(KEY)||"{}"))}catch{}
+const save=()=>{try{localStorage.setItem(KEY,JSON.stringify(S))}catch{}};
+const h=new URLSearchParams(location.hash.slice(1));
+if(h.get("topic")&&D.topics.includes(h.get("topic")))S.sel=[h.get("topic")];
+if(!S.sel.length)S.sel=[D.topics[0]];
+const PAGE=40;let shown=PAGE,order=[];
+// status: "right" | "wrong" | undefined ; recall stores "right"/"wrong" via self-grade
+const status=q=>{const a=S.ans[q.id];return a==null?undefined:(q.kind==="mcq"?(a===q.answer?"right":"wrong"):a)};
+function renderNav(){
+  const box=$("nav");
+  box.innerHTML=`<div class="navtools"><button class="btn" id="selAll">Select all</button><button class="btn" id="selNone">Clear</button></div>`+
+    D.topics.map((t,i)=>{
+      const qs=D.questions.filter(q=>q.topics.includes(t));const done=qs.filter(q=>status(q)).length;const ok=qs.filter(q=>status(q)==="right").length;
+      return `<label class="trow"><input type="checkbox" data-t="${esc(t)}" ${S.sel.includes(t)?"checked":""}><span style="flex:1">${i+1}. ${esc(t)}<small>${qs.length} Qs · ${done} done · ${ok} right</small><div class="minibar"><i style="width:${qs.length?done/qs.length*100:0}%"></i></div></span></label>`;
+    }).join("");
+  box.querySelectorAll("input[data-t]").forEach(c=>c.onchange=()=>{const t=c.dataset.t;S.sel=c.checked?[...S.sel,t]:S.sel.filter(x=>x!==t);save();rebuild()});
+  $("selAll").onclick=()=>{S.sel=[...D.topics];save();rebuild()};
+  $("selNone").onclick=()=>{S.sel=[];save();rebuild()};
+}
+function pool(){
+  return D.questions.filter(q=>q.topics.some(t=>S.sel.includes(t))&&(S.kind==="all"||q.kind===S.kind));
+}
+function visible(){
+  const st=q=>status(q);
+  return order.filter(q=>S.filter==="all"||(S.filter==="new"?!st(q):st(q)===S.filter));
+}
+function rebuild(){
+  order=pool();
+  if(S.shuffle){for(let i=order.length-1;i>0;i--){const j=Math.random()*(i+1)|0;[order[i],order[j]]=[order[j],order[i]]}}
+  shown=PAGE;renderNav();renderList();
+}
+function qHtml(q,n){
+  const st=status(q),a=S.ans[q.id];
+  const src=q.page?`<a href="slides.html#page=${q.page}" target="_blank">Slide ${q.page}</a>`:`<span>${esc(q.module)}</span>`;
+  const head=`<div class="qhead"><span>#${n}</span><span>${esc(q.topics.join(" / "))}</span>${src}<span>${q.kind==="mcq"?"MCQ":"Recall"}</span></div>`;
+  let body;
+  if(q.kind==="mcq"){
+    const answered=a!=null;
+    body=`<div class="choices">${q.options.map((o,i)=>`<button class="choice${answered&&i===q.answer?" correct":""}${answered&&i===a&&a!==q.answer?" wrong":""}" data-i="${i}" ${answered?"disabled":""}>${L(i)}. ${esc(o)}</button>`).join("")}</div>
+      ${answered?`<div class="fb"><strong>${a===q.answer?"Correct.":"Answer: "+L(q.answer)+"."}</strong> ${esc(q.explanation)}</div><div class="row"><button class="btn retry">Try again</button></div>`:""}`;
+  }else{
+    body=st?`<div class="answer">${esc(q.a)}</div><div class="row"><span class="meta">You marked: ${st==="right"?"knew it":"didn't know"}</span><button class="btn retry">Try again</button></div>`
+      :`<div class="row"><button class="btn reveal">Show answer</button></div><div class="answer" hidden>${esc(q.a)}</div><div class="row grade" hidden><span class="meta">Did you know it?</span><button class="btn" data-g="right">Yes</button><button class="btn" data-g="wrong">No</button></div>`;
+  }
+  return `<article class="q ${st==="right"?"right":st==="wrong"?"wrongq":""}" data-id="${q.id}">${head}<div class="qtext">${esc(q.q)}</div>${body}</article>`;
+}
+function bind(el,q,n){
+  const redo=()=>{const t=document.createElement("div");t.innerHTML=qHtml(q,n);const ne=t.firstElementChild;el.replaceWith(ne);bind(ne,q,n);renderStats();renderNav()};
+  el.querySelectorAll(".choice").forEach(b=>b.onclick=()=>{S.ans[q.id]=+b.dataset.i;save();redo()});
+  const r=el.querySelector(".retry");if(r)r.onclick=()=>{delete S.ans[q.id];save();redo()};
+  const rv=el.querySelector(".reveal");if(rv)rv.onclick=()=>{rv.hidden=true;el.querySelector(".answer").hidden=false;el.querySelector(".grade").hidden=false};
+  el.querySelectorAll("[data-g]").forEach(b=>b.onclick=()=>{S.ans[q.id]=b.dataset.g;save();redo()});
+}
+function renderStats(){
+  const p=order,done=p.filter(q=>status(q)).length,ok=p.filter(q=>status(q)==="right").length;
+  $("stats").textContent=`Selected: ${done}/${p.length} attempted · ${ok} right${done?` (${Math.round(ok/done*100)}%)`:""}`;
+}
+function renderList(){
+  document.querySelectorAll("[data-f]").forEach(b=>b.classList.toggle("on",b.dataset.f===S.filter));
+  $("kind").value=S.kind;$("shuffle").checked=S.shuffle;
+  const v=visible();
+  $("summary").textContent=S.sel.length?`${v.length} question${v.length===1?"":"s"} in: ${S.sel.join(", ")}`:"";
+  if(!S.sel.length){$("list").innerHTML=`<div class="empty">Pick one or more topics on the left.</div>`;$("more").hidden=true;renderStats();return}
+  if(!v.length){$("list").innerHTML=`<div class="empty">No questions match this filter.</div>`;$("more").hidden=true;renderStats();return}
+  $("list").innerHTML=v.slice(0,shown).map((q,i)=>qHtml(q,i+1)).join("");
+  $("list").querySelectorAll(".q").forEach((el,i)=>bind(el,v[i],i+1));
+  $("more").hidden=shown>=v.length;$("more").textContent=`Load more (${v.length-shown} left)`;
+  renderStats();
+}
+document.querySelectorAll("[data-f]").forEach(b=>b.onclick=()=>{S.filter=b.dataset.f;save();shown=PAGE;renderList()});
+$("kind").onchange=e=>{S.kind=e.target.value;save();rebuild()};
+$("shuffle").onchange=e=>{S.shuffle=e.target.checked;save();rebuild()};
+$("more").onclick=()=>{shown+=PAGE;renderList()};
+$("reset").onclick=()=>{pool().forEach(q=>delete S.ans[q.id]);save();rebuild()};
+$("menuBtn").onclick=()=>{if(matchMedia("(max-width:900px)").matches)$("nav").classList.toggle("open");else{const c=document.body.classList.toggle("collapsed");try{localStorage.setItem("sbl-nav-collapsed",c?"1":"")}catch{}}};
+try{if(localStorage.getItem("sbl-nav-collapsed"))document.body.classList.add("collapsed")}catch{}
+rebuild();
+</script>
+</body>
+</html>

@@ -1,0 +1,1211 @@
+[
+  {
+    "page": 54,
+    "questions": [
+      {
+        "q": "Which event belongs to protein maturation after translation rather than RNA processing?",
+        "options": [
+          "Chaperone-assisted folding",
+          "Addition of a 5′ cap",
+          "Removal of introns",
+          "Poly(A) tail addition"
+        ],
+        "answer": 0,
+        "explanation": "Chaperones assist the newly synthesized polypeptide in acquiring its three-dimensional structure."
+      }
+    ]
+  },
+  {
+    "page": 56,
+    "questions": [
+      {
+        "q": "Which regulatory level is specifically associated with movement of a eukaryotic transcript between compartments?",
+        "options": [
+          "Transcription initiation",
+          "RNA transport from nucleus to cytosol",
+          "Ribosome assembly",
+          "DNA replication"
+        ],
+        "answer": 1,
+        "explanation": "Eukaryotic gene expression can be regulated during transport of processed RNA from the nucleus to the cytosol."
+      }
+    ]
+  },
+  {
+    "page": 58,
+    "questions": [
+      {
+        "q": "Which feature allows several prokaryotic genes in one operon to be transcribed together?",
+        "options": [
+          "Each gene has a separate enhancer",
+          "Each gene is on a different chromosome",
+          "The gene cluster is controlled by one promoter",
+          "The genes use separate RNA polymerases"
+        ],
+        "answer": 2,
+        "explanation": "An operon is a cluster of functionally related genes controlled by a single promoter and transcribed as one unit."
+      }
+    ]
+  },
+  {
+    "page": 60,
+    "questions": [
+      {
+        "q": "Which lac-operon product directly transports lactose across the bacterial membrane?",
+        "options": [
+          "β-galactosidase",
+          "Lac repressor",
+          "Transacetylase",
+          "Lactose permease"
+        ],
+        "answer": 3,
+        "explanation": "LacY encodes lactose permease, the membrane protein that imports lactose."
+      }
+    ]
+  },
+  {
+    "page": 61,
+    "questions": [
+      {
+        "q": "Which molecule is the indirect signal through which the lac repressor detects lactose availability?",
+        "options": [
+          "Allolactose",
+          "cAMP",
+          "Glucose",
+          "ATP"
+        ],
+        "answer": 0,
+        "explanation": "Allolactose binds the lac repressor and signals that lactose is available."
+      },
+      {
+        "q": "Which regulator–signal relationship is correct in the lac operon?",
+        "options": [
+          "CAP–allolactose",
+          "CAP–cAMP",
+          "Repressor–cAMP",
+          "RNA polymerase–allolactose"
+        ],
+        "answer": 1,
+        "explanation": "CAP senses low glucose indirectly through cAMP, whereas the repressor senses lactose through allolactose."
+      }
+    ]
+  },
+  {
+    "page": 62,
+    "questions": [
+      {
+        "q": "Which lac gene–product pairing is correct?",
+        "options": [
+          "lacZ–lactose permease",
+          "lacY–β-galactosidase",
+          "lacA–transacetylase",
+          "lacA–lac repressor"
+        ],
+        "answer": 2,
+        "explanation": "lacA encodes transacetylase; lacZ encodes β-galactosidase and lacY encodes lactose permease."
+      }
+    ]
+  },
+  {
+    "page": 63,
+    "questions": [
+      {
+        "q": "Binding of CAP to its regulatory DNA site primarily promotes transcription by:",
+        "options": [
+          "Cleaving the operator",
+          "Converting lactose to allolactose",
+          "Destroying the lac repressor",
+          "Helping RNA polymerase bind the promoter"
+        ],
+        "answer": 3,
+        "explanation": "DNA-bound CAP positively regulates the operon by improving RNA-polymerase recruitment to the promoter."
+      }
+    ]
+  },
+  {
+    "page": 64,
+    "questions": [
+      {
+        "q": "In the absence of lactose, which DNA element is occupied by the lac repressor?",
+        "options": [
+          "Operator",
+          "CAP site",
+          "lacZ coding region",
+          "Transcription terminator"
+        ],
+        "answer": 0,
+        "explanation": "Without allolactose, the repressor binds the operator and obstructs transcription."
+      }
+    ]
+  },
+  {
+    "page": 66,
+    "questions": [
+      {
+        "q": "The gene encoding CAP is best described as:",
+        "options": [
+          "Part of the lac structural-gene cluster",
+          "Constitutively expressed elsewhere on the chromosome",
+          "Induced only by lactose",
+          "Located within the lac operator"
+        ],
+        "answer": 1,
+        "explanation": "The CAP gene is separate from the lac operon and is constitutively expressed."
+      },
+      {
+        "q": "Why does RNA polymerase produce only a few lac transcripts when CAP assistance is absent but repression has been removed?",
+        "options": [
+          "lacZ inhibits transcription",
+          "The operator cleaves the mRNA",
+          "The promoter binds RNA polymerase weakly",
+          "cAMP degrades RNA polymerase"
+        ],
+        "answer": 2,
+        "explanation": "RNA polymerase alone binds the lac promoter poorly, producing only basal or leaky transcription."
+      }
+    ]
+  },
+  {
+    "page": 67,
+    "questions": [
+      {
+        "q": "What molecular event converts CAP into its DNA-binding form?",
+        "options": [
+          "Binding of lactose",
+          "Cleavage by β-galactosidase",
+          "Phosphorylation by LacY",
+          "Binding of cAMP"
+        ],
+        "answer": 3,
+        "explanation": "When glucose is low, cAMP binds CAP and changes its conformation so that it can bind DNA."
+      }
+    ]
+  },
+  {
+    "page": 68,
+    "questions": [
+      {
+        "q": "Which condition supplies the positive-regulatory input required for strong lac-operon expression?",
+        "options": [
+          "Low glucose and high cAMP",
+          "High glucose and low cAMP",
+          "High glucose and high allolactose only",
+          "Low lactose and inactive CAP"
+        ],
+        "answer": 0,
+        "explanation": "Low glucose raises cAMP, activating CAP and allowing it to bind DNA."
+      },
+      {
+        "q": "For strong lac transcription, allolactose and cAMP respectively cause:",
+        "options": [
+          "CAP release and repressor binding",
+          "Repressor release and CAP activation",
+          "Repressor activation and CAP degradation",
+          "RNA polymerase release and operator activation"
+        ],
+        "answer": 1,
+        "explanation": "Allolactose removes the repressor, while cAMP activates CAP; both conditions are required for strong transcription."
+      }
+    ]
+  },
+  {
+    "page": 69,
+    "questions": [
+      {
+        "q": "When both glucose and lactose are present, which regulator is inactive because cAMP is low?",
+        "options": [
+          "Lac repressor",
+          "RNA polymerase",
+          "CAP",
+          "β-galactosidase"
+        ],
+        "answer": 2,
+        "explanation": "Glucose keeps cAMP low, so CAP remains inactive even though lactose removes the repressor."
+      }
+    ]
+  },
+  {
+    "page": 70,
+    "questions": [
+      {
+        "q": "When neither glucose nor lactose is present, which pair is simultaneously DNA-bound?",
+        "options": [
+          "Inactive CAP and free repressor",
+          "LacY and β-galactosidase",
+          "Allolactose and RNA polymerase",
+          "Active CAP and lac repressor"
+        ],
+        "answer": 3,
+        "explanation": "Low glucose activates CAP, but absent lactose leaves the repressor bound to the operator."
+      }
+    ]
+  },
+  {
+    "page": 71,
+    "questions": [
+      {
+        "q": "Which condition gives low-level rather than strong lac-operon transcription?",
+        "options": [
+          "Glucose present, lactose present",
+          "Glucose absent, lactose present",
+          "Glucose absent, lactose absent",
+          "Glucose present, lactose absent"
+        ],
+        "answer": 0,
+        "explanation": "With both sugars present, the repressor is removed but CAP is inactive, so only basal transcription occurs."
+      }
+    ]
+  },
+  {
+    "page": 72,
+    "questions": [
+      {
+        "q": "The structural genes of the trp operon encode proteins primarily required for:",
+        "options": [
+          "Lactose import",
+          "Tryptophan biosynthesis",
+          "Glucose phosphorylation",
+          "DNA replication"
+        ],
+        "answer": 1,
+        "explanation": "The trp structural genes encode enzymes in the tryptophan-biosynthetic pathway."
+      }
+    ]
+  },
+  {
+    "page": 73,
+    "questions": [
+      {
+        "q": "In the presence of abundant tryptophan, the trp repressor becomes able to bind the operator because tryptophan acts as a:",
+        "options": [
+          "Substrate",
+          "Inducer",
+          "Co-repressor",
+          "Competitive inhibitor"
+        ],
+        "answer": 2,
+        "explanation": "Tryptophan binds the inactive repressor as a co-repressor, activating operator binding."
+      }
+    ]
+  },
+  {
+    "page": 74,
+    "questions": [
+      {
+        "q": "How do the newly synthesized repressors of the lac and trp operons differ?",
+        "options": [
+          "Both are initially active",
+          "Both are initially inactive",
+          "Lac repressor is inactive; trp repressor is active",
+          "Lac repressor is active; trp repressor is inactive"
+        ],
+        "answer": 3,
+        "explanation": "The lac repressor is made active, whereas the trp repressor requires its co-repressor to become active."
+      },
+      {
+        "q": "Which example on the slide is classified as constitutively expressed rather than a regulated luxury gene?",
+        "options": [
+          "A glycolysis gene",
+          "trpE",
+          "lacZ",
+          "A lactose-permease gene"
+        ],
+        "answer": 0,
+        "explanation": "The slide cites glycolysis genes as housekeeping genes that are constitutively expressed."
+      }
+    ]
+  },
+  {
+    "page": 79,
+    "questions": [
+      {
+        "q": "After a gene of interest is introduced into a suitable host, which two outcomes may occur according to the definition of genetic engineering?",
+        "options": [
+          "Splicing and/or mutation",
+          "Replication and/or expression",
+          "Translation and/or secretion only",
+          "Deletion and/or chromosome loss"
+        ],
+        "answer": 1,
+        "explanation": "An introduced gene may be replicated, expressed, or both in the host."
+      }
+    ]
+  },
+  {
+    "page": 80,
+    "questions": [
+      {
+        "q": "Which step immediately precedes introduction of recombinant DNA into a host cell?",
+        "options": [
+          "Isolation of genomic DNA",
+          "Protein purification",
+          "Ligation of insert and vector",
+          "Screening of colonies"
+        ],
+        "answer": 2,
+        "explanation": "The insert is ligated into the vector before the recombinant vector is transferred into a host."
+      },
+      {
+        "q": "What is the primary role of a selectable marker during the workflow?",
+        "options": [
+          "Cut the insert DNA",
+          "Determine the insert sequence",
+          "Induce protein folding",
+          "Identify cells that received the vector"
+        ],
+        "answer": 3,
+        "explanation": "A selectable marker allows vector-containing cells to survive or otherwise be selected."
+      }
+    ]
+  },
+  {
+    "page": 81,
+    "questions": [
+      {
+        "q": "Which term denotes DNA formed by joining sequences originating from different sources?",
+        "options": [
+          "Recombinant DNA",
+          "Clone",
+          "Vector",
+          "Competent cell"
+        ],
+        "answer": 0,
+        "explanation": "Recombinant DNA contains DNA sequences joined from different sources."
+      }
+    ]
+  },
+  {
+    "page": 82,
+    "questions": [
+      {
+        "q": "Restriction endonucleases occur naturally in bacteria mainly as protection against:",
+        "options": [
+          "Misfolded bacterial proteins",
+          "Foreign bacteriophage DNA",
+          "Excess cellular RNA",
+          "Damaged phospholipids"
+        ],
+        "answer": 1,
+        "explanation": "Bacterial restriction enzymes are part of a defense system against invading foreign DNA such as bacteriophage DNA."
+      },
+      {
+        "q": "A typical restriction-enzyme recognition sequence is approximately:",
+        "options": [
+          "1–2 base pairs",
+          "20–30 base pairs",
+          "4–8 base pairs",
+          "Hundreds of base pairs"
+        ],
+        "answer": 2,
+        "explanation": "The slide states that restriction enzymes usually recognize short sequences 4–8 base pairs long."
+      }
+    ]
+  },
+  {
+    "page": 83,
+    "questions": [
+      {
+        "q": "Which enzyme shown produces blunt ends rather than staggered cohesive ends?",
+        "options": [
+          "EcoRI",
+          "HindIII",
+          "BamHI",
+          "SmaI"
+        ],
+        "answer": 3,
+        "explanation": "SmaI cuts straight across both DNA strands, producing blunt ends."
+      }
+    ]
+  },
+  {
+    "page": 84,
+    "questions": [
+      {
+        "q": "DNA ligase forms a covalent bond between which adjacent groups?",
+        "options": [
+          "3′-OH and 5′-phosphate",
+          "5′-OH and 3′-phosphate",
+          "Two nitrogenous bases",
+          "Two 3′-phosphate groups"
+        ],
+        "answer": 0,
+        "explanation": "Ligase seals the backbone by joining a 3′ hydroxyl to an adjacent 5′ phosphate."
+      },
+      {
+        "q": "Compared with blunt-end ligation, sticky-end ligation is generally more efficient because:",
+        "options": [
+          "Sticky ends do not require ligase",
+          "Overhangs base-pair and align the fragments",
+          "Blunt ends repel DNA polymerase",
+          "Sticky ends contain ATP"
+        ],
+        "answer": 1,
+        "explanation": "Complementary overhangs transiently base-pair, holding the fragments in the correct alignment for ligase."
+      }
+    ]
+  },
+  {
+    "page": 85,
+    "questions": [
+      {
+        "q": "During T4 DNA-ligase catalysis, AMP is transferred directly to the:",
+        "options": [
+          "3′-OH at the DNA end",
+          "Nitrogenous base at the nick",
+          "5′-phosphate at the DNA end",
+          "2′-OH of deoxyribose"
+        ],
+        "answer": 2,
+        "explanation": "AMP activates the 5′ phosphate, forming a DNA–AMP intermediate before phosphodiester-bond formation."
+      }
+    ]
+  },
+  {
+    "page": 86,
+    "questions": [
+      {
+        "q": "Which energy source is specifically required by T4 DNA ligase?",
+        "options": [
+          "GTP",
+          "NADPH",
+          "CTP",
+          "ATP"
+        ],
+        "answer": 3,
+        "explanation": "T4 DNA ligase uses ATP to generate the ligase–AMP intermediate."
+      }
+    ]
+  },
+  {
+    "page": 87,
+    "questions": [
+      {
+        "q": "Which PCR component synthesizes new DNA while tolerating repeated heating?",
+        "options": [
+          "Thermostable DNA polymerase",
+          "RNA polymerase",
+          "DNA ligase",
+          "Reverse transcriptase"
+        ],
+        "answer": 0,
+        "explanation": "A heat-stable polymerase such as Taq synthesizes DNA through repeated thermal cycles."
+      }
+    ]
+  },
+  {
+    "page": 88,
+    "questions": [
+      {
+        "q": "Using PCR to detect a pathogen depends on amplification of:",
+        "options": [
+          "All host genomic DNA equally",
+          "A pathogen-specific nucleic-acid target",
+          "Only bacterial proteins",
+          "Only membrane lipids"
+        ],
+        "answer": 1,
+        "explanation": "Diagnostic PCR detects a pathogen by amplifying a nucleic-acid sequence specific to it."
+      }
+    ]
+  },
+  {
+    "page": 89,
+    "questions": [
+      {
+        "q": "Under ideal conditions, how many target copies are expected after 10 PCR cycles from one starting copy?",
+        "options": [
+          "20",
+          "100",
+          "1,024",
+          "512"
+        ],
+        "answer": 2,
+        "explanation": "Ideal PCR amplification follows 2^n; 2^10 equals 1,024."
+      }
+    ]
+  },
+  {
+    "page": 90,
+    "questions": [
+      {
+        "q": "Why does DNA migrate toward the anode during agarose-gel electrophoresis?",
+        "options": [
+          "Its bases are positively charged",
+          "DNA binds positively charged SDS",
+          "Agarose carries DNA by osmosis",
+          "Its phosphate backbone is negatively charged"
+        ],
+        "answer": 3,
+        "explanation": "The negatively charged phosphate backbone drives DNA toward the positive electrode."
+      },
+      {
+        "q": "A DNA band remaining closest to the loading well most likely contains fragments that are:",
+        "options": [
+          "Larger than bands that migrated farther",
+          "Smaller than all other fragments",
+          "More negatively charged per nucleotide",
+          "Single-stranded rather than double-stranded"
+        ],
+        "answer": 0,
+        "explanation": "The agarose matrix slows large fragments more strongly, so they remain nearer the wells."
+      }
+    ]
+  },
+  {
+    "page": 91,
+    "questions": [
+      {
+        "q": "What is produced by occasional ddNTP incorporation during Sanger sequencing?",
+        "options": [
+          "Fragments of identical length",
+          "Fragments of different lengths ending at specific bases",
+          "Only full-length double-stranded DNA",
+          "RNA fragments lacking a 5′ cap"
+        ],
+        "answer": 1,
+        "explanation": "Random chain termination generates a nested set of DNA fragments ending at each possible nucleotide position."
+      }
+    ]
+  },
+  {
+    "page": 92,
+    "questions": [
+      {
+        "q": "CRISPR-Cas9 originated from a natural bacterial system that functions in defense against:",
+        "options": [
+          "Fungi",
+          "Protozoa",
+          "Viruses",
+          "Antibiotics"
+        ],
+        "answer": 2,
+        "explanation": "CRISPR-Cas systems evolved as bacterial adaptive defense mechanisms against invading viral genetic material."
+      }
+    ]
+  },
+  {
+    "page": 93,
+    "questions": [
+      {
+        "q": "Which repair pathway commonly creates small insertions or deletions after Cas9 cutting?",
+        "options": [
+          "Homology-directed repair",
+          "Base-excision repair",
+          "Mismatch repair",
+          "Non-homologous end joining"
+        ],
+        "answer": 3,
+        "explanation": "Error-prone non-homologous end joining frequently creates indels that can disrupt a gene."
+      },
+      {
+        "q": "Precise insertion or correction at a Cas9 break requires which combination?",
+        "options": [
+          "HDR with a donor DNA template",
+          "NHEJ without a template",
+          "Translation with a guide protein",
+          "Ligase with no homologous sequence"
+        ],
+        "answer": 0,
+        "explanation": "Homology-directed repair can copy a designed change from a supplied donor template."
+      }
+    ]
+  },
+  {
+    "page": 94,
+    "questions": [
+      {
+        "q": "Which vector feature provides a defined region containing sites for insertion of foreign DNA?",
+        "options": [
+          "Origin of replication",
+          "Multiple cloning site",
+          "Selectable marker",
+          "Centromere"
+        ],
+        "answer": 1,
+        "explanation": "The MCS or cloning site contains restriction sites used to insert the gene of interest."
+      },
+      {
+        "q": "Which factor most directly determines whether a plasmid, BAC, or YAC is suitable for a project?",
+        "options": [
+          "Number of introns in the host",
+          "Color of the host colony",
+          "Insert size and intended application",
+          "Charge of the encoded protein"
+        ],
+        "answer": 2,
+        "explanation": "Vector choice depends chiefly on the size of DNA to be carried and whether cloning or expression is required."
+      }
+    ]
+  },
+  {
+    "page": 95,
+    "questions": [
+      {
+        "q": "Which plasmid-vector feature primarily determines how many vector molecules accumulate per cell?",
+        "options": [
+          "Selectable marker",
+          "Transcription terminator",
+          "Reporter gene",
+          "Origin of replication"
+        ],
+        "answer": 3,
+        "explanation": "The origin of replication controls autonomous replication and influences plasmid copy number."
+      },
+      {
+        "q": "Which feature is characteristic of the pUC vector series?",
+        "options": [
+          "High copy number and lacZα",
+          "Low copy number and no reporter",
+          "A YAC centromere",
+          "Only tetracycline resistance"
+        ],
+        "answer": 0,
+        "explanation": "pUC plasmids are high-copy vectors that use lacZα for blue–white screening."
+      }
+    ]
+  },
+  {
+    "page": 96,
+    "questions": [
+      {
+        "q": "In a bacterial expression vector, the ribosome-binding site is required primarily for:",
+        "options": [
+          "Plasmid replication",
+          "Translation initiation",
+          "Antibiotic selection",
+          "Transcription termination"
+        ],
+        "answer": 1,
+        "explanation": "The ribosome-binding site recruits the bacterial ribosome to initiate translation of the cloned gene."
+      },
+      {
+        "q": "In the pET system, transcription of the cloned gene is driven by a:",
+        "options": [
+          "KanR promoter",
+          "lacZα reporter",
+          "T7 promoter",
+          "Eukaryotic enhancer"
+        ],
+        "answer": 2,
+        "explanation": "pET expression vectors place the insert downstream of a T7 promoter."
+      }
+    ]
+  },
+  {
+    "page": 97,
+    "questions": [
+      {
+        "q": "Which reporter–signal pairing is correct?",
+        "options": [
+          "AmpR–luminescence",
+          "lacZ–antibiotic resistance",
+          "Luciferase–blue colonies only",
+          "GFP–fluorescence"
+        ],
+        "answer": 3,
+        "explanation": "GFP produces fluorescence; lacZ gives a colorimetric signal and luciferase gives luminescence."
+      }
+    ]
+  },
+  {
+    "page": 98,
+    "questions": [
+      {
+        "q": "Which host is typically favored for rapid, inexpensive expression when complex post-translational processing is unnecessary?",
+        "options": [
+          "E. coli",
+          "Mammalian cells",
+          "Plant cells",
+          "Insect larvae only"
+        ],
+        "answer": 0,
+        "explanation": "E. coli grows quickly, is inexpensive, and can produce high protein yields, but lacks eukaryotic processing."
+      },
+      {
+        "q": "Which host-system limitation is correctly matched?",
+        "options": [
+          "Yeast–cannot perform any protein folding",
+          "E. coli–no eukaryotic post-translational modifications",
+          "Mammalian cells–cannot secrete proteins",
+          "Plant cells–cannot express recombinant DNA"
+        ],
+        "answer": 1,
+        "explanation": "Bacteria generally cannot perform complex eukaryotic modifications such as authentic glycosylation."
+      }
+    ]
+  },
+  {
+    "page": 99,
+    "questions": [
+      {
+        "q": "In the displayed recombinant-DNA workflow, what follows confirmation of recombinant clones?",
+        "options": [
+          "Restriction digestion of the original donor",
+          "Initial isolation of the gene",
+          "Gene-expression induction",
+          "Transformation into competent cells"
+        ],
+        "answer": 2,
+        "explanation": "After clones are confirmed, expression is induced before protein production and purification."
+      }
+    ]
+  },
+  {
+    "page": 100,
+    "questions": [
+      {
+        "q": "Which starting material contains introns and native regulatory regions?",
+        "options": [
+          "cDNA",
+          "Purified recombinant protein",
+          "Mature mRNA",
+          "Genomic DNA"
+        ],
+        "answer": 3,
+        "explanation": "Genomic DNA contains introns and genomic regulatory sequences, unlike cDNA copied from mature mRNA."
+      },
+      {
+        "q": "Which enzyme is used to convert mature mRNA into cDNA?",
+        "options": [
+          "Reverse transcriptase",
+          "DNA ligase",
+          "Restriction endonuclease",
+          "T7 RNA polymerase"
+        ],
+        "answer": 0,
+        "explanation": "Reverse transcriptase synthesizes complementary DNA using RNA as the template."
+      }
+    ]
+  },
+  {
+    "page": 102,
+    "questions": [
+      {
+        "q": "During chemical transformation, plasmid DNA is first mixed with competent bacterial cells under which condition?",
+        "options": [
+          "At 95°C",
+          "On ice",
+          "In boiling SDS",
+          "Under ultraviolet light"
+        ],
+        "answer": 1,
+        "explanation": "The plasmid and competent cells are incubated on ice before the brief heat shock."
+      },
+      {
+        "q": "Which transformation method uses a short high-voltage pulse to create transient membrane pores?",
+        "options": [
+          "Heat shock",
+          "Centrifugation",
+          "Electroporation",
+          "Affinity chromatography"
+        ],
+        "answer": 2,
+        "explanation": "Electroporation transiently permeabilizes the membrane with an electric pulse and generally gives high efficiency."
+      }
+    ]
+  },
+  {
+    "page": 103,
+    "questions": [
+      {
+        "q": "After antibiotic selection, why is a separate screening step still required?",
+        "options": [
+          "Screening supplies antibiotic resistance",
+          "Selection destroys all recombinant plasmids",
+          "Screening makes cells competent",
+          "Selection cannot show whether surviving plasmids contain the insert"
+        ],
+        "answer": 3,
+        "explanation": "Antibiotic growth establishes vector uptake, but screening distinguishes empty vector from likely recombinant plasmids."
+      }
+    ]
+  },
+  {
+    "page": 104,
+    "questions": [
+      {
+        "q": "Which confirmation method is most directly used to check insert size by the pattern of DNA bands?",
+        "options": [
+          "Restriction digestion",
+          "Protein staining",
+          "Affinity chromatography",
+          "Flow cytometry"
+        ],
+        "answer": 0,
+        "explanation": "Diagnostic restriction digestion produces fragments whose gel-band sizes can reveal whether the expected insert is present."
+      }
+    ]
+  },
+  {
+    "page": 105,
+    "questions": [
+      {
+        "q": "Which vector element allows recombinant-gene expression to be switched on at a chosen time?",
+        "options": [
+          "Origin of replication",
+          "Inducible promoter",
+          "Selectable marker",
+          "Multiple cloning site"
+        ],
+        "answer": 1,
+        "explanation": "An inducible promoter permits controlled transcription after addition of an inducer."
+      }
+    ]
+  },
+  {
+    "page": 106,
+    "questions": [
+      {
+        "q": "A promoter directly determines which property of recombinant-gene expression?",
+        "options": [
+          "The plasmid's antibiotic target",
+          "The amino-acid sequence of the tag",
+          "When and how strongly transcription occurs",
+          "The pore size of the host membrane"
+        ],
+        "answer": 2,
+        "explanation": "Promoters regulate the timing, location, and level of transcription."
+      },
+      {
+        "q": "Which expression system shown uses T7 RNA polymerase to transcribe the target gene?",
+        "options": [
+          "Blue–white system",
+          "Ni-NTA system",
+          "SDS-PAGE system",
+          "pET/T7 system"
+        ],
+        "answer": 3,
+        "explanation": "The pET system uses a T7 promoter recognized by T7 RNA polymerase."
+      }
+    ]
+  },
+  {
+    "page": 107,
+    "questions": [
+      {
+        "q": "Which operation releases an intracellular recombinant protein before purification?",
+        "options": [
+          "Cell lysis",
+          "Culture induction",
+          "Transformation",
+          "Antibiotic selection"
+        ],
+        "answer": 0,
+        "explanation": "Cells are lysed after harvesting so the intracellular recombinant protein enters the lysate."
+      }
+    ]
+  },
+  {
+    "page": 108,
+    "questions": [
+      {
+        "q": "What is the direct basis of His-tagged protein capture on Ni-NTA resin?",
+        "options": [
+          "The tag binds agarose by base pairing",
+          "Histidines coordinate immobilized Ni²⁺",
+          "Imidazole covalently links the protein",
+          "SDS binds the nickel ions"
+        ],
+        "answer": 1,
+        "explanation": "Histidine side chains in the tag coordinate Ni²⁺ immobilized on the NTA resin."
+      },
+      {
+        "q": "Why is low imidazole used during the wash step?",
+        "options": [
+          "To denature all proteins into peptides",
+          "To elute the His-tagged protein immediately",
+          "To remove weak nonspecific binders while retaining the His-tagged protein",
+          "To polymerize the chromatography resin"
+        ],
+        "answer": 2,
+        "explanation": "Low imidazole competes weakly and removes nonspecific proteins; high imidazole is used for target elution."
+      }
+    ]
+  },
+  {
+    "page": 109,
+    "questions": [
+      {
+        "q": "What is the principal effect of SDS on proteins before PAGE?",
+        "options": [
+          "It preserves native quaternary structure",
+          "It gives larger proteins a positive charge",
+          "It attaches a fluorescent antibody",
+          "It gives proteins a broadly uniform negative charge"
+        ],
+        "answer": 3,
+        "explanation": "SDS denatures proteins and masks their native charge, making migration depend mainly on molecular size."
+      }
+    ]
+  },
+  {
+    "page": 111,
+    "questions": [
+      {
+        "q": "In the two-chain insulin strategy shown, which chains are produced separately in bacteria?",
+        "options": [
+          "A and B insulin chains",
+          "α and β globin chains",
+          "Heavy and light antibody chains",
+          "Factor VIII and IX chains"
+        ],
+        "answer": 0,
+        "explanation": "The insulin A and B chains are expressed and purified separately, then combined and folded."
+      },
+      {
+        "q": "What stabilizes the final association of insulin's A and B chains?",
+        "options": [
+          "Hydrogen bonds to DNA",
+          "Disulfide bonds",
+          "Phosphodiester bonds",
+          "Peptide bonds formed by DNA ligase"
+        ],
+        "answer": 1,
+        "explanation": "Correct folding creates disulfide bonds between the insulin chains."
+      }
+    ]
+  },
+  {
+    "page": 112,
+    "questions": [
+      {
+        "q": "Which recombinant protein is used to stimulate red-blood-cell production in chronic kidney disease?",
+        "options": [
+          "Human growth hormone",
+          "Interferon-α",
+          "Erythropoietin",
+          "Factor IX"
+        ],
+        "answer": 2,
+        "explanation": "Recombinant EPO treats anemia by stimulating erythropoiesis."
+      },
+      {
+        "q": "Hemophilia B is treated with recombinant:",
+        "options": [
+          "Factor VIII",
+          "Human growth hormone",
+          "Erythropoietin",
+          "Factor IX"
+        ],
+        "answer": 3,
+        "explanation": "Factor IX deficiency causes hemophilia B; factor VIII deficiency causes hemophilia A."
+      }
+    ]
+  },
+  {
+    "page": 113,
+    "questions": [
+      {
+        "q": "The antigen used in the recombinant hepatitis B vaccine is:",
+        "options": [
+          "HBsAg",
+          "HIV gp120",
+          "Influenza hemagglutinin",
+          "Tetanus toxin"
+        ],
+        "answer": 0,
+        "explanation": "The vaccine contains recombinant hepatitis B surface antigen, HBsAg."
+      },
+      {
+        "q": "Which production host is used for the recombinant hepatitis B surface antigen shown?",
+        "options": [
+          "E. coli",
+          "Yeast",
+          "Human erythrocytes",
+          "Tobacco mosaic virus"
+        ],
+        "answer": 1,
+        "explanation": "HBsAg is expressed in yeast and purified to make a noninfectious vaccine."
+      }
+    ]
+  },
+  {
+    "page": 114,
+    "questions": [
+      {
+        "q": "A monoclonal antibody is defined by its ability to:",
+        "options": [
+          "Cut DNA at a palindromic site",
+          "Replicate independently as a plasmid",
+          "Bind specifically to one target antigen",
+          "Transport lactose into bacteria"
+        ],
+        "answer": 2,
+        "explanation": "Monoclonal antibodies are identical antibodies selected for specificity to one antigenic target."
+      },
+      {
+        "q": "Which therapeutic-antibody application shown targets HER2-positive breast cancer?",
+        "options": [
+          "Interferon-β",
+          "Palivizumab",
+          "Erythropoietin",
+          "Trastuzumab"
+        ],
+        "answer": 3,
+        "explanation": "Trastuzumab binds HER2 and is used in HER2-positive breast cancer."
+      }
+    ]
+  },
+  {
+    "page": 115,
+    "questions": [
+      {
+        "q": "Which gene-therapy strategy aims to reduce expression of a harmful gene using siRNA or antisense molecules?",
+        "options": [
+          "Gene silencing",
+          "Gene replacement",
+          "Gene addition",
+          "Gene amplification"
+        ],
+        "answer": 0,
+        "explanation": "Gene silencing lowers or stops production from a harmful gene without necessarily changing its DNA sequence."
+      },
+      {
+        "q": "Which strategy directly corrects a mutation at the DNA level?",
+        "options": [
+          "Gene addition",
+          "Gene editing",
+          "Protein replacement",
+          "RNA translation"
+        ],
+        "answer": 1,
+        "explanation": "Gene editing, for example with CRISPR, changes the genomic DNA sequence itself."
+      }
+    ]
+  },
+  {
+    "page": 116,
+    "questions": [
+      {
+        "q": "In the sickle-cell example, editing the BCL11A enhancer is intended to increase production of:",
+        "options": [
+          "Adult hemoglobin A only",
+          "Myoglobin",
+          "Fetal hemoglobin",
+          "Erythropoietin"
+        ],
+        "answer": 2,
+        "explanation": "Reducing BCL11A repression reactivates fetal hemoglobin, which helps prevent sickling."
+      },
+      {
+        "q": "CAR-T therapy is best classified as:",
+        "options": [
+          "In vivo replacement of a liver gene",
+          "Silencing of all T-cell genes",
+          "Direct injection of recombinant insulin",
+          "Ex vivo engineering of a patient's immune cells"
+        ],
+        "answer": 3,
+        "explanation": "T cells are removed, genetically engineered to express a chimeric antigen receptor, and returned to the patient."
+      }
+    ]
+  },
+  {
+    "page": 117,
+    "questions": [
+      {
+        "q": "Which example is an abiotic rather than biotic stress target in crop engineering?",
+        "options": [
+          "Drought",
+          "Fungal disease",
+          "Insect infestation",
+          "Viral infection"
+        ],
+        "answer": 0,
+        "explanation": "Drought is a nonliving environmental stress; insects and pathogens are biotic stresses."
+      },
+      {
+        "q": "Engineering higher vitamin or essential-amino-acid content primarily targets:",
+        "options": [
+          "Herbicide tolerance",
+          "Nutritional quality",
+          "Pathogen resistance",
+          "Delayed flowering only"
+        ],
+        "answer": 1,
+        "explanation": "Increasing vitamins, minerals, or essential amino acids is nutritional biofortification."
+      }
+    ]
+  },
+  {
+    "page": 118,
+    "questions": [
+      {
+        "q": "Bt Cry toxins are derived from which organism?",
+        "options": [
+          "Agrobacterium tumefaciens",
+          "Escherichia coli",
+          "Bacillus thuringiensis",
+          "Saccharomyces cerevisiae"
+        ],
+        "answer": 2,
+        "explanation": "Bt crops express Cry proteins originally produced by the bacterium Bacillus thuringiensis."
+      },
+      {
+        "q": "Which practice is most directly needed to address a major long-term limitation of Bt crops?",
+        "options": [
+          "Preventing beta-carotene synthesis",
+          "Increasing chemical insecticide residues",
+          "Removing the Cry gene from all seeds",
+          "Insect-resistance management"
+        ],
+        "answer": 3,
+        "explanation": "Target insects can evolve resistance to Cry toxins, so resistance-management strategies are required."
+      }
+    ]
+  },
+  {
+    "page": 119,
+    "questions": [
+      {
+        "q": "In Golden Rice, beta-carotene accumulates specifically in the:",
+        "options": [
+          "Grain endosperm",
+          "Leaf cuticle",
+          "Root cortex",
+          "Pollen wall"
+        ],
+        "answer": 0,
+        "explanation": "The carotenoid pathway is engineered in the edible rice endosperm."
+      },
+      {
+        "q": "Golden Rice is an example of which crop-improvement approach?",
+        "options": [
+          "Herbicide detoxification",
+          "Nutritional biofortification",
+          "Insecticidal-protein production",
+          "Delayed fruit softening"
+        ],
+        "answer": 1,
+        "explanation": "It increases provitamin A in a staple crop to improve micronutrient intake."
+      }
+    ]
+  },
+  {
+    "page": 120,
+    "questions": [
+      {
+        "q": "Which engineered trait most directly reduces post-harvest losses by keeping fruit firm longer?",
+        "options": [
+          "Disease resistance",
+          "Herbicide tolerance",
+          "Delayed ripening",
+          "Cold sensitivity"
+        ],
+        "answer": 2,
+        "explanation": "Delayed ripening extends shelf life and reduces spoilage after harvest."
+      },
+      {
+        "q": "A transgenic crop that survives salinity has been engineered primarily for:",
+        "options": [
+          "Biotic-stress resistance",
+          "Insecticidal activity",
+          "Nutritional biofortification",
+          "Abiotic-stress tolerance"
+        ],
+        "answer": 3,
+        "explanation": "Salinity is a nonliving environmental condition and therefore an abiotic stress."
+      }
+    ]
+  }
+]

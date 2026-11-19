@@ -1,0 +1,1408 @@
+[
+  {
+    "page": 261,
+    "questions": [
+      {
+        "type": "mcq",
+        "q": "Which mature cell is derived from the common lymphoid progenitor rather than the common myeloid progenitor?",
+        "options": [
+          "Megakaryocyte",
+          "Neutrophil",
+          "Natural killer cell",
+          "Monocyte"
+        ],
+        "answer": 2,
+        "explanation": "Natural killer cells share the common lymphoid progenitor with B and T cells; megakaryocytes, neutrophils, and monocytes are myeloid."
+      },
+      {
+        "type": "mcq",
+        "q": "Which precursor-product relationship is shown in the blood-cell lineage tree?",
+        "options": [
+          "B cell → neutrophil",
+          "Megakaryocyte → erythrocyte",
+          "T cell → mast cell",
+          "Monocyte → macrophage"
+        ],
+        "answer": 3,
+        "explanation": "Circulating monocytes can enter tissues and differentiate into macrophages."
+      }
+    ]
+  },
+  {
+    "page": 262,
+    "questions": [
+      {
+        "type": "mcq",
+        "q": "Which organ is identified as a major source of complement proteins?",
+        "options": [
+          "Spleen",
+          "Bone marrow",
+          "Thymus",
+          "Liver"
+        ],
+        "answer": 3,
+        "explanation": "The liver synthesizes many circulating complement proteins."
+      }
+    ]
+  },
+  {
+    "page": 263,
+    "questions": [
+      {
+        "type": "mcq",
+        "q": "Which structure filters lymph and provides a site for immune-cell encounters?",
+        "options": [
+          "Renal glomerulus",
+          "Lymph node",
+          "Artery",
+          "Bone marrow sinusoid"
+        ],
+        "answer": 1,
+        "explanation": "Lymph nodes filter lymph and organize interactions among antigens and immune cells."
+      }
+    ]
+  },
+  {
+    "page": 265,
+    "questions": [
+      {
+        "type": "mcq",
+        "q": "Which property belongs to innate immunity rather than adaptive immunity?",
+        "options": [
+          "Antigen-specific memory",
+          "A lag during first exposure",
+          "Broad recognition with little time lag",
+          "Clonal expansion of specific lymphocytes"
+        ],
+        "answer": 2,
+        "explanation": "Innate immunity responds rapidly and recognizes broad microbial patterns rather than specific antigens."
+      }
+    ]
+  },
+  {
+    "page": 266,
+    "questions": [
+      {
+        "type": "mcq",
+        "q": "Which component is classified as an internal innate defense on the response map?",
+        "options": [
+          "Mucous membrane",
+          "Natural killer cell",
+          "Cytotoxic T lymphocyte",
+          "Antibody"
+        ],
+        "answer": 1,
+        "explanation": "Natural killer cells are internal innate effectors; antibodies and cytotoxic lymphocytes are adaptive."
+      },
+      {
+        "type": "mcq",
+        "q": "Which pairing correctly matches an adaptive branch with its principal effector?",
+        "options": [
+          "Cell-mediated response—complement",
+          "Cell-mediated response—mucus",
+          "Humoral response—antibodies",
+          "Humoral response—NK cells"
+        ],
+        "answer": 2,
+        "explanation": "The humoral adaptive response is mediated by antibodies, whereas the cell-mediated branch uses cytotoxic lymphocytes."
+      }
+    ]
+  },
+  {
+    "page": 268,
+    "questions": [
+      {
+        "type": "mcq",
+        "q": "Which mechanical defense removes inhaled particles from the respiratory tract?",
+        "options": [
+          "Normal flora antagonism",
+          "Gastric acid",
+          "Mucociliary escalator",
+          "Complement cascade"
+        ],
+        "answer": 2,
+        "explanation": "Coordinated ciliary movement transports mucus and trapped particles out of the airways."
+      }
+    ]
+  },
+  {
+    "page": 269,
+    "questions": [
+      {
+        "type": "mcq",
+        "q": "Which antimicrobial enzyme is found in both tears and saliva?",
+        "options": [
+          "Collagenase",
+          "Coagulase",
+          "Lysozyme",
+          "Streptokinase"
+        ],
+        "answer": 2,
+        "explanation": "Lysozyme in tears and saliva damages susceptible bacterial cell walls."
+      }
+    ]
+  },
+  {
+    "page": 270,
+    "questions": [
+      {
+        "type": "mcq",
+        "q": "Normal flora protect a body surface primarily by competing with pathogens for:",
+        "options": [
+          "Nutrients and space",
+          "Caspases and cytokines",
+          "Oxygen and erythrocytes",
+          "Antibodies and complement"
+        ],
+        "answer": 0,
+        "explanation": "Competition for nutrients and attachment space creates antagonism or colonization resistance."
+      }
+    ]
+  },
+  {
+    "page": 273,
+    "questions": [
+      {
+        "type": "mcq",
+        "q": "Which listed blood component functions mainly as an intercellular communication signal?",
+        "options": [
+          "Erythrocyte",
+          "Platelet",
+          "Coagulation protein",
+          "Cytokine"
+        ],
+        "answer": 3,
+        "explanation": "Cytokines are secreted signals that coordinate immune-cell behavior."
+      }
+    ]
+  },
+  {
+    "page": 274,
+    "questions": [
+      {
+        "type": "mcq",
+        "q": "Which pair consists mainly of adaptive immune lymphocytes?",
+        "options": [
+          "Mast cells and neutrophils",
+          "B cells and T cells",
+          "Macrophages and mast cells",
+          "NK cells and macrophages"
+        ],
+        "answer": 1,
+        "explanation": "B and T lymphocytes are the principal cellular components of adaptive immunity."
+      },
+      {
+        "type": "mcq",
+        "q": "Which white blood cell is strongly associated with release of mediators that promote inflammation?",
+        "options": [
+          "Erythrocyte",
+          "Mast cell",
+          "Platelet",
+          "Plasma cell"
+        ],
+        "answer": 1,
+        "explanation": "Mast cells release inflammatory mediators and are important in immediate inflammatory responses."
+      }
+    ]
+  },
+  {
+    "page": 275,
+    "questions": [
+      {
+        "type": "mcq",
+        "q": "Approximately what fraction of circulating white blood cells is made up of neutrophils according to the slide?",
+        "options": [
+          "15–25%",
+          "50–60%",
+          "80–90%",
+          "2–10%"
+        ],
+        "answer": 1,
+        "explanation": "The slide identifies neutrophils as the most abundant WBC population at roughly 50–60%."
+      }
+    ]
+  },
+  {
+    "page": 280,
+    "questions": [
+      {
+        "type": "mcq",
+        "q": "What is the membrane-bound compartment formed immediately after a phagocyte engulfs a microbe?",
+        "options": [
+          "Proteasome",
+          "Inflammasome",
+          "Apoptosome",
+          "Phagosome"
+        ],
+        "answer": 3,
+        "explanation": "Engulfment encloses the microbe in a phagosome."
+      },
+      {
+        "type": "mcq",
+        "q": "Where does most enzymatic killing and digestion of an engulfed bacterium occur?",
+        "options": [
+          "Extracellular matrix",
+          "Phagolysosome",
+          "Nucleus",
+          "Golgi cisterna"
+        ],
+        "answer": 1,
+        "explanation": "Fusion of the phagosome with lysosomal/granule compartments creates the degradative phagolysosome."
+      }
+    ]
+  },
+  {
+    "page": 281,
+    "questions": [
+      {
+        "type": "mcq",
+        "q": "Neutrophil granules principally store which class of effector molecules?",
+        "options": [
+          "Digestive enzymes and antimicrobial proteins",
+          "Steroid hormones and glycogen",
+          "Antibodies and MHC molecules",
+          "DNA polymerases and histones"
+        ],
+        "answer": 0,
+        "explanation": "Granules provide rapidly deployable enzymes and antimicrobial proteins for microbial killing."
+      }
+    ]
+  },
+  {
+    "page": 283,
+    "questions": [
+      {
+        "type": "mcq",
+        "q": "The structural scaffold of a neutrophil extracellular trap is primarily:",
+        "options": [
+          "DNA",
+          "Peptidoglycan",
+          "Phospholipid",
+          "Collagen"
+        ],
+        "answer": 0,
+        "explanation": "NETs are extracellular DNA-rich webs decorated with antimicrobial proteins."
+      },
+      {
+        "type": "mcq",
+        "q": "What is the immediate defensive function of a NET?",
+        "options": [
+          "Activate erythrocyte production",
+          "Digest host collagen",
+          "Generate antigen-specific antibodies",
+          "Trap microbes extracellularly"
+        ],
+        "answer": 3,
+        "explanation": "NETs immobilize microbes and concentrate antimicrobial molecules around them."
+      }
+    ]
+  },
+  {
+    "page": 284,
+    "questions": [
+      {
+        "type": "mcq",
+        "q": "Approximately what percentage of circulating WBCs is represented by monocytes on the slide?",
+        "options": [
+          "70–80%",
+          "2–10%",
+          "20–30%",
+          "50–60%"
+        ],
+        "answer": 1,
+        "explanation": "The slide gives monocytes as approximately 2–10% of WBCs."
+      },
+      {
+        "type": "mcq",
+        "q": "What happens to many monocytes after they leave the bloodstream and enter tissues?",
+        "options": [
+          "They become macrophages",
+          "They become erythrocytes",
+          "They become platelets",
+          "They become epithelial cells"
+        ],
+        "answer": 0,
+        "explanation": "Tissue entry is followed by differentiation of monocytes into macrophages."
+      }
+    ]
+  },
+  {
+    "page": 285,
+    "questions": [
+      {
+        "type": "mcq",
+        "q": "Which macrophage function directly helps activate antigen-specific T-cell responses?",
+        "options": [
+          "Hemoglobin synthesis",
+          "Antibody secretion",
+          "Platelet release",
+          "Antigen presentation"
+        ],
+        "answer": 3,
+        "explanation": "Macrophages can display processed antigen to T cells, linking innate uptake to adaptive activation."
+      }
+    ]
+  },
+  {
+    "page": 286,
+    "questions": [
+      {
+        "type": "mcq",
+        "q": "Which statement correctly classifies natural killer cells?",
+        "options": [
+          "Antibody-producing granulocytes",
+          "Tissue-resident erythrocytes",
+          "Adaptive myeloid cells",
+          "Innate lymphoid cells"
+        ],
+        "answer": 3,
+        "explanation": "NK cells are lymphoid in lineage but function as innate immune cells and are neither B nor T cells."
+      }
+    ]
+  },
+  {
+    "page": 287,
+    "questions": [
+      {
+        "type": "mcq",
+        "q": "Which surface molecule on a normal host cell commonly supplies an inhibitory signal to NK cells?",
+        "options": [
+          "Peptidoglycan",
+          "MHC class I",
+          "Secreted IgA",
+          "Lipid A"
+        ],
+        "answer": 1,
+        "explanation": "Normal expression of MHC class I engages inhibitory NK receptors and restrains killing."
+      },
+      {
+        "type": "mcq",
+        "q": "The term “missing self” refers most directly to reduced expression of:",
+        "options": [
+          "MHC class I on a target cell",
+          "Antibody on a B cell",
+          "Complement in plasma",
+          "Collagen in connective tissue"
+        ],
+        "answer": 0,
+        "explanation": "Virus-infected and transformed cells may lose MHC class I, removing an inhibitory NK-cell signal."
+      }
+    ]
+  },
+  {
+    "page": 288,
+    "questions": [
+      {
+        "type": "mcq",
+        "q": "Which NK-cell granule protein promotes entry of granzymes into the target cell?",
+        "options": [
+          "Lysozyme",
+          "Coagulase",
+          "Caspase-9",
+          "Perforin"
+        ],
+        "answer": 3,
+        "explanation": "Perforin facilitates delivery of granzymes, which initiate apoptotic death."
+      },
+      {
+        "type": "mcq",
+        "q": "Granzyme entry into an NK-cell target most directly triggers:",
+        "options": [
+          "Cell-wall synthesis",
+          "Complement secretion",
+          "Apoptosis",
+          "Antibody production"
+        ],
+        "answer": 2,
+        "explanation": "Granzymes activate intracellular death pathways that cause apoptosis of the target cell."
+      }
+    ]
+  },
+  {
+    "page": 290,
+    "questions": [
+      {
+        "type": "mcq",
+        "q": "In granule-mediated cytotoxicity, what occurs immediately before polarized granule release?",
+        "options": [
+          "Bacterial binary fission",
+          "Target recognition and immune-synapse formation",
+          "Antibody class switching",
+          "Phagolysosome exocytosis"
+        ],
+        "answer": 1,
+        "explanation": "The cytotoxic lymphocyte first recognizes and binds its target, then directs granules toward the contact site."
+      }
+    ]
+  },
+  {
+    "page": 291,
+    "questions": [
+      {
+        "type": "mcq",
+        "q": "Cytotoxic T cells recognize target cells through specific binding to:",
+        "options": [
+          "Peptide–MHC class I complexes",
+          "Free circulating LPS",
+          "Peptidoglycan–TLR4 complexes",
+          "Complement-coated erythrocytes"
+        ],
+        "answer": 0,
+        "explanation": "A cytotoxic T-cell receptor recognizes a specific peptide displayed by MHC class I."
+      }
+    ]
+  },
+  {
+    "page": 292,
+    "questions": [
+      {
+        "type": "mcq",
+        "q": "What does virulence describe?",
+        "options": [
+          "The host's capacity to make antibodies",
+          "The rate of leukocyte production",
+          "The ability of a drug to dissolve clots",
+          "A pathogen's capacity to harm its host"
+        ],
+        "answer": 3,
+        "explanation": "Virulence is the degree or capacity of a pathogen to cause host damage."
+      },
+      {
+        "type": "mcq",
+        "q": "Which combination best captures the slide's distinction between a microbe and a pathogen?",
+        "options": [
+          "Host cell + capsule = pathogen",
+          "Toxin + erythrocyte = pathogen",
+          "Microbe + virulence factors = pathogen",
+          "Microbe + antibody = pathogen"
+        ],
+        "answer": 2,
+        "explanation": "Virulence factors equip a microbe to enter, persist, evade defenses, damage the host, or spread."
+      }
+    ]
+  },
+  {
+    "page": 293,
+    "questions": [
+      {
+        "type": "mcq",
+        "q": "Which process enables a bacterium to persist despite active host defenses?",
+        "options": [
+          "Blood coagulation",
+          "Immune evasion",
+          "Translation termination",
+          "Erythropoiesis"
+        ],
+        "answer": 1,
+        "explanation": "Immune-evasion mechanisms allow bacteria to avoid recognition, killing, or clearance."
+      },
+      {
+        "type": "mcq",
+        "q": "Which event is most directly responsible for the clinical manifestations of bacterial disease?",
+        "options": [
+          "Tissue damage by toxins or direct microbial effects",
+          "Initial exposure alone",
+          "Receptor absence from a non-target tissue",
+          "Formation of normal flora"
+        ],
+        "answer": 0,
+        "explanation": "Disease signs and symptoms arise when toxins or direct microbial activities damage host tissue."
+      }
+    ]
+  },
+  {
+    "page": 294,
+    "questions": [
+      {
+        "type": "mcq",
+        "q": "During bacterial adherence, the receptor is generally located on the _____ and the ligand on the _____.",
+        "options": [
+          "microbe; host cell",
+          "antibody; erythrocyte",
+          "capsule; lysosome",
+          "host cell; microbe"
+        ],
+        "answer": 3,
+        "explanation": "Adherence commonly involves a microbial ligand or adhesin binding a receptor on the host cell."
+      }
+    ]
+  },
+  {
+    "page": 295,
+    "questions": [
+      {
+        "type": "mcq",
+        "q": "M protein is a virulence factor associated with:",
+        "options": [
+          "Mycobacterium leprae",
+          "Clostridium perfringens",
+          "Group A Streptococcus",
+          "Vibrio cholerae"
+        ],
+        "answer": 2,
+        "explanation": "M protein is a major surface virulence factor of Group A Streptococcus."
+      },
+      {
+        "type": "mcq",
+        "q": "Which host extracellular-matrix protein is specifically linked to M-protein-mediated adherence and invasion?",
+        "options": [
+          "Tubulin",
+          "Fibronectin",
+          "Keratin",
+          "Elastin"
+        ],
+        "answer": 1,
+        "explanation": "Binding to fibronectin promotes attachment to and invasion of epithelial and endothelial cells."
+      }
+    ]
+  },
+  {
+    "page": 296,
+    "questions": [
+      {
+        "type": "mcq",
+        "q": "Host specificity of an adherent pathogen is strongly influenced by:",
+        "options": [
+          "Distribution of the matching host receptor",
+          "The host's erythrocyte count",
+          "Lysosomal pH in every tissue",
+          "The pathogen's ATP concentration"
+        ],
+        "answer": 0,
+        "explanation": "A pathogen can efficiently attach only where its adhesin's matching receptor is available."
+      }
+    ]
+  },
+  {
+    "page": 297,
+    "questions": [
+      {
+        "type": "mcq",
+        "q": "Where is a bacterial capsule located?",
+        "options": [
+          "Inside the nucleoid",
+          "Between DNA strands",
+          "Within the ribosome",
+          "Outside the cell wall"
+        ],
+        "answer": 3,
+        "explanation": "A capsule is an external layer surrounding the bacterial cell wall."
+      },
+      {
+        "type": "mcq",
+        "q": "Which organism is listed as an encapsulated bacterial example?",
+        "options": [
+          "Mycobacterium leprae",
+          "Clostridium perfringens",
+          "Streptococcus pneumoniae",
+          "Vibrio cholerae"
+        ],
+        "answer": 2,
+        "explanation": "The slide lists S. pneumoniae, H. influenzae, and B. anthracis as capsule-bearing examples."
+      }
+    ]
+  },
+  {
+    "page": 298,
+    "questions": [
+      {
+        "type": "mcq",
+        "q": "TLR4 is shown recognizing which bacterial PAMP?",
+        "options": [
+          "Collagen",
+          "Lipopolysaccharide",
+          "Fibronectin",
+          "M protein"
+        ],
+        "answer": 1,
+        "explanation": "TLR4 is a pattern-recognition receptor for bacterial LPS."
+      },
+      {
+        "type": "mcq",
+        "q": "How can a capsule reduce innate immune recognition?",
+        "options": [
+          "By masking underlying PAMPs",
+          "By producing host MHC class I",
+          "By activating caspase-9",
+          "By converting T cells into macrophages"
+        ],
+        "answer": 0,
+        "explanation": "The capsule can physically conceal microbial patterns from host pattern-recognition receptors."
+      }
+    ]
+  },
+  {
+    "page": 299,
+    "questions": [
+      {
+        "type": "mcq",
+        "q": "What is the main effect of a capsule on phagocytosis?",
+        "options": [
+          "It increases lysosomal enzyme activity",
+          "It exposes more PAMPs",
+          "It converts complement into antibody",
+          "It reduces phagocyte attachment and engulfment"
+        ],
+        "answer": 3,
+        "explanation": "Capsules hinder effective contact between a phagocyte and the bacterial surface."
+      },
+      {
+        "type": "mcq",
+        "q": "Which surface coating can restore efficient recognition of an encapsulated bacterium by phagocytes?",
+        "options": [
+          "Gsα",
+          "Lipid A",
+          "C3b",
+          "eEF-2"
+        ],
+        "answer": 2,
+        "explanation": "C3b is an opsonin; phagocytes bind it through complement receptors to improve engulfment."
+      }
+    ]
+  },
+  {
+    "page": 300,
+    "questions": [
+      {
+        "type": "mcq",
+        "q": "A capsule can promote intracellular survival after engulfment by increasing resistance to:",
+        "options": [
+          "Mitochondrial ATP synthesis",
+          "Lysosomal enzymes",
+          "Host ribosomes",
+          "Plasma antibodies only"
+        ],
+        "answer": 1,
+        "explanation": "Some capsules protect engulfed bacteria from digestion by lysosomal enzymes."
+      }
+    ]
+  },
+  {
+    "page": 301,
+    "questions": [
+      {
+        "type": "mcq",
+        "q": "Quorum sensing allows bacteria to alter gene expression in response to:",
+        "options": [
+          "Population density",
+          "Host blood group",
+          "Atmospheric pressure",
+          "Chromosome number"
+        ],
+        "answer": 0,
+        "explanation": "Accumulating signaling molecules let bacteria estimate local cell density and coordinate gene expression."
+      },
+      {
+        "type": "mcq",
+        "q": "What best defines a biofilm?",
+        "options": [
+          "A single bacterium in plasma",
+          "A host-cell apoptotic body",
+          "A soluble bacterial exotoxin",
+          "An organized surface-associated microbial community"
+        ],
+        "answer": 3,
+        "explanation": "Biofilms are structured microbial communities, usually attached to a surface and embedded in a matrix."
+      }
+    ]
+  },
+  {
+    "page": 303,
+    "questions": [
+      {
+        "type": "mcq",
+        "q": "Which bacterial enzyme directly targets a mucosal antibody?",
+        "options": [
+          "Coagulase",
+          "Hyaluronidase",
+          "IgA protease",
+          "Collagenase"
+        ],
+        "answer": 2,
+        "explanation": "IgA protease cleaves secretory IgA and helps pathogens evade mucosal immunity."
+      },
+      {
+        "type": "mcq",
+        "q": "Which pair of enzymes primarily promotes spread through connective tissue?",
+        "options": [
+          "Caspase-8 and caspase-9",
+          "Hyaluronidase and collagenase",
+          "Coagulase and IgA protease",
+          "Lysozyme and perforin"
+        ],
+        "answer": 1,
+        "explanation": "Hyaluronidase and collagenase digest connective-tissue components and facilitate invasion."
+      }
+    ]
+  },
+  {
+    "page": 304,
+    "questions": [
+      {
+        "type": "mcq",
+        "q": "Which enzyme-organism association is correct?",
+        "options": [
+          "Collagenase—Clostridium perfringens",
+          "Collagenase—Vibrio cholerae",
+          "Hyaluronidase—Mycobacterium leprae",
+          "Hyaluronidase—Bacillus anthracis only"
+        ],
+        "answer": 0,
+        "explanation": "C. perfringens produces collagenase, supporting deep-tissue spread in gas gangrene."
+      },
+      {
+        "type": "mcq",
+        "q": "Hyaluronidase is listed for both Staphylococcus aureus and:",
+        "options": [
+          "Vibrio cholerae",
+          "Mycobacterium tuberculosis",
+          "Haemophilus influenzae",
+          "Streptococcus pyogenes"
+        ],
+        "answer": 3,
+        "explanation": "The slide associates hyaluronidase with S. aureus and S. pyogenes."
+      }
+    ]
+  },
+  {
+    "page": 305,
+    "questions": [
+      {
+        "type": "mcq",
+        "q": "How does coagulase help Staphylococcus aureus evade host defenses?",
+        "options": [
+          "It digests collagen",
+          "It blocks eEF-2",
+          "It promotes a clot-like protective barrier",
+          "It cleaves secretory IgA"
+        ],
+        "answer": 2,
+        "explanation": "Coagulase-driven clot formation can shield bacteria from phagocytes, immune factors, and antibiotics."
+      },
+      {
+        "type": "mcq",
+        "q": "What is the clinical use of streptokinase stated on the slide?",
+        "options": [
+          "Inducing antibody class switching",
+          "Dissolving blood clots during heart attacks",
+          "Blocking bacterial translation",
+          "Treating gastric acidity"
+        ],
+        "answer": 1,
+        "explanation": "Streptokinase is a thrombolytic enzyme used to dissolve clots."
+      }
+    ]
+  },
+  {
+    "page": 306,
+    "questions": [
+      {
+        "type": "mcq",
+        "q": "Peptidoglycan is composed principally of:",
+        "options": [
+          "Sugars and amino acids",
+          "Lipids and RNA",
+          "DNA and cholesterol",
+          "Cellulose and glycogen"
+        ],
+        "answer": 0,
+        "explanation": "Peptidoglycan is a mesh-like polymer containing sugar chains cross-linked by short peptides."
+      }
+    ]
+  },
+  {
+    "page": 307,
+    "questions": [
+      {
+        "type": "mcq",
+        "q": "Mycolic acid contributes to virulence chiefly by increasing resistance to:",
+        "options": [
+          "Host-cell attachment",
+          "Antibody synthesis",
+          "Blood coagulation",
+          "Lysosomal digestion"
+        ],
+        "answer": 3,
+        "explanation": "The mycolic-acid-rich wall helps mycobacteria withstand lysosomal degradation."
+      }
+    ]
+  },
+  {
+    "page": 308,
+    "questions": [
+      {
+        "type": "mcq",
+        "q": "Invasin-triggered membrane ruffling allows microbial entry by rearranging:",
+        "options": [
+          "Host collagen fibers",
+          "Microbial ribosomes",
+          "Host actin filaments",
+          "Bacterial peptidoglycan"
+        ],
+        "answer": 2,
+        "explanation": "Invasins trigger signaling that reorganizes the host actin cytoskeleton and drives membrane engulfment."
+      }
+    ]
+  },
+  {
+    "page": 309,
+    "questions": [
+      {
+        "type": "mcq",
+        "q": "What is toxigenicity?",
+        "options": [
+          "The capacity of a phagocyte to ingest bacteria",
+          "The ability of a microorganism to produce toxins",
+          "The presence of toxin in blood",
+          "The host response to a capsule"
+        ],
+        "answer": 1,
+        "explanation": "Toxigenicity denotes toxin-producing ability."
+      },
+      {
+        "type": "mcq",
+        "q": "What does toxemia mean?",
+        "options": [
+          "Presence of toxins in the blood",
+          "Presence of bacteria in a biofilm",
+          "Loss of MHC class I",
+          "Release of antibodies into mucus"
+        ],
+        "answer": 0,
+        "explanation": "Toxemia specifically refers to circulating toxin in blood."
+      }
+    ]
+  },
+  {
+    "page": 310,
+    "questions": [
+      {
+        "type": "mcq",
+        "q": "How does diphtheria toxin enter a host cell?",
+        "options": [
+          "Passive diffusion through the nucleus",
+          "Complement-mediated lysis",
+          "Phagocytosis by an erythrocyte",
+          "Receptor-mediated endocytosis"
+        ],
+        "answer": 3,
+        "explanation": "After receptor binding, the toxin is internalized by receptor-mediated endocytosis."
+      },
+      {
+        "type": "mcq",
+        "q": "Diphtheria toxin fragment A halts translation by ADP-ribosylating:",
+        "options": [
+          "TLR4",
+          "Caspase-8",
+          "eEF-2",
+          "Gsα"
+        ],
+        "answer": 2,
+        "explanation": "Modification of the diphthamide residue of eEF-2 prevents protein elongation."
+      }
+    ]
+  },
+  {
+    "page": 311,
+    "questions": [
+      {
+        "type": "mcq",
+        "q": "Which receptor is bound by the B pentamer of cholera toxin?",
+        "options": [
+          "TLR4",
+          "GM1 ganglioside",
+          "TNFR1",
+          "Fas"
+        ],
+        "answer": 1,
+        "explanation": "The five B subunits bind GM1 receptors and promote toxin internalization."
+      },
+      {
+        "type": "mcq",
+        "q": "Cholera toxin causes persistent activation of adenylyl cyclase by locking which protein in its active GTP-bound state?",
+        "options": [
+          "Gsα",
+          "BAX",
+          "eEF-2",
+          "FADD"
+        ],
+        "answer": 0,
+        "explanation": "The A1 fragment modifies Gsα, causing persistent adenylyl cyclase activity and high cAMP."
+      }
+    ]
+  },
+  {
+    "page": 312,
+    "questions": [
+      {
+        "type": "mcq",
+        "q": "How many transmembrane helices characterize a typical GPCR?",
+        "options": [
+          "One",
+          "Three",
+          "Twelve",
+          "Seven"
+        ],
+        "answer": 3,
+        "explanation": "GPCRs contain seven membrane-spanning alpha helices."
+      },
+      {
+        "type": "mcq",
+        "q": "A ligand-bound GPCR directly activates which intracellular signaling component?",
+        "options": [
+          "A B-cell antibody",
+          "A bacterial capsule",
+          "A trimeric G protein",
+          "A lysosomal cathepsin"
+        ],
+        "answer": 2,
+        "explanation": "The activated receptor promotes nucleotide exchange and activation of a heterotrimeric G protein."
+      }
+    ]
+  },
+  {
+    "page": 313,
+    "questions": [
+      {
+        "type": "mcq",
+        "q": "Which intrinsic activity of Gα helps terminate GPCR signaling?",
+        "options": [
+          "Protein glycosylation",
+          "GTP hydrolysis",
+          "ATP synthesis",
+          "DNA cleavage"
+        ],
+        "answer": 1,
+        "explanation": "Gα hydrolyzes bound GTP to GDP and returns to its inactive state."
+      },
+      {
+        "type": "mcq",
+        "q": "Which combination produces receptor-level attenuation after prolonged GPCR activation?",
+        "options": [
+          "Receptor phosphorylation and arrestin binding",
+          "Perforin release and granzyme entry",
+          "BAX activation and cytochrome c release",
+          "C3b deposition and phagocytosis"
+        ],
+        "answer": 0,
+        "explanation": "Phosphorylation enables arrestin binding, which uncouples the receptor from further G-protein activation."
+      }
+    ]
+  },
+  {
+    "page": 314,
+    "questions": [
+      {
+        "type": "mcq",
+        "q": "The toxic portion of Gram-negative lipopolysaccharide is:",
+        "options": [
+          "Peptidoglycan",
+          "M protein",
+          "Mycolic acid",
+          "Lipid A"
+        ],
+        "answer": 3,
+        "explanation": "Endotoxin activity resides in the lipid A component of LPS."
+      }
+    ]
+  },
+  {
+    "page": 315,
+    "questions": [
+      {
+        "type": "mcq",
+        "q": "Which process can release endotoxin from Gram-negative bacteria?",
+        "options": [
+          "T-cell receptor rearrangement",
+          "Host collagen synthesis",
+          "Complement-mediated bacterial lysis",
+          "Antibody class switching"
+        ],
+        "answer": 2,
+        "explanation": "Bacterial breakdown by complement, phagocytes, or antibiotics can release LPS/endotoxin."
+      }
+    ]
+  },
+  {
+    "page": 316,
+    "questions": [
+      {
+        "type": "mcq",
+        "q": "Which host molecules mediate many systemic effects after endotoxin recognition?",
+        "options": [
+          "Immunoglobulin light chains only",
+          "Cytokines",
+          "Histones",
+          "Collagens"
+        ],
+        "answer": 1,
+        "explanation": "Endotoxin induces inflammatory cytokine secretion, which contributes to fever and systemic inflammation."
+      },
+      {
+        "type": "mcq",
+        "q": "Which response is most directly associated with endotoxin exposure on the slide?",
+        "options": [
+          "Fever",
+          "Reduced cAMP",
+          "Antibody-independent memory",
+          "Suppressed inflammation"
+        ],
+        "answer": 0,
+        "explanation": "Endotoxin is pyrogenic and promotes inflammatory cytokine-driven fever."
+      }
+    ]
+  },
+  {
+    "page": 317,
+    "questions": [
+      {
+        "type": "mcq",
+        "q": "Why may killing Gram-negative bacteria fail to make a preparation endotoxin-free?",
+        "options": [
+          "Dead bacteria synthesize new antibodies",
+          "Lipid A is converted into peptidoglycan",
+          "Sterilization creates living spores in all cases",
+          "Endotoxin can remain after bacterial death"
+        ],
+        "answer": 3,
+        "explanation": "Endotoxin is a heat-stable bacterial component that may persist even when bacteria have been killed."
+      },
+      {
+        "type": "mcq",
+        "q": "A substance that induces fever is termed a:",
+        "options": [
+          "Adhesin",
+          "Invasin",
+          "Pyrogen",
+          "Opsonin"
+        ],
+        "answer": 2,
+        "explanation": "Endotoxins are pyrogens because they can induce fever."
+      }
+    ]
+  },
+  {
+    "page": 319,
+    "questions": [
+      {
+        "type": "mcq",
+        "q": "Which is a homeostatic function of programmed cell death?",
+        "options": [
+          "Synthesis of bacterial capsules",
+          "Removal of damaged or infected cells",
+          "Permanent inhibition of all cell turnover",
+          "Conversion of pathogens into antibodies"
+        ],
+        "answer": 1,
+        "explanation": "Programmed death removes unwanted, damaged, stressed, or infected cells and helps maintain tissue balance."
+      }
+    ]
+  },
+  {
+    "page": 320,
+    "questions": [
+      {
+        "type": "mcq",
+        "q": "Which feature is biochemical rather than morphological evidence of apoptosis?",
+        "options": [
+          "Caspase activation",
+          "Membrane blebbing",
+          "Cell shrinkage",
+          "Nuclear fragmentation"
+        ],
+        "answer": 0,
+        "explanation": "Caspase activation is a biochemical hallmark; the other options are visible morphological changes."
+      },
+      {
+        "type": "mcq",
+        "q": "Which membrane change marks an apoptotic cell for phagocytic clearance?",
+        "options": [
+          "Insertion of bacterial lipid A",
+          "Loss of all membrane phospholipids",
+          "Synthesis of peptidoglycan",
+          "Externalization of phosphatidylserine"
+        ],
+        "answer": 3,
+        "explanation": "Phosphatidylserine exposure on the outer leaflet acts as an engulfment signal."
+      }
+    ]
+  },
+  {
+    "page": 321,
+    "questions": [
+      {
+        "type": "mcq",
+        "q": "Which pair contains only executioner caspases?",
+        "options": [
+          "Caspase-7 and caspase-9",
+          "Caspase-3 and caspase-8",
+          "Caspase-3 and caspase-7",
+          "Caspase-8 and caspase-9"
+        ],
+        "answer": 2,
+        "explanation": "Caspases 3, 6, and 7 are executioners; caspases 8 and 9 are initiators."
+      }
+    ]
+  },
+  {
+    "page": 322,
+    "questions": [
+      {
+        "type": "mcq",
+        "q": "Caspase cleavage of cytoskeletal regulatory proteins contributes directly to:",
+        "options": [
+          "MHC class I expression",
+          "Membrane blebbing",
+          "LPS synthesis",
+          "Antibody secretion"
+        ],
+        "answer": 1,
+        "explanation": "Caspase-dependent reorganization of cortical actin contributes to apoptotic surface blebs."
+      },
+      {
+        "type": "mcq",
+        "q": "Cleavage of phospholipid-transfer proteins during apoptosis causes surface exposure of:",
+        "options": [
+          "Phosphatidylserine",
+          "Lipid A",
+          "Mycolic acid",
+          "Peptidoglycan"
+        ],
+        "answer": 0,
+        "explanation": "Disrupted phospholipid asymmetry exposes phosphatidylserine on the cell surface."
+      }
+    ]
+  },
+  {
+    "page": 323,
+    "questions": [
+      {
+        "type": "mcq",
+        "q": "Which proteins directly permeabilize the mitochondrial outer membrane during intrinsic apoptosis?",
+        "options": [
+          "Fas and FADD",
+          "RIPK1 and RIPK3",
+          "GPX4 and FSP1",
+          "BAX and BAK"
+        ],
+        "answer": 3,
+        "explanation": "Activated BAX and BAK oligomerize in the outer mitochondrial membrane and permit cytochrome c release."
+      },
+      {
+        "type": "mcq",
+        "q": "Cytochrome c release promotes assembly of which caspase-activating complex?",
+        "options": [
+          "Phagolysosome",
+          "Inflammasome",
+          "Apoptosome",
+          "DISC"
+        ],
+        "answer": 2,
+        "explanation": "Cytosolic cytochrome c drives apoptosome assembly and activation of initiator caspase-9."
+      }
+    ]
+  },
+  {
+    "page": 324,
+    "questions": [
+      {
+        "type": "mcq",
+        "q": "Which BCL-2 family classes are BH3-only proteins?",
+        "options": [
+          "Receptors and adaptors",
+          "Activators and sensitizers",
+          "Effectors and anti-apoptotic members",
+          "Initiator and executioner caspases"
+        ],
+        "answer": 1,
+        "explanation": "BH3-only activators and sensitizers contain only the BH3 homology domain."
+      },
+      {
+        "type": "mcq",
+        "q": "Which BCL-2 family groups possess BH1–BH4 domains?",
+        "options": [
+          "Pro-apoptotic effectors and anti-apoptotic members",
+          "Activators and sensitizers only",
+          "Caspases 8 and 9",
+          "Fas ligand and FADD"
+        ],
+        "answer": 0,
+        "explanation": "Multi-domain effectors and anti-apoptotic BCL-2 proteins contain all four BH domains."
+      }
+    ]
+  },
+  {
+    "page": 325,
+    "questions": [
+      {
+        "type": "mcq",
+        "q": "Which adaptor protein is recruited to activated Fas receptors?",
+        "options": [
+          "Apaf-1",
+          "RIPK3",
+          "GPX4",
+          "FADD"
+        ],
+        "answer": 3,
+        "explanation": "FADD links clustered Fas death receptors to procaspase-8 within the DISC."
+      },
+      {
+        "type": "mcq",
+        "q": "Which initiator caspase is activated in the Fas-associated DISC?",
+        "options": [
+          "Caspase-3",
+          "Caspase-7",
+          "Caspase-8",
+          "Caspase-9"
+        ],
+        "answer": 2,
+        "explanation": "The extrinsic pathway activates initiator caspase-8 at the DISC."
+      }
+    ]
+  },
+  {
+    "page": 326,
+    "questions": [
+      {
+        "type": "mcq",
+        "q": "Which condition commonly favors necroptosis over extrinsic apoptosis?",
+        "options": [
+          "Strong GPX4 activity",
+          "Absence or inhibition of caspase-8",
+          "High executioner-caspase activity",
+          "Intact apoptotic-body clearance"
+        ],
+        "answer": 1,
+        "explanation": "Necroptosis is often engaged when death-receptor signaling occurs but caspase-8-dependent apoptosis is blocked."
+      },
+      {
+        "type": "mcq",
+        "q": "Which morphology distinguishes necroptosis from apoptosis?",
+        "options": [
+          "Cell swelling with plasma-membrane rupture",
+          "Cell shrinkage with intact blebbing membrane",
+          "Chromatin condensation with apoptotic bodies",
+          "Phosphatidylserine exposure without lysis"
+        ],
+        "answer": 0,
+        "explanation": "Necroptosis is lytic, with cytoplasmic swelling, swollen mitochondria, and membrane rupture."
+      }
+    ]
+  },
+  {
+    "page": 327,
+    "questions": [
+      {
+        "type": "mcq",
+        "q": "Which receptors can serve as extrinsic triggers of necroptosis?",
+        "options": [
+          "GPCR, GM1, and MHC I",
+          "Fas only",
+          "BCR and TCR only",
+          "TNFR1, TLR3, and TLR4"
+        ],
+        "answer": 3,
+        "explanation": "The slide lists TNFR1 and the pattern-recognition receptors TLR3 and TLR4 as extrinsic triggers."
+      },
+      {
+        "type": "mcq",
+        "q": "Intrinsic necroptosis can begin when ZBP1 recognizes:",
+        "options": [
+          "Secretory IgA",
+          "Extracellular collagen",
+          "Z-form nucleic acids",
+          "MHC class I"
+        ],
+        "answer": 2,
+        "explanation": "ZBP1-dependent recognition of Z-nucleic acids is shown as an intracellular trigger."
+      }
+    ]
+  },
+  {
+    "page": 328,
+    "questions": [
+      {
+        "type": "mcq",
+        "q": "Which molecules released by necroptotic cells alert immune cells to tissue damage?",
+        "options": [
+          "AB5 holotoxins",
+          "DAMPs",
+          "BH domains",
+          "MHC peptides"
+        ],
+        "answer": 1,
+        "explanation": "Lytic membrane rupture releases damage-associated molecular patterns, or DAMPs."
+      },
+      {
+        "type": "mcq",
+        "q": "Which cells are specifically listed as detecting necroptosis-derived DAMPs?",
+        "options": [
+          "T cells, dendritic cells, and macrophages",
+          "Erythrocytes, platelets, and fibroblasts",
+          "Only B cells",
+          "Only neutrophils"
+        ],
+        "answer": 0,
+        "explanation": "The slide names T cells, dendritic cells, and macrophages as DAMP-responsive immune cells."
+      }
+    ]
+  },
+  {
+    "page": 329,
+    "questions": [
+      {
+        "type": "mcq",
+        "q": "What activates many lysosomal degradative enzymes?",
+        "options": [
+          "High cytosolic pH",
+          "MHC class I loss",
+          "Extracellular ATP depletion",
+          "Low luminal pH"
+        ],
+        "answer": 3,
+        "explanation": "The acidic lysosomal lumen turns on multiple degradative hydrolases."
+      },
+      {
+        "type": "mcq",
+        "q": "Which cathepsins are stated to be abundant in lysosomes?",
+        "options": [
+          "8, 9, and 10",
+          "A, E, and F",
+          "L, B, and D",
+          "3, 6, and 7"
+        ],
+        "answer": 2,
+        "explanation": "Cathepsins L, B, and D are listed at high lysosomal abundance."
+      }
+    ]
+  },
+  {
+    "page": 330,
+    "questions": [
+      {
+        "type": "mcq",
+        "q": "What type of molecular damage defines ferroptosis?",
+        "options": [
+          "MHC-dependent collagen cleavage",
+          "Iron-dependent phospholipid peroxidation",
+          "Caspase-dependent DNA ligation",
+          "Antibody-dependent peptidoglycan synthesis"
+        ],
+        "answer": 1,
+        "explanation": "Ferroptosis results from iron-dependent accumulation of phospholipid hydroperoxides."
+      },
+      {
+        "type": "mcq",
+        "q": "Which enzyme is a major defense against phospholipid hydroperoxide accumulation?",
+        "options": [
+          "GPX4",
+          "Caspase-8",
+          "Coagulase",
+          "TLR4"
+        ],
+        "answer": 0,
+        "explanation": "GPX4 reduces phospholipid hydroperoxides and suppresses ferroptotic membrane damage."
+      }
+    ]
+  }
+]

@@ -1,0 +1,2635 @@
+[
+  {
+    "page": 121,
+    "title": "Industrial Genetic Engineering",
+    "explain": "Engineered organisms can manufacture food-processing proteins, industrial enzymes, bio-based chemicals, fuels, and materials. Examples include chymosin, lactase, amylase, protease, lipase, amino acids, vitamins, ethanol, and bioplastics.",
+    "mustKnow": [
+      "Chymosin and lactase are food-biotechnology examples.",
+      "Amylase, protease, and lipase are industrial enzymes.",
+      "Ethanol and bioplastics are bioproducts.",
+      "Advantages include yield, consistency, scalability, and lower cost."
+    ],
+    "terms": [
+      {
+        "term": "Chymosin",
+        "meaning": "An enzyme used in cheese production."
+      },
+      {
+        "term": "Lactase",
+        "meaning": "An enzyme that breaks down lactose."
+      },
+      {
+        "term": "Bioplastic",
+        "meaning": "Plastic made partly or fully from biological resources."
+      },
+      {
+        "term": "Scalable",
+        "meaning": "Capable of being expanded to larger production volumes."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which set contains only industrial enzymes listed on the slide?",
+      "options": [
+        "Amylase, protease, lipase",
+        "Chymosin, lactase, ethanol",
+        "Amino acids, vitamins, organic acids",
+        "Ethanol, butanol, bioplastics"
+      ],
+      "answer": 0,
+      "explanation": "Amylase, protease, and lipase form the slide's industrial-enzyme group."
+    },
+    "diagramGuide": [
+      "Read the four numbered application groups from top to bottom; the right column lists the shared production advantages, not additional products."
+    ]
+  },
+  {
+    "page": 122,
+    "title": "Environmental Applications",
+    "explain": "Environmental genetic engineering applications include bioremediation, wastewater treatment, biosensors, and sustainable bioprocesses. The shared aim is to use biological systems to detect, remove, or reduce environmental burdens.",
+    "mustKnow": [
+      "Bioremediation uses organisms or biological activity to address pollutants.",
+      "Wastewater treatment removes contaminants from water.",
+      "Biosensors detect selected substances.",
+      "Sustainable bioprocesses aim to reduce environmental cost."
+    ],
+    "terms": [
+      {
+        "term": "Bioremediation",
+        "meaning": "Use of biological systems to remove or transform pollutants."
+      },
+      {
+        "term": "Biosensor",
+        "meaning": "A device using a biological component to detect a target."
+      },
+      {
+        "term": "Bioprocess",
+        "meaning": "A production or treatment process based on cells, enzymes, or other biological systems."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which environmental application couples target binding to a measurable output such as color or fluorescence?",
+      "options": [
+        "Bioremediation",
+        "Wastewater treatment",
+        "Biosensor",
+        "Biomass conversion"
+      ],
+      "answer": 2,
+      "explanation": "The biosensor panel shows recognition of a target producing a visible signal."
+    },
+    "diagramGuide": [
+      "Follow each panel left to right: pollutant breakdown (bioremediation), toxin removal (wastewater), target detection producing a signal (biosensor), and biomass conversion into products (sustainable bioprocess)."
+    ]
+  },
+  {
+    "page": 123,
+    "title": "Engineered Plants and Disease Protection",
+    "explain": "The slide shows genetically modified peach and apple trees growing in laboratory culture and wheat seeds treated with bacteria to make them nearly immune to a fungal disease. Both images illustrate agricultural biotechnology.",
+    "mustKnow": [
+      "Plant material can be grown under laboratory conditions.",
+      "Biotechnology can be used to improve resistance to fungal disease.",
+      "The examples involve fruit trees and wheat."
+    ],
+    "terms": [
+      {
+        "term": "Plant tissue culture",
+        "meaning": "Growth of plant cells or tissues under controlled laboratory conditions."
+      },
+      {
+        "term": "Fungal disease",
+        "meaning": "Plant disease caused by a fungus."
+      },
+      {
+        "term": "Disease resistance",
+        "meaning": "Ability to prevent or limit disease caused by a pathogen."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "In the wheat example, bacterial treatment was used primarily to increase resistance to which type of pathogen?",
+      "options": [
+        "Fungal",
+        "Viral",
+        "Protozoan",
+        "Helminth"
+      ],
+      "answer": 0,
+      "explanation": "The slide caption identifies wheat take-all as a fungal disease."
+    },
+    "diagramGuide": [
+      "The left photograph is laboratory-grown fruit-tree material; the right photograph shows wheat seed treatment. The two images represent propagation and disease protection, respectively."
+    ]
+  },
+  {
+    "page": 124,
+    "title": "Knockout and Fluorescent Mice",
+    "explain": "One comparison shows a normal mouse and a mouse in which a hair-growth gene was knocked out, producing a hairless phenotype. The other shows mice engineered to express enhanced green fluorescent protein, causing fluorescence.",
+    "mustKnow": [
+      "A gene knockout disables a selected gene.",
+      "Knocking out a hair-growth gene changes the mouse phenotype.",
+      "GFP expression makes engineered mice fluorescent.",
+      "Genetic modification can remove function or add expression."
+    ],
+    "terms": [
+      {
+        "term": "Gene knockout",
+        "meaning": "Targeted disabling of a gene."
+      },
+      {
+        "term": "Phenotype",
+        "meaning": "An observable characteristic produced by genotype and environment."
+      },
+      {
+        "term": "GFP",
+        "meaning": "Green fluorescent protein used as a visible marker."
+      },
+      {
+        "term": "Expression",
+        "meaning": "Use of gene information to produce an RNA or protein product."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which modification explains the phenotype of the hairless mouse?",
+      "options": [
+        "Insertion of an enhanced-GFP gene",
+        "Knockout of a hair-growth gene",
+        "Overexpression of a Bt gene",
+        "Deletion of a fluorescent-protein gene"
+      ],
+      "answer": 1,
+      "explanation": "The hairless mouse is the knockout example; GFP expression belongs to the separate fluorescent-mouse image."
+    },
+    "diagramGuide": [
+      "Left pair: compare normal fur with the hairless knockout phenotype. Right group: fluorescence marks mice expressing enhanced GFP; the central nonfluorescent mouse is normal."
+    ]
+  },
+  {
+    "page": 125,
+    "title": "Genetically Modified Bacteria",
+    "explain": "Bacteria are common GMOs because their DNA is relatively easy to manipulate. The slide gives engineered fuel and material examples: cyanobacteria producing polyethylene or butanol and E. coli producing diesel fuel.",
+    "mustKnow": [
+      "Bacteria are widely used because they are comparatively easy to engineer.",
+      "Engineered microbes can produce hydrocarbons.",
+      "Cyanobacteria are shown producing plastic or butanol.",
+      "E. coli is shown producing diesel fuel."
+    ],
+    "terms": [
+      {
+        "term": "GMO",
+        "meaning": "An organism whose genetic material has been deliberately modified."
+      },
+      {
+        "term": "Cyanobacteria",
+        "meaning": "Photosynthetic bacteria."
+      },
+      {
+        "term": "Hydrocarbon",
+        "meaning": "A compound made only of hydrogen and carbon, common in fuels and plastics."
+      },
+      {
+        "term": "Butanol",
+        "meaning": "An alcohol that can be used as a fuel."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which engineered microbe-product pairing is shown on the slide?",
+      "options": [
+        "Cyanobacteria—diesel fuel",
+        "E. coli—diesel fuel",
+        "E. coli—polyethylene only",
+        "Cyanobacteria—chymosin"
+      ],
+      "answer": 1,
+      "explanation": "The slide pairs engineered E. coli with diesel production and cyanobacteria with polyethylene or butanol."
+    },
+    "diagramGuide": [
+      "The bottom arrow represents engineered microbial production: photosynthetic cyanobacteria or E. coli are used as factories for plastic or fuel products."
+    ]
+  },
+  {
+    "page": 126,
+    "title": "Why Engineer Plants?",
+    "explain": "This transition slide asks how plant engineering could address practical problems such as hunger, harsh weather, and insecticide pollution. It introduces the following crop examples rather than presenting a detailed mechanism.",
+    "mustKnow": [
+      "Plant engineering can target food supply.",
+      "It can target weather-related stress.",
+      "It can reduce dependence on insecticides."
+    ],
+    "terms": [
+      {
+        "term": "Crop engineering",
+        "meaning": "Genetic modification of crop plants to introduce useful traits."
+      },
+      {
+        "term": "Insecticide pollution",
+        "meaning": "Environmental contamination caused by chemicals used to kill insects."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which proposed plant-engineering goal most directly addresses insecticide pollution?",
+      "options": [
+        "Increasing pesticide application frequency",
+        "Introducing insect resistance into the crop",
+        "Reducing seed germination",
+        "Eliminating drought tolerance"
+      ],
+      "answer": 1,
+      "explanation": "Insect-resistant crops can reduce reliance on externally applied insecticides."
+    },
+    "diagramGuide": [
+      "The crop photographs cue two target problems: food production and resistance to environmental or insect stress."
+    ]
+  },
+  {
+    "page": 127,
+    "title": "GM Crop Adoption and Bt Corn",
+    "explain": "The slide reports high US adoption percentages for GM soybean, cotton, corn, and sugar beet in 2010. Bt corn contains a bacterial gene that makes an insecticidal protein active against certain insects.",
+    "mustKnow": [
+      "Bt corn carries a gene from Bt bacteria.",
+      "The resulting protein is toxic to certain insects.",
+      "The slide states that the protein is not poisonous to humans.",
+      "The displayed adoption figures refer to the US in 2010."
+    ],
+    "terms": [
+      {
+        "term": "Bt corn",
+        "meaning": "Corn engineered to produce a Bacillus thuringiensis insecticidal protein."
+      },
+      {
+        "term": "Adoption rate",
+        "meaning": "The proportion of crop production using a technology or trait."
+      },
+      {
+        "term": "Specificity",
+        "meaning": "Activity directed toward particular targets rather than all organisms."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which crop had the lowest GM adoption percentage among the four US values shown for 2010?",
+      "options": [
+        "Soybean",
+        "Cotton",
+        "Corn",
+        "Sugar beet"
+      ],
+      "answer": 2,
+      "explanation": "The slide lists corn at 86%, below soybean and cotton at 93% and sugar beet at 95%."
+    },
+    "diagramGuide": [
+      "The percentages are crop-adoption data from the US in 2010. The corn image illustrates the Bt-corn example discussed below the percentages."
+    ]
+  },
+  {
+    "page": 128,
+    "title": "Edible Vaccines and Insect-Resistant Cabbage",
+    "explain": "Two proposed plant applications are shown. A modified virus introduced into a banana sapling causes bananas to contain viral proteins, while adding scorpion genes to cabbage is presented as a way to deter insect feeding.",
+    "mustKnow": [
+      "The banana example aims to produce viral proteins in fruit.",
+      "The cabbage example aims to prevent insect feeding.",
+      "Both examples add a new biological function to a plant."
+    ],
+    "terms": [
+      {
+        "term": "Edible vaccine",
+        "meaning": "A vaccine antigen produced in an edible plant tissue."
+      },
+      {
+        "term": "Viral protein",
+        "meaning": "A protein encoded by a virus that can serve as an antigen."
+      },
+      {
+        "term": "Transgene",
+        "meaning": "A gene introduced into an organism by genetic engineering."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which pairing correctly matches the introduced biological material with the intended plant outcome?",
+      "options": [
+        "Modified virus—viral proteins in banana fruit",
+        "Scorpion gene—vitamin A in cabbage",
+        "Bt gene—viral proteins in banana fruit",
+        "Modified virus—insect deterrence in cabbage"
+      ],
+      "answer": 0,
+      "explanation": "The banana example uses modified viral material to produce viral proteins; the cabbage example uses a scorpion gene for insect deterrence."
+    },
+    "diagramGuide": [
+      "Top: modified viral material is introduced into a banana sapling so fruit contains viral proteins. Bottom: an introduced scorpion gene is linked to insect deterrence in cabbage."
+    ]
+  },
+  {
+    "page": 129,
+    "title": "Reasons to Modify Crops",
+    "explain": "Crop modification can aim for insect, herbicide, drought, freeze, or disease resistance; higher yield; faster growth; improved nutrition; or longer shelf life. Golden rice is repeated as an example of beta-carotene enrichment.",
+    "mustKnow": [
+      "Resistance traits can target organisms, chemicals, or weather.",
+      "Yield and growth rate can be modified.",
+      "Nutrition and shelf life are also targets.",
+      "Golden rice produces beta-carotene."
+    ],
+    "terms": [
+      {
+        "term": "Herbicide resistance",
+        "meaning": "Ability to survive a herbicide that would kill a sensitive plant."
+      },
+      {
+        "term": "Shelf life",
+        "meaning": "Time a product remains usable or acceptable during storage."
+      },
+      {
+        "term": "Fortified food",
+        "meaning": "Food with increased nutritional value."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Golden Rice is engineered to accumulate a precursor of which vitamin?",
+      "options": [
+        "Vitamin A",
+        "Vitamin B12",
+        "Vitamin C",
+        "Vitamin K"
+      ],
+      "answer": 0,
+      "explanation": "Beta-carotene is a precursor of vitamin A."
+    },
+    "diagramGuide": [
+      "The rice image connects beta-carotene production to vitamin-A fortification; the remaining crop images illustrate other engineered agricultural traits."
+    ]
+  },
+  {
+    "page": 130,
+    "title": "Engineering Animals",
+    "explain": "This transition slide introduces the idea that animals can be genetically modified to solve practical problems. The following slides provide examples involving imaging, growth, emissions, and material production.",
+    "mustKnow": [
+      "Animals can be genetically engineered.",
+      "Engineered traits can serve research or practical applications.",
+      "The slide introduces examples rather than a specific mechanism."
+    ],
+    "terms": [
+      {
+        "term": "Transgenic animal",
+        "meaning": "An animal carrying introduced genetic material."
+      },
+      {
+        "term": "Animal biotechnology",
+        "meaning": "Use of biological engineering methods in animals."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which upcoming example uses an animal as a production host for a non-animal structural protein?",
+      "options": [
+        "Fast-growing salmon",
+        "Lower-methane cattle",
+        "GFP mouse",
+        "Spider-silk goat"
+      ],
+      "answer": 3,
+      "explanation": "The goat example produces spider-silk protein in milk."
+    },
+    "diagramGuide": []
+  },
+  {
+    "page": 131,
+    "title": "Bioluminescent and Fluorescent Animals",
+    "explain": "Light-producing or fluorescent markers can be used for protein tracking and disease detection by imaging particular cells. The slide also notes novelty pets such as GloFish and shows mice expressing enhanced GFP.",
+    "mustKnow": [
+      "Fluorescent markers can track proteins or cells.",
+      "Bioluminescent imaging can help detect disease-related cells.",
+      "GFP is a visible biological marker.",
+      "GloFish are a novelty-pet application."
+    ],
+    "terms": [
+      {
+        "term": "Bioluminescence",
+        "meaning": "Light production by a living system through a chemical reaction."
+      },
+      {
+        "term": "BLI",
+        "meaning": "Bioluminescent imaging used to visualize labeled biological activity."
+      },
+      {
+        "term": "GFP",
+        "meaning": "Green fluorescent protein used to label cells or proteins."
+      },
+      {
+        "term": "Protein tracking",
+        "meaning": "Following the location or movement of a protein using a detectable marker."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which listed use depends on locating labeled cells inside an animal?",
+      "options": [
+        "Novelty coloration",
+        "Bioluminescent imaging",
+        "Selective breeding",
+        "Methane reduction"
+      ],
+      "answer": 1,
+      "explanation": "Bioluminescent imaging uses emitted light to identify labeled cell populations."
+    },
+    "diagramGuide": [
+      "Read the visual equation as bioluminescent source plus mouse produces a fluorescently traceable mouse. The emitted signal is used to locate labeled cells or proteins."
+    ]
+  },
+  {
+    "page": 132,
+    "title": "Fast-Growing Salmon and Lower-Methane Cattle",
+    "explain": "The salmon example uses genes from two other fish to maintain growth-hormone production and accelerate growth. The cattle example proposes modifying methane-producing bacteria to reduce methane output by about 25%.",
+    "mustKnow": [
+      "The salmon carries genes from two other fish.",
+      "The engineered salmon continually produces growth hormone.",
+      "The cattle example targets methane-producing bacteria.",
+      "The stated reduction in methane is 25%."
+    ],
+    "terms": [
+      {
+        "term": "Growth hormone",
+        "meaning": "A hormone that promotes body growth."
+      },
+      {
+        "term": "Methane",
+        "meaning": "A greenhouse gas produced during microbial digestion in cattle."
+      },
+      {
+        "term": "Microbiome",
+        "meaning": "The community of microorganisms living in a particular environment."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What is altered in the lower-methane cattle example?",
+      "options": [
+        "Growth-hormone genes from fish",
+        "Methane-producing bacteria",
+        "The bovine GFP gene",
+        "Milk spider-silk expression"
+      ],
+      "answer": 1,
+      "explanation": "The cattle example targets bacteria responsible for methane production."
+    },
+    "diagramGuide": [
+      "Top comparison: the GM salmon reaches greater size over the same 18-month period. Bottom: the cow image represents reduced methane after altering methane-producing bacteria."
+    ]
+  },
+  {
+    "page": 133,
+    "title": "Spider-Silk-Producing Goats",
+    "explain": "The slide presents goats carrying spider genes so that spider-silk protein can be produced in goat milk. This uses an animal as a biological production system for a useful material.",
+    "mustKnow": [
+      "Spider genes are introduced into goats.",
+      "The target product is spider silk.",
+      "The silk protein is produced in goat milk.",
+      "The animal acts as a production host."
+    ],
+    "terms": [
+      {
+        "term": "Spider silk",
+        "meaning": "A strong protein-based fiber naturally produced by spiders."
+      },
+      {
+        "term": "Production host",
+        "meaning": "An organism used to manufacture a desired biological product."
+      },
+      {
+        "term": "Transgenic goat",
+        "meaning": "A goat carrying an introduced gene."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "In the transgenic-goat example, spider-silk protein is recovered from which secretion?",
+      "options": [
+        "Saliva",
+        "Milk",
+        "Sweat",
+        "Bile"
+      ],
+      "answer": 1,
+      "explanation": "The introduced spider genes enable spider-silk protein production in goat milk."
+    },
+    "diagramGuide": [
+      "The pictogram proposes transferring a spider gene into another host; the goat below is the actual production host, and milk is the collection material for spider-silk protein."
+    ]
+  },
+  {
+    "page": 134,
+    "title": "Concerns About GMOs",
+    "explain": "The slide lists possible concerns involving food safety, environmental and wildlife harm, pesticide or herbicide use, farmer health, seed and pollen drift, and herbicide-resistant weeds. It also notes regulation, bans, and labeling requirements in many countries.",
+    "mustKnow": [
+      "Health and environmental safety are major concern categories.",
+      "Seed and pollen drift can move engineered genes.",
+      "Herbicide-resistant weeds are a stated concern.",
+      "Countries differ in restrictions and labeling rules."
+    ],
+    "terms": [
+      {
+        "term": "Pollen drift",
+        "meaning": "Movement of pollen away from the intended crop area."
+      },
+      {
+        "term": "Superweed",
+        "meaning": "Informal term for a weed with strong herbicide resistance."
+      },
+      {
+        "term": "GMO labeling",
+        "meaning": "Identification of products containing genetically modified ingredients."
+      },
+      {
+        "term": "Risk assessment",
+        "meaning": "Systematic evaluation of possible hazards and their likelihood."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which concern specifically describes movement of a transgene beyond the cultivated field?",
+      "options": [
+        "Pollen drift",
+        "Off-target editing",
+        "Informed consent",
+        "Protein misfolding"
+      ],
+      "answer": 0,
+      "explanation": "Seed and pollen drift can move engineered genetic material to other populations."
+    },
+    "diagramGuide": [
+      "The laboratory image represents controlled production, while the bullet list identifies risks that arise after consumption, cultivation, or environmental spread."
+    ]
+  },
+  {
+    "page": 135,
+    "title": "Biosafety, Ethics, and Regulation",
+    "explain": "Genetic engineering must be evaluated for unintended effects, off-target changes, laboratory and release risks, germline editing, consent, fairness, misuse, gene flow, and ecosystem effects. Regulation involves safety testing, approval, and monitoring.",
+    "mustKnow": [
+      "Off-target changes are a biosafety issue.",
+      "Germline editing creates heritable changes.",
+      "Environmental review includes non-target organisms and biodiversity.",
+      "Regulation includes pre-use testing and post-release monitoring."
+    ],
+    "terms": [
+      {
+        "term": "Off-target change",
+        "meaning": "An unintended genetic alteration outside the intended site."
+      },
+      {
+        "term": "Germline editing",
+        "meaning": "Editing reproductive-line DNA so a change can be inherited."
+      },
+      {
+        "term": "Informed consent",
+        "meaning": "Voluntary agreement based on adequate understanding."
+      },
+      {
+        "term": "Post-release monitoring",
+        "meaning": "Continued observation after environmental or commercial release."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which issue belongs to the ethical category rather than biosafety or environmental risk?",
+      "options": [
+        "Off-target changes",
+        "Effects on non-target organisms",
+        "Informed consent",
+        "Post-release monitoring"
+      ],
+      "answer": 2,
+      "explanation": "Informed consent is listed under ethical issues."
+    },
+    "diagramGuide": [
+      "The slide is organized into four risk domains: biosafety, ethics, environment, and regulation. Pair each example with its domain rather than memorizing one undifferentiated list."
+    ]
+  },
+  {
+    "page": 136,
+    "title": "Advantages and Challenges",
+    "explain": "Genetic engineering can precisely modify traits, produce recombinant products, improve crops, and support treatment of genetic disease. Its challenges include unintended effects, difficult delivery, cost, regulation, ethics, and uncertain long-term effects.",
+    "mustKnow": [
+      "Precision and useful-product production are key advantages.",
+      "Delivery of genetic material can be difficult.",
+      "Development and production can be costly.",
+      "Long-term health and environmental effects may require monitoring."
+    ],
+    "terms": [
+      {
+        "term": "Delivery",
+        "meaning": "Getting genetic material into the required cells or tissues."
+      },
+      {
+        "term": "Unintended effect",
+        "meaning": "A result that was not the goal of the modification."
+      },
+      {
+        "term": "Monitoring",
+        "meaning": "Repeated observation to detect effects over time."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which challenge most directly limits whether an engineered construct reaches the intended cells?",
+      "options": [
+        "Delivery of genetic material",
+        "Scalable production",
+        "Precise gene modification",
+        "Recombinant-product formation"
+      ],
+      "answer": 0,
+      "explanation": "Difficult delivery is listed as a limitation, whereas the other options are advantages or outcomes."
+    },
+    "diagramGuide": [
+      "Compare the two columns: benefits are on the left and technical, economic, regulatory, or long-term limitations are on the right."
+    ]
+  },
+  {
+    "page": 137,
+    "title": "Future of Genetic Engineering",
+    "explain": "Future directions include more precise base and prime editing, improved CRISPR systems, personalized medicine, synthetic biology, engineered therapeutic cells, and organisms that make greener fuels, chemicals, and materials.",
+    "mustKnow": [
+      "Base and prime editing aim for greater precision.",
+      "Personalized medicine uses individual genetic information.",
+      "Synthetic biology designs biological systems and circuits.",
+      "Sustainable biotechnology targets greener products and crops."
+    ],
+    "terms": [
+      {
+        "term": "Base editing",
+        "meaning": "Targeted conversion of one DNA base into another without a standard double-strand break."
+      },
+      {
+        "term": "Prime editing",
+        "meaning": "A targeted editing method capable of writing selected DNA changes."
+      },
+      {
+        "term": "Personalized medicine",
+        "meaning": "Treatment adapted to an individual's biological or genetic features."
+      },
+      {
+        "term": "Synthetic biology",
+        "meaning": "Design and construction of new biological systems or functions."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Base editing and prime editing are presented as routes toward what future goal?",
+      "options": [
+        "More precise genome editing",
+        "Higher pesticide use",
+        "Less individualized treatment",
+        "Replacement of all regulation"
+      ],
+      "answer": 0,
+      "explanation": "Both technologies appear under more precise genome editing."
+    },
+    "diagramGuide": [
+      "Each numbered future direction is paired with an icon: genome editing, individual-specific therapy, engineered cellular systems, and sustainable production."
+    ]
+  },
+  {
+    "page": 138,
+    "title": "Biological Motors",
+    "explain": "This title slide begins the lecture on biological motors. The topic is how molecular systems convert energy into directed motion or other cellular work.",
+    "mustKnow": [
+      "The new lecture topic is biological motors.",
+      "The course is SBL100.",
+      "The lecture is presented by Prof. Anita Roy."
+    ],
+    "terms": [
+      {
+        "term": "Biological motor",
+        "meaning": "A biological system that converts energy into motion or other work."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which lecture begins on this slide?",
+      "options": [
+        "Cellular signaling",
+        "Biological motors",
+        "Cell death pathways",
+        "Host-pathogen interaction"
+      ],
+      "answer": 1,
+      "explanation": "The title slide begins the Biological Motors lecture."
+    },
+    "diagramGuide": []
+  },
+  {
+    "page": 139,
+    "title": "What Is a Motor?",
+    "explain": "A conventional motor converts electrical energy into mechanical energy. The lecture broadens the definition to include devices that convert chemical energy into mechanical energy, which is the relevant idea for molecular motors.",
+    "mustKnow": [
+      "Conventional motors convert electrical to mechanical energy.",
+      "Biological motors can convert chemical to mechanical energy.",
+      "Faraday and Tesla are mentioned in the historical introduction."
+    ],
+    "terms": [
+      {
+        "term": "Mechanical energy",
+        "meaning": "Energy associated with motion or force."
+      },
+      {
+        "term": "Chemical energy",
+        "meaning": "Energy stored in chemical bonds and concentration differences."
+      },
+      {
+        "term": "Induction motor",
+        "meaning": "An electric motor design associated on the slide with Nikola Tesla."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "A molecular motor is defined by conversion of chemical energy primarily into what output?",
+      "options": [
+        "Electrical potential only",
+        "Directed mechanical motion",
+        "Random thermal equilibrium",
+        "Permanent covalent crosslinks"
+      ],
+      "answer": 1,
+      "explanation": "The lecture extends the motor concept to chemical-to-mechanical energy conversion."
+    },
+    "diagramGuide": [
+      "The historical motor photograph is an example of a macroscopic machine; the key relationship is energy input being converted into mechanical output."
+    ]
+  },
+  {
+    "page": 140,
+    "title": "Cells Need Continuous Energy Input",
+    "explain": "Thermodynamics determines whether reactions are energetically favorable. Many necessary cellular reactions are unfavorable on their own, so cells must supply additional energy obtained from the environment. Energy generation and use are therefore fundamental to cell biology.",
+    "mustKnow": [
+      "Thermodynamics governs chemical equilibrium.",
+      "Some required cellular reactions are energetically unfavorable.",
+      "Unfavorable processes require energy input.",
+      "Cells continually obtain and use metabolic energy."
+    ],
+    "terms": [
+      {
+        "term": "Chemical equilibrium",
+        "meaning": "A state with no net change in reactant and product concentrations."
+      },
+      {
+        "term": "Energetically favorable",
+        "meaning": "Able to proceed in the favored direction under the stated conditions."
+      },
+      {
+        "term": "Metabolic energy",
+        "meaning": "Energy captured and used through cellular chemical reactions."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "At the minimum of the Gibbs-free-energy curve, what is the value of ΔG for an infinitesimal forward reaction?",
+      "options": [
+        "ΔG < 0",
+        "ΔG = 0",
+        "ΔG > 0",
+        "ΔG = −7.3 kcal/mol in every reaction"
+      ],
+      "answer": 1,
+      "explanation": "The curve minimum is chemical equilibrium, where ΔG is zero."
+    },
+    "diagramGuide": [
+      "Graph axes: Gibbs free energy G is vertical and extent of reaction ξ is horizontal. The curve falls when ΔG<0, reaches equilibrium at its minimum where ΔG=0, and rises in the region where forward progress has ΔG>0."
+    ]
+  },
+  {
+    "page": 141,
+    "title": "Life Operates Out of Equilibrium",
+    "explain": "Living cells maintain ordered structures, unequal chemical concentrations, and spatial charge differences. These conditions are not equilibrium states and require continuous energy use. Molecular machines create and maintain them by converting one store of free energy into another.",
+    "mustKnow": [
+      "Living order requires a nonequilibrium state.",
+      "Cells maintain concentration and charge differences.",
+      "Proton pumps help maintain acidic lysosomal pH.",
+      "Molecular machines transduce nonequilibrium free energy."
+    ],
+    "terms": [
+      {
+        "term": "Nonequilibrium",
+        "meaning": "A state maintained away from thermodynamic equilibrium."
+      },
+      {
+        "term": "Free energy",
+        "meaning": "Energy available to perform work under given conditions."
+      },
+      {
+        "term": "Proton pump",
+        "meaning": "A protein that moves H+ across a membrane."
+      },
+      {
+        "term": "Energy transduction",
+        "meaning": "Conversion of energy from one form or reservoir to another."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which cellular feature is used as an example of a maintained nonequilibrium condition?",
+      "options": [
+        "Uniform cytosolic pH everywhere",
+        "Acidic lysosomal pH",
+        "Complete absence of ion gradients",
+        "Maximum molecular disorder"
+      ],
+      "answer": 1,
+      "explanation": "Proton pumps maintain the lysosome at an acidic pH away from equilibrium."
+    },
+    "diagramGuide": [
+      "No formal diagram is shown; the lysosomal proton-pump example links an energy-consuming machine to maintenance of a nonequilibrium pH gradient."
+    ]
+  },
+  {
+    "page": 142,
+    "title": "Why Molecular Motors Are Different",
+    "explain": "Molecular motors work at nanometer scale in water, where viscosity, Brownian motion, and stochastic behavior matter. Their activity depends strongly on temperature and pH, relies on noncovalent interactions, and uses internal molecular dynamics rather than rigid macroscopic parts.",
+    "mustKnow": [
+      "Molecular motors operate at nanometer scale.",
+      "They work in aqueous, low-Reynolds-number conditions.",
+      "Brownian motion makes their environment stochastic.",
+      "Their operation depends on noncovalent interactions, temperature, and pH."
+    ],
+    "terms": [
+      {
+        "term": "Brownian motion",
+        "meaning": "Random movement caused by collisions with surrounding molecules."
+      },
+      {
+        "term": "Low Reynolds number",
+        "meaning": "A regime where viscous forces dominate over inertia."
+      },
+      {
+        "term": "Noncovalent interaction",
+        "meaning": "A reversible interaction such as hydrogen bonding or electrostatic attraction."
+      },
+      {
+        "term": "Stochastic",
+        "meaning": "Involving random variation or probability."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which combination best characterizes a molecular motor's operating environment?",
+      "options": [
+        "High Reynolds number and negligible noise",
+        "Low Reynolds number and Brownian noise",
+        "Vacuum and rigid covalent gears",
+        "Temperature-independent dry conditions"
+      ],
+      "answer": 1,
+      "explanation": "Molecular motors work in aqueous, low-Reynolds-number environments dominated by Brownian motion."
+    },
+    "diagramGuide": [
+      "Treat the bullet list as a contrast with macroscopic motors: nanometre scale, aqueous low-Reynolds-number conditions, Brownian noise, narrow pH/temperature range, and noncovalent interactions."
+    ]
+  },
+  {
+    "page": 143,
+    "title": "Molecular Motors Convert Energy",
+    "explain": "A molecular motor is a complex of biological macromolecules that converts one form of energy into directed motion or another function. A major energy source is ATP hydrolysis to ADP and inorganic phosphate.",
+    "mustKnow": [
+      "Molecular motors are macromolecular complexes.",
+      "They convert energy into directed motion or function.",
+      "ATP is a major energy source.",
+      "ATP hydrolysis produces ADP and Pi."
+    ],
+    "terms": [
+      {
+        "term": "Macromolecule",
+        "meaning": "A large biological molecule such as a protein or nucleic acid."
+      },
+      {
+        "term": "ATP",
+        "meaning": "A cellular energy-carrying nucleotide."
+      },
+      {
+        "term": "Hydrolysis",
+        "meaning": "Chemical bond cleavage involving water."
+      },
+      {
+        "term": "Pi",
+        "meaning": "Inorganic phosphate released during ATP hydrolysis."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which chemical reaction is shown as the common energy source for directed motor motion?",
+      "options": [
+        "ATP → ADP + Pi",
+        "ADP → ATP + glucose",
+        "GTP → DNA + Pi",
+        "Protein → amino acid + ATP"
+      ],
+      "answer": 0,
+      "explanation": "ATP hydrolysis supplies chemical free energy that can be coupled to motion."
+    },
+    "diagramGuide": [
+      "The reaction arrow ATP → ADP + Pi represents chemical-bond energy being coupled to directed mechanical work."
+    ]
+  },
+  {
+    "page": 144,
+    "title": "Principle 1: ATP or GTP Energy",
+    "explain": "The first fundamental principle is that molecular motors use energy from ATP or GTP. ATPases catalyze ATP hydrolysis, while ATP synthase can make ATP. The slide gives a standard ATP-hydrolysis free-energy change of about -7.3 kcal/mol.",
+    "mustKnow": [
+      "ATP and GTP can power molecular motors.",
+      "ATPase catalyzes ATP hydrolysis.",
+      "ATP synthase produces ATP.",
+      "The displayed standard ΔG for ATP hydrolysis is negative."
+    ],
+    "terms": [
+      {
+        "term": "ATPase",
+        "meaning": "An enzyme that catalyzes ATP hydrolysis."
+      },
+      {
+        "term": "ATP synthase",
+        "meaning": "A molecular machine that synthesizes ATP."
+      },
+      {
+        "term": "ΔG",
+        "meaning": "Change in Gibbs free energy for a process."
+      },
+      {
+        "term": "GTP",
+        "meaning": "A guanine nucleotide that can provide energy similarly to ATP."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "In the ATP structure, which phosphate group is terminal and released as Pi during hydrolysis?",
+      "options": [
+        "Alpha",
+        "Beta",
+        "Gamma",
+        "Ribose"
+      ],
+      "answer": 2,
+      "explanation": "The gamma phosphate is the terminal phosphate."
+    },
+    "diagramGuide": [
+      "The opposing arrows distinguish ATPase-driven hydrolysis from ATP-synthase-driven ATP formation. In the ATP structure, the alpha phosphate is nearest ribose, beta is central, and gamma is terminal."
+    ]
+  },
+  {
+    "page": 145,
+    "title": "Principle 2: Conformational Change",
+    "explain": "Binding ATP, hydrolyzing it, and exchanging ADP for ATP can shift a protein between different three-dimensional states. Repeating this nucleotide-controlled cycle lets molecular motors convert chemical events into mechanical movement.",
+    "mustKnow": [
+      "ATP- and ADP-bound forms can have different conformations.",
+      "ATP hydrolysis changes the nucleotide state.",
+      "ADP-to-ATP exchange resets the cycle.",
+      "Repeated conformational changes can generate movement."
+    ],
+    "terms": [
+      {
+        "term": "Conformation",
+        "meaning": "The three-dimensional shape of a protein."
+      },
+      {
+        "term": "Nucleotide exchange",
+        "meaning": "Replacement of one bound nucleotide by another."
+      },
+      {
+        "term": "State A/State B",
+        "meaning": "Simplified labels for two protein conformations."
+      },
+      {
+        "term": "Mechanochemical cycle",
+        "meaning": "A repeating cycle coupling chemical changes to mechanical action."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which nucleotide transition returns the model motor protein from state B to state A?",
+      "options": [
+        "ATP hydrolysis with ATP retained",
+        "ADP-to-ATP exchange",
+        "Binding of a second ADP",
+        "Loss of the protein tail"
+      ],
+      "answer": 1,
+      "explanation": "Exchange of ADP for ATP restores the ATP-bound state A."
+    },
+    "diagramGuide": [
+      "Follow the nucleotide cycle: ATP-bound state A → hydrolysis → ADP/Pi-bound state B → nucleotide exchange → ATP-bound state A. The conformational switch, not the nucleotide alone, produces motion."
+    ]
+  },
+  {
+    "page": 146,
+    "title": "Active and Inactive Conformations",
+    "explain": "The slide asks how strongly the active ATP/GTP-bound conformation differs from the inactive ADP/GDP-bound conformation and shows an overlaid protein structure. The highlighted regions indicate that nucleotide state can alter selected parts of a protein rather than rebuilding the whole protein.",
+    "mustKnow": [
+      "ATP/GTP-bound states are labeled active.",
+      "ADP/GDP-bound states are labeled inactive.",
+      "Different nucleotide states can produce different protein conformations.",
+      "The structural comparison is the focus of the linked animation."
+    ],
+    "terms": [
+      {
+        "term": "Active conformation",
+        "meaning": "A protein shape associated here with ATP or GTP binding."
+      },
+      {
+        "term": "Inactive conformation",
+        "meaning": "A protein shape associated here with ADP or GDP binding."
+      },
+      {
+        "term": "Structural overlay",
+        "meaning": "Superposition of structures to reveal conformational differences."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which nucleotide-bound conformation is labeled inactive?",
+      "options": [
+        "ATP-bound",
+        "GTP-bound",
+        "ADP/GDP-bound",
+        "ATP/GTP-bound"
+      ],
+      "answer": 2,
+      "explanation": "The slide contrasts active ATP/GTP-bound with inactive ADP/GDP-bound conformations."
+    },
+    "diagramGuide": [
+      "The overlaid protein structures show that the same protein can occupy different three-dimensional conformations depending on whether ATP/GTP or ADP/GDP is bound."
+    ]
+  },
+  {
+    "page": 147,
+    "title": "Categories of Biological Motors",
+    "explain": "The lecture divides biological motors into four categories: polymerization motors, cytoskeletal motors, rotary motors, and nucleic-acid motors.",
+    "mustKnow": [
+      "Polymerization motors are one category.",
+      "Cytoskeletal motors are one category.",
+      "Rotary motors are one category.",
+      "Nucleic-acid motors are one category."
+    ],
+    "terms": [
+      {
+        "term": "Polymerization motor",
+        "meaning": "A system in which polymer growth or shrinkage produces force or movement."
+      },
+      {
+        "term": "Cytoskeletal motor",
+        "meaning": "A motor protein that acts with cytoskeletal filaments."
+      },
+      {
+        "term": "Rotary motor",
+        "meaning": "A molecular machine that generates rotation."
+      },
+      {
+        "term": "Nucleic-acid motor",
+        "meaning": "A motor that moves along or acts on DNA or RNA."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which category includes kinesin, dynein, and myosin?",
+      "options": [
+        "Polymerization motors",
+        "Cytoskeletal motors",
+        "Rotary motors",
+        "Nucleic-acid motors"
+      ],
+      "answer": 1,
+      "explanation": "These motors move on cytoskeletal tracks."
+    },
+    "diagramGuide": []
+  },
+  {
+    "page": 148,
+    "title": "The Cytoskeleton",
+    "explain": "The cytoskeleton is a dynamic three-dimensional network throughout the cytoplasm. It supports cell shape and protection, motility, cytokinesis, intracellular transport, cell division, and organelle organization. Its three major filament systems are actin microfilaments, intermediate filaments, and tubulin microtubules.",
+    "mustKnow": [
+      "Microfilaments are made of actin.",
+      "Microtubules are made of tubulin.",
+      "Intermediate filaments are the third major system.",
+      "The cytoskeleton supports shape, movement, division, and transport."
+    ],
+    "terms": [
+      {
+        "term": "Cytoskeleton",
+        "meaning": "A dynamic network of protein filaments inside cells."
+      },
+      {
+        "term": "Microfilament",
+        "meaning": "A thin cytoskeletal filament built from actin."
+      },
+      {
+        "term": "Microtubule",
+        "meaning": "A hollow cytoskeletal polymer built from tubulin."
+      },
+      {
+        "term": "Cytokinesis",
+        "meaning": "Physical division of one cell into two daughter cells."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which cytoskeletal polymer is assembled from tubulin?",
+      "options": [
+        "Microfilament",
+        "Intermediate filament",
+        "Microtubule",
+        "Myosin thick filament"
+      ],
+      "answer": 2,
+      "explanation": "Microtubules are tubulin polymers; microfilaments are actin polymers."
+    },
+    "diagramGuide": [
+      "In the fluorescence image, differently colored filament networks occupy the same cell. Relate actin to microfilaments, tubulin to microtubules, and the blue ovals to nuclei."
+    ]
+  },
+  {
+    "page": 149,
+    "title": "Muscle Fibers and Striations",
+    "explain": "The slide introduces skeletal muscle structure by pairing a visible muscle with microscopic images of repeating striations. The regular banding reflects an ordered, repeating internal organization within muscle fibers.",
+    "mustKnow": [
+      "Muscle fibers show repeated striations.",
+      "Striations are visible as regular microscopic bands.",
+      "The pattern indicates ordered internal organization."
+    ],
+    "terms": [
+      {
+        "term": "Muscle fiber",
+        "meaning": "An elongated muscle cell specialized for contraction."
+      },
+      {
+        "term": "Striation",
+        "meaning": "A repeating light-and-dark banding pattern in striated muscle."
+      },
+      {
+        "term": "Microscopy",
+        "meaning": "Use of magnification to observe structures too small for the unaided eye."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "The repeating light-dark pattern in skeletal muscle is called what?",
+      "options": [
+        "Treadmilling",
+        "Striation",
+        "Chemotaxis",
+        "Birefringence"
+      ],
+      "answer": 1,
+      "explanation": "Ordered sarcomeres generate visible striations."
+    },
+    "diagramGuide": [
+      "The sculpture provides a macroscopic analogy for muscle form; the microscopy panels show repeating light-dark bands, i.e. striations, along muscle fibers."
+    ]
+  },
+  {
+    "page": 150,
+    "title": "Muscle Movement Animation",
+    "explain": "This slide contains a linked video following the introduction to muscle fibers and striations. Its role is to provide an animated view of the muscle-movement topic introduced on the previous slide.",
+    "mustKnow": [
+      "The slide is a video resource.",
+      "It follows the muscle fiber and striation introduction.",
+      "The linked topic is muscle movement."
+    ],
+    "terms": [
+      {
+        "term": "Animation",
+        "meaning": "A moving visual sequence used to demonstrate a process."
+      },
+      {
+        "term": "Muscle movement",
+        "meaning": "Mechanical action produced by muscle contraction."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which protein pair is central to the muscle-motor mechanism introduced here?",
+      "options": [
+        "Actin and myosin",
+        "Tubulin and dynein",
+        "Collagen and elastin",
+        "Keratin and lamin"
+      ],
+      "answer": 0,
+      "explanation": "The following slides develop actin filaments and myosin motors."
+    },
+    "diagramGuide": [
+      "This page is a video still; use it only as a transition from whole-muscle striation to molecular actin-myosin motion."
+    ]
+  },
+  {
+    "page": 151,
+    "title": "Myosin Moving on Actin",
+    "explain": "The fluorescence image shows myosin-II motor regions in green associated with actin filaments in blue. It is visual evidence that motor proteins work on cytoskeletal tracks rather than moving freely through the cell.",
+    "mustKnow": [
+      "Actin forms the track used by myosin motors.",
+      "Myosin converts chemical energy into movement or force."
+    ],
+    "terms": [
+      {
+        "term": "Myosin",
+        "meaning": "An ATP-powered motor protein that interacts with actin."
+      },
+      {
+        "term": "Actin filament",
+        "meaning": "A cytoskeletal polymer that serves as a structural element and myosin track."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which filament serves as the track for a myosin motor?",
+      "options": [
+        "Microtubule",
+        "Actin filament",
+        "Intermediate filament",
+        "Collagen fibril"
+      ],
+      "answer": 1,
+      "explanation": "Myosin moves relative to actin."
+    },
+    "diagramGuide": [
+      "The arrowhead identifies a localized event on a fluorescent filament. The long filament is the track; punctate colored signals mark associated motor molecules or labeled components."
+    ]
+  },
+  {
+    "page": 152,
+    "title": "G-Actin and F-Actin",
+    "explain": "Actin exists as globular G-actin monomers and filamentous F-actin polymers. ATP or ADP can bind each actin subunit, and ATP affects how readily subunits join the dynamic filament.",
+    "mustKnow": [
+      "G-actin is the monomer; F-actin is the polymer.",
+      "Actin filaments form a right-handed double helix.",
+      "Actin filaments can grow and shrink."
+    ],
+    "terms": [
+      {
+        "term": "G-actin",
+        "meaning": "The globular, soluble actin monomer."
+      },
+      {
+        "term": "F-actin",
+        "meaning": "The filament made by polymerized actin monomers."
+      },
+      {
+        "term": "Microfilament",
+        "meaning": "Another name for an actin filament."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which statement correctly distinguishes the two actin forms?",
+      "options": [
+        "G-actin is polymeric and F-actin monomeric",
+        "G-actin is globular monomer and F-actin filamentous polymer",
+        "Both are myosin light chains",
+        "F-actin lacks repeating actin subunits"
+      ],
+      "answer": 1,
+      "explanation": "G-actin monomers polymerize into F-actin filaments."
+    },
+    "diagramGuide": [
+      "G-actin is the globular monomer and F-actin is the polymer. The filament is a right-handed double helix of repeating actin subunits."
+    ]
+  },
+  {
+    "page": 153,
+    "title": "Helical Arrangement of Actin Subunits",
+    "explain": "The molecular model shows repeated actin subunits packed into a two-stranded helical filament. Repetition and directional packing give the filament structural polarity.",
+    "mustKnow": [
+      "F-actin is assembled from many repeating actin subunits.",
+      "The filament has a helical, polar organization."
+    ],
+    "terms": [
+      {
+        "term": "Polarity",
+        "meaning": "Structural difference between the two ends of a filament."
+      },
+      {
+        "term": "Subunit",
+        "meaning": "A repeating molecular building block in a polymer."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What higher-order arrangement is visible in the F-actin molecular model?",
+      "options": [
+        "Single straight chain",
+        "Right-handed double helix",
+        "Closed lipid bilayer",
+        "Triple collagen helix"
+      ],
+      "answer": 1,
+      "explanation": "F-actin consists of two intertwined actin strands forming a right-handed double helix."
+    },
+    "diagramGuide": [
+      "The molecular model shows two intertwined rows of actin subunits, explaining the double-helical appearance of F-actin."
+    ]
+  },
+  {
+    "page": 154,
+    "title": "Actin Polymerization: Nucleation and Elongation",
+    "explain": "Actin assembly begins with slow nucleation, when a few G-actin monomers form an unstable starter cluster. Elongation then adds monomers at both ends, but addition is faster at the plus or barbed end than at the minus or pointed end.",
+    "mustKnow": [
+      "Nucleation creates the initial actin seed.",
+      "Elongation occurs at both ends.",
+      "The plus end grows faster than the minus end."
+    ],
+    "terms": [
+      {
+        "term": "Nucleation",
+        "meaning": "Formation of the small initial cluster that can seed a filament."
+      },
+      {
+        "term": "Barbed end",
+        "meaning": "The faster-growing plus end of an actin filament."
+      },
+      {
+        "term": "Pointed end",
+        "meaning": "The slower-growing minus end of an actin filament."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which step precedes rapid elongation during actin polymerization?",
+      "options": [
+        "Nucleation",
+        "Translation",
+        "Myosin cleavage",
+        "Sarcomere contraction"
+      ],
+      "answer": 0,
+      "explanation": "A small actin nucleus must form before efficient filament elongation."
+    },
+    "diagramGuide": [
+      "Read the hand-drawn sequence as nucleation before elongation: a small unstable oligomer forms first, then additional monomers extend the filament."
+    ]
+  },
+  {
+    "page": 155,
+    "title": "From One Actin Subunit to a Filament",
+    "explain": "The slide contrasts one actin subunit with a long filament containing many subunits. Polymerization changes the scale and function of actin without changing the identity of the repeating building block.",
+    "mustKnow": [
+      "A filament is a polymer of many actin subunits.",
+      "The monomer-to-polymer change is G-actin to F-actin."
+    ],
+    "terms": [
+      {
+        "term": "Polymerization",
+        "meaning": "Joining many small subunits into a larger polymer."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What is the immediate repeating subunit of the filament shown?",
+      "options": [
+        "G-actin",
+        "Myosin heavy chain",
+        "Tubulin dimer",
+        "Keratin tetramer"
+      ],
+      "answer": 0,
+      "explanation": "The figure expands one actin subunit and shows many copies in the filament."
+    },
+    "diagramGuide": [
+      "The small blue object is one actin subunit; the enlarged multicolored structure below is the filament assembled from repeated copies."
+    ]
+  },
+  {
+    "page": 156,
+    "title": "ATP Hydrolysis in Actin",
+    "explain": "Actin binds ATP and has ATPase activity. Polymerization changes actin's conformation and promotes ATP hydrolysis; ATP-actin adds to filaments more readily than ADP-actin, while ADP-actin is more likely to dissociate.",
+    "mustKnow": [
+      "Actin can hydrolyze ATP after entering a filament.",
+      "ATP-actin is favored for addition.",
+      "ADP-actin dissociates more readily than ATP-actin."
+    ],
+    "terms": [
+      {
+        "term": "ATPase",
+        "meaning": "An activity that hydrolyzes ATP to ADP and inorganic phosphate."
+      },
+      {
+        "term": "Inorganic phosphate",
+        "meaning": "The phosphate released after ATP hydrolysis, written Pi."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which monomeric actin species is preferentially incorporated into a growing filament?",
+      "options": [
+        "ATP-G-actin",
+        "ADP-G-actin",
+        "Nucleotide-free myosin",
+        "GDP-tubulin"
+      ],
+      "answer": 0,
+      "explanation": "ATP-bound G-actin is the assembly-competent form emphasized in the polymerization scheme."
+    },
+    "diagramGuide": [
+      "The upper sketch shows nucleotide-bearing actin monomers; the lower sketch shows their incorporation into a polarized filament with distinct ends."
+    ]
+  },
+  {
+    "page": 157,
+    "title": "Steady State and Treadmilling",
+    "explain": "At steady state, total F-actin mass can remain constant even while subunits move through the filament. Addition at the plus end and loss at the minus end create treadmilling, a directional flux of actin subunits.",
+    "mustKnow": [
+      "Steady state does not mean the filament is inactive.",
+      "Treadmilling combines plus-end addition with minus-end loss.",
+      "Critical concentration separates net polymerization from net depolymerization."
+    ],
+    "terms": [
+      {
+        "term": "Treadmilling",
+        "meaning": "Subunit addition at one end and loss at the other with little net mass change."
+      },
+      {
+        "term": "Critical concentration",
+        "meaning": "The free actin concentration at which addition and loss balance."
+      },
+      {
+        "term": "Steady state",
+        "meaning": "A state with no net change in total filament mass despite ongoing exchange."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which flux pattern defines actin treadmilling?",
+      "options": [
+        "Addition at both ends equally",
+        "Addition at plus end and loss at minus end",
+        "Loss at plus end and addition at neither end",
+        "Permanent retention of every subunit"
+      ],
+      "answer": 1,
+      "explanation": "Treadmilling maintains flux through the filament by opposite net behavior at its two ends."
+    },
+    "diagramGuide": [
+      "The filament sketch marks different behavior at its two ends. Treadmilling means net addition at the plus/barbed end while subunits are lost from the minus/pointed end."
+    ]
+  },
+  {
+    "page": 158,
+    "title": "Sarcomere Organization",
+    "explain": "A sarcomere runs from one Z line to the next. Thin actin filaments extend inward from the Z lines, while thick myosin filaments are centered around the M line; their overlap produces the banded appearance of muscle.",
+    "mustKnow": [
+      "A sarcomere is bounded by two Z lines.",
+      "Actin is the thin filament; myosin is the thick filament.",
+      "The M line lies at the center of the sarcomere."
+    ],
+    "terms": [
+      {
+        "term": "Sarcomere",
+        "meaning": "The repeating contractile unit of striated muscle."
+      },
+      {
+        "term": "Z line",
+        "meaning": "The boundary where thin filaments are anchored."
+      },
+      {
+        "term": "M line",
+        "meaning": "The central region associated with thick filaments."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which landmarks delimit one complete sarcomere?",
+      "options": [
+        "Two adjacent Z lines",
+        "Two adjacent M lines",
+        "One Z line and one H zone",
+        "Two A-band centers"
+      ],
+      "answer": 0,
+      "explanation": "A sarcomere extends from Z line to Z line."
+    },
+    "diagramGuide": [
+      "A sarcomere runs from one Z line to the next. Thin actin filaments anchor at Z lines; thick myosin filaments center on the M line; the H zone contains thick filament without thin-filament overlap."
+    ]
+  },
+  {
+    "page": 159,
+    "title": "Myosin Structure",
+    "explain": "Myosin contains two heavy chains plus essential and regulatory light chains. Each heavy chain has a head that binds actin and ATP, a neck associated with light chains, and a coiled-coil tail that supports dimerization and cargo or filament interactions.",
+    "mustKnow": [
+      "The myosin head binds both actin and ATP.",
+      "The neck carries light chains.",
+      "The tail is a dimeric coiled-coil."
+    ],
+    "terms": [
+      {
+        "term": "Motor domain",
+        "meaning": "The myosin head region that binds actin and hydrolyzes ATP."
+      },
+      {
+        "term": "Light chain",
+        "meaning": "A smaller protein associated with the myosin neck."
+      },
+      {
+        "term": "Coiled-coil",
+        "meaning": "A rope-like structure formed by intertwined alpha helices."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which myosin domain contains both ATP- and actin-binding sites?",
+      "options": [
+        "Head",
+        "Neck",
+        "Tail",
+        "Regulatory light chain alone"
+      ],
+      "answer": 0,
+      "explanation": "Both binding sites are in the globular head domain."
+    },
+    "diagramGuide": [
+      "From left to right: globular heads, neck with essential and regulatory light chains, then the long coiled-coil tail. The bracket indicates an approximately 130-nm tail region."
+    ]
+  },
+  {
+    "page": 160,
+    "title": "Myosin Movement Video Resource",
+    "explain": "This slide points to an animation of myosin action. The exam-relevant idea is that repeated ATP-linked changes in the myosin head produce attachment, force generation, release, and resetting on actin.",
+    "mustKnow": [
+      "Myosin movement is cyclic rather than a single permanent pull.",
+      "ATP controls changes in actin-myosin binding and motor conformation."
+    ],
+    "terms": [
+      {
+        "term": "Cross-bridge cycle",
+        "meaning": "The repeating sequence of myosin attachment, force generation, detachment, and reset."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which event directly produces the myosin working stroke?",
+      "options": [
+        "Myosin-head conformational change",
+        "Actin conversion into tubulin",
+        "Permanent tail depolymerization",
+        "DNA transcription in the bead"
+      ],
+      "answer": 0,
+      "explanation": "A nucleotide-linked conformational change in the head generates the working stroke."
+    },
+    "diagramGuide": [
+      "This page is a myosin-animation still; use it as a transition to experiments that measure individual motor steps."
+    ]
+  },
+  {
+    "page": 161,
+    "title": "Fluorescent Tracking of Myosin and Actin",
+    "explain": "The microscopy frame labels myosin-II in green and actin in blue. Fluorescent tags let researchers distinguish two molecular components and follow where they are over time inside a sample.",
+    "mustKnow": [
+      "Different fluorescent colors can label different proteins.",
+      "The image links myosin distribution with the actin network."
+    ],
+    "terms": [
+      {
+        "term": "Fluorescent tag",
+        "meaning": "A light-emitting label used to locate a molecule in an image."
+      },
+      {
+        "term": "HaloTag",
+        "meaning": "A protein-tagging system that can be linked to fluorescent dyes."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Why are actin and myosin assigned different fluorophores in the image?",
+      "options": [
+        "To separate their spatial distributions",
+        "To change their nucleotide specificity",
+        "To increase ATP hydrolysis stoichiometry",
+        "To convert force into fluorescence"
+      ],
+      "answer": 0,
+      "explanation": "Distinct labels allow the two proteins to be localized independently."
+    },
+    "diagramGuide": [
+      "The color key labels myosin and actin separately. Track the differently colored puncta along the filament network rather than treating color as structural evidence by itself."
+    ]
+  },
+  {
+    "page": 162,
+    "title": "Arthur Ashkin and Optical Tweezers",
+    "explain": "Arthur Ashkin showed that one tightly focused laser beam can trap a dielectric particle in three dimensions. The method uses light-generated forces to hold and manipulate microscopic objects.",
+    "mustKnow": [
+      "Arthur Ashkin is associated with optical tweezers.",
+      "A tightly focused laser can trap a dielectric particle in 3D."
+    ],
+    "terms": [
+      {
+        "term": "Optical tweezers",
+        "meaning": "A focused-laser method for trapping and moving microscopic particles."
+      },
+      {
+        "term": "Dielectric particle",
+        "meaning": "A nonconducting particle that can be polarized by an electric field."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Arthur Ashkin's single-beam trap uses what physical input?",
+      "options": [
+        "A tightly focused laser beam",
+        "A uniform magnetic field",
+        "A chemical ATP gradient",
+        "A rotating glass needle"
+      ],
+      "answer": 0,
+      "explanation": "Radiation pressure and the intensity gradient of a focused laser trap a dielectric particle."
+    },
+    "diagramGuide": [
+      "The photograph identifies Arthur Ashkin; the relevant apparatus relationship is one tightly focused laser creating a three-dimensional trap for a dielectric sphere."
+    ]
+  },
+  {
+    "page": 163,
+    "title": "Gaussian Beam and Scattering Force",
+    "explain": "The laser is brightest at the center and weaker toward the edges, giving a Gaussian intensity profile. A bead refracts and scatters the light, and the scattering force increases with optical intensity.",
+    "mustKnow": [
+      "A Gaussian beam has maximum intensity at its center.",
+      "The bead changes the direction of incident light.",
+      "Scattering force is proportional to optical intensity."
+    ],
+    "terms": [
+      {
+        "term": "Gaussian intensity profile",
+        "meaning": "A beam profile that is brightest at the center and fades toward the edges."
+      },
+      {
+        "term": "Scattering force",
+        "meaning": "A light-driven force generally directed along beam propagation."
+      },
+      {
+        "term": "Refraction",
+        "meaning": "Bending of light as it passes between materials."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "In the Gaussian beam profile, where is optical intensity greatest?",
+      "options": [
+        "At the central focus",
+        "At both outer edges",
+        "Uniformly across the beam",
+        "Only behind the bead"
+      ],
+      "answer": 0,
+      "explanation": "A Gaussian profile is brightest at the center."
+    },
+    "diagramGuide": [
+      "The central laser ray passes through the bead center; off-axis rays refract. Their horizontal force components point inward, while vertical components and scattering act along the beam axis."
+    ]
+  },
+  {
+    "page": 164,
+    "title": "Light Momentum Produces Force",
+    "explain": "Light carries momentum. When a bead bends light by refraction or reflection, the light's momentum changes; conservation of momentum gives the bead an equal and opposite momentum change, which appears as force.",
+    "mustKnow": [
+      "Light carries momentum.",
+      "Changing light direction changes light momentum.",
+      "The bead experiences an equal and opposite momentum change."
+    ],
+    "terms": [
+      {
+        "term": "Conservation of momentum",
+        "meaning": "Total momentum is conserved, so a change in light momentum is balanced by the object."
+      },
+      {
+        "term": "Radiation pressure",
+        "meaning": "Pressure or force caused by transfer of light momentum."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "The force on the bead follows from conservation of which quantity when light is refracted?",
+      "options": [
+        "Charge",
+        "Momentum",
+        "Mass number",
+        "ATP concentration"
+      ],
+      "answer": 1,
+      "explanation": "Changing light momentum requires an equal and opposite momentum change of the bead."
+    },
+    "diagramGuide": [
+      "For each refracted ray, compare incoming and outgoing directions. The light's momentum change is balanced by an equal and opposite momentum change of the bead."
+    ]
+  },
+  {
+    "page": 165,
+    "title": "Gradient and Scattering Forces in an Optical Trap",
+    "explain": "Scattering force pushes mainly along the incident beam. Gradient force points toward the high-intensity beam center and acts as a restoring force; displacement of a trapped bead can therefore report the force applied by a molecular motor.",
+    "mustKnow": [
+      "Gradient force pulls the bead toward the beam center.",
+      "Scattering force points mainly along beam propagation.",
+      "Optical traps measure piconewton forces and nanometer displacements."
+    ],
+    "terms": [
+      {
+        "term": "Gradient force",
+        "meaning": "The restoring optical force directed toward the highest-intensity region."
+      },
+      {
+        "term": "Piconewton",
+        "meaning": "A force unit equal to 10^-12 newton."
+      },
+      {
+        "term": "Nanometer",
+        "meaning": "A length unit equal to 10^-9 meter."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which force component acts as the inward restoring force in an optical trap?",
+      "options": [
+        "Scattering force",
+        "Gradient force",
+        "Buoyant force",
+        "Centrifugal force"
+      ],
+      "answer": 1,
+      "explanation": "The gradient force points toward the high-intensity beam center."
+    },
+    "diagramGuide": [
+      "Separate the force vectors: scattering force points with beam propagation; gradient force points toward the high-intensity beam center and acts as the restoring force."
+    ]
+  },
+  {
+    "page": 166,
+    "title": "Optical Trap as a Spring",
+    "explain": "Near its center, an optical trap behaves like a spring: force is proportional to bead displacement. Hooke's law, F = -kx, lets displacement become a force measurement once trap stiffness k is known.",
+    "mustKnow": [
+      "An optical trap can be calibrated like a spring.",
+      "Force magnitude equals stiffness times displacement.",
+      "The minus sign indicates restoring force."
+    ],
+    "terms": [
+      {
+        "term": "Hooke's law",
+        "meaning": "The relation F = -kx for a linear restoring force."
+      },
+      {
+        "term": "Trap stiffness",
+        "meaning": "The proportionality constant k between displacement and restoring force."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "For trap stiffness k, a bead displaced by x experiences which restoring-force relation?",
+      "options": [
+        "F = k/x",
+        "F = −kx",
+        "F = x/k",
+        "F = −k/x²"
+      ],
+      "answer": 1,
+      "explanation": "The trap is approximated as a Hookean spring."
+    },
+    "diagramGuide": [
+      "The spring analogy gives F = −kx. Displacement x from equilibrium produces an opposing restoring force; doubling x at fixed stiffness k doubles force magnitude."
+    ]
+  },
+  {
+    "page": 167,
+    "title": "Measuring Single-Myosin Mechanics",
+    "explain": "The slide introduces an optical-tweezers experiment designed to detect piconewton forces and nanometer steps from individual myosin molecules. The apparatus converts tiny bead movements into quantitative motor measurements.",
+    "mustKnow": [
+      "Single-molecule experiments resolve individual motor events.",
+      "Relevant scales are piconewtons for force and nanometers for displacement."
+    ],
+    "terms": [
+      {
+        "term": "Single-molecule mechanics",
+        "meaning": "Measurement of movement and force from individual molecules rather than a bulk average."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "The cited single-myosin experiment resolves forces and steps on which scales?",
+      "options": [
+        "Newton and metre",
+        "Piconewton and nanometre",
+        "Millinewton and centimetre",
+        "Pascal and litre"
+      ],
+      "answer": 1,
+      "explanation": "Single-molecule optical trapping operates at pN force and nm displacement scales."
+    },
+    "diagramGuide": [
+      "The apparatus photograph shows the optical-tweezers setup used to measure piconewton forces and nanometre steps from a single myosin molecule."
+    ]
+  },
+  {
+    "page": 168,
+    "title": "Dual-Beam Optical Trap",
+    "explain": "An actin filament is held taut between two trapped beads and lowered onto a pedestal bead carrying sparse myosin. When myosin binds and pulls actin, the trapped beads move, revealing stroke size, attachment time, and force.",
+    "mustKnow": [
+      "The two trapped beads hold the actin filament.",
+      "Myosin is placed on a separate pedestal bead.",
+      "Bead displacement reports myosin activity."
+    ],
+    "terms": [
+      {
+        "term": "Working stroke",
+        "meaning": "The force-producing movement made by a motor protein."
+      },
+      {
+        "term": "Attachment lifetime",
+        "meaning": "How long the motor remains bound during one interaction."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What directly displaces the optically trapped end beads?",
+      "options": [
+        "Myosin interacting with the suspended actin filament",
+        "Laser-induced DNA replication",
+        "Polymerization of the silica support",
+        "Diffusion of cortisol into the bead"
+      ],
+      "answer": 0,
+      "explanation": "A myosin working event moves actin and therefore the attached trapped beads."
+    },
+    "diagramGuide": [
+      "Two laser traps hold beads attached to opposite ends of one actin filament. A myosin-coated pedestal bead lies below; myosin binding displaces the suspended actin-bead assembly."
+    ]
+  },
+  {
+    "page": 169,
+    "title": "Single-Myosin Experimental Setup",
+    "explain": "The actin filament is stretched between two optically trapped beads to about 2 pN and positioned near a sparsely myosin-coated support. A quadrant photodiode tracks bead position with high resolution, allowing brief motor events to be detected.",
+    "mustKnow": [
+      "Sparse myosin coating helps isolate one or a few motors.",
+      "The actin filament is held under about 2 pN tension.",
+      "A quadrant photodiode detects bead position."
+    ],
+    "terms": [
+      {
+        "term": "Heavy meromyosin",
+        "meaning": "A myosin fragment containing the motor heads and part of the tail."
+      },
+      {
+        "term": "Quadrant photodiode",
+        "meaning": "A detector that measures small changes in the position of a light image."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Why is heavy meromyosin kept at low density on the support?",
+      "options": [
+        "To isolate events from one or a few motors",
+        "To eliminate all actin binding",
+        "To increase bead diameter",
+        "To make the photodiode fluorescent"
+      ],
+      "answer": 0,
+      "explanation": "Sparse coating reduces simultaneous interactions by many motors."
+    },
+    "diagramGuide": [
+      "The two end beads tension the actin filament; sparse heavy meromyosin on the fixed support favors events from one or a few motors. A quadrant photodiode records bead position."
+    ]
+  },
+  {
+    "page": 170,
+    "title": "Myosin Step Traces",
+    "explain": "The upper trace records bead motion parallel to the actin filament and the lower trace records perpendicular motion. The detected displacement is close to 11 nm at both low and high ATP concentrations, supporting a characteristic myosin stroke size.",
+    "mustKnow": [
+      "The productive displacement is measured along the actin filament.",
+      "The observed step is about 11 nm.",
+      "Step distance is similar at low and high ATP in the shown traces."
+    ],
+    "terms": [
+      {
+        "term": "Displacement trace",
+        "meaning": "A graph showing measured position as a function of time."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What step size is observed at both low and high ATP concentrations?",
+      "options": [
+        "Approximately 2 nm",
+        "Approximately 5 nm",
+        "Approximately 11 nm",
+        "Approximately 110 nm"
+      ],
+      "answer": 2,
+      "explanation": "The displacement traces identify a step close to 11 nm."
+    },
+    "diagramGuide": [
+      "In each plot, time is horizontal and displacement is vertical. The upper trace is motion parallel to actin and contains steps; the lower trace is perpendicular control motion. The highlighted step size is about 11 nm at both ATP concentrations."
+    ]
+  },
+  {
+    "page": 171,
+    "title": "Distribution of Myosin Displacements",
+    "explain": "The histogram collects many single-motor displacement events instead of relying on one trace. Most events cluster around roughly 10 to 13 nm, while biological and measurement variation spreads the values.",
+    "mustKnow": [
+      "A histogram shows how frequently each displacement range occurred.",
+      "The main cluster is around the approximately 11 nm working stroke."
+    ],
+    "terms": [
+      {
+        "term": "Histogram",
+        "meaning": "A plot that groups measurements into ranges and counts their frequency."
+      },
+      {
+        "term": "Distribution",
+        "meaning": "The pattern of values observed across repeated measurements."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Where is the main cluster of displacement events in the histogram?",
+      "options": [
+        "0–2 nm",
+        "10–13 nm",
+        "20–25 nm",
+        "35–40 nm"
+      ],
+      "answer": 1,
+      "explanation": "The tallest bars lie around 10–13 nm."
+    },
+    "diagramGuide": [
+      "Histogram axes: displacement in nm is horizontal and number of events is vertical. The tallest bars cluster near roughly 10–13 nm."
+    ]
+  },
+  {
+    "page": 172,
+    "title": "Force from a Single Myosin Motor",
+    "explain": "The force histogram shows repeated single-motor measurements in piconewtons. Most events lie around 2 to 5 pN, with the highest frequency near 3 pN.",
+    "mustKnow": [
+      "Single myosin forces are in the piconewton range.",
+      "The displayed distribution peaks near 3 pN.",
+      "Repeated events vary rather than giving one identical value."
+    ],
+    "terms": [
+      {
+        "term": "Force distribution",
+        "meaning": "The frequency pattern of force values from repeated motor events."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "At approximately what force is the single-myosin distribution maximal?",
+      "options": [
+        "0.3 pN",
+        "3 pN",
+        "30 pN",
+        "300 pN"
+      ],
+      "answer": 1,
+      "explanation": "The tallest histogram bin is centered near 3 pN."
+    },
+    "diagramGuide": [
+      "Histogram axes: force in pN is horizontal and number of events is vertical. The modal region is near 3 pN, with fewer events at larger forces."
+    ]
+  },
+  {
+    "page": 173,
+    "title": "Bacteria-Powered 3D Micromotors",
+    "explain": "The slide presents fabricated micromotor structures whose motion is powered by bacteria and controlled using light. It is an example of coupling living biological motors to engineered microscale devices.",
+    "mustKnow": [
+      "Bacteria can provide propulsion for engineered micromotors.",
+      "Light is used to control the system.",
+      "The device scale is micrometers."
+    ],
+    "terms": [
+      {
+        "term": "Micromotor",
+        "meaning": "A motor-like device built at micrometer scale."
+      },
+      {
+        "term": "Biohybrid",
+        "meaning": "A system combining biological components with engineered material."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What provides propulsion in the light-controlled 3D micromotors?",
+      "options": [
+        "Bacteria",
+        "Myosin-coated actin",
+        "Steroid receptors",
+        "Silica diffusion"
+      ],
+      "answer": 0,
+      "explanation": "The paper title and image identify bacteria-powered micromotors."
+    },
+    "diagramGuide": [
+      "The micrograph shows gear-like synthetic micromotors. Attached or confined bacteria provide the biological propulsion and light controls the system."
+    ]
+  },
+  {
+    "page": 174,
+    "title": "Array of Bacterial Micromotors",
+    "explain": "The microscopy image shows repeated gear-like micromotor structures surrounded by bacteria. It demonstrates that the biohybrid design can be fabricated as multiple microscale units rather than only one device.",
+    "mustKnow": [
+      "The repeated structures are microscale engineered devices.",
+      "Bacteria around the structures are part of the propulsion system."
+    ],
+    "terms": [
+      {
+        "term": "Microscopy array",
+        "meaning": "A field containing multiple repeated small structures viewed by microscopy."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What repeated structure is shown in the micrograph?",
+      "options": [
+        "Four-gear micromotor assemblies",
+        "Actin sarcomeres",
+        "Nuclear receptor dimers",
+        "Bacterial chromosomes"
+      ],
+      "answer": 0,
+      "explanation": "The field contains repeated groups of four gear-like micromotor units."
+    },
+    "diagramGuide": [
+      "Repeated four-gear assemblies demonstrate the geometry and replication of the bacteria-powered micromotor design; the image is structural, not a force graph."
+    ]
+  },
+  {
+    "page": 175,
+    "title": "Bacterial Flagella",
+    "explain": "The slide introduces bacterial flagella as rotary motility structures. A flagellar motor rotates the helical flagellum, allowing a bacterium to move through liquid.",
+    "mustKnow": [
+      "Bacterial flagella generate swimming motion by rotation.",
+      "The bacterial flagellar motor is a rotary biological motor."
+    ],
+    "terms": [
+      {
+        "term": "Flagellum",
+        "meaning": "A long helical appendage used for bacterial swimming."
+      },
+      {
+        "term": "Flagellar motor",
+        "meaning": "The membrane-associated rotary motor that turns a bacterial flagellum."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "The bacterial flagellar motor belongs to which motor class?",
+      "options": [
+        "Polymerization motor",
+        "Linear cytoskeletal motor",
+        "Rotary motor",
+        "Nucleic-acid motor"
+      ],
+      "answer": 2,
+      "explanation": "It rotates the flagellum to propel the bacterium."
+    },
+    "diagramGuide": [
+      "The video still shows bacterial trajectories. The key mechanism is rotary motion of the flagellar motor transmitted to the helical flagellum."
+    ]
+  },
+  {
+    "page": 176,
+    "title": "Biological Motors Reference",
+    "explain": "The lecture cites Molecular Biology of the Cell by Bruce Alberts as its reference text. This page contains source information rather than a new mechanism.",
+    "mustKnow": [
+      "The cited reference is Molecular Biology of the Cell, 5th edition."
+    ],
+    "terms": [],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which reference text is cited for the Biological Motors lecture?",
+      "options": [
+        "Molecular Biology of the Cell, 5th edition",
+        "Lehninger Principles, 1st edition",
+        "Gray's Anatomy, 2nd edition",
+        "The Origin of Species, 5th edition"
+      ],
+      "answer": 0,
+      "explanation": "The reference slide names Molecular Biology of the Cell, 5th edition, by Bruce Alberts."
+    },
+    "diagramGuide": []
+  },
+  {
+    "page": 177,
+    "title": "Cellular Signaling",
+    "explain": "This begins the cellular signaling lecture. The central topic is how cells detect information, process it internally, and produce an appropriate response.",
+    "mustKnow": [
+      "Cell signaling links detection of a signal to a cellular response."
+    ],
+    "terms": [
+      {
+        "term": "Cellular signaling",
+        "meaning": "Communication processes by which cells detect and respond to information."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What is the topic of the lecture beginning on this slide?",
+      "options": [
+        "Biological motors",
+        "Cellular signaling",
+        "Genetic engineering",
+        "Cancer drug development"
+      ],
+      "answer": 1,
+      "explanation": "This is the Cellular Signaling title slide."
+    },
+    "diagramGuide": []
+  },
+  {
+    "page": 178,
+    "title": "Perceiving the Environment",
+    "explain": "The examples emphasize that living systems detect external cues and direct movement or behavior in response. At cell level, receptors perform the sensing and signaling pathways organize the response.",
+    "mustKnow": [
+      "Environmental information must first be detected.",
+      "Sensing is followed by a directed response."
+    ],
+    "terms": [
+      {
+        "term": "Chemotaxis",
+        "meaning": "Directed cell movement in response to a chemical gradient."
+      },
+      {
+        "term": "Phagocytosis",
+        "meaning": "Engulfment of a particle by a cell."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "In the neutrophil example, directed movement toward a chemical cue is followed by what process?",
+      "options": [
+        "Phagocytosis",
+        "Transcription",
+        "Treadmilling",
+        "Endocrine secretion"
+      ],
+      "answer": 0,
+      "explanation": "The caption describes chemotactic and phagocytic responses."
+    },
+    "diagramGuide": [
+      "The right panel names a neutrophil response to a micropipette-held target: chemical sensing directs movement (chemotaxis), followed by engulfment (phagocytosis)."
+    ]
+  },
+  {
+    "page": 179,
+    "title": "Why Cells Need Signaling",
+    "explain": "Cells must detect changes around them and respond. Because a cell may receive several signals at once, it must process and integrate them into one coordinated action plan.",
+    "mustKnow": [
+      "Cells sense environmental change.",
+      "Cells can receive multiple signals simultaneously.",
+      "Signal information is integrated into a response."
+    ],
+    "terms": [
+      {
+        "term": "Signal integration",
+        "meaning": "Combining multiple inputs to determine one cellular response."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Why must a cell process multiple received signals?",
+      "options": [
+        "To produce one coordinated action plan",
+        "To ensure every receptor gives an identical response",
+        "To prevent all environmental sensing",
+        "To keep every pathway independent"
+      ],
+      "answer": 0,
+      "explanation": "Cells integrate concurrent information into a unified response."
+    },
+    "diagramGuide": [
+      "The left micrograph shows a cell interacting with nearby material; the right time-lapse field illustrates that a cell population can change behavior over time after receiving information."
+    ]
+  },
+  {
+    "page": 180,
+    "title": "Core Features of Cell Signaling",
+    "explain": "Signals can operate over short or long distances, and cells respond only if they have the right receptor and state. Lipid-soluble signals may cross the membrane to intracellular receptors, while many other signals use cell-surface receptors and internal relay pathways.",
+    "mustKnow": [
+      "Only target cells with suitable receptors respond.",
+      "Responses may be rapid or slow.",
+      "Some hormones use intracellular receptors; others use cell-surface receptors."
+    ],
+    "terms": [
+      {
+        "term": "Target cell",
+        "meaning": "A cell able to respond because it has the appropriate receptor and machinery."
+      },
+      {
+        "term": "Intracellular receptor",
+        "meaning": "A receptor located inside the cell."
+      },
+      {
+        "term": "Cell-surface receptor",
+        "meaning": "A membrane receptor that detects an extracellular signal."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which signal is most likely to use an intracellular receptor?",
+      "options": [
+        "A membrane-impermeant peptide",
+        "A lipid-soluble steroid hormone",
+        "A large extracellular-matrix protein",
+        "A surface-bound juxtacrine ligand"
+      ],
+      "answer": 1,
+      "explanation": "Some lipid-soluble hormones cross the plasma membrane and bind intracellular receptors."
+    },
+    "diagramGuide": [
+      "No pathway diagram is shown. Organize the bullets as range, cell competence, response speed, and receptor location."
+    ]
+  },
+  {
+    "page": 181,
+    "title": "Chemical Types of Signals",
+    "explain": "Cell signals have many chemical forms: amino-acid derivatives, gases, steroids, peptides or proteins, and surface-bound molecules. Their chemistry influences how they travel and whether they can cross the plasma membrane.",
+    "mustKnow": [
+      "NO and CO are gaseous signals.",
+      "Steroid hormones are derived from cholesterol.",
+      "Many peptide and protein signals act outside the cell through receptors."
+    ],
+    "terms": [
+      {
+        "term": "Steroid hormone",
+        "meaning": "A cholesterol-derived signal that can often cross the plasma membrane."
+      },
+      {
+        "term": "Neurotransmitter",
+        "meaning": "A signal released by a neuron to act on another cell."
+      },
+      {
+        "term": "Antigen receptor",
+        "meaning": "A B-cell or T-cell receptor that recognizes foreign antigen."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which pair consists entirely of gaseous signaling molecules listed on the slide?",
+      "options": [
+        "NO and CO",
+        "NO and cortisol",
+        "CO and dopamine",
+        "Epinephrine and acetylcholine"
+      ],
+      "answer": 0,
+      "explanation": "Nitric oxide and carbon monoxide are the two gases listed."
+    },
+    "diagramGuide": []
+  },
+  {
+    "page": 182,
+    "title": "Autocrine and Paracrine Signaling",
+    "explain": "In autocrine signaling, the producing cell also responds to its own messenger. In paracrine signaling, the messenger travels a short distance to nearby target cells; PDGF released during wound repair is the slide's example.",
+    "mustKnow": [
+      "Autocrine means self-signaling.",
+      "Paracrine means local signaling to nearby cells.",
+      "PDGF is a paracrine wound-repair example."
+    ],
+    "terms": [
+      {
+        "term": "Autocrine",
+        "meaning": "A signaling mode in which a cell responds to its own secreted signal."
+      },
+      {
+        "term": "Paracrine",
+        "meaning": "Short-range signaling to nearby cells."
+      },
+      {
+        "term": "PDGF",
+        "meaning": "Platelet-derived growth factor, a local signal involved in repair."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "PDGF released from platelets at a wound acts mainly by which signaling mode?",
+      "options": [
+        "Autocrine",
+        "Paracrine",
+        "Endocrine",
+        "Juxtacrine"
+      ],
+      "answer": 1,
+      "explanation": "PDGF travels locally to nearby target cells during repair."
+    },
+    "diagramGuide": [
+      "Autocrine diagram: signal returns to receptors on the same producing cell. Paracrine diagram: a signaling cell releases local mediator that diffuses only to nearby target cells."
+    ]
+  },
+  {
+    "page": 183,
+    "title": "Juxtacrine and Endocrine Signaling",
+    "explain": "Juxtacrine signaling requires direct contact between surface molecules on neighboring cells. Endocrine hormones enter the bloodstream and act at distant targets; insulin released by pancreatic beta cells is the slide's example.",
+    "mustKnow": [
+      "Juxtacrine signaling is contact-dependent.",
+      "Endocrine signaling uses the bloodstream for long-range delivery.",
+      "Insulin is an endocrine hormone."
+    ],
+    "terms": [
+      {
+        "term": "Juxtacrine",
+        "meaning": "Direct contact-dependent signaling between neighboring cells."
+      },
+      {
+        "term": "Endocrine",
+        "meaning": "Long-range hormonal signaling through the bloodstream."
+      },
+      {
+        "term": "Contact inhibition",
+        "meaning": "Reduced cell growth or division when cells contact neighbors."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which feature uniquely identifies juxtacrine signaling?",
+      "options": [
+        "Transport through blood",
+        "Direct contact between membrane-bound ligand and receptor",
+        "Diffusion to nearby cells",
+        "A cell responding to its own secretion"
+      ],
+      "answer": 1,
+      "explanation": "Juxtacrine signaling requires direct cell-cell contact."
+    },
+    "diagramGuide": [
+      "Juxtacrine diagram: membrane-bound ligand and receptor touch across adjacent cells. Endocrine diagram: hormone enters blood, travels, exits near a distant target, and binds its receptor."
+    ]
+  },
+  {
+    "page": 184,
+    "title": "Examples of Hormone Signals",
+    "explain": "The table links each hormone to its origin, chemical nature, and action. High-yield pairs include adrenal epinephrine, adrenal cortisol, pancreatic alpha-cell glucagon, pancreatic beta-cell insulin, and thyroid-gland thyroxine.",
+    "mustKnow": [
+      "Epinephrine and cortisol originate in the adrenal gland.",
+      "Glucagon comes from pancreatic alpha cells; insulin from beta cells.",
+      "Cortisol, estradiol, and testosterone are steroids."
+    ],
+    "terms": [
+      {
+        "term": "Glucagon",
+        "meaning": "A pancreatic alpha-cell peptide hormone that promotes fuel mobilization."
+      },
+      {
+        "term": "Insulin",
+        "meaning": "A pancreatic beta-cell protein hormone that promotes glucose uptake and synthesis."
+      },
+      {
+        "term": "Cortisol",
+        "meaning": "An adrenal steroid hormone that affects metabolism in many tissues."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which source-cell pairing is correct according to the table?",
+      "options": [
+        "Glucagon—pancreatic alpha cells",
+        "Insulin—pancreatic alpha cells",
+        "Cortisol—thyroid gland",
+        "Thyroxine—adrenal gland"
+      ],
+      "answer": 0,
+      "explanation": "Glucagon is produced by pancreatic alpha cells; insulin is produced by beta cells."
+    },
+    "diagramGuide": [
+      "Read the table across each row: signal → site of origin → chemical nature → action. Do not mix a hormone's source with its target tissue."
+    ]
+  },
+  {
+    "page": 185,
+    "title": "Local, Neural, and Contact Signals",
+    "explain": "The table contrasts local mediators, neurotransmitters, and contact-dependent signals. EGF and PDGF promote proliferation, NGF supports neurons, TGF-beta inhibits proliferation, histamine promotes inflammatory vessel changes, and GABA is inhibitory in the central nervous system.",
+    "mustKnow": [
+      "EGF and PDGF stimulate proliferation.",
+      "Histamine promotes vessel dilation and leakiness in inflammation.",
+      "GABA is an inhibitory neurotransmitter.",
+      "Delta is a contact-dependent transmembrane signal."
+    ],
+    "terms": [
+      {
+        "term": "EGF",
+        "meaning": "Epidermal growth factor, a protein signal that stimulates proliferation."
+      },
+      {
+        "term": "GABA",
+        "meaning": "An inhibitory neurotransmitter in the central nervous system."
+      },
+      {
+        "term": "Histamine",
+        "meaning": "A mast-cell signal that promotes blood-vessel dilation and leakiness."
+      },
+      {
+        "term": "Delta",
+        "meaning": "A membrane-bound contact-dependent signal."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which listed signal inhibits proliferation of several cell types?",
+      "options": [
+        "EGF",
+        "PDGF",
+        "TGF-β",
+        "Histamine"
+      ],
+      "answer": 2,
+      "explanation": "The table assigns an antiproliferative action to transforming growth factor beta."
+    },
+    "diagramGuide": [
+      "Read the table across each row and first classify the signal as local mediator, neurotransmitter, or contact-dependent signal; then link source and action."
+    ]
+  },
+  {
+    "page": 186,
+    "title": "Signal Processing Architecture",
+    "explain": "Cell signaling can be viewed as an engineering chain: sensor, information processing, and response. Useful pathway properties include specificity, cascades, amplification, feedback, and integration.",
+    "mustKnow": [
+      "The basic sequence is sensor to processing to response.",
+      "Amplification increases signal output.",
+      "Feedback modifies pathway activity.",
+      "Integration combines inputs."
+    ],
+    "terms": [
+      {
+        "term": "Specificity",
+        "meaning": "Selective recognition of particular signals and targets."
+      },
+      {
+        "term": "Amplification",
+        "meaning": "Production of a larger downstream response from a smaller initial input."
+      },
+      {
+        "term": "Feedback",
+        "meaning": "A downstream effect that changes earlier pathway activity."
+      },
+      {
+        "term": "Cascade",
+        "meaning": "A sequence in which one activated component activates the next."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which feature allows one activated receptor to generate many downstream molecules?",
+      "options": [
+        "Specificity",
+        "Amplification",
+        "Integration",
+        "Contact inhibition"
+      ],
+      "answer": 1,
+      "explanation": "Amplification increases output at successive signaling steps."
+    },
+    "diagramGuide": [
+      "Top flow is sensor → information processing → response/action. Bottom symbols summarize specificity, cascade, amplification, feedback, and integration as pathway properties."
+    ]
+  },
+  {
+    "page": 187,
+    "title": "Signaling Pathways Form Networks",
+    "explain": "The waterfall analogy and pathway map show that signals pass through multiple connected components rather than one isolated switch. Different receptors can converge on shared proteins, and one pathway can branch toward several outputs.",
+    "mustKnow": [
+      "Signaling often proceeds as a multistep cascade.",
+      "Different receptor inputs can converge.",
+      "One signal can branch into multiple responses."
+    ],
+    "terms": [
+      {
+        "term": "Convergence",
+        "meaning": "Different upstream signals meeting at a shared pathway component."
+      },
+      {
+        "term": "Divergence",
+        "meaning": "One upstream signal branching toward multiple downstream effects."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "When several receptor pathways feed into one shared intracellular component, the network shows what property?",
+      "options": [
+        "Divergence",
+        "Convergence",
+        "Treadmilling",
+        "Endocrine transport"
+      ],
+      "answer": 1,
+      "explanation": "Convergence is the merging of distinct upstream inputs."
+    },
+    "diagramGuide": [
+      "The waterfall is an analogy for a multistep cascade. In the network, arrows show direction; branching is divergence to several outputs, while merging arrows show convergence on shared intermediates."
+    ]
+  },
+  {
+    "page": 188,
+    "title": "Nuclear Receptor Signaling",
+    "explain": "Cortisol diffuses through the lipid bilayer and binds an intracellular glucocorticoid receptor. The activated receptor moves to the nucleus, binds target DNA, and changes transcription, leading to synthesis of specific proteins.",
+    "mustKnow": [
+      "Cortisol can cross the plasma membrane.",
+      "Its receptor is intracellular.",
+      "The hormone-receptor complex regulates gene transcription.",
+      "This response requires new protein synthesis."
+    ],
+    "terms": [
+      {
+        "term": "Glucocorticoid receptor",
+        "meaning": "An intracellular receptor activated by glucocorticoid hormones such as cortisol."
+      },
+      {
+        "term": "Transcription",
+        "meaning": "Production of RNA from a DNA template."
+      },
+      {
+        "term": "Nuclear receptor",
+        "meaning": "An intracellular receptor that directly regulates gene expression."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "After cortisol binds the glucocorticoid receptor, which event occurs before target-protein synthesis?",
+      "options": [
+        "Receptor translocation to the nucleus and transcriptional activation",
+        "Opening of a ligand-gated sodium channel",
+        "Flagellar rotation",
+        "Extracellular ATP polymerization"
+      ],
+      "answer": 0,
+      "explanation": "The activated receptor enters the nucleus and regulates transcription before translation produces protein."
+    },
+    "diagramGuide": [
+      "Follow the numbered route: cortisol outside cell → diffusion through membrane → receptor binding in cytoplasm → receptor conformational change and nuclear entry → DNA binding/transcription → mRNA → protein synthesis."
+    ]
+  },
+  {
+    "page": 189,
+    "title": "Major Membrane Receptor Classes",
+    "explain": "The lecture lists three major cell-surface receptor types: G protein-coupled receptors, receptor tyrosine kinases, and ion channels. All detect extracellular information but use different mechanisms to transmit it across the membrane.",
+    "mustKnow": [
+      "GPCRs activate G proteins.",
+      "Receptor tyrosine kinases use regulated phosphorylation.",
+      "Ligand-gated ion channels control ion flow."
+    ],
+    "terms": [
+      {
+        "term": "GPCR",
+        "meaning": "A seven-pass membrane receptor that activates a G protein."
+      },
+      {
+        "term": "Receptor tyrosine kinase",
+        "meaning": "A receptor whose cytosolic kinase activity phosphorylates tyrosines."
+      },
+      {
+        "term": "Ion channel receptor",
+        "meaning": "A receptor that changes ion flow across the membrane."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which receptor class has intrinsic or associated tyrosine-phosphorylation activity?",
+      "options": [
+        "GPCR",
+        "Receptor tyrosine kinase",
+        "Ligand-gated ion channel",
+        "Nuclear steroid receptor"
+      ],
+      "answer": 1,
+      "explanation": "Receptor tyrosine kinases transmit signals through regulated tyrosine phosphorylation."
+    },
+    "diagramGuide": []
+  },
+  {
+    "page": 190,
+    "title": "GPCR Examples and Outputs",
+    "explain": "GPCRs mediate many physiological responses. The table links signals such as epinephrine, serotonin, light, odorants, fMet peptides, and acetylcholine to specific GPCRs, effectors, and outcomes.",
+    "mustKnow": [
+      "One receptor family can control many different physiological processes.",
+      "GPCR specificity comes from the receptor, G protein, effector, and cell context.",
+      "Rhodopsin is the light-detecting GPCR example."
+    ],
+    "terms": [
+      {
+        "term": "Rhodopsin",
+        "meaning": "A light-sensitive GPCR involved in visual excitation."
+      },
+      {
+        "term": "Effector",
+        "meaning": "A downstream enzyme or channel directly regulated by an activated G protein."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which stimulus-receptor pairing is shown in the GPCR table?",
+      "options": [
+        "Light—rhodopsin",
+        "Insulin—glucocorticoid receptor",
+        "Cortisol—nicotinic receptor",
+        "PDGF—GABA receptor"
+      ],
+      "answer": 0,
+      "explanation": "The table pairs light with rhodopsin for visual excitation."
+    },
+    "diagramGuide": [
+      "Read each table row as stimulus → GPCR → effector → physiological response. Examples include light → rhodopsin → cGMP phosphodiesterase → visual excitation."
+    ]
+  }
+]

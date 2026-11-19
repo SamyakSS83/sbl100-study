@@ -1,0 +1,363 @@
+[
+  {
+    "topic": "Genetic Engineering Applications 3",
+    "oneLiner": "Completes the cloning pipeline (transform → select → screen → confirm → express → purify) and surveys applications of genetic engineering in medicine, agriculture, industry and environment, plus biosafety and ethics.",
+    "sections": [
+      {
+        "heading": "Transformation, selection, screening, confirmation",
+        "points": [
+          "Pipeline: isolate gene → insert into vector → transform host → select → screen → confirm → express → purify.",
+          "Transformation: recombinant plasmid into competent cells by heat shock (~42°C) or electroporation (high-voltage pulse); both open temporary membrane pores.",
+          "Cells recover before plating on selective (antibiotic) medium; plasmid needs origin of replication + selectable marker (e.g., AmpR).",
+          "Selection = survival on antibiotic → cell has plasmid; does NOT prove insert present.",
+          "Screening identifies likely recombinants (white colonies in the shown scheme); still needs confirmation.",
+          "Confirmation: colony PCR (insert from colony), restriction digestion (fragment pattern), DNA sequencing (exact sequence + insert orientation)."
+        ],
+        "pages": [102, 103, 104]
+      },
+      {
+        "heading": "Expression of recombinant protein",
+        "points": [
+          "Inserted gene transcribed to mRNA, translated to protein inside host.",
+          "Promoter controls when, where and how strongly a gene is transcribed; expression vector needs promoter + translation-control elements.",
+          "Inducible systems: lac, T7, ara; IPTG induces lac-based expression; T7 = high-expression E. coli system.",
+          "Induction separates cell growth from strong protein production.",
+          "Workflow order: transform → grow culture → induce → harvest → lyse → purify."
+        ],
+        "pages": [105, 106, 107]
+      },
+      {
+        "heading": "Purification and analysis (Ni-NTA, SDS-PAGE)",
+        "points": [
+          "His-tag (short histidine stretch) binds Ni²⁺ on Ni-NTA affinity resin.",
+          "Wash with LOW imidazole removes weak/nonspecific binders; HIGH imidazole competes with His-tag → elutes target.",
+          "SDS denatures proteins and gives similar charge-to-mass ratio → separation mainly by molecular weight (kDa).",
+          "Smaller proteins migrate farther (lower on gel); strong band at expected size supports expression and purity."
+        ],
+        "pages": [108, 109]
+      },
+      {
+        "heading": "Medical applications",
+        "points": [
+          "Recombinant human insulin: human gene cloned, expressed in E. coli, purified and processed — classic recombinant protein.",
+          "hGH → growth hormone deficiency; EPO → RBC production in anemia; interferons → antiviral, some cancers; Factor VIII → hemophilia A, Factor IX → hemophilia B.",
+          "Recombinant vaccines (subunit, VLP, recombinant vector) avoid whole infectious pathogen; hepatitis B vaccine = HBsAg made in yeast, non-infectious, approved 1986.",
+          "Monoclonal antibodies bind one specific target (e.g., HER2, RSV); made in mammalian cells for proper folding/processing.",
+          "Gene therapy strategies: replacement, addition, silencing (siRNA), editing (CRISPR).",
+          "Examples: SMA = in vivo gene addition; sickle cell = ex vivo editing of BCL11A enhancer → fetal hemoglobin restored; CAR-T = engineered T cells."
+        ],
+        "pages": [111, 112, 113, 114, 115, 116]
+      },
+      {
+        "heading": "Agricultural applications",
+        "points": [
+          "Targets: biotic stress (pests, pathogens), abiotic stress (drought, salinity, heat, cold), nutrition, yield, shelf life.",
+          "Bt crops express Cry insecticidal proteins from Bacillus thuringiensis against specific pests; reduce insecticide use.",
+          "Bt concerns: insect resistance (needs resistance management), non-target effects, gene flow, biosafety.",
+          "Golden Rice: genes activate carotenoid pathway → β-carotene (provitamin A) in endosperm; biofortification vs vitamin A deficiency.",
+          "Other traits: herbicide tolerance, disease resistance, delayed ripening (shelf life); edible vaccine banana (viral proteins), scorpion-gene cabbage (deters insects).",
+          "High US adoption (2010) of GM soybean, cotton, corn, sugar beet; Bt corn protein toxic to certain insects, stated not poisonous to humans."
+        ],
+        "pages": [117, 118, 119, 120, 123, 127, 128, 129]
+      },
+      {
+        "heading": "Industrial, environmental and animal applications",
+        "points": [
+          "Industry: chymosin (cheese), lactase (lactose breakdown), amylase, protease, lipase, amino acids, vitamins, ethanol, bioplastics; advantages: yield, consistency, scalability, lower cost.",
+          "Environment: bioremediation, wastewater treatment, biosensors, sustainable bioprocesses.",
+          "Bacteria are common GMOs (easy to manipulate): cyanobacteria → polyethylene/butanol; E. coli → diesel.",
+          "Knockout mouse (hair-growth gene → hairless) removes function; GFP mice/GloFish add expression; fluorescence/BLI for protein tracking and disease detection.",
+          "Fast-growing salmon: genes from two other fish → continual growth hormone; modified methane-producing gut bacteria → ~25% less cattle methane.",
+          "Transgenic goats with spider genes produce spider-silk protein in milk (animal as production host)."
+        ],
+        "pages": [121, 122, 124, 125, 131, 132, 133]
+      },
+      {
+        "heading": "Concerns, biosafety, ethics and future",
+        "points": [
+          "GMO concerns: food safety, environmental/wildlife harm, pesticide/herbicide use, farmer health, seed/pollen drift, herbicide-resistant weeds (superweeds); varied labeling/bans.",
+          "Biosafety: unintended/off-target changes, lab and release risks, gene flow, ecosystem and non-target effects.",
+          "Ethics: germline editing (heritable), consent, fairness, misuse; regulation = safety testing, approval, post-release monitoring.",
+          "Challenges: delivery, cost, regulation, uncertain long-term effects.",
+          "Future: base editing (no standard double-strand break), prime editing, improved CRISPR, personalized medicine, synthetic biology, therapeutic cells, greener fuels/materials."
+        ],
+        "pages": [134, 135, 136, 137]
+      }
+    ],
+    "mustRemember": [
+      "Vector essentials: ori + selectable marker + MCS; expression vector adds promoter + translation controls",
+      "Use cDNA (no introns) to express human gene in E. coli",
+      "Heat shock ≈ 42°C; electroporation = high-voltage pulse",
+      "IPTG induces lac system; lac, T7, ara = inducible systems",
+      "His-tag binds Ni²⁺ (Ni-NTA); low imidazole wash, high imidazole elute",
+      "SDS-PAGE separates by size; small proteins run lower",
+      "Sequencing confirms identity AND orientation of insert",
+      "Factor VIII → hemophilia A; Factor IX → hemophilia B; EPO → anemia",
+      "Hep B vaccine = recombinant HBsAg in yeast, approved 1986",
+      "Sickle cell: ex vivo edit of BCL11A enhancer → fetal Hb ↑; SMA: in vivo gene addition",
+      "Bt = Bacillus thuringiensis Cry toxin; Golden Rice = β-carotene in endosperm",
+      "Cattle methane ↓ ~25%; salmon genes from two other fish; goat milk spider silk",
+      "Chymosin → cheese; lactase → lactose breakdown"
+    ],
+    "distinguish": [
+      {"pair": "Selection vs Screening", "difference": "Selection keeps cells carrying the marker plasmid; screening identifies colonies likely carrying the insert."},
+      {"pair": "Screening vs Confirmation", "difference": "Screening flags likely recombinants; confirmation (colony PCR, digest, sequencing) tests the insert directly."},
+      {"pair": "Cloning vector vs Expression vector", "difference": "Cloning vector only propagates DNA; expression vector also has promoter/translation elements for protein production."},
+      {"pair": "Genomic DNA vs cDNA", "difference": "Genomic DNA has introns bacteria cannot splice; cDNA from processed mRNA lacks introns."},
+      {"pair": "Low vs High imidazole", "difference": "Low imidazole washes off contaminants; high imidazole competes off and elutes the His-tagged protein."},
+      {"pair": "Bt crops vs Golden Rice", "difference": "Bt = insect resistance via Cry toxin; Golden Rice = provitamin A (β-carotene) biofortification."},
+      {"pair": "In vivo vs Ex vivo gene therapy", "difference": "In vivo modifies cells inside the body (SMA); ex vivo modifies cells outside then returns them (sickle cell)."},
+      {"pair": "Biotic vs Abiotic stress", "difference": "Biotic = living agents (pests, pathogens); abiotic = drought, salinity, heat, cold."}
+    ],
+    "traps": [
+      "Antibiotic survival proves the marker plasmid is present, not the desired insert.",
+      "A cloning vector is not automatically an expression vector.",
+      "Low imidazole washes; high imidazole elutes — don't swap them.",
+      "Bt and Golden Rice solve different problems (insects vs vitamin A).",
+      "Monoclonal antibodies need mammalian cells, not E. coli, for proper folding/processing.",
+      "Germline editing is heritable; somatic gene therapy is not passed on."
+    ]
+  },
+  {
+    "topic": "Biological Motors",
+    "oneLiner": "Molecular motors convert chemical energy (ATP/GTP hydrolysis) into directed motion via nucleotide-driven conformational cycles; actin–myosin is the key example, and optical tweezers measure single-myosin steps (~11 nm) and forces (~3 pN).",
+    "sections": [
+      {
+        "heading": "Energy and nonequilibrium basis",
+        "points": [
+          "Conventional motor: electrical → mechanical energy; biological motor: chemical → mechanical energy (or other directed work).",
+          "Many required cellular reactions are unfavorable; cells need continuous energy input.",
+          "Life is nonequilibrium: ordered structures, concentration and charge gradients (e.g., proton pumps keep lysosomes acidic).",
+          "Molecular machines transduce one store of free energy into another."
+        ],
+        "pages": [139, 140, 141]
+      },
+      {
+        "heading": "Why molecular motors are different",
+        "points": [
+          "Nanometer scale, in water, low Reynolds number (viscous forces dominate inertia).",
+          "Brownian motion makes environment stochastic.",
+          "Rely on noncovalent interactions and internal protein dynamics, not rigid parts; sensitive to temperature and pH."
+        ],
+        "pages": [142]
+      },
+      {
+        "heading": "Fundamental principles: ATP/GTP and conformational change",
+        "points": [
+          "Molecular motor = macromolecular complex converting energy into directed motion/function.",
+          "Principle 1: energy from ATP or GTP; ATP → ADP + Pi, standard ΔG ≈ −7.3 kcal/mol; ATPases hydrolyze, ATP synthase makes ATP.",
+          "Principle 2: ATP binding, hydrolysis, Pi release and ADP→ATP exchange switch protein between conformations (State A/B).",
+          "ATP/GTP-bound = active; ADP/GDP-bound = inactive; only selected regions change shape.",
+          "Repeated mechanochemical cycle converts chemical events into movement."
+        ],
+        "pages": [143, 144, 145, 146]
+      },
+      {
+        "heading": "Motor categories and cytoskeleton",
+        "points": [
+          "Four categories: polymerization, cytoskeletal (actin–myosin), rotary (bacterial flagella), nucleic-acid motors.",
+          "Cytoskeleton: dynamic 3D network for shape, motility, cytokinesis, transport, division, organelle organization.",
+          "Three filament systems: actin microfilaments, intermediate filaments, tubulin microtubules.",
+          "Myosin moves on actin tracks (fluorescence: myosin-II green, actin blue)."
+        ],
+        "pages": [147, 148, 151, 161]
+      },
+      {
+        "heading": "Actin structure and polymerization",
+        "points": [
+          "G-actin = globular soluble monomer; F-actin = filamentous polymer (right-handed, two-stranded helix, polar).",
+          "Assembly: slow nucleation (unstable seed) → elongation at both ends, faster at plus (barbed) than minus (pointed) end.",
+          "Actin binds ATP and is an ATPase; polymerization promotes hydrolysis; ATP-actin adds more readily, ADP-actin dissociates more readily.",
+          "Steady state: constant F-actin mass; treadmilling = plus-end addition + minus-end loss.",
+          "Critical concentration separates net polymerization from net depolymerization; actin-binding proteins and Ca²⁺ regulate assembly."
+        ],
+        "pages": [152, 153, 154, 155, 156, 157]
+      },
+      {
+        "heading": "Muscle: sarcomere and myosin",
+        "points": [
+          "Striations reflect ordered repeating organization of muscle fibers.",
+          "Sarcomere = Z line to Z line; thin actin filaments anchored at Z lines; thick myosin filaments centered at M line; overlap gives banding.",
+          "Myosin: two heavy chains + essential and regulatory light chains.",
+          "Head (motor domain) binds actin and ATP; neck carries light chains; tail = dimeric coiled-coil (dimerization, cargo/filament).",
+          "Cross-bridge cycle: attach → force generation → detach → reset, controlled by ATP."
+        ],
+        "pages": [149, 158, 159, 160]
+      },
+      {
+        "heading": "Optical tweezers physics",
+        "points": [
+          "Arthur Ashkin: tightly focused laser traps a dielectric particle in 3D.",
+          "Light carries momentum; bead refracts/reflects light → equal and opposite momentum change = force.",
+          "Gaussian beam brightest at center; scattering force ∝ intensity, along beam propagation.",
+          "Gradient force pulls bead toward high-intensity center = restoring force.",
+          "Near center trap acts as spring: F = −kx (k = trap stiffness); displacement → force."
+        ],
+        "pages": [162, 163, 164, 165, 166]
+      },
+      {
+        "heading": "Single-myosin measurements and applications",
+        "points": [
+          "Dual-beam trap: actin held taut (~2 pN) between two trapped beads, lowered onto pedestal bead sparsely coated with myosin (isolates single motors).",
+          "Quadrant photodiode tracks bead position; bead displacement reports stroke size, attachment lifetime, force.",
+          "Working stroke ≈ 11 nm (cluster ~10–13 nm), similar at low and high ATP; measured along actin.",
+          "Single myosin force ~2–5 pN, peak near 3 pN.",
+          "Biohybrids: bacteria-powered, light-controlled 3D micromotors; bacterial flagellar motor = rotary motor turning helical flagellum."
+        ],
+        "pages": [167, 168, 169, 170, 171, 172, 173, 174, 175]
+      }
+    ],
+    "mustRemember": [
+      "ATP → ADP + Pi, ΔG°′ ≈ −7.3 kcal/mol",
+      "Cycle: bind → hydrolyze → release → exchange",
+      "Four motor classes: polymerization, cytoskeletal, rotary, nucleic-acid",
+      "Microfilament = actin; microtubule = tubulin; + intermediate filaments",
+      "Plus (barbed) end grows faster than minus (pointed) end",
+      "Treadmilling: add at plus, lose at minus, constant mass",
+      "Sarcomere: Z line to Z line; M line at centre; actin thin, myosin thick",
+      "Myosin: head (actin + ATP), neck (light chains), tail (coiled-coil dimer)",
+      "Hooke's law F = −kx for optical trap",
+      "pN = 10⁻¹² N; nm = 10⁻⁹ m",
+      "Myosin step ≈ 11 nm; force peak ≈ 3 pN (2–5 pN); actin tension ≈ 2 pN",
+      "Arthur Ashkin = optical tweezers; quadrant photodiode detects bead position"
+    ],
+    "distinguish": [
+      {"pair": "G-actin vs F-actin", "difference": "G-actin is the globular monomer; F-actin is the polar helical filament polymer of the same protein."},
+      {"pair": "Plus (barbed) vs Minus (pointed) end", "difference": "Plus end adds subunits faster; minus end grows slower and loses subunits in treadmilling."},
+      {"pair": "ATP-actin vs ADP-actin", "difference": "ATP-actin preferentially adds to filaments; ADP-actin dissociates more readily."},
+      {"pair": "Scattering force vs Gradient force", "difference": "Scattering pushes along beam direction; gradient pulls toward bright beam center (restoring)."},
+      {"pair": "Macroscopic vs Molecular motors", "difference": "Macroscopic use rigid parts and inertia; molecular work at low Reynolds number, Brownian, noncovalent, protein dynamics."},
+      {"pair": "Z line vs M line", "difference": "Z line bounds the sarcomere and anchors thin actin; M line is the center with thick myosin."},
+      {"pair": "Active vs Inactive conformation", "difference": "ATP/GTP-bound = active; ADP/GDP-bound = inactive."}
+    ],
+    "traps": [
+      "ATP is not just stored fuel: binding, hydrolysis, release and exchange each change motor conformation.",
+      "G-actin and F-actin are two assembly states of one protein, not different proteins.",
+      "Scattering force follows the beam; gradient force is the centering/restoring force.",
+      "Optical tweezers read bead displacement; force is inferred via F = −kx.",
+      "Steady state ≠ inactive: subunits still flux through via treadmilling.",
+      "Myosin step size (~11 nm) does not change with ATP concentration in the shown traces."
+    ]
+  },
+  {
+    "topic": "Cellular Signaling",
+    "oneLiner": "Cells sense signals via receptors, process them through cascades with amplification and integration, and respond; the GPCR–G protein–cAMP–PKA pathway is the core example, with GTP hydrolysis, GRK and arrestin providing shutoff.",
+    "sections": [
+      {
+        "heading": "Signaling as a control system",
+        "points": [
+          "Sensor → information processing → response.",
+          "Properties: specificity, cascade, amplification, feedback, integration.",
+          "Cells receive multiple signals simultaneously and integrate them into one response.",
+          "Pathways form networks: convergence (different receptors → shared component) and divergence (one signal → multiple outputs).",
+          "Only target cells with suitable receptor and state respond; responses rapid or slow."
+        ],
+        "pages": [178, 179, 180, 186, 187]
+      },
+      {
+        "heading": "Signal chemistry and modes of signaling",
+        "points": [
+          "Chemical types: amino-acid derivatives, gases (NO, CO), steroids (from cholesterol), peptides/proteins, surface-bound molecules.",
+          "Autocrine: cell responds to its own signal.",
+          "Paracrine: short-range to nearby cells (PDGF in wound repair).",
+          "Juxtacrine: direct contact between surface molecules (Delta).",
+          "Endocrine: via bloodstream to distant targets (insulin from pancreatic β cells)."
+        ],
+        "pages": [181, 182, 183]
+      },
+      {
+        "heading": "Examples of hormones and local mediators",
+        "points": [
+          "Adrenal: epinephrine, cortisol (steroid); pancreas α cells: glucagon (fuel mobilization); β cells: insulin (glucose uptake); thyroid: thyroxine.",
+          "Steroids: cortisol, estradiol, testosterone.",
+          "EGF, PDGF → proliferation; NGF supports neurons; TGF-β inhibits proliferation.",
+          "Histamine (mast cells) → vessel dilation and leakiness in inflammation; GABA = inhibitory CNS neurotransmitter."
+        ],
+        "pages": [184, 185]
+      },
+      {
+        "heading": "Intracellular (nuclear) receptor signaling",
+        "points": [
+          "Lipid-soluble steroids cross plasma membrane, bind intracellular receptors.",
+          "Cortisol → glucocorticoid receptor → complex to nucleus → binds DNA → alters transcription.",
+          "Response requires new protein synthesis (slower).",
+          "Non-crossing signals use cell-surface receptors and intracellular relays."
+        ],
+        "pages": [180, 188]
+      },
+      {
+        "heading": "Cell-surface receptors and GPCR structure",
+        "points": [
+          "Three classes: GPCRs, receptor tyrosine kinases (phosphorylate tyrosines), ligand-gated ion channels.",
+          "GPCR = seven transmembrane α-helix bundle; ligand binding changes conformation transmitted to intracellular side.",
+          "Activates heterotrimeric G protein (α, β, γ) → effector (e.g., adenylyl cyclase).",
+          "GPCR ligands: epinephrine, serotonin, light (rhodopsin), odorants, fMet peptides, acetylcholine; specificity from receptor, G protein, effector, cell context."
+        ],
+        "pages": [189, 190, 191, 192]
+      },
+      {
+        "heading": "GPCR–G protein cycle and cAMP",
+        "points": [
+          "Ligand binds GPCR → GDP released, GTP binds Gα → Gα-GTP activates effector → adenylyl cyclase makes cAMP from ATP.",
+          "Gα hydrolyzes GTP (GTPase) → off → reassociates with βγ (trimer reforms).",
+          "Amplification: one active receptor activates multiple G proteins; diffusible cAMP reaches many targets.",
+          "cAMP = cyclic AMP: phosphate forms cyclic linkage with ribose; second messenger (ligand = first messenger), e.g., serotonin in Aplysia neuron.",
+          "Phosphodiesterase converts cAMP → AMP, terminating signal."
+        ],
+        "pages": [193, 194, 195, 196, 197]
+      },
+      {
+        "heading": "Liver cAMP cascade",
+        "points": [
+          "Glucagon/epinephrine → GPCR → G protein → adenylyl cyclase → cAMP → protein kinase A (PKA).",
+          "PKA activates glycogen phosphorylase and inhibits glycogen synthase → glycogen breakdown, glucose release.",
+          "Nuclear branch: PKA phosphorylates/activates CREB → altered gene transcription."
+        ],
+        "pages": [197]
+      },
+      {
+        "heading": "Attenuation / desensitization",
+        "points": [
+          "GRK phosphorylates the active GPCR → high-affinity arrestin site.",
+          "Arrestin and G protein compete for same cytoplasmic receptor cavity → arrestin blocks further G-protein activation.",
+          "Arrestin can promote receptor internalization (coated pit → vesicle → recycling).",
+          "Desensitization = reduced signaling despite continued ligand presence."
+        ],
+        "pages": [193, 194, 198]
+      }
+    ],
+    "mustRemember": [
+      "Sensor → processing → response; cascade, amplification, feedback, integration, specificity",
+      "Autocrine (self), paracrine (local, PDGF), juxtacrine (contact, Delta), endocrine (blood, insulin)",
+      "Gaseous signals: NO, CO; steroids derived from cholesterol",
+      "Glucagon = pancreatic α cells; insulin = β cells; epinephrine, cortisol = adrenal; thyroxine = thyroid",
+      "TGF-β inhibits proliferation; EGF/PDGF stimulate; GABA inhibitory CNS",
+      "Cortisol → intracellular glucocorticoid receptor → transcription",
+      "Three surface receptor classes: GPCR, RTK, ion channel",
+      "GPCR = 7 transmembrane helices; G protein = αβγ heterotrimer",
+      "Gα: GDP→GTP exchange = ON; GTP hydrolysis = OFF",
+      "Adenylyl cyclase: ATP → cAMP; phosphodiesterase: cAMP → AMP",
+      "cAMP → PKA → glycogen phosphorylase ↑, glycogen synthase ↓, CREB ↑",
+      "GRK phosphorylates receptor → arrestin binds → blocks G protein, internalization",
+      "Rhodopsin = light-detecting GPCR"
+    ],
+    "distinguish": [
+      {"pair": "Paracrine vs Endocrine", "difference": "Paracrine acts locally on nearby cells; endocrine travels in blood to distant targets."},
+      {"pair": "Autocrine vs Juxtacrine", "difference": "Autocrine: cell responds to its own secreted signal; juxtacrine: requires direct cell-surface contact."},
+      {"pair": "Intracellular vs Cell-surface receptor", "difference": "Lipid-soluble steroids bind intracellular receptors and change transcription; others bind surface receptors and use relays."},
+      {"pair": "GPCR vs G protein", "difference": "GPCR is the seven-transmembrane receptor; G protein is the separate trimeric GTP-binding switch."},
+      {"pair": "First vs Second messenger", "difference": "First = extracellular ligand binding receptor; second = intracellular small molecule like cAMP."},
+      {"pair": "AMP vs cAMP", "difference": "Both adenine + ribose + phosphate; in cAMP the phosphate forms a cyclic bond with ribose."},
+      {"pair": "Amplification vs Attenuation", "difference": "Amplification: one receptor → many G proteins, cAMP; attenuation: GTP hydrolysis, GRK, arrestin, PDE."},
+      {"pair": "Convergence vs Divergence", "difference": "Convergence: many inputs meet at a shared component; divergence: one input branches to several outputs."}
+    ],
+    "traps": [
+      "Signaling types are classified by route and distance, not chemical identity of the messenger.",
+      "Endocrine = bloodstream to distant targets; paracrine = short-range local.",
+      "GPCR (receptor) ≠ G protein (separate αβγ switch).",
+      "cAMP amplifies; GTP hydrolysis plus GRK and arrestin shut off — don't confuse activation with attenuation.",
+      "Arrestin binds only the active phosphorylated receptor, competing with the G protein for the same site.",
+      "Steroid (cortisol) responses need new protein synthesis via transcription, not a second messenger."
+    ]
+  }
+]

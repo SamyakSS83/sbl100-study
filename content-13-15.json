@@ -1,0 +1,452 @@
+[
+  {
+    "title": "Module 13 - Drug Development: From Exposure to an ACE Inhibitor",
+    "sourcePages": "Lecture 34 slides 2-9 and Lecture 35 slides 2-9",
+    "mission": "Build a one-page drug-development map from memory. Start with ADME and the plasma concentration curve, add Phase I/II/III metabolism, then trace the funnel from 10,000 candidates to one drug. Finish by reconstructing the captopril story and labeling the ACE-binding features. You may look at the slides only after each attempted reconstruction.",
+    "primer": [
+      "DO FIRST - Draw a plasma concentration-versus-time curve. Mark Cmax, tmax, half-life, and AUC before checking slide 3 of Lecture 34. Correct it in a different color.",
+      "Cmax is the highest measured plasma concentration; tmax is when that maximum occurs. Half-life tells you how quickly concentration falls, while AUC represents total exposure over time.",
+      "Make three metabolism boxes. Phase I commonly exposes or introduces functional groups through oxidation, reduction, or hydrolysis. Phase II conjugates molecules with polar groups. The Lecture 34 Phase III example processes glutathione conjugates toward excretion.",
+      "Rebuild the paracetamol branch as a safety story: glutathione can detoxify a reactive metabolite. The glutathione-conjugate mercapturic acid pathway can yield urinary products, while beta-lyase processing of some cysteine conjugates can generate nephrotoxic reactive thiols.",
+      "Drug discovery is a funnel, not a single lucky experiment. The slide-level recognition fact is approximately 10,000 candidates narrowing to one drug molecule through discovery, testing, optimization, and development.",
+      "Say the screening distinction aloud: computational approaches prioritize compounds in silico; high-throughput screening experimentally tests large compound libraries to find hits; medicinal chemistry turns promising hits into improved leads.",
+      "Turn RAAS into arrows: renin leads toward angiotensin I, ACE produces angiotensin II, and angiotensin II supports vasoconstriction and aldosterone-related blood-pressure effects. Therefore, an ACE inhibitor reduces formation of angiotensin II.",
+      "Reconstruct the captopril case without notes: Bothrops jararaca venom had hypotensive activity; teprotide was an ACE-inhibiting peptide lead; captopril became the first orally bioavailable ACE inhibitor. For binding, remember Zn2+ coordination, carboxylate ionic/H-bond interactions, and hydrophobic contacts."
+    ],
+    "recall": [
+      {
+        "q": "On a plasma concentration-time graph, what do Cmax and tmax represent?",
+        "a": "Cmax is the maximum plasma concentration reached; tmax is the time at which Cmax occurs."
+      },
+      {
+        "q": "What does AUC measure, and why does it matter?",
+        "a": "AUC measures total drug exposure over time; dosage is adjusted to obtain an appropriate exposure."
+      },
+      {
+        "q": "Give three Phase I-type reactions listed in Lecture 34.",
+        "a": "Any three of hydroxylation, epoxidation followed by hydroxylation, reduction, oxidative deamination, hydrolysis, dealkylation, nitrogen/sulfur oxidation, or dehalogenation."
+      },
+      {
+        "q": "What is the broad purpose of conjugation reactions such as glucuronidation or sulfation?",
+        "a": "They generally increase polarity and facilitate excretion through urine or bile."
+      },
+      {
+        "q": "What happens to glutathione conjugates in the mercapturic acid pathway?",
+        "a": "They are degraded to cysteine conjugates, often N-acetylated, and then excreted in urine."
+      },
+      {
+        "q": "In drug discovery, distinguish a hit from a lead.",
+        "a": "A hit shows activity in a screen; a lead is a selected hit or series that has undergone enough validation and optimization to justify further development."
+      },
+      {
+        "q": "What biological observation led to captopril development?",
+        "a": "Brazilian pit viper Bothrops jararaca venom showed hypotensive activity, and the venom peptide teprotide inhibited ACE."
+      },
+      {
+        "q": "Name the three high-yield captopril-ACE interaction features shown in the slides.",
+        "a": "Coordination to catalytic Zn2+, carboxylate ionic and hydrogen-bond interactions, and hydrophobic interactions involving the methyl/N-ring region."
+      }
+    ],
+    "mcqs": [
+      {
+        "q": "Which pharmacokinetic quantity most directly represents total drug exposure over time?",
+        "options": [
+          "Cmax",
+          "tmax",
+          "AUC",
+          "Half-life only"
+        ],
+        "answer": "AUC",
+        "explanation": "AUC is the area under the plasma concentration-time curve and represents total exposure."
+      },
+      {
+        "q": "Which reaction is best classified as a conjugation reaction in the Lecture 34 scheme?",
+        "options": [
+          "Hydrolysis",
+          "Dealkylation",
+          "Glucuronidation",
+          "Epoxidation"
+        ],
+        "answer": "Glucuronidation",
+        "explanation": "Glucuronidation attaches a polar group and is a classic conjugation reaction."
+      },
+      {
+        "q": "A cysteine conjugate is processed by beta-lyase. What slide-specific risk was highlighted?",
+        "options": [
+          "Reactive thiol formation and nephrotoxicity",
+          "Loss of all renal filtration",
+          "Irreversible ACE activation",
+          "Conversion into glutathione"
+        ],
+        "answer": "Reactive thiol formation and nephrotoxicity",
+        "explanation": "Lecture 34 notes that beta-lyase can generate reactive thiols from cysteine conjugates, causing nephrotoxicity."
+      },
+      {
+        "q": "What is the main purpose of high-throughput screening in early drug discovery?",
+        "options": [
+          "To determine the final clinical dose",
+          "To identify hits from large compound libraries",
+          "To replace all medicinal chemistry",
+          "To measure only drug metabolism"
+        ],
+        "answer": "To identify hits from large compound libraries",
+        "explanation": "HTS experimentally tests many compounds to identify initial active hits for later validation and optimization."
+      },
+      {
+        "q": "ACE normally acts directly on which substrate in the RAAS pathway?",
+        "options": [
+          "Angiotensinogen",
+          "Angiotensin I",
+          "Aldosterone",
+          "Renin"
+        ],
+        "answer": "Angiotensin I",
+        "explanation": "ACE converts angiotensin I toward angiotensin II; blocking ACE reduces angiotensin II formation."
+      },
+      {
+        "q": "Which statement about the captopril development story is correct?",
+        "options": [
+          "Captopril was isolated unchanged from snake venom",
+          "Teprotide was a venom-derived ACE-inhibiting peptide lead",
+          "Captopril activates ACE to lower blood pressure",
+          "Teprotide was developed as a glucuronidation reagent"
+        ],
+        "answer": "Teprotide was a venom-derived ACE-inhibiting peptide lead",
+        "explanation": "The venom peptide teprotide inspired synthetic ACE-inhibitor development; captopril itself was a designed small molecule."
+      },
+      {
+        "q": "Which captopril feature is especially important for interaction with the ACE active-site metal?",
+        "options": [
+          "Thiol coordination to Zn2+",
+          "A phosphate on the N-ring",
+          "A fluorescent dye",
+          "A peptide bond cleaved by renin"
+        ],
+        "answer": "Thiol coordination to Zn2+",
+        "explanation": "The thiol is a strong Zn2+-binding group, and the slides emphasize metal coordination as essential for activity."
+      },
+      {
+        "q": "Why can esterification of a carboxylate or phosphate group be useful in an ACE-inhibitor series?",
+        "options": [
+          "It can create a prodrug with improved delivery properties",
+          "It permanently prevents conversion to the active drug",
+          "It guarantees stronger Zn2+ binding than a thiol",
+          "It converts the inhibitor into an antibody"
+        ],
+        "answer": "It can create a prodrug with improved delivery properties",
+        "explanation": "The SAR slide identifies esterification as a way to produce prodrugs, often improving absorption before the ester is removed in the body."
+      }
+    ],
+    "traps": [
+      "Do not confuse Cmax with AUC: one is the highest concentration; the other is total exposure.",
+      "Do not label every metabolic reaction as detoxification. Some pathways produce reactive or toxic metabolites.",
+      "Do not confuse a hit with an approved drug. A hit is only an early active compound.",
+      "Do not say captopril is the venom peptide. Teprotide was the peptide lead; captopril was the orally bioavailable small-molecule ACE inhibitor."
+    ],
+    "checkpoint": [
+      "Without slides, draw and label the pharmacokinetic curve in 60 seconds, then explain each label in one sentence.",
+      "Sort these aloud into Phase I-like transformation or conjugation: hydroxylation, hydrolysis, glucuronidation, sulfation, dealkylation, glutathionylation.",
+      "Teach the captopril story to an imaginary classmate in 90 seconds: biological clue, molecular target, lead, optimized drug, and three binding features."
+    ]
+  },
+  {
+    "title": "Module 14 - Biochemical and Biophysical Methods: What Each Signal Means",
+    "sourcePages": "Lecture 36 slides 2-12 and Lecture 37 slides 2-12",
+    "mission": "Make a method-choice table with four columns: method, physical signal, result, and limitation/control. Fill it for HTS or phenotypic screening, TSA, ITC, and FRET. Then solve the eight MCQs without slides and explain why every rejected option is wrong.",
+    "primer": [
+      "DO FIRST - Write four method names on separate slips: phenotypic screening, TSA, ITC, and FRET. For each, predict what is directly measured. Check the slides only after committing an answer.",
+      "Screening asks whether a compound produces a useful effect. High-throughput screening tests many compounds; phenotypic screening starts from an observable cellular or organismal phenotype and may find activity before the molecular target is fully known.",
+      "The RAS example links phenotype to selectivity: RAS mutations drive uncontrolled growth in many cancers, and compounds can be compared by EC50 in mutant versus wild-type cells. Lower EC50 means less compound is required for the measured effect.",
+      "Ferroptosis is a regulated cell-death phenotype associated with iron-dependent lipid peroxidation. In the Lecture 36 map, glutathione/GPX-related defenses oppose damaging phospholipid oxidation.",
+      "In TSA, slowly heat the protein while SYPRO Orange reports exposed hydrophobic surfaces. Fluorescence rises during unfolding, reaches a transition region used to estimate Tm, and can later fall when aggregation causes dye dissociation.",
+      "A stabilizing ligand usually shifts a protein's TSA melt curve to a higher Tm. This supports binding but does not by itself provide a complete affinity or binding-site description.",
+      "In ITC, ligand injections produce heat peaks while feedback power keeps sample and reference cells at the same temperature. Integrating the peaks and plotting heat against molar ratio yields affinity, stoichiometry, and enthalpy. Ka equals 1/Kd.",
+      "FRET is a proximity ruler: donor emission excites an acceptor only when spectra overlap and the pair is very close, typically within about 10 nm. Efficiency falls steeply with distance. The cameleon sensor converts Ca2+-dependent CaM-M13 association into a CFP-to-YFP FRET change."
+    ],
+    "recall": [
+      {
+        "q": "What is the defining starting point of phenotypic screening?",
+        "a": "An observable biological phenotype or functional effect, rather than necessarily beginning with one predefined molecular target."
+      },
+      {
+        "q": "If compound A has EC50 25 nM and compound B has EC50 578 nM in the same assay, which is more potent?",
+        "a": "Compound A, because a lower concentration produces half-maximal effect."
+      },
+      {
+        "q": "What physical change does SYPRO Orange report in TSA?",
+        "a": "Exposure of hydrophobic protein surfaces during thermal unfolding."
+      },
+      {
+        "q": "What does a positive Tm shift after adding a ligand usually suggest?",
+        "a": "The ligand preferentially binds and stabilizes the native protein."
+      },
+      {
+        "q": "In ITC, why does the heat signal decrease over successive injections?",
+        "a": "The protein becomes progressively saturated, so less newly injected ligand binds; after saturation, mainly heat of dilution remains."
+      },
+      {
+        "q": "What three binding quantities can be obtained from a well-shaped ITC binding isotherm?",
+        "a": "Binding affinity, stoichiometry, and enthalpy."
+      },
+      {
+        "q": "Why must ligand-into-buffer control data be collected for ITC?",
+        "a": "To measure heat of dilution so it can be subtracted from the binding experiment."
+      },
+      {
+        "q": "What two conditions are especially important for efficient FRET?",
+        "a": "Strong overlap between donor emission and acceptor absorption spectra, and very small donor-acceptor separation, usually below about 10 nm."
+      }
+    ],
+    "mcqs": [
+      {
+        "q": "A screen measures whether compounds selectively kill KRAS-mutant cells, without first requiring one purified protein target. This is best described as:",
+        "options": [
+          "Phenotypic screening",
+          "ITC",
+          "TSA",
+          "Phase II metabolism"
+        ],
+        "answer": "Phenotypic screening",
+        "explanation": "The readout is a cellular phenotype and selectivity between cell states, which is the defining logic of phenotypic screening."
+      },
+      {
+        "q": "In otherwise identical assays, which compound is most potent?",
+        "options": [
+          "EC50 = 10 nM",
+          "EC50 = 100 nM",
+          "EC50 = 1 micromolar",
+          "EC50 = 10 micromolar"
+        ],
+        "answer": "EC50 = 10 nM",
+        "explanation": "Lower EC50 indicates that less compound is needed for the half-maximal effect."
+      },
+      {
+        "q": "During a TSA experiment, the initial increase in SYPRO Orange fluorescence most directly indicates:",
+        "options": [
+          "Exposure of hydrophobic surfaces as protein unfolds",
+          "Formation of a covalent ligand-protein bond",
+          "Direct measurement of binding enthalpy",
+          "Energy transfer from CFP to YFP"
+        ],
+        "answer": "Exposure of hydrophobic surfaces as protein unfolds",
+        "explanation": "SYPRO Orange binds exposed hydrophobic regions that become accessible during unfolding."
+      },
+      {
+        "q": "A ligand shifts a protein's Tm from 48 C to 55 C in TSA. The most appropriate interpretation is:",
+        "options": [
+          "The ligand likely stabilizes the folded protein",
+          "The ligand certainly binds covalently",
+          "The ligand has no interaction with the protein",
+          "The protein has become less thermally stable"
+        ],
+        "answer": "The ligand likely stabilizes the folded protein",
+        "explanation": "A positive thermal shift is consistent with preferential binding to and stabilization of the native state."
+      },
+      {
+        "q": "For an exothermic binding event in the ITC setup described, what happens to feedback power supplied to the sample cell?",
+        "options": [
+          "It decreases",
+          "It increases without limit",
+          "It is replaced by fluorescence",
+          "It becomes identical to heat of dilution by definition"
+        ],
+        "answer": "It decreases",
+        "explanation": "The reaction releases heat, so less compensating power is needed to keep the sample cell at the reference temperature."
+      },
+      {
+        "q": "At the end of an ITC titration, the protein is saturated. Subsequent injections mainly show:",
+        "options": [
+          "Heat of dilution",
+          "Increasing numbers of unoccupied binding sites",
+          "A new protein melting temperature",
+          "FRET efficiency at R0"
+        ],
+        "answer": "Heat of dilution",
+        "explanation": "Once binding sites are saturated, little additional binding occurs, leaving mainly dilution-related heat."
+      },
+      {
+        "q": "Which relationship between association and dissociation constants is shown in the ITC slides?",
+        "options": [
+          "Ka = 1/Kd",
+          "Ka = Kd",
+          "Ka = Kd squared",
+          "Ka is unrelated to Kd"
+        ],
+        "answer": "Ka = 1/Kd",
+        "explanation": "Association and dissociation constants are reciprocals; stronger binding corresponds to larger Ka and smaller Kd."
+      },
+      {
+        "q": "In the cameleon Ca2+ sensor, addition of Ca2+ promotes CaM-M13 interaction. What readout is expected?",
+        "options": [
+          "Increased FRET and a shift toward yellow emission",
+          "Loss of both fluorophores by hydrolysis",
+          "A direct ITC heat-of-dilution peak",
+          "A lower AUC"
+        ],
+        "answer": "Increased FRET and a shift toward yellow emission",
+        "explanation": "Ca2+-dependent CaM-M13 association brings CFP and YFP into a FRET-compatible arrangement."
+      }
+    ],
+    "traps": [
+      "TSA measures thermal stability changes; a Tm shift supports ligand interaction but is not a complete affinity measurement.",
+      "ITC heat peaks are not concentrations. They are power-versus-time signals that must be integrated before fitting the binding isotherm.",
+      "A lower EC50 means greater apparent potency, not weaker activity.",
+      "FRET requires proximity and spectral overlap; donor and acceptor expression alone does not prove interaction."
+    ],
+    "checkpoint": [
+      "Method sprint: for each of TSA, ITC, and FRET, state the input, direct signal, and one conclusion in under 20 seconds.",
+      "Sketch an exothermic ITC titration with large early peaks, shrinking peaks, saturation, and heat of dilution. Label which region contains the most binding.",
+      "Explain cameleon twice: first as a biological Ca2+ sensor, then as an engineering system that converts a nanoscale conformational change into a color-ratio output."
+    ]
+  },
+  {
+    "title": "Module 15 - Final Integration: Mixed Recognition and Distinction Drill",
+    "sourcePages": "Course-wide integration of Modules 1-14: bioenergetics, gene expression, genetic engineering, molecular motors, signaling, cell division/death, stem cells, host-pathogen interactions, cancer, drug development, and biochemical/biophysical methods",
+    "mission": "Run this as a closed-slide final. First build the 11-theme distinction grid in the primer from memory. Then answer all recall prompts orally and all MCQs on paper. For every error, write a two-line correction: 'I confused X with Y' and 'The deciding clue is Z.' Reattempt only the missed items after a 20-minute gap.",
+    "primer": [
+      "DO FIRST - Make an 11-row table using these headings: energy, information, engineering, motion, signaling, cell fate, stem cells, immunity, cancer, drugs, methods. In each row write one core process, one named molecule/example, and one common confusion.",
+      "Energy versus information: ATP and ion gradients couple energy to work; DNA-to-RNA-to-protein transfers biological information. Do not answer an energy question with a gene-expression mechanism merely because ATP is consumed.",
+      "Editing versus expression: restriction enzymes, ligases, vectors, PCR, and related tools manipulate or amplify nucleic acid; promoters, transcription factors, RNA processing, ribosomes, and regulatory RNAs control whether genetic information is expressed.",
+      "Motor versus signal: molecular motors convert chemical energy into directed movement on cytoskeletal tracks. Receptors and signaling cascades detect information, relay it, amplify it, and change cellular behavior.",
+      "Division versus death versus differentiation: the cell cycle produces daughter cells; apoptosis removes cells through an organized program; differentiation changes cell identity and function. Cancer can involve excessive proliferation plus failure of growth-control or death pathways.",
+      "Innate versus adaptive defense: innate responses are rapid and pattern-based; adaptive responses use highly specific receptors and memory. A pathogen can cause disease through entry, replication, tissue damage, immune evasion, or harmful host responses.",
+      "Drug versus measurement: a drug perturbs a biological target or process. A method reports a property: TSA reports thermal stability, ITC reports binding thermodynamics, and FRET reports nanometer-scale proximity. Screening connects the two by finding compounds with a desired activity.",
+      "Use the deciding-clue habit for MCQs. Circle the clue that distinguishes the answer: 'total exposure' means AUC; 'lower half-maximal concentration' means greater potency; 'heat per injection' points to ITC; 'Tm shift' points to TSA; 'distance-dependent donor-acceptor transfer' points to FRET."
+    ],
+    "recall": [
+      {
+        "q": "Give one example each of energy coupling, information transfer, and mechanical work in a cell.",
+        "a": "Examples: ATP hydrolysis or an ion gradient for energy coupling; DNA transcription and RNA translation for information transfer; motor-protein movement on actin or microtubules for mechanical work."
+      },
+      {
+        "q": "What single distinction separates transcriptional regulation from post-transcriptional regulation?",
+        "a": "Transcriptional regulation changes RNA production from DNA; post-transcriptional regulation acts after RNA is made, for example through processing, stability, localization, or translation."
+      },
+      {
+        "q": "Why are a receptor and a molecular motor not interchangeable descriptions?",
+        "a": "A receptor primarily detects and transduces a signal, whereas a motor converts chemical energy into directed mechanical movement."
+      },
+      {
+        "q": "Distinguish apoptosis, necrotic damage, and ferroptosis using one clue for each.",
+        "a": "Apoptosis is an organized programmed-death pathway; necrotic damage involves loss of membrane integrity and inflammatory release; ferroptosis is associated with iron-dependent lipid peroxidation."
+      },
+      {
+        "q": "How can a stem cell divide without losing the stem-cell pool?",
+        "a": "Through self-renewal, often including asymmetric outcomes in which one daughter retains stem identity while another begins differentiation."
+      },
+      {
+        "q": "Give the fastest exam distinction between innate and adaptive immunity.",
+        "a": "Innate immunity is rapid and pattern-based without classical antigen-specific memory; adaptive immunity is receptor-specific and develops memory."
+      },
+      {
+        "q": "Connect a cancer mutation, a screening strategy, and a drug-development measurement in one chain.",
+        "a": "A mutation such as oncogenic RAS creates a disease phenotype; phenotypic or high-throughput screening identifies active compounds; assays such as TSA, ITC, or functional dose-response measurements characterize interaction or activity before optimization."
+      },
+      {
+        "q": "For TSA, ITC, and FRET, state the deciding signal in one phrase each.",
+        "a": "TSA: change in melting temperature; ITC: heat released or absorbed during binding; FRET: distance-dependent donor-to-acceptor energy transfer."
+      }
+    ],
+    "mcqs": [
+      {
+        "q": "A mutation changes a promoter so that much less mRNA is produced, but the protein sequence would be unchanged if translation occurred. The primary defect is in:",
+        "options": [
+          "Transcriptional regulation",
+          "Protein folding measured by TSA",
+          "Motor-protein stepping",
+          "Phase II drug metabolism"
+        ],
+        "answer": "Transcriptional regulation",
+        "explanation": "A promoter controls initiation and level of transcription; reduced mRNA with an unchanged coding sequence points to regulation of RNA production."
+      },
+      {
+        "q": "Which pairing correctly matches a cellular component with its main role?",
+        "options": [
+          "Molecular motor - converts chemical energy into directed movement",
+          "Receptor - synthesizes DNA primers during PCR",
+          "Ribosome - generates an ion gradient across every membrane",
+          "Restriction enzyme - measures binding enthalpy"
+        ],
+        "answer": "Molecular motor - converts chemical energy into directed movement",
+        "explanation": "Motors use chemical energy, commonly from ATP, to perform mechanical work on cytoskeletal tracks."
+      },
+      {
+        "q": "A cell activates an organized protease cascade, fragments its contents, and is cleared with limited inflammation. This most strongly indicates:",
+        "options": [
+          "Apoptosis",
+          "Uncontrolled necrotic damage",
+          "Stem-cell self-renewal",
+          "Transcription"
+        ],
+        "answer": "Apoptosis",
+        "explanation": "An organized death program with controlled dismantling and limited inflammation is characteristic of apoptosis."
+      },
+      {
+        "q": "Which feature best distinguishes adaptive immunity from an immediate innate response?",
+        "options": [
+          "Antigen-specific receptor selection and memory",
+          "Recognition of broad danger patterns",
+          "Rapid barrier defense",
+          "Presence in multicellular organisms"
+        ],
+        "answer": "Antigen-specific receptor selection and memory",
+        "explanation": "Specificity and memory are the decisive adaptive-immune clues."
+      },
+      {
+        "q": "A compound causes the desired cellular phenotype at 20 nM but its molecular target is initially unknown. Which early strategy most directly produced this observation?",
+        "options": [
+          "Phenotypic screening",
+          "ITC against a purified known target",
+          "AUC measurement in plasma",
+          "DNA ligation"
+        ],
+        "answer": "Phenotypic screening",
+        "explanation": "Phenotypic screening can identify useful cellular effects before the exact target is established."
+      },
+      {
+        "q": "A researcher wants affinity, binding stoichiometry, and enthalpy for a purified protein-ligand interaction. Which method is most suitable?",
+        "options": [
+          "ITC",
+          "TSA alone",
+          "FRET imaging alone",
+          "Plasma AUC"
+        ],
+        "answer": "ITC",
+        "explanation": "A fitted ITC isotherm can provide affinity, stoichiometry, and enthalpy directly from binding heat."
+      },
+      {
+        "q": "A drug candidate has a high peak concentration but very small total exposure. Which pair of measurements captures that statement?",
+        "options": [
+          "High Cmax and low AUC",
+          "Low Cmax and high AUC",
+          "High Tm and low FRET",
+          "Low Ka and high EC50 only"
+        ],
+        "answer": "High Cmax and low AUC",
+        "explanation": "Cmax is the peak concentration, while AUC is total exposure over time."
+      },
+      {
+        "q": "Which sequence best represents a rational cross-course workflow?",
+        "options": [
+          "Identify disease mechanism or phenotype, find hits, validate target/activity, optimize leads, test exposure and safety",
+          "Approve a drug, discover its target, then begin screening",
+          "Measure AUC, create a disease mutation, then identify a phenotype",
+          "Run FRET, assume clinical efficacy, and skip optimization"
+        ],
+        "answer": "Identify disease mechanism or phenotype, find hits, validate target/activity, optimize leads, test exposure and safety",
+        "explanation": "The sequence connects biology, screening, mechanistic assays, medicinal chemistry, and pharmacokinetic/safety evaluation in the correct direction."
+      }
+    ],
+    "traps": [
+      "Do not choose a familiar term just because it appears in the stem. Identify whether the question asks about energy, information, movement, fate, defense, drug behavior, or measurement.",
+      "Do not merge association with causation: a TSA shift supports stabilization, FRET supports proximity, and a phenotype supports activity; each needs the correct follow-up interpretation.",
+      "Do not confuse potency, affinity, and exposure. EC50 is a functional concentration, Kd describes binding, and AUC describes in-body exposure.",
+      "Do not confuse pathway position with pathway effect. Blocking an upstream enzyme changes downstream products; trace arrows before selecting the answer."
+    ],
+    "checkpoint": [
+      "Two-minute blank page: write 20 terms from the course, then connect them with labeled arrows. Any isolated term becomes a priority for review.",
+      "Run a contrast lightning round: DNA versus RNA; transcription versus translation; receptor versus motor; apoptosis versus ferroptosis; innate versus adaptive; hit versus lead; Cmax versus AUC; TSA versus ITC versus FRET.",
+      "Score yourself out of 24 using the eight recall prompts, eight MCQs, and eight distinctions in checkpoint 2. Continue only if you can explain at least 20 without guessing; otherwise redo the missed distinction grid once."
+    ]
+  }
+]

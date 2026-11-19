@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SBL100 Slides & Notes</title>
+<style>
+:root{color-scheme:light dark;--bg:#eef1ed;--panel:#fff;--ink:#15201a;--muted:#647069;--line:#cbd2cd;--accent:#176b48;--accent2:#dff1e7;--warn:#8a5a00;--warn2:#fff3d6}
+@media(prefers-color-scheme:dark){:root{--bg:#0e1511;--panel:#18211c;--ink:#edf5ef;--muted:#a8b5ad;--line:#34443a;--accent:#77d6a3;--accent2:#203d2e;--warn:#ffcf70;--warn2:#3a2f14}}
+*{box-sizing:border-box}html{scroll-padding-top:70px}body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.5 ui-sans-serif,system-ui,-apple-system,sans-serif}
+a{color:var(--accent)}button{font:inherit;color:inherit}
+.top{position:sticky;top:0;z-index:5;padding:10px 16px;background:var(--panel);border-bottom:1px solid var(--line);display:flex;gap:12px;align-items:center;flex-wrap:wrap}
+h1{font-size:17px;margin:0}.grow{flex:1}.meta{color:var(--muted);font-size:13px}
+.btn{border:1px solid var(--line);border-radius:9px;background:transparent;padding:7px 12px;cursor:pointer;text-decoration:none;color:var(--ink)}.btn:hover{border-color:var(--accent)}
+.layout{display:grid;grid-template-columns:290px 1fr;min-height:calc(100vh - 54px)}
+nav{position:sticky;top:54px;height:calc(100vh - 54px);overflow:auto;background:var(--panel);border-right:1px solid var(--line);padding:10px}
+.topic{display:block;width:100%;text-align:left;border:1px solid transparent;background:transparent;border-radius:9px;padding:8px 10px;cursor:pointer}
+.topic:hover{border-color:var(--line)}.topic.on{background:var(--accent2);border-color:var(--accent);font-weight:650}
+.topic small{display:block;color:var(--muted);font-weight:400}
+.toc{margin:4px 0 10px 12px;padding:0;list-style:none;border-left:2px solid var(--line)}.toc a{display:block;padding:3px 8px;font-size:13px;color:var(--muted);text-decoration:none}.toc a:hover{color:var(--accent)}
+main{padding:18px;max-width:1100px;width:100%;margin:0 auto}
+.overview{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:18px 20px;margin-bottom:18px}
+.overview h2{margin:0 0 4px;font-size:20px}.overview ul{padding-left:20px}.overview li{margin:5px 0}
+.traps{background:var(--warn2);border-radius:10px;padding:10px 14px}.traps h3{color:var(--warn)}
+details summary{cursor:pointer;font-weight:650}
+.card{display:grid;grid-template-columns:1fr;gap:14px;background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:14px;margin-bottom:16px}
+.card img{width:100%;height:auto;border-radius:8px;box-shadow:0 2px 12px #0002;background:#fff;cursor:zoom-in}
+.card h2{font-size:21px;margin:0 0 6px;line-height:1.25}h3{font-size:14px;margin:14px 0 5px}
+.card ul{padding-left:20px;margin:0}.card li{margin:4px 0}
+.terms{display:grid;grid-template-columns:auto 1fr;gap:5px 12px;margin:0}.terms dt{font-weight:700}.terms dd{margin:0;color:var(--muted)}
+.diagram{border-left:4px solid var(--accent);padding-left:10px}
+.pager{display:flex;gap:10px;justify-content:space-between;margin:10px 0 40px}
+.zoom{position:fixed;inset:0;background:#000d;display:flex;align-items:center;justify-content:center;z-index:20;cursor:zoom-out}.zoom img{max-width:96vw;max-height:94vh}
+body.collapsed .layout{grid-template-columns:1fr}body.collapsed nav{display:none}
+@media(max-width:900px){.layout{grid-template-columns:1fr}nav{display:none;position:fixed;inset:54px 0 0 0;height:auto;z-index:10}nav.open{display:block!important}main{padding:12px}}
+</style>
+</head>
+<body>
+<header class="top">
+  <button id="menuBtn" class="btn" title="Show/hide topics">☰ Topics</button>
+  <h1>SBL100 · Slides &amp; Explanations</h1>
+  <span id="where" class="meta"></span>
+  <span class="grow"></span>
+  <a class="btn" href="summary.html" id="summaryLink">Summary</a>
+  <a class="btn" href="questions.html" id="practiceLink">Practice this topic →</a>
+  <a class="btn" href="index.html">Home</a>
+</header>
+<div class="layout">
+  <nav id="nav"></nav>
+  <main id="main"></main>
+</div>
+<script>
+const D=__DATA__;
+const KEY="sbl-slides-reader-v1";
+const $=id=>document.getElementById(id);
+const esc=s=>String(s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const pad=n=>String(n).padStart(3,"0");
+const store={get(){try{return JSON.parse(localStorage.getItem(KEY)||"{}")}catch{return{}}},set(v){try{localStorage.setItem(KEY,JSON.stringify(v))}catch{}}};
+let cur=0;
+function renderNav(){
+  $("nav").innerHTML=D.topics.map((t,i)=>{
+    const ss=D.slides.filter(s=>s.topic===t);
+    const toc=i===cur?`<ul class="toc">${ss.map(s=>`<li><a href="#p${s.page}">${s.slideInLecture}. ${esc(s.title)}</a></li>`).join("")}</ul>`:"";
+    return `<button class="topic${i===cur?" on":""}" data-i="${i}">${i+1}. ${esc(t)}<small>${ss.length} slides · pp. ${ss[0].page}–${ss.at(-1).page}</small></button>${toc}`;
+  }).join("");
+  $("nav").querySelectorAll(".topic").forEach(b=>b.onclick=()=>{open(+b.dataset.i);$("nav").classList.remove("open")});
+}
+function list(title,arr,cls=""){return arr&&arr.length?`<section class="${cls}"><h3>${title}</h3><ul>${arr.map(x=>`<li>${esc(x)}</li>`).join("")}</ul></section>`:""}
+function open(i,page){
+  cur=i;const t=D.topics[i];store.set({topic:t});
+  const ss=D.slides.filter(s=>s.topic===t);
+  const ov=D.overviews.filter(o=>o.topics.includes(t));
+  $("where").textContent=`Topic ${i+1} of ${D.topics.length}: ${t}`;
+  $("summaryLink").href=`summary.html#topic=${encodeURIComponent(t)}`;
+  $("practiceLink").href=`questions.html#topic=${encodeURIComponent(t)}`;
+  const ovHtml=ov.map(o=>`<section class="overview"><h2>${esc(o.title)}</h2><div class="meta">${esc(o.source)}</div><p>${esc(o.mission)}</p>
+    <details open><summary>Key ideas summary</summary><ul>${o.primer.map(x=>`<li>${esc(x)}</li>`).join("")}</ul></details>
+    ${o.traps.length?`<div class="traps"><h3>Common traps</h3><ul>${o.traps.map(x=>`<li>${esc(x)}</li>`).join("")}</ul></div>`:""}
+    ${list("Self-check without notes",o.checkpoint)}</section>`).join("");
+  const cards=ss.map(s=>`<article class="card" id="p${s.page}">
+    <div><img loading="lazy" src="slides/slide-${pad(s.page)}.jpg" alt="Slide ${s.page}: ${esc(s.title)}"><div class="meta">Slide ${s.page} · ${esc(s.topic)} #${s.slideInLecture}</div></div>
+    <div><h2>${esc(s.title)}</h2><p>${esc(s.explain)}</p>
+      ${s.diagramGuide.length?list("How to read the diagram",s.diagramGuide,"diagram"):""}
+      ${list("What the examiner can ask",s.mustKnow)}
+      ${s.terms.length?`<h3>Vocabulary</h3><dl class="terms">${s.terms.map(x=>`<dt>${esc(x.term)}</dt><dd>${esc(x.meaning)}</dd>`).join("")}</dl>`:""}
+    </div></article>`).join("");
+  const prev=i>0?`<button class="btn" id="prevT">← ${esc(D.topics[i-1])}</button>`:"<span></span>";
+  const next=i<D.topics.length-1?`<button class="btn" id="nextT">${esc(D.topics[i+1])} →</button>`:"<span></span>";
+  $("main").innerHTML=ovHtml+cards+`<div class="pager">${prev}${next}</div>`;
+  if($("prevT"))$("prevT").onclick=()=>open(i-1);
+  if($("nextT"))$("nextT").onclick=()=>open(i+1);
+  $("main").querySelectorAll(".card img").forEach(img=>img.onclick=()=>{const z=document.createElement("div");z.className="zoom";z.innerHTML=`<img src="${img.src}" alt="">`;z.onclick=()=>z.remove();document.body.append(z)});
+  renderNav();
+  if(page){const el=$("p"+page);if(el)el.scrollIntoView()}else window.scrollTo(0,0);
+}
+$("menuBtn").onclick=()=>{if(matchMedia("(max-width:900px)").matches)$("nav").classList.toggle("open");else{const c=document.body.classList.toggle("collapsed");try{localStorage.setItem("sbl-nav-collapsed",c?"1":"")}catch{}}};
+try{if(localStorage.getItem("sbl-nav-collapsed"))document.body.classList.add("collapsed")}catch{}
+// deep link: #page=123 or #topic=Name
+const h=new URLSearchParams(location.hash.slice(1));
+if(h.get("page")){const s=D.slides.find(x=>x.page===+h.get("page"));if(s)open(D.topics.indexOf(s.topic),s.page);else open(0)}
+else{const t=h.get("topic")||store.get().topic;open(Math.max(0,D.topics.indexOf(t)))}
+</script>
+</body>
+</html>

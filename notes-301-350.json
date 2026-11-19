@@ -1,0 +1,1790 @@
+[
+  {
+    "page": 301,
+    "title": "Biofilms and Quorum Sensing",
+    "explain": "A biofilm is a surface-associated microbial community. Quorum sensing lets bacteria detect population density and change gene expression together, which helps coordinate biofilm behavior.",
+    "mustKnow": [
+      "Biofilms are organized bacterial communities.",
+      "Quorum sensing links population density to altered gene expression."
+    ],
+    "terms": [
+      {
+        "term": "Biofilm",
+        "meaning": "A community of microorganisms attached to a surface."
+      },
+      {
+        "term": "Quorum sensing",
+        "meaning": "Population-density sensing that changes bacterial gene expression."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What does quorum sensing allow bacteria to do?",
+      "options": [
+        "Sense population density and alter gene expression",
+        "Digest host collagen directly",
+        "Produce antibodies",
+        "Convert endotoxin into exotoxin"
+      ],
+      "answer": 0,
+      "explanation": "The slide defines quorum sensing as the ability to sense population density and alter gene expression."
+    }
+  },
+  {
+    "page": 302,
+    "title": "Breaching the Mucus Barrier",
+    "explain": "Mucus keeps many pathogens away from host-cell surfaces. To attach to or invade those cells, a pathogen often must first cross or disrupt this protective barrier.",
+    "mustKnow": [
+      "Mucus is a physical host barrier.",
+      "Breaching mucus can be necessary for access to host cells."
+    ],
+    "terms": [
+      {
+        "term": "Mucus barrier",
+        "meaning": "A protective secretion that limits microbial access to underlying cells."
+      },
+      {
+        "term": "Barrier breach",
+        "meaning": "Crossing or disrupting a host defense layer."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Why do many pathogens need to breach mucus?",
+      "options": [
+        "To gain access to host cells",
+        "To synthesize peptidoglycan",
+        "To activate BCL-2",
+        "To form red blood cells"
+      ],
+      "answer": 0,
+      "explanation": "The slide states that mucus-barrier breach is necessary for cell access in many cases."
+    }
+  },
+  {
+    "page": 303,
+    "title": "Bacterial Enzymes as Virulence Factors",
+    "explain": "Pathogenic bacteria can produce enzymes that change host barriers or defenses. The listed groups are coagulase and kinases, hyaluronidase and collagenase, and IgA protease.",
+    "mustKnow": [
+      "Bacterial enzymes can promote invasion or immune evasion.",
+      "Know the three listed enzyme groups."
+    ],
+    "terms": [
+      {
+        "term": "Virulence factor",
+        "meaning": "A microbial feature that helps cause disease."
+      },
+      {
+        "term": "IgA protease",
+        "meaning": "A bacterial enzyme that cleaves the antibody IgA."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which enzyme is listed as a bacterial virulence factor on this slide?",
+      "options": [
+        "IgA protease",
+        "DNA polymerase",
+        "Caspase-3",
+        "Lactate dehydrogenase"
+      ],
+      "answer": 0,
+      "explanation": "IgA protease is one of the bacterial enzyme groups listed on the slide."
+    }
+  },
+  {
+    "page": 304,
+    "title": "Hyaluronidase and Collagenase",
+    "explain": "These enzymes digest components of connective tissue, making tissue invasion easier. The slide associates hyaluronidase with Staphylococcus aureus and Streptococcus pyogenes, and collagenase with Clostridium perfringens.",
+    "mustKnow": [
+      "Both enzymes support invasion by digesting connective tissue.",
+      "Hyaluronidase: S. aureus and S. pyogenes.",
+      "Collagenase: C. perfringens and gas gangrene."
+    ],
+    "terms": [
+      {
+        "term": "Hyaluronidase",
+        "meaning": "An enzyme that helps break down connective-tissue material."
+      },
+      {
+        "term": "Collagenase",
+        "meaning": "An enzyme that breaks down collagen."
+      },
+      {
+        "term": "Gas gangrene",
+        "meaning": "A severe tissue infection associated here with C. perfringens."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which pairing matches the slide?",
+      "options": [
+        "Clostridium perfringens - collagenase",
+        "Streptococcus pyogenes - collagenase only",
+        "Mycobacterium tuberculosis - hyaluronidase",
+        "Vibrio cholerae - collagenase"
+      ],
+      "answer": 0,
+      "explanation": "The slide links collagenase in C. perfringens with gas gangrene."
+    }
+  },
+  {
+    "page": 305,
+    "title": "Coagulase and Streptokinase",
+    "explain": "Coagulase promotes clot formation around bacteria, which can reduce access by phagocytes, immune factors, and antibiotics. Streptokinase has the opposite clot-related use: it is used clinically to dissolve clots.",
+    "mustKnow": [
+      "Coagulase can shield bacteria from host defenses.",
+      "Coagulase-producing S. aureus strains are associated with pathogenicity.",
+      "Streptokinase is used to dissolve clots."
+    ],
+    "terms": [
+      {
+        "term": "Coagulase",
+        "meaning": "A bacterial enzyme that promotes clot formation."
+      },
+      {
+        "term": "Streptokinase",
+        "meaning": "A clot-dissolving bacterial protein used clinically."
+      },
+      {
+        "term": "Phagocytosis",
+        "meaning": "Engulfment and digestion of microbes by host cells."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What is the clinical use of streptokinase stated on the slide?",
+      "options": [
+        "Dissolving blood clots",
+        "Blocking protein synthesis",
+        "Increasing bacterial capsule formation",
+        "Activating caspase-9"
+      ],
+      "answer": 0,
+      "explanation": "The slide says streptokinase is used clinically to dissolve clots during heart attacks."
+    }
+  },
+  {
+    "page": 306,
+    "title": "Basic Bacterial Cell-Wall Structure",
+    "explain": "The bacterial cell wall is an outer layer containing peptidoglycan, a network built from sugars and amino acids. Surface proteins may also be carried on the wall.",
+    "mustKnow": [
+      "Peptidoglycan contains sugars and amino acids.",
+      "The cell wall can display surface proteins."
+    ],
+    "terms": [
+      {
+        "term": "Peptidoglycan",
+        "meaning": "A sugar-and-amino-acid polymer that forms the bacterial cell wall."
+      },
+      {
+        "term": "Surface protein",
+        "meaning": "A protein exposed or attached at the bacterial surface."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What major material is identified in the bacterial cell wall?",
+      "options": [
+        "Peptidoglycan",
+        "Phosphatidylserine",
+        "Glycogen",
+        "Cholesterol only"
+      ],
+      "answer": 0,
+      "explanation": "The slide identifies peptidoglycan, made of sugars and amino acids, as a cell-wall component."
+    }
+  },
+  {
+    "page": 307,
+    "title": "Mycolic Acid Resists Lysosomal Digestion",
+    "explain": "Mycolic acid in the cell wall helps some bacteria resist digestion by lysosomal enzymes after they are engulfed. The examples given are Mycobacterium tuberculosis and Mycobacterium leprae.",
+    "mustKnow": [
+      "Mycolic acid increases resistance to lysosomal digestion.",
+      "M. tuberculosis and M. leprae contain mycolic acid in their walls."
+    ],
+    "terms": [
+      {
+        "term": "Mycolic acid",
+        "meaning": "A waxy cell-wall lipid that helps mycobacteria resist degradation."
+      },
+      {
+        "term": "Lysosomal enzyme",
+        "meaning": "A degradative enzyme inside a lysosome."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What advantage does mycolic acid provide to mycobacteria?",
+      "options": [
+        "Resistance to lysosomal digestion",
+        "Direct antibody production",
+        "Faster host DNA replication",
+        "Activation of blood clotting"
+      ],
+      "answer": 0,
+      "explanation": "The slide states that cell-wall mycolic acid resists digestion by lysosomal enzymes."
+    }
+  },
+  {
+    "page": 308,
+    "title": "Invasins and Membrane Ruffling",
+    "explain": "Invasins are pathogen surface proteins that rearrange actin in the host-cell cytoskeleton. This produces membrane ruffling and helps the microbe enter the cell.",
+    "mustKnow": [
+      "Invasins are pathogen surface proteins.",
+      "They alter host actin filaments.",
+      "Actin rearrangement enables microbial entry."
+    ],
+    "terms": [
+      {
+        "term": "Invasin",
+        "meaning": "A microbial surface protein that promotes entry into host cells."
+      },
+      {
+        "term": "Membrane ruffling",
+        "meaning": "Actin-driven folding or movement of the host plasma membrane."
+      },
+      {
+        "term": "Actin",
+        "meaning": "A cytoskeletal protein involved in cell shape and movement."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Invasins mainly promote cell entry by altering which host structure?",
+      "options": [
+        "Actin filaments",
+        "Ribosomal RNA",
+        "Mitochondrial DNA",
+        "Antibodies"
+      ],
+      "answer": 0,
+      "explanation": "The slide says invasins alter host-cell actin filaments, causing membrane ruffling and entry."
+    }
+  },
+  {
+    "page": 309,
+    "title": "Toxins, Toxigenicity, and Toxemia",
+    "explain": "A toxin is a poisonous substance produced by a microorganism. Toxigenicity is the organism's ability to produce toxins, while toxemia means toxins are present in the blood.",
+    "mustKnow": [
+      "Toxin: poisonous microbial product.",
+      "Toxigenicity: ability to produce toxin.",
+      "Toxemia: toxin present in blood."
+    ],
+    "terms": [
+      {
+        "term": "Toxin",
+        "meaning": "A poisonous substance produced by a microorganism."
+      },
+      {
+        "term": "Toxigenicity",
+        "meaning": "The ability of a microorganism to produce toxins."
+      },
+      {
+        "term": "Toxemia",
+        "meaning": "The presence of toxins in the bloodstream."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What does toxemia mean?",
+      "options": [
+        "Toxins are present in the blood",
+        "Bacteria are present in a biofilm",
+        "Host cells have formed a clot",
+        "A bacterium can sense population density"
+      ],
+      "answer": 0,
+      "explanation": "Toxemia is defined on the slide as the presence of toxins in the blood."
+    }
+  },
+  {
+    "page": 310,
+    "title": "Diphtheria Toxin Blocks Translation",
+    "explain": "Diphtheria toxin is an A-B toxin. After receptor-mediated endocytosis and acid-triggered translocation, fragment A enters the cytoplasm and ADP-ribosylates eEF-2, stopping protein translation and killing the host cell.",
+    "mustKnow": [
+      "Diphtheria toxin is an A-B toxin.",
+      "Fragment A modifies eEF-2.",
+      "The result is inhibition of protein synthesis."
+    ],
+    "terms": [
+      {
+        "term": "A-B toxin",
+        "meaning": "A toxin with an active component and a cell-binding or delivery component."
+      },
+      {
+        "term": "eEF-2",
+        "meaning": "A eukaryotic elongation factor required for protein translation."
+      },
+      {
+        "term": "ADP-ribosylation",
+        "meaning": "Covalent addition of an ADP-ribose group to a target protein."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What is the direct functional result of diphtheria toxin fragment A?",
+      "options": [
+        "Protein translation stops",
+        "cAMP is degraded",
+        "Collagen is synthesized",
+        "Caspase-8 is inhibited"
+      ],
+      "answer": 0,
+      "explanation": "Fragment A ADP-ribosylates eEF-2, halting host-cell protein translation."
+    }
+  },
+  {
+    "page": 311,
+    "title": "Cholera Toxin Raises cAMP",
+    "explain": "Cholera toxin is an AB5 toxin: five B subunits bind GM1 and deliver the active A1 fragment. A1 locks Gs alpha in its active GTP-bound state, keeping adenylyl cyclase active. The resulting cAMP surge drives ion and water loss into the intestine, causing diarrhea.",
+    "mustKnow": [
+      "Cholera toxin has one active A subunit and five binding B subunits.",
+      "It keeps Gs alpha active and raises cAMP.",
+      "High cAMP causes ion and water efflux into the intestine."
+    ],
+    "terms": [
+      {
+        "term": "AB5 toxin",
+        "meaning": "A toxin containing one active A subunit and five receptor-binding B subunits."
+      },
+      {
+        "term": "GM1",
+        "meaning": "The cell-surface receptor bound by cholera toxin B subunits."
+      },
+      {
+        "term": "cAMP",
+        "meaning": "A second messenger produced by adenylyl cyclase."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which change produces fluid loss in cholera?",
+      "options": [
+        "Persistent Gs activation and increased cAMP",
+        "Inactivation of eEF-2",
+        "Collagen digestion",
+        "Reduced ion-channel activity"
+      ],
+      "answer": 0,
+      "explanation": "Cholera toxin locks Gs alpha in an active state, causing excess cAMP and massive ion and water efflux."
+    }
+  },
+  {
+    "page": 312,
+    "title": "How GPCR Signaling Begins",
+    "explain": "G protein-coupled receptors have seven membrane-spanning helices. Ligand binding activates a trimeric G protein, which then regulates an effector such as adenylyl cyclase.",
+    "mustKnow": [
+      "GPCRs have seven transmembrane helices.",
+      "They activate trimeric G proteins after ligand binding.",
+      "Adenylyl cyclase is one possible downstream effector."
+    ],
+    "terms": [
+      {
+        "term": "GPCR",
+        "meaning": "A seven-transmembrane receptor that signals through G proteins."
+      },
+      {
+        "term": "Trimeric G protein",
+        "meaning": "A signaling protein complex with alpha, beta, and gamma subunits."
+      },
+      {
+        "term": "Effector",
+        "meaning": "A downstream protein whose activity is changed by a signal."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "How many membrane-spanning helices characterize GPCRs?",
+      "options": [
+        "Seven",
+        "One",
+        "Three",
+        "Twelve"
+      ],
+      "answer": 0,
+      "explanation": "The slide repeatedly identifies GPCRs as receptors with seven membrane-spanning helices."
+    }
+  },
+  {
+    "page": 313,
+    "title": "GPCR Amplification and Shutoff",
+    "explain": "An activated G protein can stimulate an effector to generate many second-messenger molecules, amplifying the signal. Signaling stops when the G alpha subunit hydrolyzes GTP, and receptor phosphorylation plus arrestin binding attenuates further receptor signaling.",
+    "mustKnow": [
+      "Effector activation can amplify the original signal.",
+      "GTP hydrolysis on G alpha helps stop signaling.",
+      "Receptor phosphorylation and arrestin produce attenuation."
+    ],
+    "terms": [
+      {
+        "term": "Signal amplification",
+        "meaning": "Production of a larger intracellular response from a smaller initial signal."
+      },
+      {
+        "term": "Signal attenuation",
+        "meaning": "Reduction of signaling despite continued or repeated stimulation."
+      },
+      {
+        "term": "Arrestin",
+        "meaning": "A protein that binds phosphorylated GPCRs and limits further G-protein activation."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which event shown on the slide attenuates GPCR signaling?",
+      "options": [
+        "Arrestin binding to a phosphorylated receptor",
+        "Ligand binding to an unoccupied receptor",
+        "Formation of additional cAMP",
+        "Replacement of GDP with GTP"
+      ],
+      "answer": 0,
+      "explanation": "The attenuation panel shows receptor phosphorylation followed by arrestin binding."
+    }
+  },
+  {
+    "page": 314,
+    "title": "Endotoxin Is Lipid A of LPS",
+    "explain": "In Gram-negative bacteria, the lipid A portion of lipopolysaccharide acts as endotoxin and contributes importantly to disease.",
+    "mustKnow": [
+      "Endotoxin is the lipid A portion of LPS.",
+      "LPS is associated with the Gram-negative bacterial cell wall."
+    ],
+    "terms": [
+      {
+        "term": "Endotoxin",
+        "meaning": "The inflammatory lipid A component of Gram-negative LPS."
+      },
+      {
+        "term": "LPS",
+        "meaning": "Lipopolysaccharide, a major component of the Gram-negative outer membrane."
+      },
+      {
+        "term": "Lipid A",
+        "meaning": "The endotoxin-containing lipid portion of LPS."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which component acts as endotoxin?",
+      "options": [
+        "Lipid A of LPS",
+        "Peptidoglycan sugar chains",
+        "Bacterial collagenase",
+        "The B subunit of cholera toxin"
+      ],
+      "answer": 0,
+      "explanation": "The slide identifies lipid A in Gram-negative LPS as endotoxin."
+    }
+  },
+  {
+    "page": 315,
+    "title": "How Endotoxin Is Released",
+    "explain": "Endotoxin can be released when Gram-negative bacteria are broken down. The listed causes are complement-mediated lysis, phagocytic digestion, and antibiotic use.",
+    "mustKnow": [
+      "Bacterial breakdown can release endotoxin.",
+      "Complement lysis, phagocytic digestion, and antibiotics are listed release routes."
+    ],
+    "terms": [
+      {
+        "term": "Complement-mediated lysis",
+        "meaning": "Destruction of a microbial cell by complement proteins."
+      },
+      {
+        "term": "Phagocytic digestion",
+        "meaning": "Breakdown of engulfed microbes inside a phagocyte."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which event can release endotoxin according to the slide?",
+      "options": [
+        "Antibiotic-mediated bacterial killing",
+        "Host-cell mitosis",
+        "Antibody gene rearrangement",
+        "Collagen synthesis"
+      ],
+      "answer": 0,
+      "explanation": "Antibiotic use is listed alongside complement lysis and phagocytic digestion as a route of endotoxin release."
+    }
+  },
+  {
+    "page": 316,
+    "title": "Effects of Endotoxin",
+    "explain": "Endotoxin stimulates inflammatory signaling and cytokine secretion. The slide links this response with fever and effects involving the blood-brain barrier.",
+    "mustKnow": [
+      "Endotoxin promotes inflammation.",
+      "It stimulates cytokine secretion.",
+      "Fever is a major outcome."
+    ],
+    "terms": [
+      {
+        "term": "Cytokine",
+        "meaning": "A secreted signaling protein that coordinates immune and inflammatory responses."
+      },
+      {
+        "term": "Inflammation",
+        "meaning": "A coordinated host response to infection or tissue damage."
+      },
+      {
+        "term": "Blood-brain barrier",
+        "meaning": "A selective barrier between circulating blood and brain tissue."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which response is associated with endotoxin on this slide?",
+      "options": [
+        "Cytokine secretion and fever",
+        "Suppression of all inflammation",
+        "Direct collagen production",
+        "Increased protein translation by eEF-2"
+      ],
+      "answer": 0,
+      "explanation": "The diagram connects endotoxin to cytokine secretion, inflammation, and fever."
+    }
+  },
+  {
+    "page": 317,
+    "title": "Endotoxin Is Heat Stable",
+    "explain": "Endotoxins are pyrogens, meaning they can cause fever. They are heat stable, so killing bacteria by some sterilization methods does not necessarily remove the endotoxin already present.",
+    "mustKnow": [
+      "Endotoxins are pyrogens.",
+      "Endotoxins are heat stable.",
+      "Bacterial killing does not guarantee endotoxin removal."
+    ],
+    "terms": [
+      {
+        "term": "Pyrogen",
+        "meaning": "A substance that can produce fever."
+      },
+      {
+        "term": "Heat stable",
+        "meaning": "Not readily destroyed by heating."
+      },
+      {
+        "term": "Sterilization",
+        "meaning": "A process intended to eliminate viable microorganisms."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Why may a sterilized bacterial sample still cause an endotoxin response?",
+      "options": [
+        "Endotoxin is heat stable and can remain after bacteria are killed",
+        "Endotoxin is produced only by living host cells",
+        "Sterilization converts exotoxin into bacteria",
+        "Endotoxin is a rapidly degraded protein"
+      ],
+      "answer": 0,
+      "explanation": "The slide emphasizes that endotoxin is heat stable and may remain after bacterial killing."
+    }
+  },
+  {
+    "page": 318,
+    "title": "Lecture 31: Cell Death Pathways",
+    "explain": "This lecture introduces major regulated cell-death pathways, including apoptosis, necroptosis, autophagy-related degradation, and ferroptosis.",
+    "mustKnow": [
+      "The lecture topic is cell death pathways.",
+      "The following slides compare distinct mechanisms of cell death."
+    ],
+    "terms": [
+      {
+        "term": "Cell-death pathway",
+        "meaning": "A defined molecular process that leads to loss of cell viability."
+      }
+    ],
+    "interaction": {
+      "type": "tap",
+      "label": "Start Cell Death Pathways"
+    }
+  },
+  {
+    "page": 319,
+    "title": "Why Programmed Cell Death Is Needed",
+    "explain": "Programmed cell death supports normal development and tissue homeostasis, regulates immune-cell populations, removes infected or damaged cells, and responds to cellular stress.",
+    "mustKnow": [
+      "It shapes tissues during development.",
+      "It maintains tissue and immune homeostasis.",
+      "It eliminates damaged or infected cells.",
+      "It can be triggered by cellular stress."
+    ],
+    "terms": [
+      {
+        "term": "Homeostasis",
+        "meaning": "Maintenance of stable tissue composition and function."
+      },
+      {
+        "term": "Morphogenesis",
+        "meaning": "The biological process that gives tissues and organs their form."
+      },
+      {
+        "term": "Cellular stress",
+        "meaning": "A condition that threatens normal cell function or survival."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which is a normal role of programmed cell death?",
+      "options": [
+        "Removing damaged or infected cells",
+        "Preventing all tissue remodeling",
+        "Making bacterial peptidoglycan",
+        "Keeping every lymphocyte alive permanently"
+      ],
+      "answer": 0,
+      "explanation": "The slide includes elimination of damaged or infected cells among the required functions of programmed cell death."
+    }
+  },
+  {
+    "page": 320,
+    "title": "Hallmarks of Apoptosis",
+    "explain": "Apoptosis produces an orderly set of structural and biochemical changes: cell shrinkage, condensed and fragmented chromatin, membrane blebbing, apoptotic bodies, and phagocytosis. Caspases activate, DNA fragments, and phosphatidylserine becomes exposed at the cell surface.",
+    "mustKnow": [
+      "Morphology includes shrinkage, chromatin condensation, nuclear fragmentation, and blebbing.",
+      "Apoptotic bodies are removed by phagocytosis.",
+      "Biochemical signs include caspase activation, DNA fragmentation, and phosphatidylserine exposure."
+    ],
+    "terms": [
+      {
+        "term": "Apoptotic body",
+        "meaning": "A membrane-bound fragment produced by an apoptotic cell."
+      },
+      {
+        "term": "Phosphatidylserine inversion",
+        "meaning": "Exposure of phosphatidylserine on the outer surface of the plasma membrane."
+      },
+      {
+        "term": "Chromatin condensation",
+        "meaning": "Compaction of nuclear DNA and associated proteins."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which biochemical change marks apoptosis?",
+      "options": [
+        "Caspase activation",
+        "Peptidoglycan synthesis",
+        "LPS formation",
+        "Permanent GPCR activation"
+      ],
+      "answer": 0,
+      "explanation": "Caspase activation is listed as a biochemical characteristic of apoptosis."
+    }
+  },
+  {
+    "page": 321,
+    "title": "Initiator and Executioner Caspases",
+    "explain": "Caspases form an activation cascade. Initiator caspases such as caspase-8 and caspase-9 activate executioner caspases such as caspase-3, caspase-6, and caspase-7, which dismantle the cell.",
+    "mustKnow": [
+      "Initiators: caspase-8 and caspase-9.",
+      "Executioners: caspase-3, caspase-6, and caspase-7.",
+      "Initiators activate the downstream execution phase."
+    ],
+    "terms": [
+      {
+        "term": "Caspase",
+        "meaning": "A protease that cleaves selected proteins during regulated cell death."
+      },
+      {
+        "term": "Initiator caspase",
+        "meaning": "An upstream caspase that starts a caspase cascade."
+      },
+      {
+        "term": "Executioner caspase",
+        "meaning": "A downstream caspase that cleaves cellular targets."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which caspase is an executioner caspase?",
+      "options": [
+        "Caspase-3",
+        "Caspase-8",
+        "Caspase-9",
+        "Caspase-1 only"
+      ],
+      "answer": 0,
+      "explanation": "The slide places caspase-3 with executioner caspases; caspase-8 and caspase-9 are initiators."
+    }
+  },
+  {
+    "page": 322,
+    "title": "How Caspases Produce Apoptotic Features",
+    "explain": "Caspase cleavage of cytoskeletal regulators drives cortical actin changes and membrane blebbing. Cleavage of plasma-membrane phospholipid-transfer proteins exposes phosphatidylserine on the cell surface.",
+    "mustKnow": [
+      "Caspase targets help create membrane blebs.",
+      "Caspase activity leads to surface exposure of phosphatidylserine."
+    ],
+    "terms": [
+      {
+        "term": "Cell cortex",
+        "meaning": "The actin-rich layer beneath the plasma membrane."
+      },
+      {
+        "term": "Membrane blebbing",
+        "meaning": "Formation of bulges in the plasma membrane during apoptosis."
+      },
+      {
+        "term": "Phospholipid-transfer protein",
+        "meaning": "A protein that helps maintain lipid distribution across a membrane."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What causes phosphatidylserine to appear on the apoptotic cell surface?",
+      "options": [
+        "Caspase cleavage of phospholipid-transfer proteins",
+        "Bacterial collagenase activity",
+        "Increased peptidoglycan synthesis",
+        "Cholera toxin binding to GM1"
+      ],
+      "answer": 0,
+      "explanation": "The slide links cleavage of phospholipid-transfer proteins to phosphatidylserine exposure."
+    }
+  },
+  {
+    "page": 323,
+    "title": "Intrinsic Mitochondrial Apoptosis",
+    "explain": "An internal apoptotic stimulus induces pro-apoptotic proteins and activates BAX and BAK. These proteins permeabilize the mitochondrial outer membrane, releasing cytochrome c. Cytochrome c supports apoptosome formation, caspase activation, and apoptosis. Excess anti-apoptotic BCL-2 can block BAX and BAK and preserve survival.",
+    "mustKnow": [
+      "BAX and BAK permeabilize the mitochondrial outer membrane.",
+      "Cytochrome c release promotes apoptosome formation.",
+      "The apoptosome activates caspases.",
+      "BCL-2 opposes the pathway."
+    ],
+    "terms": [
+      {
+        "term": "BAX and BAK",
+        "meaning": "Pro-apoptotic proteins that form openings in the mitochondrial outer membrane."
+      },
+      {
+        "term": "Cytochrome c",
+        "meaning": "A mitochondrial protein that helps form the apoptosome after release into the cytosol."
+      },
+      {
+        "term": "Apoptosome",
+        "meaning": "A cytosolic protein complex that activates an initiator caspase."
+      },
+      {
+        "term": "BCL-2",
+        "meaning": "An anti-apoptotic protein that can prevent mitochondrial permeabilization."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What follows BAX and BAK activation in the intrinsic pathway?",
+      "options": [
+        "Mitochondrial cytochrome c release",
+        "LPS synthesis",
+        "Fas-ligand release from bacteria",
+        "Direct formation of collagen"
+      ],
+      "answer": 0,
+      "explanation": "Activated BAX and BAK permeabilize the mitochondrial outer membrane, releasing cytochrome c."
+    }
+  },
+  {
+    "page": 324,
+    "title": "Classes of BCL-2 Family Proteins",
+    "explain": "The BCL-2 family contains three pro-apoptotic classes—activators, effectors, and derepressors or sensitizers—and one anti-apoptotic class. Effectors and anti-apoptotic members contain BH1-BH4 domains, while activators and sensitizers contain only a BH3 domain.",
+    "mustKnow": [
+      "There are three pro-apoptotic classes and one anti-apoptotic class.",
+      "Effectors and anti-apoptotic members have BH1-BH4.",
+      "Activators and sensitizers are BH3-only proteins."
+    ],
+    "terms": [
+      {
+        "term": "BCL-2 family",
+        "meaning": "Proteins that regulate mitochondrial apoptosis."
+      },
+      {
+        "term": "BH domain",
+        "meaning": "A BCL-2 homology region used to classify and mediate interactions among family members."
+      },
+      {
+        "term": "BH3-only protein",
+        "meaning": "A pro-apoptotic BCL-2 family member containing only the BH3 domain."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which BCL-2 family members contain only a BH3 domain?",
+      "options": [
+        "Activators and derepressors or sensitizers",
+        "Effectors and anti-apoptotic members",
+        "All family members",
+        "Only executioner caspases"
+      ],
+      "answer": 0,
+      "explanation": "The slide states that activators and derepressors or sensitizers are BH3-only."
+    }
+  },
+  {
+    "page": 325,
+    "title": "Extrinsic Fas-Mediated Apoptosis",
+    "explain": "The extrinsic pathway begins when Fas ligand binds and clusters Fas death receptors. FADD adaptor proteins recruit caspase-8 to form the DISC. Caspase-8 becomes active and cleaves executioner caspases 3 and 7, producing apoptosis.",
+    "mustKnow": [
+      "Fas ligand activates the Fas death receptor.",
+      "FADD and caspase-8 assemble into the DISC.",
+      "Caspase-8 activates executioner caspases 3 and 7."
+    ],
+    "terms": [
+      {
+        "term": "Fas",
+        "meaning": "A cell-surface death receptor."
+      },
+      {
+        "term": "FADD",
+        "meaning": "An adaptor that links activated Fas to caspase-8."
+      },
+      {
+        "term": "DISC",
+        "meaning": "Death-inducing signaling complex assembled at an activated death receptor."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which initiator caspase is recruited in the Fas extrinsic pathway?",
+      "options": [
+        "Caspase-8",
+        "Caspase-9",
+        "Caspase-3",
+        "Caspase-6"
+      ],
+      "answer": 0,
+      "explanation": "FADD recruits caspase-8 into the DISC, where caspase-8 is activated."
+    }
+  },
+  {
+    "page": 326,
+    "title": "Necroptosis Versus Apoptosis",
+    "explain": "Necroptosis is caspase-independent, lytic, and inflammatory, and often occurs when apoptosis is blocked through loss or inhibition of caspase-8. Unlike apoptosis, it causes plasma-membrane rupture, cytoplasmic swelling and vacuolization, swollen mitochondria, and lacks the strongly condensed, fragmented nucleus of apoptosis.",
+    "mustKnow": [
+      "Necroptosis is caspase-independent and inflammatory.",
+      "It is favored when caspase-8 is absent or inhibited.",
+      "Membrane rupture and cell swelling distinguish it from apoptosis.",
+      "Apoptotic membranes remain intact while blebbing."
+    ],
+    "terms": [
+      {
+        "term": "Necroptosis",
+        "meaning": "A regulated lytic and inflammatory form of cell death."
+      },
+      {
+        "term": "Lytic death",
+        "meaning": "Cell death involving plasma-membrane rupture."
+      },
+      {
+        "term": "Vacuolization",
+        "meaning": "Formation of vacuole-like spaces in the cytoplasm."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which feature favors necroptosis rather than apoptosis?",
+      "options": [
+        "Plasma-membrane rupture and cell swelling",
+        "Intact membrane with blebbing",
+        "Condensed fragmented nucleus",
+        "Formation of apoptotic bodies"
+      ],
+      "answer": 0,
+      "explanation": "Necroptosis is lytic and produces membrane rupture and swelling, unlike the intact blebbing membrane of apoptosis."
+    }
+  },
+  {
+    "page": 327,
+    "title": "Triggers of Necroptosis",
+    "explain": "Extrinsic necroptosis can begin at cell-surface receptors such as TNFR1 or pattern-recognition receptors TLR3 and TLR4. Intrinsic necroptosis begins inside the cell when ZBP1 recognizes Z-form nucleic acids.",
+    "mustKnow": [
+      "Extrinsic triggers include TNFR1, TLR3, and TLR4.",
+      "Intrinsic necroptosis can use ZBP1 recognition of Z-nucleic acids."
+    ],
+    "terms": [
+      {
+        "term": "TNFR1",
+        "meaning": "A tumor-necrosis-factor receptor that can trigger death signaling."
+      },
+      {
+        "term": "Pattern-recognition receptor",
+        "meaning": "A receptor that detects conserved microbial or danger-associated patterns."
+      },
+      {
+        "term": "ZBP1",
+        "meaning": "An intracellular sensor that can recognize Z-form nucleic acids."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which receptor is listed as an extrinsic necroptosis trigger?",
+      "options": [
+        "TNFR1",
+        "GM1",
+        "EGFR only",
+        "Transferrin receptor only"
+      ],
+      "answer": 0,
+      "explanation": "The slide lists TNFR1, TLR3, and TLR4 as cell-surface triggers of extrinsic necroptosis."
+    }
+  },
+  {
+    "page": 328,
+    "title": "Why Necroptosis Is Inflammatory",
+    "explain": "Because necroptotic cells rupture, they release damage-associated molecular patterns, or DAMPs. T cells, dendritic cells, and macrophages can detect these signals and produce inflammatory mediators and cytokines.",
+    "mustKnow": [
+      "Necroptotic cells release DAMPs.",
+      "Immune cells detect DAMPs.",
+      "DAMP detection promotes inflammatory mediators and cytokines."
+    ],
+    "terms": [
+      {
+        "term": "DAMP",
+        "meaning": "A damage-associated molecular pattern released or exposed by injured cells."
+      },
+      {
+        "term": "Dendritic cell",
+        "meaning": "An immune cell specialized in sensing danger and presenting antigens."
+      },
+      {
+        "term": "Inflammatory mediator",
+        "meaning": "A molecule that initiates or strengthens inflammation."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What connects necroptosis to inflammation?",
+      "options": [
+        "Release and immune detection of DAMPs",
+        "Formation of an intact apoptotic membrane",
+        "Suppression of all cytokines",
+        "Production of bacterial LPS"
+      ],
+      "answer": 0,
+      "explanation": "The slide states that necroptotic cells release DAMPs, whose detection induces inflammatory mediators and cytokines."
+    }
+  },
+  {
+    "page": 329,
+    "title": "Lysosomal Degradation in Autophagy",
+    "explain": "Lysosomes contain enzymes that degrade proteins, nucleic acids, carbohydrates, and lipids. Their acidic lumen activates these enzymes. Cathepsins L, B, and D are abundant lysosomal proteases.",
+    "mustKnow": [
+      "Lysosomes contain several classes of degradative enzymes.",
+      "Low lysosomal pH activates enzyme function.",
+      "Cathepsins L, B, and D are abundant lysosomal proteases."
+    ],
+    "terms": [
+      {
+        "term": "Lysosome",
+        "meaning": "An acidic organelle containing degradative enzymes."
+      },
+      {
+        "term": "Cathepsin",
+        "meaning": "A lysosomal protease."
+      },
+      {
+        "term": "Protease",
+        "meaning": "An enzyme that cleaves proteins."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What activates many lysosomal degradative enzymes?",
+      "options": [
+        "Low lumenal pH",
+        "High extracellular glucose",
+        "LPS binding to GM1",
+        "Loss of peptidoglycan"
+      ],
+      "answer": 0,
+      "explanation": "The slide says lysosomal enzymatic activity is turned on by the low pH of the lysosomal lumen."
+    }
+  },
+  {
+    "page": 330,
+    "title": "Ferroptosis and Lipid Peroxidation",
+    "explain": "Ferroptosis is driven by iron-dependent oxidation of polyunsaturated phospholipids, producing membrane-disrupting lipid peroxides. GPX4 and glutathione, FSP1 and coenzyme Q, and DHFR-linked BH4 act as protective systems. Some therapy-resistant cancer cells remain sensitive to ferroptosis induction.",
+    "mustKnow": [
+      "Ferroptosis involves iron-dependent phospholipid peroxidation.",
+      "Lipid peroxide accumulation disrupts membranes.",
+      "GPX4 is a major protective enzyme.",
+      "Some therapy-resistant cancer cells are sensitive to ferroptosis."
+    ],
+    "terms": [
+      {
+        "term": "Ferroptosis",
+        "meaning": "Regulated cell death caused by iron-dependent lipid-peroxide accumulation."
+      },
+      {
+        "term": "Lipid peroxidation",
+        "meaning": "Oxidative damage to membrane lipids."
+      },
+      {
+        "term": "GPX4",
+        "meaning": "A glutathione peroxidase that reduces phospholipid hydroperoxides."
+      },
+      {
+        "term": "PUFA",
+        "meaning": "A polyunsaturated fatty acid that can be incorporated into oxidation-prone phospholipids."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which process is central to ferroptosis?",
+      "options": [
+        "Iron-dependent lipid peroxidation",
+        "Caspase-8 activation at the DISC",
+        "Chromatin condensation without membrane damage",
+        "Peptidoglycan hydrolysis"
+      ],
+      "answer": 0,
+      "explanation": "The diagram centers ferroptosis on iron-driven oxidation of PUFA-containing phospholipids and membrane disruption."
+    }
+  },
+  {
+    "page": 331,
+    "title": "Lecture 32: Cancer Biology",
+    "explain": "This lecture introduces how cancer cells differ from normal cells, how the tumor microenvironment supports them, and how tumors alter metabolism and evade immunity.",
+    "mustKnow": [
+      "The lecture topic is cancer biology.",
+      "Major themes are abnormal growth, microenvironment, metabolism, and immune evasion."
+    ],
+    "terms": [
+      {
+        "term": "Cancer biology",
+        "meaning": "The study of malignant cell behavior and tumor development."
+      }
+    ],
+    "interaction": {
+      "type": "tap",
+      "label": "Start Cancer Biology"
+    }
+  },
+  {
+    "page": 332,
+    "title": "Origin of the Word Cancer",
+    "explain": "Hippocrates used the Greek term karkinos, meaning crab or crayfish, for cancer. The name was inspired by the appearance of a solid malignant tumor with veins spreading outward like a crab's legs.",
+    "mustKnow": [
+      "Karkinos is the Greek source of the term cancer.",
+      "The crab comparison came from the appearance of a malignant tumor and its radiating veins."
+    ],
+    "terms": [
+      {
+        "term": "Karkinos",
+        "meaning": "Greek for crab or crayfish; an early term used for cancer."
+      },
+      {
+        "term": "Carcinoma",
+        "meaning": "A cancer arising from epithelial tissue."
+      },
+      {
+        "term": "Malignant",
+        "meaning": "Cancerous, with the capacity for destructive growth and spread."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Why was cancer compared with a crab?",
+      "options": [
+        "Veins around a solid tumor resembled crab legs",
+        "Cancer cells contain a hard shell",
+        "All cancers begin in the ocean",
+        "Tumors move sideways through blood"
+      ],
+      "answer": 0,
+      "explanation": "The slide explains that veins radiating around a solid malignant tumor resembled a crab's legs and claws."
+    }
+  },
+  {
+    "page": 333,
+    "title": "Cancer Incidence and Mortality Differ",
+    "explain": "The chart compares new cases with deaths per year across cancer groups. Incidence and mortality are not the same: a common cancer may cause proportionally fewer deaths, while another category may have fewer cases but a closer death count.",
+    "mustKnow": [
+      "Incidence means new cases; mortality means deaths.",
+      "Cancer types differ in both frequency and lethality.",
+      "A high incidence does not automatically mean equally high mortality."
+    ],
+    "terms": [
+      {
+        "term": "Incidence",
+        "meaning": "The number of new cases occurring in a defined period."
+      },
+      {
+        "term": "Mortality",
+        "meaning": "The number of deaths occurring in a defined period."
+      },
+      {
+        "term": "Carcinoma",
+        "meaning": "An epithelial cancer; several organ groups in the chart are carcinomas."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What does cancer incidence measure?",
+      "options": [
+        "New cases",
+        "Deaths only",
+        "Tumor size",
+        "Number of mutations per cell"
+      ],
+      "answer": 0,
+      "explanation": "The chart key labels incidence as new cases and mortality as deaths per year."
+    }
+  },
+  {
+    "page": 334,
+    "title": "Three Defining Cancer Behaviors",
+    "explain": "Cancer cells can proliferate without normal growth-factor control, invade through extracellular matrix and basement membranes, and metastasize from the primary tumor to other sites.",
+    "mustKnow": [
+      "Proliferation can continue without normal growth signals.",
+      "Invasion is penetration into surrounding tissue.",
+      "Metastasis is spread from the primary tumor to another site."
+    ],
+    "terms": [
+      {
+        "term": "Proliferation",
+        "meaning": "Increase in cell number through cell division."
+      },
+      {
+        "term": "Invasion",
+        "meaning": "Movement of cancer cells into surrounding tissue."
+      },
+      {
+        "term": "Metastasis",
+        "meaning": "Spread of cancer cells from the primary tumor to other sites."
+      },
+      {
+        "term": "ECM",
+        "meaning": "Extracellular matrix, the material surrounding and supporting cells."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What distinguishes metastasis from local invasion?",
+      "options": [
+        "Metastasis establishes cancer at another site",
+        "Metastasis means cell division has stopped",
+        "Metastasis is normal apoptosis",
+        "Metastasis affects only the extracellular matrix"
+      ],
+      "answer": 0,
+      "explanation": "Metastasis is spread from the primary tumor to nearby or distant parts of the body."
+    }
+  },
+  {
+    "page": 335,
+    "title": "Loss of Growth and Death Controls",
+    "explain": "Normal tissue homeostasis balances cell division with apoptosis. A tumor can form through increased division, decreased apoptosis, or both. Transformed cells also lose contact inhibition and can survive after leaving their normal tissue position.",
+    "mustKnow": [
+      "Homeostasis requires balanced division and cell death.",
+      "More division or less apoptosis can expand a tumor.",
+      "Transformed cells lose contact inhibition.",
+      "Cancer cells may bypass anchorage-dependent survival controls."
+    ],
+    "terms": [
+      {
+        "term": "Contact inhibition",
+        "meaning": "Normal suppression of cell proliferation when cells contact neighbors."
+      },
+      {
+        "term": "Anchorage dependence",
+        "meaning": "The normal requirement for attachment to a suitable surface or matrix for survival."
+      },
+      {
+        "term": "Transformation",
+        "meaning": "Acquisition of abnormal growth properties by a cell."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which change can produce tumor growth even without increasing cell division?",
+      "options": [
+        "Decreased apoptosis",
+        "Increased contact inhibition",
+        "Loss of all survival signaling",
+        "Increased apical extrusion of abnormal cells"
+      ],
+      "answer": 0,
+      "explanation": "The slide shows that reduced apoptosis alone can shift the balance toward tumor accumulation."
+    }
+  },
+  {
+    "page": 336,
+    "title": "The Tumor Microenvironment",
+    "explain": "A tumor contains malignant cells plus a nonmalignant stroma of fibroblasts, immune cells, endothelial cells, and other support cells. Cancer-associated fibroblasts remodel extracellular matrix and release components that influence tumor growth, invasion, inflammation, and angiogenesis.",
+    "mustKnow": [
+      "Tumor stroma is nonmalignant supporting tissue.",
+      "Stroma includes fibroblasts, immune cells, and endothelial cells.",
+      "Cancer-associated fibroblasts promote several aspects of progression."
+    ],
+    "terms": [
+      {
+        "term": "Stroma",
+        "meaning": "The nonmalignant cells and supporting tissue surrounding tumor cells."
+      },
+      {
+        "term": "CAF",
+        "meaning": "A carcinoma-associated fibroblast altered to support tumor progression."
+      },
+      {
+        "term": "Angiogenesis",
+        "meaning": "Formation of new blood vessels."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which cell belongs to tumor stroma rather than the malignant population?",
+      "options": [
+        "Carcinoma-associated fibroblast",
+        "Cancer cell only",
+        "Bacterial cell",
+        "Red blood cell forming the tumor clone"
+      ],
+      "answer": 0,
+      "explanation": "The slide defines fibroblasts, including CAFs, as nonmalignant stromal cells around tumors."
+    }
+  },
+  {
+    "page": 337,
+    "title": "Hypoxia Activates HIF Signaling",
+    "explain": "Tumor regions farther from blood vessels receive less oxygen and can become hypoxic or necrotic. In normal oxygen, HIF-alpha is hydroxylated, recognized by VHL, ubiquitinated, and degraded. In hypoxia, HIF-alpha survives, enters the nucleus with HIF-beta, and activates genes for responses such as angiogenesis, metabolism, and erythropoiesis.",
+    "mustKnow": [
+      "Oxygen falls with distance from tumor blood vessels.",
+      "Normoxia promotes VHL-dependent HIF-alpha degradation.",
+      "Hypoxia stabilizes HIF-alpha.",
+      "HIF activates adaptive genes including angiogenesis and metabolism genes."
+    ],
+    "terms": [
+      {
+        "term": "Hypoxia",
+        "meaning": "A condition of low oxygen availability."
+      },
+      {
+        "term": "HIF",
+        "meaning": "Hypoxia-inducible factor, a transcription factor activated under low oxygen."
+      },
+      {
+        "term": "VHL",
+        "meaning": "A protein that helps target hydroxylated HIF-alpha for degradation in oxygenated cells."
+      },
+      {
+        "term": "Ubiquitination",
+        "meaning": "Attachment of ubiquitin that can mark a protein for proteasomal degradation."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What happens to HIF-alpha during hypoxia?",
+      "options": [
+        "It is stabilized and activates target genes",
+        "It is immediately degraded by VHL",
+        "It becomes bacterial endotoxin",
+        "It directly cleaves collagen"
+      ],
+      "answer": 0,
+      "explanation": "Low oxygen prevents the normal degradation route, allowing HIF-alpha to drive hypoxia-response genes."
+    }
+  },
+  {
+    "page": 338,
+    "title": "Fates of Pyruvate",
+    "explain": "Glycolysis converts glucose to pyruvate. Under aerobic conditions, pyruvate becomes acetyl-CoA and is oxidized through the citric acid cycle. Under hypoxic or anaerobic conditions, pyruvate can be reduced to lactate, regenerating NAD+, or converted to ethanol and carbon dioxide in yeast.",
+    "mustKnow": [
+      "Glycolysis produces pyruvate from glucose.",
+      "Aerobic pyruvate enters acetyl-CoA and the citric acid cycle.",
+      "Lactate fermentation regenerates NAD+.",
+      "Yeast can produce ethanol and carbon dioxide."
+    ],
+    "terms": [
+      {
+        "term": "Glycolysis",
+        "meaning": "The pathway that converts glucose into pyruvate."
+      },
+      {
+        "term": "Fermentation",
+        "meaning": "A pathway that regenerates NAD+ without oxygen-dependent respiration."
+      },
+      {
+        "term": "Lactate dehydrogenase",
+        "meaning": "The enzyme that interconverts pyruvate and lactate while interconverting NADH and NAD+."
+      },
+      {
+        "term": "Acetyl-CoA",
+        "meaning": "A metabolic intermediate that enters the citric acid cycle."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Why is pyruvate converted to lactate under hypoxic conditions?",
+      "options": [
+        "To regenerate NAD+ for glycolysis",
+        "To produce peptidoglycan",
+        "To activate p53 directly",
+        "To degrade HIF-alpha"
+      ],
+      "answer": 0,
+      "explanation": "The pyruvate-to-lactate reaction oxidizes NADH to NAD+, allowing glycolysis to continue."
+    }
+  },
+  {
+    "page": 339,
+    "title": "The Warburg Effect",
+    "explain": "Cancer cells often favor conversion of pyruvate to lactate even when oxygen is available. This metabolic reprogramming regenerates NAD+, which supports continued conversion of glucose to pyruvate through glycolysis.",
+    "mustKnow": [
+      "The Warburg effect is high lactate-producing glycolysis in cancer cells despite oxygen availability.",
+      "Pyruvate-to-lactate conversion consumes NADH and regenerates NAD+.",
+      "Regenerated NAD+ supports continued glycolysis."
+    ],
+    "terms": [
+      {
+        "term": "Warburg effect",
+        "meaning": "Preference of many cancer cells for lactate-producing glycolysis even in oxygen."
+      },
+      {
+        "term": "Metabolic reprogramming",
+        "meaning": "A change in how cells obtain and use energy and biosynthetic materials."
+      },
+      {
+        "term": "NAD+",
+        "meaning": "An oxidized electron carrier required for a step in glycolysis."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What useful molecule is regenerated when pyruvate is converted to lactate?",
+      "options": [
+        "NAD+",
+        "LPS",
+        "ATP synthase",
+        "Peptidoglycan"
+      ],
+      "answer": 0,
+      "explanation": "The slide states that the pyruvate-to-lactate conversion uses NADH to regenerate NAD+ for glycolysis."
+    }
+  },
+  {
+    "page": 340,
+    "title": "Ways Tumors Evade Immunity",
+    "explain": "CD8 T cells normally recognize tumor antigens displayed by MHC. Tumors can evade this response by losing tumor antigens or MHC, expressing nonclassical HLA molecules, delivering inhibitory signals to T cells, releasing suppressive cytokines, or building an immunosuppressive microenvironment with cells such as Treg and MDSC.",
+    "mustKnow": [
+      "Loss of antigen or MHC reduces T-cell recognition.",
+      "Inhibitory ligands and cytokines suppress T-cell activity.",
+      "Treg and MDSC contribute to an immunosuppressive microenvironment."
+    ],
+    "terms": [
+      {
+        "term": "MHC",
+        "meaning": "A cell-surface molecule that presents peptide antigens to T cells."
+      },
+      {
+        "term": "Treg",
+        "meaning": "A regulatory T cell that can suppress immune responses."
+      },
+      {
+        "term": "MDSC",
+        "meaning": "A myeloid-derived suppressor cell that inhibits antitumor immunity."
+      },
+      {
+        "term": "Immune evasion",
+        "meaning": "Avoidance or suppression of immune recognition and attack."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "How can loss of MHC help a tumor evade CD8 T cells?",
+      "options": [
+        "Tumor antigens are presented less effectively",
+        "The tumor produces more antibodies",
+        "Caspase-8 is activated",
+        "The extracellular matrix disappears"
+      ],
+      "answer": 0,
+      "explanation": "CD8 T cells depend on MHC-presented antigen; loss of MHC makes tumor recognition less effective."
+    }
+  },
+  {
+    "page": 341,
+    "title": "PD-1 and PD-L1 Checkpoint Blockade",
+    "explain": "PD-L1 on a tumor or immune cell binds PD-1 on a T cell and lowers T-cell activity. Anti-PD-1 or anti-PD-L1 antibodies block this inhibitory interaction, increasing T-cell activity and promoting tumor-cell death.",
+    "mustKnow": [
+      "PD-1 is shown on the T cell.",
+      "PD-L1 binding suppresses T-cell activity.",
+      "Blocking PD-1 or PD-L1 can restore antitumor T-cell activity."
+    ],
+    "terms": [
+      {
+        "term": "PD-1",
+        "meaning": "An inhibitory checkpoint receptor on T cells."
+      },
+      {
+        "term": "PD-L1",
+        "meaning": "A ligand that can inhibit T cells by binding PD-1."
+      },
+      {
+        "term": "Checkpoint inhibitor",
+        "meaning": "A therapy that blocks an inhibitory immune-receptor interaction."
+      },
+      {
+        "term": "TCR",
+        "meaning": "The T-cell receptor that recognizes antigen presented by MHC."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What is the intended effect of anti-PD-1 therapy?",
+      "options": [
+        "Increase T-cell activity against tumor cells",
+        "Increase PD-1 inhibition",
+        "Block all MHC expression",
+        "Convert tumor cells into fibroblasts"
+      ],
+      "answer": 0,
+      "explanation": "Blocking PD-1 prevents the inhibitory PD-1:PD-L1 signal and allows stronger T-cell activity."
+    }
+  },
+  {
+    "page": 342,
+    "title": "Lecture 33: Cancer and Drug Development",
+    "explain": "This lecture continues cancer genetics and then introduces principles of drug formulation and absorption.",
+    "mustKnow": [
+      "The lecture connects cancer biology with drug development.",
+      "The first section covers oncogenes, tumor suppressors, and p53."
+    ],
+    "terms": [
+      {
+        "term": "Drug development",
+        "meaning": "The process of turning a therapeutic idea into a usable medicine."
+      }
+    ],
+    "interaction": {
+      "type": "tap",
+      "label": "Start Cancer Genetics and Drug Development"
+    }
+  },
+  {
+    "page": 343,
+    "title": "Cancer Develops Through Accumulated Changes",
+    "explain": "Cancer development is linked to mutagenesis. Chemical carcinogens can alter nucleotide sequences, X-rays can cause chromosome breaks and translocations, and UV light can damage specific DNA bases. A cancer usually emerges only after multiple rare genetic and epigenetic changes accumulate in descendants of one cell.",
+    "mustKnow": [
+      "Chemical carcinogens, X-rays, and UV light damage DNA in different ways.",
+      "Cancer usually requires multiple independent changes.",
+      "The altered lineage begins from a single cell.",
+      "Both genetic and epigenetic changes can contribute."
+    ],
+    "terms": [
+      {
+        "term": "Mutagenesis",
+        "meaning": "Production of changes in genetic material."
+      },
+      {
+        "term": "Carcinogen",
+        "meaning": "An agent that promotes cancer development."
+      },
+      {
+        "term": "Translocation",
+        "meaning": "A chromosome rearrangement in which a segment moves to a new location."
+      },
+      {
+        "term": "Epigenetic change",
+        "meaning": "A heritable change in gene activity that does not require a DNA-sequence change."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which damage is associated with X-rays on the slide?",
+      "options": [
+        "Chromosome breaks and translocations",
+        "Only increased DNA methylation",
+        "Direct lactate production",
+        "Cleavage of eEF-2"
+      ],
+      "answer": 0,
+      "explanation": "The slide specifically associates X-rays with chromosome breaks and translocations."
+    }
+  },
+  {
+    "page": 344,
+    "title": "Oncogenes Versus Tumor Suppressors",
+    "explain": "A proto-oncogene becomes an oncogene through an activating gain-of-function change, and one altered copy can promote transformation. Tumor-suppressor loss is usually recessive at the cellular level: one working copy can remain protective, so both copies generally must be inactivated. Proto-oncogenes can be activated by coding or regulatory mutations, gene amplification, or chromosome rearrangement.",
+    "mustKnow": [
+      "Oncogene activation is a gain of function.",
+      "One activating oncogene mutation can be sufficient.",
+      "Tumor-suppressor inactivation is a loss of function.",
+      "Both tumor-suppressor copies generally must be lost."
+    ],
+    "terms": [
+      {
+        "term": "Proto-oncogene",
+        "meaning": "A normal gene that can become cancer-promoting when overactivated."
+      },
+      {
+        "term": "Oncogene",
+        "meaning": "An activated gene that promotes uncontrolled growth or transformation."
+      },
+      {
+        "term": "Tumor-suppressor gene",
+        "meaning": "A gene whose normal function restrains cancer development."
+      },
+      {
+        "term": "Gene amplification",
+        "meaning": "An increase in gene-copy number that can increase gene product."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which statement correctly contrasts oncogenes and tumor-suppressor genes?",
+      "options": [
+        "Oncogenes involve gain of function; tumor suppressors involve loss of function",
+        "Both always require activation of both gene copies",
+        "Oncogenes prevent transformation",
+        "Tumor suppressors are bacterial toxins"
+      ],
+      "answer": 0,
+      "explanation": "The diagram contrasts an activating oncogene mutation with inactivating mutations in both tumor-suppressor copies."
+    }
+  },
+  {
+    "page": 345,
+    "title": "EGFR and RAS Proto-Oncogenes",
+    "explain": "Normal EGFR signaling begins when EGF binds the receptor's extracellular domain, leading to phosphorylation of its intracellular domain. Truncation or other activating mutations can cause inappropriate receptor activation. RAS-family GTPases—HRAS, NRAS, and KRAS—are also proto-oncogene products.",
+    "mustKnow": [
+      "EGF binding activates EGFR phosphorylation and signaling.",
+      "EGFR truncation can produce inappropriate hyperactivation.",
+      "HRAS, NRAS, and KRAS are RAS GTPases."
+    ],
+    "terms": [
+      {
+        "term": "EGFR",
+        "meaning": "Epidermal growth factor receptor, a signaling receptor that can become oncogenic."
+      },
+      {
+        "term": "Hyperphosphorylation",
+        "meaning": "Excessive phosphorylation associated here with inappropriate receptor activation."
+      },
+      {
+        "term": "RAS GTPase",
+        "meaning": "A molecular switch protein that signals in a GTP-bound state."
+      },
+      {
+        "term": "Activating mutation",
+        "meaning": "A mutation that increases or inappropriately turns on protein function."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What can an EGFR extracellular-domain truncation cause?",
+      "options": [
+        "Hyperphosphorylation and inappropriate activation",
+        "Permanent loss of every intracellular domain",
+        "Direct DNA repair by p53",
+        "Inhibition of all RAS proteins"
+      ],
+      "answer": 0,
+      "explanation": "The slide states that extracellular-domain truncation can lead to hyperphosphorylation and inappropriate EGFR activation."
+    }
+  },
+  {
+    "page": 346,
+    "title": "p53 Stops the Cell Cycle After DNA Damage",
+    "explain": "DNA damage raises p53 activity. As a transcription factor, p53 increases p21 expression. p21 inhibits cyclin-CDK complexes, pausing the cell cycle while repair occurs. Cancer-associated p53 mutations commonly disable this transcriptional tumor-suppressor function.",
+    "mustKnow": [
+      "DNA damage induces p53.",
+      "p53 upregulates p21.",
+      "p21 inhibits cyclin-CDK and arrests the cell cycle.",
+      "Cancer mutations often inactivate p53."
+    ],
+    "terms": [
+      {
+        "term": "p53",
+        "meaning": "A tumor-suppressor transcription factor activated by cellular damage."
+      },
+      {
+        "term": "p21",
+        "meaning": "A p53-induced inhibitor of cyclin-CDK activity."
+      },
+      {
+        "term": "CDK",
+        "meaning": "A cyclin-dependent kinase that helps drive cell-cycle progression."
+      },
+      {
+        "term": "Cell-cycle arrest",
+        "meaning": "A temporary or permanent stop in cell-cycle progression."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "How does p53 arrest the cell cycle after DNA damage?",
+      "options": [
+        "It induces p21, which inhibits cyclin-CDK",
+        "It activates EGFR hyperphosphorylation",
+        "It destroys all MHC molecules",
+        "It converts pyruvate to lactate"
+      ],
+      "answer": 0,
+      "explanation": "The slide gives the sequence p53 upregulation of p21, followed by cyclin-CDK inhibition and cell-cycle arrest."
+    }
+  },
+  {
+    "page": 347,
+    "title": "MDM2 and MDMX Restrain p53",
+    "explain": "MDM2 and MDMX bind p53 and inhibit its transcriptional activity. MDM2 also promotes p53 nuclear export, ubiquitination, and proteasomal degradation, reducing expression of p53 target genes responsible for tumor suppression.",
+    "mustKnow": [
+      "MDM2 and MDMX are negative regulators of p53.",
+      "Both can inhibit p53 transcriptional activity.",
+      "MDM2 promotes p53 ubiquitination and proteasomal degradation."
+    ],
+    "terms": [
+      {
+        "term": "MDM2",
+        "meaning": "A p53-binding negative regulator that promotes p53 ubiquitination and degradation."
+      },
+      {
+        "term": "MDMX",
+        "meaning": "A p53-binding negative regulator that suppresses p53 transcriptional activity."
+      },
+      {
+        "term": "Proteasomal degradation",
+        "meaning": "Destruction of a tagged protein by the proteasome."
+      },
+      {
+        "term": "Nuclear export",
+        "meaning": "Movement of a molecule from the nucleus to the cytoplasm."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which regulator promotes p53 ubiquitination and proteasomal degradation?",
+      "options": [
+        "MDM2",
+        "p21",
+        "EGF",
+        "GPX4"
+      ],
+      "answer": 0,
+      "explanation": "The diagram shows MDM2 binding p53, promoting its export, ubiquitination, and proteasomal degradation."
+    }
+  },
+  {
+    "page": 348,
+    "title": "MDMX Modulates MDM2 Activity",
+    "explain": "MDMX binds p53 and blocks its transcriptional activity. It can also form a heterodimer with MDM2, enhancing MDM2's E3 activity toward p53 and strengthening p53 degradation. The MDM2-MDMX interaction also changes the stability and ubiquitination of the regulators themselves.",
+    "mustKnow": [
+      "MDMX directly inhibits p53 transcriptional activity.",
+      "MDMX forms a heterodimer with MDM2.",
+      "The heterodimer strengthens ubiquitination of p53.",
+      "MDM2 and MDMX also regulate each other's stability."
+    ],
+    "terms": [
+      {
+        "term": "Heterodimer",
+        "meaning": "A complex made from two different protein subunits."
+      },
+      {
+        "term": "E3 activity",
+        "meaning": "Ubiquitin-ligase activity that helps attach ubiquitin to selected targets."
+      },
+      {
+        "term": "Self-ubiquitination",
+        "meaning": "Attachment of ubiquitin to the ubiquitin ligase itself."
+      },
+      {
+        "term": "Transactivation domain",
+        "meaning": "A transcription-factor region that helps activate target-gene expression."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What is one effect of MDMX binding MDM2?",
+      "options": [
+        "Stronger E3 activity toward p53",
+        "Permanent activation of p53 transcription",
+        "Conversion of p53 into a membrane receptor",
+        "Direct synthesis of p21 without p53"
+      ],
+      "answer": 0,
+      "explanation": "The slide shows that the MDM2-MDMX complex has stronger E3 activity than MDM2 alone and promotes p53 degradation."
+    }
+  },
+  {
+    "page": 349,
+    "title": "What Oral Tablets and Capsules Contain",
+    "explain": "Only about 5-10% of an oral formulation may be active pharmaceutical ingredient. Much of the rest consists of fillers, lubricants, glidants, and materials that help the dose disintegrate and dissolve. Hard capsules carry dry powders or pellets, while soft capsules are suited to oils or drug dissolved or suspended in oil.",
+    "mustKnow": [
+      "API may form only 5-10% of an oral product.",
+      "Excipients support manufacturing, disintegration, and dissolution.",
+      "Hard capsules hold dry powders or pellets.",
+      "Soft capsules are used for oils or oil-based contents."
+    ],
+    "terms": [
+      {
+        "term": "API",
+        "meaning": "Active pharmaceutical ingredient, the component producing the intended drug effect."
+      },
+      {
+        "term": "Excipient",
+        "meaning": "A non-active formulation component such as a filler, lubricant, or glidant."
+      },
+      {
+        "term": "Disintegration",
+        "meaning": "Breaking of a tablet or capsule contents into smaller pieces."
+      },
+      {
+        "term": "Dissolution",
+        "meaning": "Movement of drug molecules into solution."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which formulation is best matched on the slide?",
+      "options": [
+        "Soft-shelled capsule - oils or API in oil",
+        "Hard-shelled capsule - only liquid oils",
+        "Tablet - 100% API with no excipients",
+        "Soft-shelled capsule - dry miniature pellets only"
+      ],
+      "answer": 0,
+      "explanation": "The slide assigns oils and API dissolved or suspended in oil to soft-shelled capsules."
+    }
+  },
+  {
+    "page": 350,
+    "title": "Steps Limiting Oral Drug Absorption",
+    "explain": "After an oral dose, the formulation must disintegrate and the drug must dissolve, cross the gastrointestinal wall, and enter the portal vein. Gut-wall and liver metabolism can remove part of the dose before it reaches systemic circulation. The fraction that reaches circulation contributes to bioavailability.",
+    "mustKnow": [
+      "Disintegration and dissolution occur before absorption.",
+      "Drug crosses the gastrointestinal wall into portal blood.",
+      "Gut-wall and hepatic metabolism can reduce the amount reaching circulation.",
+      "Bioavailability reflects drug reaching systemic circulation."
+    ],
+    "terms": [
+      {
+        "term": "Absorption",
+        "meaning": "Movement of a drug from its administration site into the bloodstream."
+      },
+      {
+        "term": "Portal vein",
+        "meaning": "The vessel carrying absorbed gastrointestinal contents to the liver."
+      },
+      {
+        "term": "Hepatic metabolism",
+        "meaning": "Chemical processing of a drug by the liver."
+      },
+      {
+        "term": "Bioavailability",
+        "meaning": "The fraction of an administered dose that reaches systemic circulation."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What can reduce an oral drug dose before it reaches systemic circulation?",
+      "options": [
+        "Gut-wall and hepatic metabolism",
+        "Only tablet color",
+        "MHC presentation",
+        "Caspase activation in bacteria"
+      ],
+      "answer": 0,
+      "explanation": "The diagram shows gut-wall and liver metabolism occurring before drug reaches the hepatic vein and systemic circulation."
+    }
+  }
+]

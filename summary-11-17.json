@@ -1,0 +1,439 @@
+[
+{
+  "topic": "Cell Death Pathways",
+  "oneLiner": "Regulated cell death comes in distinct forms — apoptosis (intrinsic/extrinsic, caspase-driven, non-inflammatory), necroptosis (caspase-independent, lytic, inflammatory), lysosomal/autophagic degradation, and ferroptosis (iron-dependent lipid peroxidation) — distinguished by morphology, machinery and inflammatory outcome.",
+  "sections": [
+    {"heading": "Why programmed cell death & hallmarks of apoptosis", "points": [
+      "Needed for development/morphogenesis, tissue and immune homeostasis, removal of infected/damaged cells, and response to cellular stress.",
+      "Apoptotic morphology: cell shrinkage, chromatin condensation, nuclear fragmentation, membrane blebbing (membrane stays intact), apoptotic bodies → phagocytosis.",
+      "Biochemical hallmarks: caspase activation, DNA fragmentation, phosphatidylserine (PS) exposure on the outer leaflet.",
+      "Caspases cleave cytoskeletal regulators → cortical actin changes → blebbing.",
+      "Caspases cleave plasma-membrane phospholipid-transfer proteins → PS flipped to cell surface (eat-me signal for phagocytes)."
+    ], "pages": [319, 320, 322]},
+    {"heading": "Caspase cascade", "points": [
+      "Caspases = proteases cleaving selected proteins in regulated death.",
+      "Initiator caspases: caspase-8 (extrinsic) and caspase-9 (intrinsic) start the cascade.",
+      "Executioner caspases: caspase-3, -6, -7 cleave cellular targets and dismantle the cell."
+    ], "pages": [321]},
+    {"heading": "Intrinsic (mitochondrial) apoptosis & BCL-2 family", "points": [
+      "Internal stimulus induces pro-apoptotic proteins → BAX/BAK activate and oligomerize in mitochondrial outer membrane → MOMP.",
+      "Cytochrome c released to cytosol → apoptosome forms → activates initiator caspase-9 → executioners → apoptosis.",
+      "Anti-apoptotic BCL-2 (in excess) sequesters pro-apoptotic proteins, blocks BAX/BAK, preserves survival.",
+      "BCL-2 family: 3 pro-apoptotic classes (activators, effectors, derepressors/sensitizers) + 1 anti-apoptotic class.",
+      "Effectors (BAX/BAK) and anti-apoptotic members have BH1–BH4 domains; activators and sensitizers are BH3-only."
+    ], "pages": [323, 324]},
+    {"heading": "Extrinsic (Fas-mediated) apoptosis", "points": [
+      "Fas ligand binds and clusters Fas death receptor on cell surface.",
+      "Adaptor FADD links activated Fas to caspase-8 → DISC (death-inducing signaling complex).",
+      "Caspase-8 dimerizes/activates at DISC → cleaves executioner caspases 3 and 7 → apoptosis."
+    ], "pages": [325]},
+    {"heading": "Necroptosis", "points": [
+      "Regulated but caspase-independent, lytic and inflammatory; favored when caspase-8/apoptosis is absent or inhibited.",
+      "Morphology: plasma-membrane rupture, cytoplasmic swelling and vacuolization, swollen mitochondria; no condensed, fragmented apoptotic nucleus.",
+      "Extrinsic triggers: TNFR1, pattern-recognition receptors TLR3 and TLR4.",
+      "Intrinsic trigger: ZBP1 sensing Z-form nucleic acids.",
+      "Rupture releases DAMPs → detected by T cells, dendritic cells, macrophages → inflammatory mediators and cytokines."
+    ], "pages": [326, 327, 328]},
+    {"heading": "Autophagy/lysosomes & ferroptosis", "points": [
+      "Lysosomes hold enzymes degrading proteins, nucleic acids, carbohydrates, lipids; acidic lumen (low pH) activates them.",
+      "Cathepsins L, B and D = abundant lysosomal proteases.",
+      "Ferroptosis: iron-dependent oxidation of PUFA-containing phospholipids → lipid peroxides → membrane disruption.",
+      "Protective systems: GPX4/glutathione (GSH), FSP1/coenzyme Q, DHFR/BH4; GPX4 reduces phospholipid hydroperoxides.",
+      "Some therapy-resistant cancer cells remain sensitive to ferroptosis induction."
+    ], "pages": [329, 330]}
+  ],
+  "mustRemember": [
+    "Initiators: caspase-8 (extrinsic), caspase-9 (intrinsic); executioners: caspase-3, -6, -7",
+    "Intrinsic: stimulus → BAX/BAK → MOMP → cytochrome c → apoptosome → caspase-9 → caspase-3/7",
+    "Extrinsic: FasL → Fas → FADD → DISC → caspase-8 → caspase-3/7",
+    "BCL-2 = anti-apoptotic; BAX/BAK = pro-apoptotic effectors",
+    "BH1–BH4: effectors + anti-apoptotic; BH3-only: activators + sensitizers/derepressors",
+    "Apoptosis biochemical clues: caspase activation, DNA fragmentation, PS exposure",
+    "Necroptosis triggers: TNFR1, TLR3, TLR4 (extrinsic); ZBP1 + Z-nucleic acids (intrinsic)",
+    "Necroptosis → DAMP release → inflammation",
+    "Cathepsins L, B, D; lysosome activity needs acidic pH",
+    "Ferroptosis: Fe-dependent PUFA-phospholipid peroxidation; defenses GPX4/GSH, FSP1/CoQ, DHFR/BH4"
+  ],
+  "distinguish": [
+    {"pair": "Apoptosis vs necroptosis", "difference": "Apoptosis: caspase-dependent, shrinkage, blebbing with intact membrane, non-inflammatory; necroptosis: caspase-independent, swelling, membrane rupture, DAMPs, inflammatory."},
+    {"pair": "Intrinsic vs extrinsic apoptosis", "difference": "Intrinsic: internal stress → BAX/BAK, cytochrome c, apoptosome, caspase-9; extrinsic: Fas ligand → Fas → FADD/DISC → caspase-8."},
+    {"pair": "Initiator vs executioner caspases", "difference": "Initiators (8, 9) start the cascade upstream; executioners (3, 6, 7) cleave cellular targets to dismantle the cell."},
+    {"pair": "BCL-2 vs BAX/BAK", "difference": "BCL-2 is anti-apoptotic and blocks permeabilization; BAX/BAK are pro-apoptotic effectors that permeabilize the mitochondrial outer membrane."},
+    {"pair": "BH1–BH4 vs BH3-only proteins", "difference": "Effectors and anti-apoptotic members carry BH1–BH4; activators and sensitizers carry only BH3."},
+    {"pair": "Ferroptosis vs apoptosis", "difference": "Ferroptosis is driven by iron-dependent lipid peroxidation (opposed by GPX4), not by the caspase cascade."}
+  ],
+  "traps": [
+    "Not every programmed death is apoptosis — necroptosis and ferroptosis are regulated but use different machinery and morphology.",
+    "Don't swap caspase-8 (extrinsic initiator) and caspase-9 (intrinsic initiator).",
+    "Blebbing with intact membrane = apoptosis; rupture + swelling + DAMP release = necroptosis.",
+    "BCL-2 is anti-apoptotic; BAX and BAK are pro-apoptotic.",
+    "Necroptosis is favored when caspase-8 is inhibited — blocking caspases doesn't necessarily save the cell."
+  ]
+},
+{
+  "topic": "Cancer Biology 1",
+  "oneLiner": "Cancer cells proliferate without normal controls, evade apoptosis, invade and metastasize, and survive via a supportive microenvironment, hypoxia-driven HIF signaling, Warburg glycolysis and immune evasion (e.g., PD-1/PD-L1), which checkpoint blockade can reverse.",
+  "sections": [
+    {"heading": "Origin, epidemiology and defining behaviors", "points": [
+      "Hippocrates' term karkinos (Greek: crab/crayfish) — tumor with outward-spreading veins like crab legs.",
+      "Carcinoma = cancer of epithelial tissue; malignant = capable of destructive growth and spread.",
+      "Incidence (new cases) ≠ mortality (deaths): high incidence does not imply equally high mortality.",
+      "Three defining behaviors: proliferation without normal growth-factor control, invasion through ECM/basement membrane, metastasis to distant sites."
+    ], "pages": [332, 333, 334]},
+    {"heading": "Loss of growth and death controls", "points": [
+      "Homeostasis balances cell division with apoptosis; a tumor forms from ↑division, ↓apoptosis, or both.",
+      "Transformed cells lose contact inhibition → piled-up foci instead of an orderly monolayer.",
+      "Cancer cells bypass anchorage-dependent survival, surviving after leaving their normal tissue position."
+    ], "pages": [335]},
+    {"heading": "Tumor microenvironment and hypoxia/HIF", "points": [
+      "Tumor = malignant cells + nonmalignant stroma (fibroblasts, immune cells, endothelial cells, other support cells).",
+      "Cancer-associated fibroblasts (CAFs) remodel ECM and secrete factors promoting growth, invasion, inflammation, angiogenesis.",
+      "O₂ falls with distance from vessels → hypoxia; severe hypoxia → necrosis.",
+      "Normoxia: HIF-α hydroxylated → recognized by VHL → ubiquitinated → proteasomal degradation.",
+      "Hypoxia: HIF-α stabilized → enters nucleus with HIF-β → activates angiogenesis, metabolism, erythropoiesis genes."
+    ], "pages": [336, 337]},
+    {"heading": "Pyruvate fates and the Warburg effect", "points": [
+      "Glycolysis: glucose → pyruvate (needs NAD⁺).",
+      "Aerobic: pyruvate → acetyl-CoA → citric acid cycle.",
+      "Anaerobic/hypoxic: pyruvate → lactate via lactate dehydrogenase (NADH → NAD⁺); yeast: ethanol + CO₂.",
+      "Warburg effect: cancer cells show high glucose uptake and pyruvate → lactate even when O₂ is available.",
+      "Lactate formation regenerates NAD⁺, sustaining continued glycolysis (metabolic reprogramming)."
+    ], "pages": [338, 339]},
+    {"heading": "Immune evasion and PD-1/PD-L1 blockade", "points": [
+      "CD8 T cells recognize tumor antigens presented on MHC (via TCR).",
+      "Evasion: loss of tumor antigen or MHC, nonclassical HLA, inhibitory signals to T cells, immunosuppressive cytokines, suppressive cells (Treg, MDSC).",
+      "PD-L1 (tumor/immune cell) binds PD-1 (on T cell) → lowers T-cell activity.",
+      "Anti-PD-1 or anti-PD-L1 antibodies (checkpoint inhibitors) block this → restore T-cell activity → tumor-cell death."
+    ], "pages": [340, 341]}
+  ],
+  "mustRemember": [
+    "Karkinos = crab (Hippocrates)",
+    "Incidence = new cases; mortality = deaths",
+    "Hallmarks: uncontrolled proliferation, invasion, metastasis, reduced apoptosis, loss of contact inhibition, anchorage independence",
+    "Normoxia: HIF-α –OH → VHL → ubiquitin → degraded; hypoxia: HIF-α + HIF-β → angiogenesis/erythropoiesis/metabolism genes",
+    "Warburg: aerobic glycolysis → lactate; LDH regenerates NAD⁺",
+    "Stroma: fibroblasts (CAFs), immune cells, endothelial cells",
+    "Suppressive cells: Treg, MDSC",
+    "PD-1 on T cell; PD-L1 on tumor/immune cell; blockade ↑ T-cell activity"
+  ],
+  "distinguish": [
+    {"pair": "Invasion vs metastasis", "difference": "Invasion = local penetration through ECM/basement membrane; metastasis = spread from primary tumor to a new site."},
+    {"pair": "Incidence vs mortality", "difference": "Incidence counts new cases per period; mortality counts deaths per period."},
+    {"pair": "Normoxia vs hypoxia (HIF-α)", "difference": "Normoxia: hydroxylated HIF-α is VHL-targeted and degraded; hypoxia: HIF-α is stable and activates adaptive genes."},
+    {"pair": "Aerobic respiration vs Warburg glycolysis", "difference": "Normal aerobic cells send pyruvate to acetyl-CoA/TCA; Warburg cancer cells convert pyruvate to lactate despite O₂."},
+    {"pair": "PD-1 vs PD-L1", "difference": "PD-1 is the inhibitory receptor on T cells; PD-L1 is its ligand on tumor/immune cells."}
+  ],
+  "traps": [
+    "Invasion and metastasis are not synonyms.",
+    "Tumors don't only arise from faster division — reduced apoptosis also causes net accumulation.",
+    "PD-1:PD-L1 binding suppresses T cells; checkpoint antibodies block the interaction to restore T-cell activity, not to block T cells.",
+    "Warburg effect occurs even when oxygen is present — it is not simply anaerobic fermentation due to hypoxia.",
+    "Tumor stroma is nonmalignant, yet it actively supports tumor progression."
+  ]
+},
+{
+  "topic": "Cancer Biology 2 and Drug Development",
+  "oneLiner": "Cancer arises from accumulated mutations activating oncogenes (EGFR, RAS) and inactivating tumor suppressors like p53 (restrained by MDM2/MDMX); the lecture then introduces oral formulation, absorption routes, bioavailability and ADME.",
+  "sections": [
+    {"heading": "Mutagenesis and multistep cancer", "points": [
+      "Chemical carcinogens alter nucleotide sequences; X-rays cause chromosome breaks and translocations; UV damages specific DNA bases.",
+      "Cancer usually needs multiple rare, independent genetic and epigenetic changes.",
+      "The altered lineage descends from a single cell.",
+      "Epigenetic change = heritable change in gene activity without DNA-sequence change."
+    ], "pages": [343]},
+    {"heading": "Oncogenes vs tumor suppressors; EGFR and RAS", "points": [
+      "Proto-oncogene → oncogene by gain-of-function; one altered allele can suffice (dominant).",
+      "Activation routes: coding/regulatory mutation, gene amplification, chromosome rearrangement.",
+      "Tumor suppressors act via loss of function; usually both copies must be inactivated (recessive at cell level).",
+      "EGF binds EGFR extracellular domain → intracellular domain phosphorylation; truncation → ligand-independent hyperphosphorylation/hyperactivation.",
+      "RAS GTPases (HRAS, NRAS, KRAS) signal when GTP-bound; mutant RAS stays in active GTP-bound state."
+    ], "pages": [344, 345]},
+    {"heading": "p53 and its regulators MDM2/MDMX", "points": [
+      "DNA damage ↑ p53 (transcription factor) → ↑ p21 → p21 inhibits cyclin-CDK → cell-cycle arrest for repair.",
+      "Cancer-associated p53 mutations disable its transcriptional tumor-suppressor function.",
+      "MDM2 and MDMX bind p53 and inhibit its transcriptional activity.",
+      "MDM2 (E3 ligase) promotes p53 nuclear export, ubiquitination and proteasomal degradation.",
+      "MDMX–MDM2 heterodimer enhances MDM2 E3 activity toward p53; the two also regulate each other's stability/ubiquitination."
+    ], "pages": [346, 347, 348]},
+    {"heading": "Oral formulations and absorption", "points": [
+      "API may be only ~5–10% of an oral tablet/capsule; rest are excipients (fillers, lubricants, glidants, disintegration/dissolution aids).",
+      "Hard capsules: dry powders/pellets; soft capsules: oils or drug dissolved/suspended in oil.",
+      "Oral path: disintegration → dissolution → cross GI wall → portal vein → liver → systemic circulation.",
+      "Gut-wall and hepatic metabolism remove part of dose before systemic circulation, lowering bioavailability."
+    ], "pages": [349, 350]},
+    {"heading": "Routes of administration and ADME", "points": [
+      "IV enters blood directly, avoiding digestive-tract breakdown.",
+      "IM absorbed rapidly (muscle well vascularized); SC used for insulin and monoclonal antibodies; transdermal patches give controlled delivery; sublingual absorbed via mucosa under tongue.",
+      "Other routes: oral, inhaled, topical, epidural, rectal.",
+      "ADME = Absorption (site → blood), Distribution (blood → tissues), Metabolism (inactivate drug or activate prodrug; CYP450), Excretion (mainly kidney; also bile).",
+      "Bioavailability = fraction of dose reaching systemic circulation."
+    ], "pages": [351, 352]}
+  ],
+  "mustRemember": [
+    "DNA damage → p53 → p21 ⊣ cyclin-CDK → arrest",
+    "MDM2: inhibits p53, nuclear export, ubiquitination, proteasomal degradation; MDMX: inhibits transactivation, heterodimer boosts MDM2 E3 activity",
+    "Oncogene = gain of function, one allele; tumor suppressor = loss of function, both alleles",
+    "Proto-oncogene activation: mutation, amplification, rearrangement",
+    "RAS family: HRAS, NRAS, KRAS (GTPases, active when GTP-bound)",
+    "Carcinogens: chemicals (sequence), X-rays (breaks/translocations), UV (base damage)",
+    "API ≈ 5–10% of oral formulation",
+    "Oral: disintegration → dissolution → GI wall → portal vein → liver (first-pass) → circulation",
+    "ADME; CYP450 = major drug-metabolizing enzyme family; main excretion = kidney"
+  ],
+  "distinguish": [
+    {"pair": "Oncogene vs tumor-suppressor gene", "difference": "Oncogene: activating gain-of-function, one copy enough; tumor suppressor: loss-of-function, usually both copies lost."},
+    {"pair": "MDM2 vs MDMX", "difference": "Both inhibit p53 transactivation; MDM2 also ubiquitinates/exports/degrades p53, while MDMX enhances MDM2's E3 activity via heterodimer."},
+    {"pair": "Hard vs soft capsules", "difference": "Hard hold dry powders/pellets; soft hold oils or drug in oil."},
+    {"pair": "Disintegration vs dissolution", "difference": "Disintegration = dosage form breaks into pieces; dissolution = drug molecules enter solution."},
+    {"pair": "IV vs oral", "difference": "IV enters blood directly (no GI/first-pass loss); oral must be absorbed and survive gut-wall and hepatic metabolism."}
+  ],
+  "traps": [
+    "Don't reverse gene logic: oncogenes are activated drivers; tumor suppressors contribute when lost.",
+    "p53 is a tumor suppressor; MDM2/MDMX are its negative regulators (pro-cancer when overactive).",
+    "Bioavailability is the fraction reaching systemic circulation, not the amount swallowed or absorbed into portal blood.",
+    "Metabolism doesn't always inactivate — it can activate a prodrug.",
+    "A single mutation rarely causes cancer; multiple accumulated changes are usually needed."
+  ]
+},
+{
+  "topic": "Drug Development 1",
+  "oneLiner": "Pharmacokinetics (ADME, the concentration–time curve with Cmax, tmax, t½, AUC) and drug metabolism (Phase I/II/III, paracetamol–glutathione safety story) set the stage for a high-attrition development pipeline that narrows ~10,000 candidates to one approved drug.",
+  "sections": [
+    {"heading": "ADME revisited", "points": [
+      "Four linked stages: route/formulation affect absorption; blood flow and binding affect distribution; enzymes alter drug in metabolism; kidneys, bile, lungs, secretions excrete.",
+      "Distribution depends on blood flow, molecular size, lipophilicity, plasma-protein binding.",
+      "Kidney = main excretion route shown.",
+      "Prodrug = inactive/less active compound converted to active drug in the body."
+    ], "pages": [354]},
+    {"heading": "Plasma concentration–time curve", "points": [
+      "Cmax = highest plasma concentration; tmax = time at which Cmax occurs.",
+      "t½ (half-life) = time for concentration to fall by half — how fast levels decline.",
+      "AUC = area under the curve = total drug exposure over time."
+    ], "pages": [355]},
+    {"heading": "Drug metabolism reactions", "points": [
+      "Metabolism converts lipophilic drugs into more hydrophilic products for elimination.",
+      "Phase I (functionalization): hydroxylation, oxidation, reduction, hydrolysis, dealkylation — introduce/expose functional groups.",
+      "Phase II (conjugation): glucuronidation, sulphonation, glutathione conjugation, methylation, acetylation — attach hydrophilic groups.",
+      "Outcome may be detoxification, activation, or a toxic metabolite."
+    ], "pages": [356]},
+    {"heading": "Paracetamol and Phase III glutathione-conjugate handling", "points": [
+      "Most paracetamol → conjugated products; a minor route gives a reactive metabolite neutralized by glutathione.",
+      "Glutathione depletion increases danger from the reactive pathway.",
+      "Phase III: mercapturic acid pathway trims GSH conjugate → cysteine conjugate → N-acetylation → urinary excretion.",
+      "Competing β-lyase route on cysteine conjugates → reactive thiols → nephrotoxicity."
+    ], "pages": [357, 358]},
+    {"heading": "Drug-development pipeline and attrition", "points": [
+      "Discovery (target identification, validation, lead finding, lead optimization) → preclinical (short-term testing, formulation, PK) → clinical Phase I, II, III → regulatory approval (efficacy + safety review).",
+      "~10,000 candidates → ~250 preclinical → ~5 clinical → 1 drug.",
+      "Filters: target activity, safety, stability, solubility, reversibility, oral usefulness, patentability, manufacturability — potency alone is not enough.",
+      "Scale-up: surviving molecule must be manufactured safely at large scale."
+    ], "pages": [359, 360, 361]}
+  ],
+  "mustRemember": [
+    "Cmax = peak concentration; tmax = time to peak; t½ = time to halve; AUC = total exposure",
+    "Phase I: oxidation, reduction, hydrolysis, hydroxylation, dealkylation",
+    "Phase II: glucuronidation, sulphonation, GSH conjugation, methylation, acetylation",
+    "Phase III: mercapturic acid pathway → cysteine conjugate → N-acetyl → urine",
+    "β-lyase on cysteine conjugates → reactive thiols → nephrotoxicity",
+    "Paracetamol reactive metabolite detoxified by glutathione",
+    "Funnel: 10,000 → 250 → 5 → 1",
+    "Stages: discovery → preclinical → clinical (I, II, III) → regulatory approval",
+    "Distribution factors: blood flow, size, lipophilicity, plasma-protein binding"
+  ],
+  "distinguish": [
+    {"pair": "Cmax vs AUC", "difference": "Cmax is the single highest concentration; AUC is total exposure integrated over time."},
+    {"pair": "tmax vs t½", "difference": "tmax is when the peak occurs; t½ is how long concentration takes to fall by half."},
+    {"pair": "Phase I vs Phase II metabolism", "difference": "Phase I introduces/exposes functional groups (oxidation, reduction, hydrolysis); Phase II conjugates polar groups (glucuronide, sulphate, GSH)."},
+    {"pair": "Mercapturic acid route vs β-lyase route", "difference": "Mercapturic acid: N-acetylated cysteine conjugate excreted in urine (safe); β-lyase: reactive thiols damaging kidney."},
+    {"pair": "Preclinical vs clinical development", "difference": "Preclinical tests safety/activity, formulation, PK before humans; clinical tests in humans through Phases I–III."}
+  ],
+  "traps": [
+    "Don't confuse Cmax (highest concentration) with AUC (total exposure).",
+    "Not every metabolic reaction is detoxification — some produce reactive/toxic metabolites (paracetamol, β-lyase thiols).",
+    "A hit/candidate is not an approved drug; potency alone does not make a drug.",
+    "Clinical Phases I–III are human trials — distinct from metabolic Phases I–III."
+  ]
+},
+{
+  "topic": "Drug Development 2",
+  "oneLiner": "Drug discovery picks biomolecular targets and finds hits by computational (structure-/ligand-based) or high-throughput screening, illustrated by RAAS and the captopril story: venom peptide teprotide → first orally bioavailable ACE inhibitor with Zn²⁺-binding SAR.",
+  "sections": [
+    {"heading": "Biomolecules as drug targets", "points": [
+      "Proteins: receptors, enzymes, carrier proteins, structural proteins (receptors and enzymes are key).",
+      "Nucleic acids: DNA and RNA.",
+      "Lipids form membranes; carbohydrates on cell surfaces aid recognition."
+    ], "pages": [363]},
+    {"heading": "Computational (in-silico) screening", "points": [
+      "Virtual screening ranks molecules computationally before lab testing.",
+      "Structure-based: uses target 3D structure → docking, scoring, ranking.",
+      "Ligand-based: uses known ligands → similarity, pharmacophore, QSAR models.",
+      "Predicted hits must still be validated in a biological assay."
+    ], "pages": [364]},
+    {"heading": "High-throughput screening (HTS)", "points": [
+      "Automated assays rapidly test very large compound libraries.",
+      "Primary hits → secondary assays (confirm) → dose-response → leads.",
+      "Leads are optimized by medicinal chemistry.",
+      "Hit = compound giving desired assay result; lead = promising hit selected for optimization."
+    ], "pages": [365]},
+    {"heading": "Renin–angiotensin–aldosterone system", "points": [
+      "Low blood pressure or low Na⁺ → renin released from kidney.",
+      "Renin → angiotensin I; ACE cleaves angiotensin I (peptide precursor) → angiotensin II.",
+      "Angiotensin II → vasoconstriction + aldosterone release → Na⁺/water retention → ↑ blood pressure.",
+      "ACE inhibitor ↓ angiotensin II formation → lowers blood pressure."
+    ], "pages": [366, 367]},
+    {"heading": "Captopril: discovery, binding and SAR", "points": [
+      "Bothrops jararaca (Brazilian pit viper) venom showed hypotensive activity.",
+      "Teprotide = nonapeptide (9 aa) ACE inhibitor from venom → peptide lead; analog studies → captopril, first orally bioavailable ACE inhibitor.",
+      "Binding: zinc-binding group coordinates catalytic Zn²⁺ (essential); carboxylate makes ionic + H-bond interactions; hydrophobic groups fill hydrophobic pockets.",
+      "SAR: N-ring must carry a carboxylic acid; larger hydrophobic N-rings improve potency and PK.",
+      "Zn-binding groups: thiol > carboxylate, phosphate; esterifying carboxylate/phosphate gives prodrugs."
+    ], "pages": [368, 369, 370]}
+  ],
+  "mustRemember": [
+    "Structure-based: docking/scoring; ligand-based: similarity, pharmacophore, QSAR",
+    "HTS: primary screen → secondary assay → dose-response → lead",
+    "RAAS: renin → Ang I → (ACE) → Ang II → vasoconstriction + aldosterone",
+    "Bothrops jararaca venom → teprotide (9-aa peptide) → captopril",
+    "Captopril = first orally bioavailable ACE inhibitor",
+    "Captopril contacts: Zn²⁺ coordination, carboxylate ionic/H-bond, hydrophobic pockets",
+    "Zn-binding strength: thiol > carboxylate/phosphate",
+    "Esterification → prodrug"
+  ],
+  "distinguish": [
+    {"pair": "Structure-based vs ligand-based virtual screening", "difference": "Structure-based uses the target's 3D structure (docking); ligand-based uses known actives (similarity, pharmacophore, QSAR)."},
+    {"pair": "Virtual screening vs HTS", "difference": "Virtual screening ranks compounds in silico; HTS experimentally tests large libraries with automated assays."},
+    {"pair": "Hit vs lead", "difference": "Hit = compound active in a screen; lead = confirmed, promising hit chosen for optimization."},
+    {"pair": "Teprotide vs captopril", "difference": "Teprotide is the venom nonapeptide lead; captopril is the orally bioavailable small-molecule ACE inhibitor derived from it."},
+    {"pair": "Angiotensin I vs angiotensin II", "difference": "Ang I is the precursor made via renin; Ang II is the active ACE product causing vasoconstriction and aldosterone release."}
+  ],
+  "traps": [
+    "Captopril is not the venom peptide — teprotide was the peptide lead.",
+    "Computational hits are predictions; they must be confirmed by biological assay.",
+    "A hit is not an approved drug.",
+    "ACE converts Ang I → Ang II; renin (not ACE) initiates the cascade.",
+    "Thiol, not carboxylate, is the strongest Zn²⁺-binding group in the SAR shown."
+  ]
+},
+{
+  "topic": "Drug Development and Techniques",
+  "oneLiner": "Drug discovery strategies (virtual, HTS and phenotypic screening, e.g., RAS-mutant selectivity by EC50), prodrug design and activation, and the thermal shift assay (TSA) as a protein-stability and ligand-binding readout.",
+  "sections": [
+    {"heading": "Virtual and HTS workflows", "points": [
+      "Virtual screening starts from a protein structure or known active ligands → ranked hit list → biological assay for confirmation.",
+      "Computation ranks candidates; it does not prove activity.",
+      "HTS uses automated liquid handlers and detection: primary screen → secondary assays (remove false/nonreproducible hits) → dose-response → lead."
+    ], "pages": [372, 373]},
+    {"heading": "Phenotypic screening and RAS example", "points": [
+      "Selects compounds by an observable change in cells/organisms (e.g., halting proliferation); target need not be known first.",
+      "Target deconvolution may be needed afterwards; contrast target-based screening against a predefined target.",
+      "HRAS, KRAS, NRAS = small GTPases (GTP/GDP switch) in proliferation, growth, apoptosis; mutated in ~30% of human cancers.",
+      "EC50 = concentration giving half-maximal effect; lower EC50 = greater potency.",
+      "Compounds more potent (lower EC50) in HRAS-G12V mutant than wild-type cells → mutant-selective."
+    ], "pages": [374, 375]},
+    {"heading": "Ferroptosis as a phenotype", "points": [
+      "Regulated cell death from iron-associated oxidation of PUFA-containing phospholipids → lipid peroxides.",
+      "Iron uptake and lipoxygenase-linked reactions promote damage.",
+      "Glutathione-dependent peroxidase (GPX) and ferroptosis suppressor protein (FSP) pathways oppose it."
+    ], "pages": [376]},
+    {"heading": "Prodrugs", "points": [
+      "Inactive/less active derivative converted to active drug in the body.",
+      "Fix poor solubility, absorption/permeability, instability, toxicity, bad taste, short duration; may enable new route or dosage form.",
+      "Promoiety = temporary group masking part of the drug, later removed.",
+      "Activation: enzymes (phosphatases, esterases, peptidases), chemical (hydrolysis, decarboxylation, light), or both.",
+      "Taste masking: bitter, water-soluble chloramphenicol → less soluble chloramphenicol palmitate, which dissolves less in the mouth."
+    ], "pages": [377, 378, 379]},
+    {"heading": "Thermal shift assay (TSA)", "points": [
+      "Protein heated gradually; SYPRO Orange fluoresces upon binding hydrophobic surfaces exposed by unfolding.",
+      "Fluorescence rises during unfolding; Tm = midpoint of the transition; signal later falls as aggregates release dye.",
+      "Derivative plot locates the transition peak; RecA example shows pH alters Tm — higher Tm = more thermally stable.",
+      "Ligand binding preferentially to native fold stabilizes it → melt curve shifts to higher Tm (positive thermal shift)."
+    ], "pages": [380, 381, 382]}
+  ],
+  "mustRemember": [
+    "EC50 = half-maximal effect concentration; lower EC50 = more potent",
+    "RAS (HRAS/KRAS/NRAS) mutated in ~30% human cancers; HRAS-G12V example",
+    "Phenotypic screening: target unknown → later target deconvolution",
+    "Prodrug activators: phosphatase, esterase, peptidase; hydrolysis, decarboxylation, light",
+    "Chloramphenicol → chloramphenicol palmitate (taste masking)",
+    "TSA dye: SYPRO Orange binds exposed hydrophobic surfaces",
+    "Tm = midpoint of unfolding; higher Tm = more stable",
+    "Ligand binding → positive ΔTm"
+  ],
+  "distinguish": [
+    {"pair": "Phenotypic vs target-based screening", "difference": "Phenotypic selects by observable cell/organism effect without knowing target; target-based screens against a predefined molecular target."},
+    {"pair": "Primary screen vs secondary assay", "difference": "Primary finds possible hits at large scale; secondary confirms and characterizes them, removing false positives."},
+    {"pair": "Enzymatic vs chemical prodrug activation", "difference": "Enzymatic uses esterases/phosphatases/peptidases; chemical uses hydrolysis, decarboxylation or light."},
+    {"pair": "Fluorescence rise vs fall in TSA", "difference": "Rise = unfolding exposes hydrophobic sites binding SYPRO Orange; fall = aggregation releases dye."}
+  ],
+  "traps": [
+    "Lower EC50 means greater potency, not weaker activity.",
+    "A TSA Tm shift supports ligand binding but is not a full affinity measurement and doesn't locate the binding site.",
+    "Virtual screening outputs a ranked hit list — not proof of activity.",
+    "The taste-masking prodrug works by reducing water solubility, not by adding a sweet group."
+  ]
+},
+{
+  "topic": "Techniques in Biochemistry and Biophysics",
+  "oneLiner": "Biophysical methods for stability and interactions: TSA (Tm shift), isothermal titration calorimetry (heat of binding → Ka, n, ΔH; c-value), and FRET (distance-dependent energy transfer, e.g., cameleon Ca²⁺ sensor), with p53–MDM2 and Bcl-2 as interaction targets.",
+  "sections": [
+    {"heading": "TSA signal and binding readout", "points": [
+      "Heating unfolds protein → exposed hydrophobic regions bind SYPRO Orange → fluorescence ↑.",
+      "Tm read at transition midpoint; aggregation at higher temperature releases dye → signal ↓.",
+      "Compare protein ± ligand: positive Tm shift = stabilizing interaction.",
+      "Detects stability change, not the binding site."
+    ], "pages": [384, 385]},
+    {"heading": "ITC setup and titration", "points": [
+      "Sample cell (protein) and reference cell (buffer) in insulated jacket; instrument detects tiny temperature differences.",
+      "Measures feedback power needed to keep both cells at same temperature as binding releases/absorbs heat.",
+      "Exothermic binding (ΔH < 0) → sample-cell feedback power decreases; endothermic → increases.",
+      "Early injections: binding sites mostly free → large peaks; signal returns to baseline before next injection.",
+      "As sites fill, peaks shrink; at saturation signal is mainly heat of dilution."
+    ], "pages": [386, 387, 388]},
+    {"heading": "Reading ITC data and c-value", "points": [
+      "Raw trace: one peak per injection (power vs time); integrate each peak → heat per injection.",
+      "Plot heat vs ligand:protein molar ratio → binding isotherm.",
+      "Plateau → ΔH; inflection point → stoichiometry (n); slope → affinity (Ka); Ka = 1/Kd.",
+      "c = n[P]Ka controls sigmoidicity; a sigmoidal isotherm is needed for accurate fitting.",
+      "Ligand-into-buffer dilution control measured separately and subtracted."
+    ], "pages": [389, 390]},
+    {"heading": "Interaction targets: p53–MDM2/MDMX and Bcl-2", "points": [
+      "MDM2 and MDMX negatively regulate tumor suppressor p53.",
+      "MDM2 binds p53 → ubiquitination, nuclear export, proteasomal degradation → ↓ p53 target-gene expression.",
+      "Bcl-2 family (pro- and anti-apoptotic members) interact at mitochondrial membrane; balance decides permeabilization → caspase activation."
+    ], "pages": [391, 392]},
+    {"heading": "FRET and the cameleon Ca²⁺ sensor", "points": [
+      "Nonradiative energy transfer from excited donor to nearby acceptor fluorophore.",
+      "Requires donor emission/acceptor absorption spectral overlap and short distance (usually within ~10 nm).",
+      "E = 1/[1 + (r/R₀)⁶]; R₀ (Förster radius) = distance at 50% efficiency; efficiency falls steeply with distance.",
+      "Cameleon: CFP–calmodulin–M13–YFP; genetically encoded Ca²⁺ sensor in living cells.",
+      "No Ca²⁺ → weak FRET, cyan emission; Ca²⁺ → calmodulin binds M13 → CFP/YFP close → FRET ↑ → yellow emission."
+    ], "pages": [393, 394]}
+  ],
+  "mustRemember": [
+    "TSA: SYPRO Orange, Tm = transition midpoint, ligand → +ΔTm",
+    "ITC gives Ka (affinity), n (stoichiometry), ΔH (enthalpy) from one experiment",
+    "Ka = 1/Kd",
+    "c = n[P]Ka (needs sigmoidal isotherm)",
+    "Exothermic: ΔH < 0, feedback power ↓; endothermic: power ↑",
+    "Isotherm: plateau → ΔH, inflection → n, slope → Ka",
+    "After saturation: heat of dilution only; subtract ligand-into-buffer control",
+    "FRET E = 1/[1 + (r/R₀)⁶]; R₀ = 50% efficiency; ~10 nm range",
+    "Cameleon: CFP donor, YFP acceptor, calmodulin + M13; Ca²⁺ → yellow"
+  ],
+  "distinguish": [
+    {"pair": "TSA vs ITC", "difference": "TSA measures fluorescence-based thermal stability (Tm shift); ITC measures binding heat to give Ka, n and ΔH."},
+    {"pair": "Exothermic vs endothermic ITC binding", "difference": "Exothermic releases heat (ΔH < 0, feedback power decreases); endothermic absorbs heat (feedback power increases)."},
+    {"pair": "Ka vs Kd", "difference": "Ka = association constant (larger = tighter); Kd = dissociation constant; Ka = 1/Kd."},
+    {"pair": "Early vs late ITC injections", "difference": "Early: many free sites, large peaks; late: saturated sites, small peaks from heat of dilution."},
+    {"pair": "FRET donor vs acceptor", "difference": "Donor (e.g., CFP) supplies excitation energy; acceptor (e.g., YFP) receives it and emits."},
+    {"pair": "Cameleon without vs with Ca²⁺", "difference": "Without Ca²⁺: weak FRET, cyan emission; with Ca²⁺: calmodulin–M13 binding, strong FRET, yellow emission."}
+  ],
+  "traps": [
+    "ITC heat peaks are power-vs-time signals, not concentrations — integrate before fitting the isotherm.",
+    "TSA Tm shift indicates stabilization but is not a complete affinity or binding-site measurement.",
+    "FRET needs both proximity (~10 nm) and spectral overlap; co-expression of donor and acceptor doesn't prove interaction.",
+    "FRET efficiency varies with the sixth power of distance — not linearly.",
+    "Late-titration signal is heat of dilution, not binding; it must be subtracted via a ligand-into-buffer control."
+  ]
+}
+]

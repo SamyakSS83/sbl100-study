@@ -1,0 +1,150 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>SBL100 Slide Companion</title>
+  <style>
+    :root{color-scheme:light dark;--bg:#eef1ed;--panel:#fff;--ink:#15201a;--muted:#647069;--line:#cbd2cd;--accent:#176b48;--accent2:#dff1e7;--bad:#a33b2b;--good:#147044}
+    @media(prefers-color-scheme:dark){:root{--bg:#0e1511;--panel:#18211c;--ink:#edf5ef;--muted:#a8b5ad;--line:#34443a;--accent:#77d6a3;--accent2:#203d2e;--bad:#ff9d8e;--good:#78dda4}}
+    *{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.45 ui-sans-serif,system-ui,-apple-system,sans-serif}
+    button{font:inherit}.app{min-height:100vh;display:flex;flex-direction:column}.top{padding:12px 18px;background:var(--panel);border-bottom:1px solid var(--line);display:flex;gap:14px;align-items:center;flex-wrap:wrap}
+    h1{font-size:18px;margin:0}.meta{color:var(--muted)}.grow{flex:1}.progress{height:8px;background:var(--line)}.bar{height:100%;background:var(--accent);transition:width .2s}
+    .workspace{flex:1;display:grid;grid-template-columns:minmax(420px,1.25fr) minmax(340px,.75fr);gap:14px;padding:14px;min-height:0}
+    .slide-pane,.help-pane{background:var(--panel);border:1px solid var(--line);border-radius:14px;overflow:hidden}.slide-pane{display:flex;align-items:center;justify-content:center;padding:12px;min-height:70vh}
+    .slide-pane img{max-width:100%;max-height:78vh;object-fit:contain;box-shadow:0 3px 18px #0003}.help-pane{padding:20px;overflow:auto;max-height:82vh}
+    h2{font-size:23px;line-height:1.2;margin:0 0 8px}h3{font-size:15px;margin:20px 0 7px}.explain{font-size:17px}.must{padding-left:20px}.must li{margin:7px 0}
+    .terms{display:grid;grid-template-columns:auto 1fr;gap:7px 12px;margin:0}.terms dt{font-weight:700}.terms dd{margin:0;color:var(--muted)}
+    .check{margin-top:22px;border-top:1px solid var(--line);padding-top:18px}.question{font-size:20px;font-weight:650;margin-bottom:14px}.choices{display:grid;gap:8px}.choice,.tap,.navbtn{border:1px solid var(--line);border-radius:10px;background:transparent;color:var(--ink);padding:11px 13px;text-align:left}.choice:hover,.tap:hover,.navbtn:hover:not(:disabled){border-color:var(--accent)}
+    .choice.correct{border-color:var(--good);background:var(--accent2)}.choice.wrong{border-color:var(--bad)}.feedback{margin-top:12px;padding:12px;background:var(--accent2);border-radius:10px}
+    .bottom{padding:10px 18px;background:var(--panel);border-top:1px solid var(--line);display:flex;align-items:center;gap:10px}.navbtn{text-align:center}.primary{background:var(--accent);color:var(--bg);border-color:var(--accent)}button:disabled{opacity:.38;cursor:not-allowed}
+    .done{color:var(--good);font-weight:700}.locked{color:var(--muted)}.timer{font-variant-numeric:tabular-nums;font-weight:700}
+    .diagram{border-left:4px solid var(--accent);padding-left:12px}.testing .slide-pane,.testing #studyContent{display:none}.testing .workspace{grid-template-columns:minmax(340px,760px);justify-content:center}.testing .help-pane{min-height:60vh;max-height:none}
+    @media(max-width:850px){.workspace{grid-template-columns:1fr}.slide-pane{min-height:auto}.slide-pane img{max-height:none}.help-pane{max-height:none}}
+  </style>
+</head>
+<body>
+<main class="app">
+  <header class="top">
+    <h1>SBL100 Slide Companion</h1>
+    <span id="lecture" class="meta"></span>
+    <span class="grow"></span>
+    <span id="counter"></span>
+    <span id="timer" class="timer">25:00</span>
+    <button id="timerButton" class="navbtn">Start timer</button>
+  </header>
+  <div class="progress"><div id="bar" class="bar"></div></div>
+  <section class="workspace">
+    <div class="slide-pane">
+      <img id="slideImage" alt="">
+    </div>
+    <article class="help-pane">
+      <div id="studyContent">
+        <h2 id="title"></h2>
+        <p id="explain" class="explain"></p>
+        <section id="diagramSection" class="diagram"><h3>How to read the diagram</h3><ul id="diagramGuide" class="must"></ul></section>
+        <section id="knowSection"><h3>What the examiner can ask</h3><ul id="mustKnow" class="must"></ul></section>
+        <section id="termsSection"><h3>Decode the vocabulary</h3><dl id="terms" class="terms"></dl></section>
+      </div>
+      <section id="interaction" class="check"></section>
+    </article>
+  </section>
+  <footer class="bottom">
+    <button id="back" class="navbtn">Previous slide</button>
+    <span id="gate" class="locked">Answer this slide to continue</span>
+    <span class="grow"></span>
+    <button id="next" class="navbtn primary" disabled>Next slide</button>
+  </footer>
+</main>
+<script>
+const SLIDES=__SLIDE_DATA__;
+const KEY="sbl-slide-companion-v3";
+const stored=JSON.parse(localStorage.getItem(KEY)||"{}");
+let current=Math.min(stored.current||0,SLIDES.length-1);
+let unlocked=Math.max(stored.unlocked||0,current);
+let completed=new Set(stored.completed||[]);
+let questionProgress=stored.questionProgress||{};
+let studyOverride=false;
+let timer=1500,timerHandle=null;
+const $=id=>document.getElementById(id);
+const pad=n=>String(n).padStart(3,"0");
+const esc=s=>String(s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const save=()=>localStorage.setItem(KEY,JSON.stringify({current,unlocked,completed:[...completed],questionProgress}));
+function complete(){
+  completed.add(current);
+  if(current===unlocked&&unlocked<SLIDES.length-1)unlocked++;
+  save();renderGate();
+}
+function renderGate(){
+  const ok=completed.has(current);
+  $("next").disabled=!ok || current===SLIDES.length-1;
+  $("gate").textContent=ok?(current===SLIDES.length-1?"Course complete":"Slide cleared"):"Answer this slide to continue";
+  $("gate").className=ok?"done":"locked";
+  $("bar").style.width=`${completed.size/SLIDES.length*100}%`;
+}
+function renderInteraction(s){
+  const box=$("interaction"),x=s.interaction;
+  if(x.type==="tap"){
+    box.innerHTML=`<button id="tapDone" class="tap">${esc(x.label)}</button>`;
+    $("tapDone").onclick=()=>{complete();$("tapDone").textContent="Cleared ✓";$("tapDone").disabled=true};
+    if(completed.has(current)){$("tapDone").textContent="Cleared ✓";$("tapDone").disabled=true}
+    return;
+  }
+  if(completed.has(current)&&!studyOverride){showQuestion(s,true);return}
+  box.innerHTML=`<p><strong>${completed.has(current)?"Review the slide and notes.":"Study the slide and notes first."}</strong> When ready, the slide and explanation will be hidden.</p><button id="testMe" class="tap primary">${completed.has(current)?"Test again without clues":"Test me without clues"}</button>`;
+  $("testMe").onclick=()=>showQuestion(s,false);
+}
+function showQuestion(s,reviewed){
+  const x=s.interaction,box=$("interaction");
+  const questions=x.type==="mcq-set"?x.questions:[x];
+  let qi=Math.min(questionProgress[current]||0,questions.length-1);
+  const q=questions[qi];
+  document.body.classList.add("testing");
+  box.innerHTML=`${questions.length>1?`<div class="meta">Question ${qi+1} of ${questions.length}</div>`:""}<div class="question">${esc(q.q)}</div><div class="choices">${q.options.map((o,i)=>`<button class="choice" data-i="${i}">${String.fromCharCode(65+i)}. ${esc(o)}</button>`).join("")}</div><div id="feedback" class="feedback" hidden></div><div id="questionActions"></div><button id="reviewSlide" class="navbtn" style="margin-top:12px">Review slide and explanation</button>`;
+  $("reviewSlide").onclick=()=>{studyOverride=true;document.body.classList.remove("testing");render()};
+  const buttons=[...box.querySelectorAll(".choice")];
+  buttons.forEach(b=>b.onclick=()=>{
+    const pick=+b.dataset.i;
+    buttons.forEach((c,i)=>{c.disabled=true;if(i===q.answer)c.classList.add("correct")});
+    if(pick!==q.answer)b.classList.add("wrong");
+    $("feedback").hidden=false;
+    $("feedback").innerHTML=`<strong>${pick===q.answer?"Correct.":"Correct answer: "+String.fromCharCode(65+q.answer)+"."}</strong> ${esc(q.explanation)}`;
+    if(qi<questions.length-1){
+      $("questionActions").innerHTML=`<button id="nextQuestion" class="tap primary" style="margin-top:12px">Next question</button>`;
+      $("nextQuestion").onclick=()=>{questionProgress[current]=qi+1;save();showQuestion(s,false)};
+    }else{
+      questionProgress[current]=questions.length;
+      complete();
+    }
+  });
+  if(reviewed){
+    buttons.forEach((c,i)=>{c.disabled=true;if(i===q.answer)c.classList.add("correct")});
+    $("feedback").hidden=false;$("feedback").textContent=q.explanation;
+  }
+}
+function render(){
+  const s=SLIDES[current];
+  document.body.classList.remove("testing");
+  $("lecture").textContent=`${s.lecture} · lecture slide ${s.slideInLecture}`;
+  $("counter").textContent=`Slide ${s.page} / ${SLIDES.length}`;
+  $("slideImage").src=`slides/slide-${pad(s.page)}.jpg`;
+  $("slideImage").alt=`Slide ${s.page}: ${s.title}`;
+  $("title").textContent=s.title;
+  $("explain").textContent=s.explain;
+  $("mustKnow").innerHTML=s.mustKnow.map(x=>`<li>${esc(x)}</li>`).join("");
+  $("knowSection").hidden=!s.mustKnow.length;
+  $("diagramGuide").innerHTML=(s.diagramGuide||[]).map(x=>`<li>${esc(x)}</li>`).join("");
+  $("diagramSection").hidden=!(s.diagramGuide||[]).length;
+  $("terms").innerHTML=s.terms.map(x=>`<dt>${esc(x.term)}</dt><dd>${esc(x.meaning)}</dd>`).join("");
+  $("termsSection").hidden=!s.terms.length;
+  $("back").disabled=current===0;
+  renderInteraction(s);renderGate();
+}
+$("back").onclick=()=>{if(current>0){current--;studyOverride=false;save();render()}};
+$("next").onclick=()=>{if(completed.has(current)&&current<SLIDES.length-1){current++;studyOverride=false;save();render()}};
+function tick(){timer--;if(timer<=0){clearInterval(timerHandle);timerHandle=null;timer=1500;alert("25 minutes done. Take five minutes away from the screen.");$("timerButton").textContent="Start timer"}$("timer").textContent=`${String(Math.floor(timer/60)).padStart(2,"0")}:${String(timer%60).padStart(2,"0")}`}
+$("timerButton").onclick=()=>{if(timerHandle){clearInterval(timerHandle);timerHandle=null;$("timerButton").textContent="Resume timer"}else{timerHandle=setInterval(tick,1000);$("timerButton").textContent="Pause timer"}};
+render();
+</script>
+</body>
+</html>

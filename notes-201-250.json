@@ -1,0 +1,1019 @@
+[
+  {
+    "page": 201,
+    "title": "Core Features of Apoptosis",
+    "explain": "Apoptosis is a controlled cell-death program. The cell and nucleus shrink, the dying cell loses contact with neighboring cells, and the plasma membrane forms surface blebs.",
+    "mustKnow": [
+      "Apoptosis is programmed and orderly.",
+      "Cell shrinkage and nuclear shrinkage are characteristic.",
+      "Loss of adhesion and membrane blebbing occur."
+    ],
+    "terms": [
+      {"term": "Apoptosis", "meaning": "An organized program that causes a cell to die."},
+      {"term": "Blebbing", "meaning": "Formation of rounded bulges on the plasma membrane."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which change is characteristic of apoptosis?",
+      "options": ["Cell and nuclear shrinkage", "Immediate uncontrolled cell swelling", "Permanent increase in cell adhesion", "DNA replication"],
+      "answer": 0,
+      "explanation": "The slide identifies shrinkage of both the cell and its nucleus as a feature of apoptosis."
+    }
+  },
+  {
+    "page": 202,
+    "title": "Final Events in Apoptosis",
+    "explain": "As apoptosis proceeds, chromatin is cut into small fragments. The cell corpse is then rapidly engulfed by phagocytosis, limiting the release of intracellular material.",
+    "mustKnow": [
+      "Chromatin becomes fragmented.",
+      "The apoptotic corpse is rapidly removed by phagocytosis."
+    ],
+    "terms": [
+      {"term": "Chromatin fragmentation", "meaning": "Breakdown of nuclear DNA-protein material into smaller pieces."},
+      {"term": "Phagocytosis", "meaning": "Engulfment and removal of particles or cells by another cell."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What normally happens to an apoptotic cell after chromatin fragmentation?",
+      "options": ["It is rapidly phagocytosed", "It begins S phase", "It fuses with a neighboring cell", "It becomes a stem cell"],
+      "answer": 0,
+      "explanation": "The slide states that the apoptotic corpse is rapidly engulfed by phagocytosis."
+    }
+  },
+  {
+    "page": 203,
+    "title": "Morphological Sequence of Apoptosis",
+    "explain": "The diagram shows a normal cell progressing through chromatin condensation, membrane blebbing, nuclear collapse, and formation of membrane-bound apoptotic bodies.",
+    "mustKnow": [
+      "Chromatin condensation occurs early.",
+      "Membrane blebbing precedes apoptotic-body formation.",
+      "The dying cell breaks into apoptotic bodies."
+    ],
+    "terms": [
+      {"term": "Chromatin condensation", "meaning": "Tight packing of chromatin in the dying nucleus."},
+      {"term": "Apoptotic body", "meaning": "A membrane-bound fragment produced by an apoptotic cell."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which structure is produced at the end of the sequence shown?",
+      "options": ["Apoptotic bodies", "Mitotic spindle", "Blastocyst", "Nucleolus"],
+      "answer": 0,
+      "explanation": "The final labeled stage in the diagram is apoptotic-body formation."
+    }
+  },
+  {
+    "page": 204,
+    "title": "Clearance of Apoptotic Cells",
+    "explain": "Apoptotic bodies retain tightly packed organelles and may contain nuclear fragments, all enclosed by an intact membrane. Macrophages engulf them and degrade them in phagolysosomes, so their contents do not spill into surrounding tissue and inflammation is minimal.",
+    "mustKnow": [
+      "Apoptotic bodies remain membrane enclosed.",
+      "Macrophages degrade them in phagolysosomes.",
+      "Rapid clearance limits inflammation and secondary necrosis."
+    ],
+    "terms": [
+      {"term": "Macrophage", "meaning": "A phagocytic immune cell that engulfs cellular debris."},
+      {"term": "Phagolysosome", "meaning": "Degradative compartment formed after a phagosome combines with lysosomal machinery."},
+      {"term": "Secondary necrosis", "meaning": "Loss of membrane integrity when an apoptotic cell is not cleared promptly."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Why does apoptosis usually cause little inflammation?",
+      "options": ["Cell contents remain enclosed and are rapidly cleared", "The cell releases all contents immediately", "Macrophages cannot recognize the cell", "DNA replication stops inflammation"],
+      "answer": 0,
+      "explanation": "Intact apoptotic bodies are quickly phagocytosed, preventing cellular contents from entering the tissue."
+    }
+  },
+  {
+    "page": 205,
+    "title": "Apoptosis Video Reinforcement",
+    "explain": "This slide provides a linked video intended to reinforce the visible sequence of programmed cell death.",
+    "mustKnow": [
+      "Use the video to recognize cell shrinkage, blebbing, fragmentation, and clearance."
+    ],
+    "terms": [
+      {"term": "Programmed cell death", "meaning": "A regulated process that dismantles and removes a cell."}
+    ],
+    "interaction": {
+      "type": "tap",
+      "label": "Apoptosis is an orderly process involving shrinkage, blebbing, fragmentation, and clearance."
+    }
+  },
+  {
+    "page": 206,
+    "title": "Apoptosis Animation",
+    "explain": "This linked animation is a visual review of apoptotic changes and cell removal.",
+    "mustKnow": [
+      "An apoptotic cell is dismantled into membrane-bound fragments rather than simply bursting."
+    ],
+    "terms": [
+      {"term": "Cell dismantling", "meaning": "Controlled breakdown of a dying cell into removable parts."}
+    ],
+    "interaction": {
+      "type": "tap",
+      "label": "Apoptotic fragments stay membrane bound until phagocytic clearance."
+    }
+  },
+  {
+    "page": 207,
+    "title": "Apoptotic Cell Imaging",
+    "explain": "The microscopy image shows cells undergoing visible structural changes during apoptosis. Such imaging allows membrane and shape changes to be followed directly.",
+    "mustKnow": [
+      "Apoptosis can be recognized by characteristic changes in cell morphology."
+    ],
+    "terms": [
+      {"term": "Morphology", "meaning": "The observable shape and structural appearance of a cell."}
+    ],
+    "interaction": {
+      "type": "tap",
+      "label": "Microscopy can reveal the characteristic shape changes of apoptotic cells."
+    }
+  },
+  {
+    "page": 208,
+    "title": "Extrinsic Apoptosis Pathway",
+    "explain": "In the receptor-mediated pathway, TNF binds TNFR1. The activated receptor recruits TRADD, FADD, and procaspase-8 into a membrane-associated complex. Procaspase-8 becomes active caspase-8, which activates executioner caspases.",
+    "mustKnow": [
+      "The extrinsic pathway begins at a death receptor.",
+      "TNFR1 recruits TRADD, FADD, and procaspase-8.",
+      "Caspase-8 is the initiator caspase in this pathway.",
+      "Executioner caspases carry out cell dismantling."
+    ],
+    "terms": [
+      {"term": "TNFR1", "meaning": "A TNF receptor that can initiate extrinsic apoptosis."},
+      {"term": "FADD", "meaning": "An adaptor that helps recruit procaspase-8."},
+      {"term": "Caspase-8", "meaning": "The initiator caspase activated in the extrinsic pathway."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which initiator caspase is activated downstream of TNFR1, TRADD, and FADD?",
+      "options": ["Caspase-8", "Caspase-9", "Caspase-1", "Caspase-2"],
+      "answer": 0,
+      "explanation": "The receptor-associated complex activates procaspase-8 to caspase-8."
+    }
+  },
+  {
+    "page": 209,
+    "title": "BCL-2 Family Controls Mitochondrial Permeability",
+    "explain": "BCL-2-family proteins form a survival-versus-death switch. Anti-apoptotic members oppose BAX and BAK, while BH3-only proteins promote their activation. Activated BAX and BAK oligomerize in the mitochondrial outer membrane and cause MOMP.",
+    "mustKnow": [
+      "BCL-2, BCL-XL, MCL-1, BCL-w, and A1 are anti-apoptotic.",
+      "BAX, BAK, and BOK are pro-apoptotic.",
+      "BH3-only proteins include BID, BIM, NOXA, and BAD.",
+      "BAX/BAK oligomerization causes MOMP."
+    ],
+    "terms": [
+      {"term": "MOMP", "meaning": "Mitochondrial outer-membrane permeabilization."},
+      {"term": "BAX/BAK", "meaning": "Pro-apoptotic proteins that form membrane-permeabilizing oligomers."},
+      {"term": "BH3-only proteins", "meaning": "Upstream apoptosis inducers that activate or release pro-apoptotic BCL-2-family activity."},
+      {"term": "BCL-2", "meaning": "An anti-apoptotic protein that opposes mitochondrial permeabilization."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which proteins act as the main gatekeepers of mitochondrial outer-membrane permeabilization?",
+      "options": ["BAX and BAK", "TRADD and FADD", "Apaf-1 and E2F", "Cyclin E and CDK2"],
+      "answer": 0,
+      "explanation": "The slide identifies BAX and BAK as the pore-forming gatekeepers of MOMP."
+    }
+  },
+  {
+    "page": 210,
+    "title": "Intrinsic Apoptosis Pathway",
+    "explain": "Cellular stress activates pro-apoptotic BCL-2-family proteins such as BAX. Mitochondria release cytochrome c, which combines with Apaf-1 and procaspase-9. Activated caspase-9 then activates executioner caspases.",
+    "mustKnow": [
+      "The intrinsic pathway is mitochondria mediated.",
+      "MOMP releases cytochrome c into the cytosol.",
+      "Cytochrome c, Apaf-1, and procaspase-9 form the activation complex.",
+      "Caspase-9 activates executioner caspases."
+    ],
+    "terms": [
+      {"term": "Cytochrome c", "meaning": "A mitochondrial protein that promotes apoptosome formation after release into the cytosol."},
+      {"term": "Apaf-1", "meaning": "A cytosolic scaffold that recruits procaspase-9."},
+      {"term": "Caspase-9", "meaning": "The initiator caspase of the intrinsic pathway."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which initiator caspase is activated by the cytochrome c–Apaf-1 complex?",
+      "options": ["Caspase-9", "Caspase-8", "Caspase-3 receptor", "Caspase-0"],
+      "answer": 0,
+      "explanation": "The intrinsic pathway recruits and activates procaspase-9."
+    }
+  },
+  {
+    "page": 211,
+    "title": "Detecting Apoptosis with Annexin V",
+    "explain": "Healthy cells keep phosphatidylserine on the inner leaflet of the plasma membrane. During apoptosis it moves to the outer leaflet, where it acts as an eat-me signal. Annexin V binds exposed phosphatidylserine and can therefore mark apoptotic cells.",
+    "mustKnow": [
+      "Phosphatidylserine is normally on the cytoplasmic leaflet.",
+      "Apoptosis exposes phosphatidylserine on the cell surface.",
+      "Annexin V detects exposed phosphatidylserine."
+    ],
+    "terms": [
+      {"term": "Annexin V", "meaning": "A phospholipid-binding protein used to detect exposed phosphatidylserine."},
+      {"term": "Phosphatidylserine", "meaning": "A membrane phospholipid that becomes an external eat-me signal during apoptosis."},
+      {"term": "Eat-me signal", "meaning": "A surface cue that promotes phagocytic clearance."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What does Annexin V detect on an apoptotic cell?",
+      "options": ["Externalized phosphatidylserine", "Replicated DNA", "Centrioles", "Extracellular ATP only"],
+      "answer": 0,
+      "explanation": "Annexin V has high affinity for phosphatidylserine exposed on the outer membrane leaflet."
+    }
+  },
+  {
+    "page": 212,
+    "title": "Detecting Cytochrome c Release",
+    "explain": "BAX/BAK pores compromise the mitochondrial outer membrane and release cytochrome c. In healthy cells, cytochrome c staining is confined to mitochondria; after apoptosis induction, its staining becomes diffuse throughout the cytosol.",
+    "mustKnow": [
+      "BAX/BAK pores release cytochrome c.",
+      "Diffuse cytochrome c staining indicates mitochondrial release.",
+      "Staurosporine is used here to induce apoptosis."
+    ],
+    "terms": [
+      {"term": "Staurosporine", "meaning": "A compound commonly used experimentally to induce apoptosis."},
+      {"term": "Diffuse localization", "meaning": "A spread-out staining pattern consistent with release from mitochondria."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "A diffuse cellular cytochrome c signal most directly indicates:",
+      "options": ["Release from mitochondria", "DNA replication", "Spindle assembly", "Phosphatidylserine returning inward"],
+      "answer": 0,
+      "explanation": "Cytochrome c becomes diffuse after it leaves the mitochondrial intermembrane space."
+    }
+  },
+  {
+    "page": 213,
+    "title": "Apoptosis Detection Video",
+    "explain": "This linked video reinforces experimental detection of apoptotic cells.",
+    "mustKnow": [
+      "Annexin V detects external phosphatidylserine, while diffuse cytochrome c indicates mitochondrial release."
+    ],
+    "terms": [
+      {"term": "Apoptosis marker", "meaning": "A measurable change used to identify cells undergoing apoptosis."}
+    ],
+    "interaction": {
+      "type": "tap",
+      "label": "Surface phosphatidylserine and released cytochrome c are distinct apoptosis markers."
+    }
+  },
+  {
+    "page": 214,
+    "title": "Cell Cycle and Mitosis Overview",
+    "explain": "The eukaryotic cell cycle contains interphase—G1, S, and G2—and M phase. DNA and cellular components are duplicated during interphase. Mitosis separates chromosomes, and cytokinesis divides one cell into two genetically identical diploid daughter cells.",
+    "mustKnow": [
+      "Interphase consists of G1, S, and G2.",
+      "DNA is replicated before mitosis.",
+      "Mitosis partitions chromosomes.",
+      "Cytokinesis physically divides the cell."
+    ],
+    "terms": [
+      {"term": "Mitosis", "meaning": "Nuclear division that produces genetically equivalent chromosome sets."},
+      {"term": "Cytokinesis", "meaning": "Physical division of the cell into two daughters."},
+      {"term": "Interphase", "meaning": "G1, S, and G2 phases between cell divisions."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "During which part of the cell cycle is nuclear DNA replicated?",
+      "options": ["Interphase", "Cytokinesis only", "Anaphase only", "Telophase only"],
+      "answer": 0,
+      "explanation": "DNA replication occurs in S phase, which is part of interphase."
+    }
+  },
+  {
+    "page": 215,
+    "title": "Purposes of Mitosis",
+    "explain": "Mitosis increases cell number during growth, replaces damaged or worn-out cells, and enables asexual reproduction in organisms such as yeast. Propidium iodide can stain DNA for analysis.",
+    "mustKnow": [
+      "Mitosis supports growth and development.",
+      "Mitosis replaces and repairs cells.",
+      "Mitosis can support asexual reproduction.",
+      "Propidium iodide stains DNA."
+    ],
+    "terms": [
+      {"term": "Propidium iodide", "meaning": "A fluorescent DNA-binding stain."},
+      {"term": "Asexual reproduction", "meaning": "Production of offspring without fusion of gametes."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which reagent mentioned on the slide is used to stain DNA?",
+      "options": ["Propidium iodide", "Annexin V", "Cytochrome c", "FADD"],
+      "answer": 0,
+      "explanation": "The slide explicitly identifies propidium iodide as a DNA stain."
+    }
+  },
+  {
+    "page": 216,
+    "title": "Interphase and G0",
+    "explain": "Interphase occupies most of the cell cycle. G1 supports growth and organelle production, S phase replicates nuclear DNA, and G2 prepares proteins and energy for division. Cells that stop cycling can enter the quiescent G0 state.",
+    "mustKnow": [
+      "G1: growth and organelle duplication.",
+      "S: DNA replication and sister-chromatid formation.",
+      "G2: final preparation for division.",
+      "G0: temporary or permanent cell-cycle exit."
+    ],
+    "terms": [
+      {"term": "G0", "meaning": "A non-dividing, quiescent state outside the active cycle."},
+      {"term": "S phase", "meaning": "The phase in which nuclear DNA is replicated."},
+      {"term": "Sister chromatids", "meaning": "The two replicated copies of one chromosome."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "In which phase does each chromosome acquire two sister chromatids?",
+      "options": ["S phase", "G1 phase", "G0 phase", "Cytokinesis"],
+      "answer": 0,
+      "explanation": "DNA replication in S phase produces two sister chromatids per chromosome."
+    }
+  },
+  {
+    "page": 217,
+    "title": "DNA State Across G1, S, and G2",
+    "explain": "In G1, each chromosome contains one linear double-stranded DNA molecule. S phase replicates it. In G2, each chromosome has two sister chromatids held together by cohesins.",
+    "mustKnow": [
+      "A G1 chromosome has one DNA double helix.",
+      "S phase duplicates the chromosome.",
+      "G2 sister chromatids are held together by cohesins."
+    ],
+    "terms": [
+      {"term": "Cohesin", "meaning": "A protein complex that holds replicated sister chromatids together."},
+      {"term": "Decondensed chromosome", "meaning": "A less compact chromosome state typical of interphase."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What holds sister chromatids together after S phase?",
+      "options": ["Cohesins", "Annexin V", "FADD", "Phagolysosomes"],
+      "answer": 0,
+      "explanation": "The slide states that cohesins hold newly replicated sister chromatids together in G2."
+    }
+  },
+  {
+    "page": 218,
+    "title": "Chromosome Movement During Mitosis",
+    "explain": "Mitosis depends on interactions between spindle microtubules and chromosome kinetochores. Chromosomes condense in prophase, spindle microtubules attach in prometaphase, chromosomes align at the midplane in metaphase, and sister chromatids move to opposite poles in anaphase.",
+    "mustKnow": [
+      "Kinetochores connect chromosomes to spindle microtubules.",
+      "Metaphase chromosomes align at the spindle midplane.",
+      "Anaphase separates sister chromatids toward opposite poles."
+    ],
+    "terms": [
+      {"term": "Kinetochore", "meaning": "A chromosome protein structure that binds spindle microtubules."},
+      {"term": "Mitotic spindle", "meaning": "The microtubule-based apparatus that separates chromosomes."},
+      {"term": "Prometaphase", "meaning": "Stage when spindle microtubules gain access to and attach to chromosomes."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "At which structure do spindle microtubules attach to a chromosome?",
+      "options": ["Kinetochore", "Nucleolus", "Phagolysosome", "Operator"],
+      "answer": 0,
+      "explanation": "Kinetochores are the chromosome-associated attachment sites for spindle microtubules."
+    }
+  },
+  {
+    "page": 219,
+    "title": "Mitosis Video Reinforcement",
+    "explain": "This linked video reviews chromosome condensation, alignment, separation, and formation of daughter cells.",
+    "mustKnow": [
+      "The mitotic sequence is prophase, prometaphase, metaphase, anaphase, and telophase, followed by cytokinesis."
+    ],
+    "terms": [
+      {"term": "Mitotic sequence", "meaning": "The ordered stages that partition duplicated chromosomes."}
+    ],
+    "interaction": {
+      "type": "tap",
+      "label": "Chromosomes condense, attach, align, separate, and then enter two daughter nuclei."
+    }
+  },
+  {
+    "page": 220,
+    "title": "Prophase",
+    "explain": "During prophase, chromosomes condense and become visible as paired sister chromatids. Compaction reduces chromosome length and increases thickness, while transcription largely shuts down. Centrosomes move apart and the mitotic spindle forms; nuclear-envelope breakdown follows at the end of this transition.",
+    "mustKnow": [
+      "Chromosomes condense in prophase.",
+      "Each replicated chromosome contains two sister chromatids.",
+      "Transcription is reduced as chromatin compacts.",
+      "The mitotic spindle begins to form."
+    ],
+    "terms": [
+      {"term": "Chromosome condensation", "meaning": "Compaction that makes chromosomes shorter, thicker, and visibly distinct."},
+      {"term": "Centrosome", "meaning": "A microtubule-organizing structure that helps form spindle poles."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which event is most characteristic of prophase?",
+      "options": ["Chromosome condensation", "Sister-chromatid separation", "DNA replication", "Phagocytosis"],
+      "answer": 0,
+      "explanation": "Prophase is marked by compaction of replicated chromosomes into visible structures."
+    }
+  },
+  {
+    "page": 221,
+    "title": "Metaphase and Kinetochore Attachment",
+    "explain": "At metaphase, chromosomes align at the cell equator. Spindle microtubules connect to kinetochores assembled on each chromatid. Kinetochore-associated motors, including dynein, contribute to chromosome movement on the spindle.",
+    "mustKnow": [
+      "Metaphase chromosomes align at the equator.",
+      "Microtubules attach through kinetochores.",
+      "Dynein can help move chromosomes along spindle microtubules."
+    ],
+    "terms": [
+      {"term": "Metaphase plate", "meaning": "The equatorial plane where chromosomes align."},
+      {"term": "Dynein", "meaning": "A microtubule motor involved in chromosome movement."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Where are chromosomes positioned during metaphase?",
+      "options": ["At the cell equator", "Inside phagolysosomes", "Only at one pole", "Outside the plasma membrane"],
+      "answer": 0,
+      "explanation": "Chromosomes align along the central metaphase plate before separation."
+    }
+  },
+  {
+    "page": 222,
+    "title": "Spindle Attachment Video",
+    "explain": "This linked video reinforces how spindle microtubules attach to kinetochores and position chromosomes.",
+    "mustKnow": [
+      "Kinetochore attachment connects chromosome movement to the mitotic spindle."
+    ],
+    "terms": [
+      {"term": "Spindle attachment", "meaning": "Binding of spindle microtubules to chromosome kinetochores."}
+    ],
+    "interaction": {
+      "type": "tap",
+      "label": "Spindle microtubules act on chromosomes through kinetochore attachments."
+    }
+  },
+  {
+    "page": 223,
+    "title": "Anaphase, Telophase, and Cytokinesis",
+    "explain": "In anaphase, sister chromatids separate and move to opposite poles. During telophase, a nuclear membrane forms around each chromosome set. Cytokinesis then pinches the cell into two daughter cells.",
+    "mustKnow": [
+      "Anaphase separates sister chromatids.",
+      "Telophase rebuilds daughter nuclei.",
+      "Cytokinesis divides the cytoplasm."
+    ],
+    "terms": [
+      {"term": "Anaphase", "meaning": "Mitotic stage in which sister chromatids move apart."},
+      {"term": "Telophase", "meaning": "Stage in which chromosome sets are enclosed in new nuclei."},
+      {"term": "Cytokinesis", "meaning": "Division of one cell into two daughter cells."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "During which stage are sister chromatids pulled to opposite poles?",
+      "options": ["Anaphase", "G1", "S phase", "Prophase"],
+      "answer": 0,
+      "explanation": "Sister-chromatid separation and poleward movement define anaphase."
+    }
+  },
+  {
+    "page": 224,
+    "title": "Mitosis Completion Video",
+    "explain": "This linked video reviews the final mitotic stages and physical separation of daughter cells.",
+    "mustKnow": [
+      "Nuclear re-formation occurs in telophase, while cell separation occurs by cytokinesis."
+    ],
+    "terms": [
+      {"term": "Daughter cell", "meaning": "One of the two cells produced by division of a parent cell."}
+    ],
+    "interaction": {
+      "type": "tap",
+      "label": "Telophase reforms nuclei; cytokinesis separates the daughter cells."
+    }
+  },
+  {
+    "page": 225,
+    "title": "Discovery of a Cytoplasmic Cell-Cycle Factor",
+    "explain": "Cytoplasm from a Xenopus oocyte undergoing meiosis was injected into an immature oocyte. The recipient underwent premature germinal-vesicle breakdown and entered meiosis, showing that a transferable cytoplasmic factor can drive maturation.",
+    "mustKnow": [
+      "The experiment transferred cytoplasm between Xenopus oocytes.",
+      "Injected cytoplasm triggered premature meiotic entry.",
+      "A soluble cytoplasmic factor controls maturation."
+    ],
+    "terms": [
+      {"term": "Germinal-vesicle breakdown", "meaning": "Breakdown of the oocyte nucleus as meiosis resumes."},
+      {"term": "Maturation-promoting factor", "meaning": "Cytoplasmic activity that drives entry into M phase."},
+      {"term": "Xenopus", "meaning": "A frog genus widely used in cell-cycle experiments."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What did cytoplasm from a maturing Xenopus oocyte cause in an immature recipient oocyte?",
+      "options": ["Premature entry into meiosis", "Permanent G0 arrest", "Apoptotic-body formation", "Loss of all DNA"],
+      "answer": 0,
+      "explanation": "The transferred cytoplasmic activity induced germinal-vesicle breakdown and meiotic maturation."
+    }
+  },
+  {
+    "page": 226,
+    "title": "Cyclin-CDK Activity Across the Cell Cycle",
+    "explain": "Different cyclin-CDK complexes dominate at different transitions. Cyclin E–CDK2 promotes the G1-to-S transition, Cyclin A with CDK1/CDK2 acts through S and G2, and Cyclin B–CDK1 drives M phase.",
+    "mustKnow": [
+      "Cyclin E–CDK2 peaks around G1/S.",
+      "Cyclin A–CDK activity spans S and G2.",
+      "Cyclin B–CDK1 controls entry into M phase."
+    ],
+    "terms": [
+      {"term": "Cyclin", "meaning": "A regulatory protein whose level changes during the cell cycle."},
+      {"term": "CDK", "meaning": "A cyclin-dependent kinase that phosphorylates cell-cycle targets."},
+      {"term": "G1/S transition", "meaning": "Commitment point for entering DNA synthesis."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which complex is most closely associated with M phase on the slide?",
+      "options": ["Cyclin B–CDK1", "Cyclin E–CDK2", "BAX–BAK", "TRADD–FADD"],
+      "answer": 0,
+      "explanation": "The graph shows Cyclin B–CDK1 activity rising around entry into M phase."
+    }
+  },
+  {
+    "page": 227,
+    "title": "RB1 Controls the G1-to-S Checkpoint",
+    "explain": "Active, hypophosphorylated pRb binds and inhibits E2F transcription factors, preventing premature S-phase entry. Loss of both RB1 copies removes this control, allowing uncontrolled proliferation and predisposing to retinoblastoma and other cancers.",
+    "mustKnow": [
+      "Active pRb blocks E2F.",
+      "pRb controls the G1-to-S checkpoint.",
+      "Loss of both RB1 copies removes cell-cycle restraint.",
+      "RB1 loss is linked to retinoblastoma."
+    ],
+    "terms": [
+      {"term": "RB1", "meaning": "A tumor-suppressor gene encoding the pRb cell-cycle regulator."},
+      {"term": "E2F", "meaning": "A family of transcription factors that promotes S-phase gene expression."},
+      {"term": "Hypophosphorylated pRb", "meaning": "The active form of pRb that binds and inhibits E2F."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "How does active pRb prevent premature cell-cycle progression?",
+      "options": ["It binds and inhibits E2F", "It releases cytochrome c", "It activates Annexin V", "It forms spindle microtubules"],
+      "answer": 0,
+      "explanation": "Hypophosphorylated pRb restrains the G1-to-S transition by inactivating E2F transcription factors."
+    }
+  },
+  {
+    "page": 228,
+    "title": "Apoptosis Reference",
+    "explain": "The slide points to Gerald Karp's Cell and Molecular Biology as the reference for deeper coverage of apoptosis.",
+    "mustKnow": [
+      "Use the reference only when a slide concept needs clarification; the examinable framework remains the apoptosis sequence and pathways presented here."
+    ],
+    "terms": [
+      {"term": "Reference textbook", "meaning": "A source for expanded explanation beyond the lecture slide."}
+    ],
+    "interaction": {
+      "type": "tap",
+      "label": "Gerald Karp's Cell and Molecular Biology is the listed apoptosis reference."
+    }
+  },
+  {
+    "page": 229,
+    "title": "Stem Cells, Differentiation, and Apoptosis",
+    "explain": "This title slide introduces the lecture's three connected themes: cells that self-renew, acquisition of specialized cell identity, and regulated cell removal.",
+    "mustKnow": [
+      "The lecture links stem-cell potency, differentiation, and cell fate."
+    ],
+    "terms": [
+      {"term": "Stem cell", "meaning": "An unspecialized cell capable of self-renewal and differentiation."},
+      {"term": "Differentiation", "meaning": "Acquisition of a specialized cell structure and function."}
+    ],
+    "interaction": {
+      "type": "tap",
+      "label": "Stem-cell behavior combines self-renewal with the ability to generate differentiated cells."
+    }
+  },
+  {
+    "page": 230,
+    "title": "Hematopoietic Differentiation Tree",
+    "explain": "The diagram shows a multipotent hematopoietic stem cell branching into common myeloid and common lymphoid progenitors. These branches generate red cells, platelets, granulocytes, monocytes/macrophages, B cells, T cells, and natural killer cells.",
+    "mustKnow": [
+      "One hematopoietic stem cell can generate multiple blood-cell types.",
+      "The first major branches are myeloid and lymphoid progenitors.",
+      "B cells, T cells, and natural killer cells arise from the lymphoid branch.",
+      "Erythrocytes, megakaryocytes, granulocytes, and monocytes arise from the myeloid branch."
+    ],
+    "terms": [
+      {"term": "Hematopoietic stem cell", "meaning": "A multipotent stem cell that produces blood-cell lineages."},
+      {"term": "Myeloid progenitor", "meaning": "A precursor for erythroid, megakaryocyte, granulocyte, mast-cell, and monocyte lineages."},
+      {"term": "Lymphoid progenitor", "meaning": "A precursor for B, T, and natural killer cell lineages."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which cell arises from the common lymphoid progenitor in the diagram?",
+      "options": ["T lymphocyte", "Erythrocyte", "Megakaryocyte", "Neutrophil"],
+      "answer": 0,
+      "explanation": "T lymphocytes are shown on the lymphoid branch; the other options are on the myeloid branch."
+    }
+  },
+  {
+    "page": 231,
+    "title": "Development Before Birth",
+    "explain": "This linked video introduces the developmental journey from a fertilized egg to a multicellular organism.",
+    "mustKnow": [
+      "Development transforms one fertilized cell into many organized, specialized cell types."
+    ],
+    "terms": [
+      {"term": "Development", "meaning": "The ordered process by which an organism grows and forms specialized tissues."}
+    ],
+    "interaction": {
+      "type": "tap",
+      "label": "A multicellular organism develops from one fertilized egg through division and differentiation."
+    }
+  },
+  {
+    "page": 232,
+    "title": "Beating Cardiomyocytes in Culture",
+    "explain": "The linked example shows differentiated heart-muscle cells beating in a culture dish. Their contraction is a visible specialized function acquired through differentiation.",
+    "mustKnow": [
+      "Cardiomyocytes are differentiated cells specialized for contraction.",
+      "A specialized phenotype can be observed in cultured cells."
+    ],
+    "terms": [
+      {"term": "Cardiomyocyte", "meaning": "A heart-muscle cell specialized for contraction."},
+      {"term": "Culture", "meaning": "Growth and maintenance of cells under controlled laboratory conditions."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What specialized function is visibly demonstrated by cultured cardiomyocytes?",
+      "options": ["Contraction", "Antibody production", "Phagocytosis", "Bone mineralization"],
+      "answer": 0,
+      "explanation": "Beating cardiomyocytes demonstrate the contractile function of differentiated heart-muscle cells."
+    }
+  },
+  {
+    "page": 233,
+    "title": "What Is Differentiation?",
+    "explain": "Differentiation converts unspecialized cells into cells with distinct structures and functions. Nerve cells conduct signals, muscle cells generate force, and red blood cells transport oxygen, yet all ultimately descend from the zygote.",
+    "mustKnow": [
+      "Differentiation creates specialized morphology and physiology.",
+      "Different cell types perform different functions.",
+      "All cell types of the organism originate from the zygote."
+    ],
+    "terms": [
+      {"term": "Zygote", "meaning": "The single fertilized egg cell from which the organism develops."},
+      {"term": "Cellular differentiation", "meaning": "The process by which an unspecialized cell becomes specialized."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which statement best defines cellular differentiation?",
+      "options": ["Unspecialized cells become specialized", "DNA is always deleted from mature cells", "Every cell becomes a neuron", "A cell enters apoptosis"],
+      "answer": 0,
+      "explanation": "Differentiation is the acquisition of a specialized cell identity and function."
+    }
+  },
+  {
+    "page": 234,
+    "title": "Fate, Potency, Determination, and Differentiation",
+    "explain": "Cell fate is what a cell normally becomes. Potency is the range of cell types it could become. Development progressively restricts potency. Determination commits a cell to a fate before visible specialization, and differentiation later produces the recognizable specialized phenotype.",
+    "mustKnow": [
+      "Fate means the normal developmental outcome.",
+      "Potency means the range of possible outcomes.",
+      "Determination precedes visible differentiation.",
+      "Development usually reduces potency over time."
+    ],
+    "terms": [
+      {"term": "Cell fate", "meaning": "The cell type a cell will normally become."},
+      {"term": "Potency", "meaning": "The range of cell types a cell can potentially generate."},
+      {"term": "Determination", "meaning": "Commitment to a developmental fate before visible specialization."},
+      {"term": "Differentiation", "meaning": "Execution of a specialized cell program and phenotype."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "A cell is committed to become muscle but still resembles its neighbors. It is best described as:",
+      "options": ["Determined", "Totipotent", "Apoptotic", "Phagocytic"],
+      "answer": 0,
+      "explanation": "Determination is commitment to a fate before the visible differentiated phenotype appears."
+    }
+  },
+  {
+    "page": 235,
+    "title": "Hierarchy of Developmental Potency",
+    "explain": "Stem-cell potency narrows through a hierarchy. Totipotent cells can form all embryonic and supporting tissues needed for an organism; pluripotent cells can form the body's many tissue types but not a complete organism; multipotent and oligopotent cells are progressively more lineage restricted; unipotent cells generate one cell type.",
+    "mustKnow": [
+      "Totipotent has the broadest potential.",
+      "Pluripotent cells form many body cell types but not a whole organism by themselves.",
+      "Multipotent and oligopotent cells are lineage restricted.",
+      "Unipotent cells generate one cell type."
+    ],
+    "terms": [
+      {"term": "Totipotent", "meaning": "Able to generate all embryonic and extraembryonic cell types needed for a complete organism."},
+      {"term": "Pluripotent", "meaning": "Able to generate cell types from all major body lineages but not a complete organism alone."},
+      {"term": "Multipotent", "meaning": "Able to generate several cell types within a limited lineage range."},
+      {"term": "Unipotent", "meaning": "Able to generate only one mature cell type."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which potency category has the broadest developmental potential?",
+      "options": ["Totipotent", "Pluripotent", "Multipotent", "Unipotent"],
+      "answer": 0,
+      "explanation": "Totipotent cells have the widest potential, including embryonic and supporting tissues."
+    }
+  },
+  {
+    "page": 236,
+    "title": "Clonality and Clonal Expansion",
+    "explain": "A clone is a group of cells descended from one original cell. Clonal expansion occurs when that founder cell repeatedly divides, producing many genetically related descendants.",
+    "mustKnow": [
+      "Clonality traces cells back to one founder.",
+      "Clonal expansion increases the number of descendants from that founder."
+    ],
+    "terms": [
+      {"term": "Clone", "meaning": "A population of cells descended from one original cell."},
+      {"term": "Clonal expansion", "meaning": "Repeated division that enlarges a clone."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What is clonal expansion?",
+      "options": ["Increase in descendants from one founder cell", "Fusion of unrelated cells", "Immediate cell specialization without division", "Removal of apoptotic bodies"],
+      "answer": 0,
+      "explanation": "A clone expands when descendants of a single founder proliferate."
+    }
+  },
+  {
+    "page": 237,
+    "title": "Differentiation from a Totipotent Starting Cell",
+    "explain": "The slide emphasizes that early totipotent cells begin with broad potential and generate increasingly specialized descendants through differentiation.",
+    "mustKnow": [
+      "Differentiation moves cells from broad potential toward specialized identity.",
+      "Totipotency is associated with the earliest embryonic cells."
+    ],
+    "terms": [
+      {"term": "Lineage restriction", "meaning": "Progressive narrowing of the cell types a developing cell can produce."}
+    ],
+    "interaction": {
+      "type": "tap",
+      "label": "Differentiation progressively converts broad developmental potential into specialized cell identity."
+    }
+  },
+  {
+    "page": 238,
+    "title": "Differential Gene Expression Drives Differentiation",
+    "explain": "Differentiated cells behave differently because they express different subsets of genes. Different gene-expression patterns produce different protein sets, which create different structures and functions even though cells generally contain the same genome.",
+    "mustKnow": [
+      "Differentiation depends on differential gene expression.",
+      "Different expressed genes produce different protein complements.",
+      "Cell identity is determined by which genes are active, not by wholesale replacement of the genome."
+    ],
+    "terms": [
+      {"term": "Differential gene expression", "meaning": "Activation of different gene subsets in different cells."},
+      {"term": "Proteome", "meaning": "The set of proteins present in a cell under particular conditions."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Why can a differentiated cell behave differently from its stem-cell parent?",
+      "options": ["It expresses a different subset of genes", "It contains no DNA", "It always doubles its chromosome number", "It loses every shared protein"],
+      "answer": 0,
+      "explanation": "Different gene-expression patterns produce different protein sets and cellular behavior."
+    }
+  },
+  {
+    "page": 239,
+    "title": "Blastulation",
+    "explain": "Blastulation is an early developmental stage in which cleavage-stage cells organize into a blastula or blastocyst with a fluid-filled cavity. In mammals, this stage separates the inner cell mass from the outer trophoblast.",
+    "mustKnow": [
+      "Blastulation follows early cleavage divisions.",
+      "It produces a hollow early embryo.",
+      "The mammalian inner cell mass gives rise to the embryo proper."
+    ],
+    "terms": [
+      {"term": "Blastula", "meaning": "An early embryo organized around a fluid-filled cavity."},
+      {"term": "Blastocyst", "meaning": "The mammalian blastula containing an inner cell mass and outer trophoblast."},
+      {"term": "Blastocoel", "meaning": "The fluid-filled cavity of the blastula."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which feature is characteristic of blastulation?",
+      "options": ["Formation of a hollow early embryo", "Separation of sister chromatids", "Externalization of phosphatidylserine", "Destruction of all stem cells"],
+      "answer": 0,
+      "explanation": "Blastulation organizes early embryonic cells around a fluid-filled cavity."
+    }
+  },
+  {
+    "page": 240,
+    "title": "Inner Cell Mass and Embryonic Stem Cells",
+    "explain": "The inner cell mass of the mammalian blastocyst contains cells that form the embryo proper. Embryonic stem-cell lines can be derived from these cells and retain pluripotency under suitable culture conditions.",
+    "mustKnow": [
+      "Embryonic stem cells are associated with the inner cell mass.",
+      "Inner-cell-mass cells contribute to the embryo proper.",
+      "Embryonic stem cells are pluripotent."
+    ],
+    "terms": [
+      {"term": "Inner cell mass", "meaning": "The blastocyst cell group that gives rise to the embryo proper."},
+      {"term": "Embryonic stem cell", "meaning": "A pluripotent cell derived from the early embryo and maintained in culture."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Embryonic stem cells are classically derived from which blastocyst region?",
+      "options": ["Inner cell mass", "Mitotic spindle", "Phagolysosome", "Nuclear envelope"],
+      "answer": 0,
+      "explanation": "The inner cell mass is the source associated with embryonic stem-cell derivation."
+    }
+  },
+  {
+    "page": 241,
+    "title": "Gastrulation",
+    "explain": "Gastrulation reorganizes the early embryo and establishes the primary germ layers. These layers later generate the tissues and organs of the body.",
+    "mustKnow": [
+      "Gastrulation reorganizes the blastula-stage embryo.",
+      "Gastrulation establishes ectoderm, mesoderm, and endoderm in triploblastic animals."
+    ],
+    "terms": [
+      {"term": "Gastrulation", "meaning": "Early embryonic reorganization that establishes primary germ layers."},
+      {"term": "Germ layer", "meaning": "An early embryonic tissue layer that produces defined sets of organs."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What is the major outcome of gastrulation?",
+      "options": ["Formation of primary germ layers", "DNA staining by propidium iodide", "Activation of caspase-8", "Chromatid separation"],
+      "answer": 0,
+      "explanation": "Gastrulation establishes the embryo's primary germ layers."
+    }
+  },
+  {
+    "page": 242,
+    "title": "Gastrulation Video Reinforcement",
+    "explain": "This linked video visualizes the cell movements that reorganize the early embryo during gastrulation.",
+    "mustKnow": [
+      "Gastrulation uses coordinated cell movement to establish germ-layer organization."
+    ],
+    "terms": [
+      {"term": "Morphogenetic movement", "meaning": "Coordinated movement of cells that changes embryonic form."}
+    ],
+    "interaction": {
+      "type": "tap",
+      "label": "Gastrulation combines cell movement with formation of the primary germ layers."
+    }
+  },
+  {
+    "page": 243,
+    "title": "Testing Whether Cell Behavior Is Retained",
+    "explain": "The slide asks whether cells preserve their characteristic developmental behavior outside the original embryo. This motivates transplantation and culture experiments that test whether a cell's behavior is intrinsic, imposed by its environment, or both.",
+    "mustKnow": [
+      "Cell behavior can be tested by changing the cell's environment.",
+      "Retention of behavior outside the embryo supports a stable internal developmental state."
+    ],
+    "terms": [
+      {"term": "Cell-autonomous behavior", "meaning": "Behavior maintained by properties within the cell itself."},
+      {"term": "Developmental environment", "meaning": "External signals and neighboring tissues that influence cell behavior."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Why move embryonic cells to a different environment in an experiment?",
+      "options": ["To test whether their developmental behavior is retained", "To force every cell into apoptosis", "To stain DNA with Annexin V", "To create spindle poles"],
+      "answer": 0,
+      "explanation": "Changing the environment tests whether the observed behavior is stably retained or environmentally directed."
+    }
+  },
+  {
+    "page": 244,
+    "title": "The Three Germ Layers",
+    "explain": "Gastrulation establishes germ layers. Endoderm contributes to the digestive tract, liver, and pancreas; mesoderm contributes to kidney, cartilage, bone, spleen, and circulatory and lymphatic systems; ectoderm contributes to hair, nails, nervous system, and retina.",
+    "mustKnow": [
+      "Endoderm: digestive tract, liver, pancreas.",
+      "Mesoderm: bone, cartilage, kidney, blood-associated systems.",
+      "Ectoderm: nervous system, retina, hair, and nails.",
+      "Diploblasts have two primary layers; triploblasts have three."
+    ],
+    "terms": [
+      {"term": "Endoderm", "meaning": "Inner germ layer that forms much of the digestive tract and associated organs."},
+      {"term": "Mesoderm", "meaning": "Middle germ layer that forms muscle, bone, blood, kidney, and related tissues."},
+      {"term": "Ectoderm", "meaning": "Outer germ layer that forms the nervous system and external body structures."},
+      {"term": "Triploblastic", "meaning": "Having ectoderm, mesoderm, and endoderm."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which germ layer gives rise to the brain and spinal cord?",
+      "options": ["Ectoderm", "Mesoderm", "Endoderm", "Trophoblast only"],
+      "answer": 0,
+      "explanation": "The nervous system, including brain and spinal cord, is an ectodermal derivative."
+    }
+  },
+  {
+    "page": 245,
+    "title": "Till and McCulloch Bone-Marrow Experiment",
+    "explain": "Whole-body irradiation damaged the mice's blood-forming system. Intravenous bone-marrow transplantation rescued survival in proportion to the number of marrow cells injected, supporting the presence of rare, consistently represented marrow cells with regenerative capacity.",
+    "mustKnow": [
+      "The recipients were whole-body irradiated mice.",
+      "Bone-marrow cells were injected intravenously.",
+      "More injected marrow cells correlated with greater survival.",
+      "The result supported a rare regenerative cell population in marrow."
+    ],
+    "terms": [
+      {"term": "Bone marrow", "meaning": "Tissue containing blood-forming stem and progenitor cells."},
+      {"term": "Hematopoietic regeneration", "meaning": "Restoration of blood-cell production after damage."},
+      {"term": "Irradiation", "meaning": "Radiation treatment used here to destroy endogenous blood-forming cells."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What relationship was observed in the Till and McCulloch experiment?",
+      "options": ["More injected marrow cells produced greater survival", "More marrow cells caused immediate apoptosis", "Survival was unrelated to marrow-cell number", "Only differentiated red cells restored all tissues"],
+      "answer": 0,
+      "explanation": "Survival increased with the number of transplanted marrow cells, implicating regenerative cells in the marrow."
+    }
+  },
+  {
+    "page": 246,
+    "title": "Mauro and the Muscle Satellite Cell",
+    "explain": "Electron microscopy of frog muscle revealed satellite cells next to muscle fibers. Mauro proposed that these cells were either precursors capable of producing muscle cells or remnants of embryonic development; later work established their role as muscle stem cells.",
+    "mustKnow": [
+      "Satellite cells were identified by microscopy in muscle.",
+      "They were proposed as possible muscle-cell precursors.",
+      "Satellite cells are associated with muscle regeneration."
+    ],
+    "terms": [
+      {"term": "Satellite cell", "meaning": "A muscle-associated stem cell that can generate muscle-lineage cells."},
+      {"term": "TEM", "meaning": "Transmission electron microscopy, used to view cell ultrastructure."},
+      {"term": "Precursor cell", "meaning": "A cell capable of producing a more differentiated descendant."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What precursor role was proposed for the satellite cell?",
+      "options": ["Generation of muscle cells", "Generation of apoptotic bodies", "Formation of the blastocoel", "Activation of caspase-9"],
+      "answer": 0,
+      "explanation": "The experiment raised the possibility that satellite cells are precursors to muscle cells."
+    }
+  },
+  {
+    "page": 247,
+    "title": "Defining Properties of Stem Cells",
+    "explain": "Stem cells combine long-term proliferative capacity with self-renewal and differentiation. Their output depends on their potency: embryonic stem cells generate all body cell types, while tissue-specific adult stem cells generate cells of their own tissue. Many adult stem cells spend time in a low-activity quiescent state.",
+    "mustKnow": [
+      "Stem cells self-renew.",
+      "Stem cells generate differentiated descendants.",
+      "Adult stem cells reside in tissues and usually have restricted output.",
+      "Many stem cells can remain quiescent."
+    ],
+    "terms": [
+      {"term": "Self-renewal", "meaning": "Division that preserves the stem-cell population."},
+      {"term": "Quiescence", "meaning": "A reversible low-activity, non-dividing state."},
+      {"term": "Adult stem cell", "meaning": "A tissue-resident stem cell that maintains or repairs a limited set of cell types."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which pair best defines a stem cell?",
+      "options": ["Self-renewal and differentiation capacity", "Membrane rupture and inflammation", "Chromosome loss and phagocytosis", "Only rapid continuous division"],
+      "answer": 0,
+      "explanation": "The core stem-cell properties are maintenance of the stem pool and production of differentiated cells."
+    }
+  },
+  {
+    "page": 248,
+    "title": "Mature Cells Can Be Reprogrammed",
+    "explain": "The slide highlights the 2012 Nobel Prize awarded to John B. Gurdon and Shinya Yamanaka for showing that mature cells can be reprogrammed to a pluripotent state. Differentiation is therefore not necessarily an irreversible loss of genetic potential.",
+    "mustKnow": [
+      "Gurdon and Yamanaka shared the 2012 Nobel Prize in Physiology or Medicine.",
+      "Their work showed that mature cells can be reprogrammed.",
+      "Reprogrammed mature cells can regain pluripotency."
+    ],
+    "terms": [
+      {"term": "Reprogramming", "meaning": "Resetting a differentiated cell's gene-expression state toward an earlier developmental potential."},
+      {"term": "Induced pluripotency", "meaning": "Acquisition of pluripotent properties by a previously differentiated cell."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What discovery is highlighted by the 2012 Nobel Prize slide?",
+      "options": ["Mature cells can be reprogrammed to pluripotency", "All mature cells lack DNA", "Apoptosis is irreversible", "Cyclin B stains chromosomes"],
+      "answer": 0,
+      "explanation": "The cited discovery is that mature differentiated cells can be reset to a pluripotent state."
+    }
+  },
+  {
+    "page": 249,
+    "title": "Gurdon's Somatic Cell Nuclear Transfer",
+    "explain": "Gurdon transferred nuclei from differentiated tadpole intestinal cells into enucleated Xenopus eggs. A small fraction developed into normal tadpoles, showing that a differentiated nucleus can still contain the genetic information needed to direct an entire organism when reset by egg cytoplasm.",
+    "mustKnow": [
+      "The donor nucleus came from differentiated intestinal epithelium.",
+      "The recipient was an enucleated Xenopus egg.",
+      "Some transplants produced normal tadpoles.",
+      "Differentiation does not normally delete the genome needed for development."
+    ],
+    "terms": [
+      {"term": "Somatic cell nuclear transfer", "meaning": "Transfer of a body-cell nucleus into an egg whose nucleus has been removed."},
+      {"term": "Enucleated egg", "meaning": "An egg cell from which the nucleus has been removed."},
+      {"term": "Nuclear reprogramming", "meaning": "Resetting a differentiated nucleus to support an earlier developmental program."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What did Gurdon's tadpole experiment demonstrate?",
+      "options": ["A differentiated nucleus can retain a complete developmental genome", "Intestinal cells are naturally totipotent in the body", "Egg cytoplasm destroys donor DNA", "Only blastula nuclei contain genes"],
+      "answer": 0,
+      "explanation": "Normal tadpoles from differentiated donor nuclei showed that the required genetic information was retained and could be reprogrammed."
+    }
+  },
+  {
+    "page": 250,
+    "title": "Dolly the Sheep",
+    "explain": "Dolly was produced by somatic cell nuclear transfer using a nucleus from an adult mammary cell and an enucleated egg. Her birth demonstrated that an adult somatic nucleus can be reprogrammed to support mammalian development.",
+    "mustKnow": [
+      "Dolly was produced by somatic cell nuclear transfer.",
+      "The donor nucleus came from an adult somatic cell.",
+      "An enucleated egg provided the reprogramming cytoplasm.",
+      "Dolly provided mammalian evidence for nuclear reprogramming."
+    ],
+    "terms": [
+      {"term": "Dolly", "meaning": "The first mammal cloned from an adult somatic-cell nucleus."},
+      {"term": "Clone", "meaning": "An organism or cell population derived from one genetic source."},
+      {"term": "Somatic nucleus", "meaning": "The nucleus of a non-germline body cell."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which method was used to produce Dolly?",
+      "options": ["Somatic cell nuclear transfer", "Annexin V staining", "Bone-marrow transplantation", "Gastrulation in culture"],
+      "answer": 0,
+      "explanation": "Dolly was generated by transferring an adult somatic-cell nucleus into an enucleated egg."
+    }
+  }
+]

@@ -1,0 +1,771 @@
+[
+  {
+    "page": 191,
+    "questions": [
+      {
+        "q": "How many membrane-spanning helices characterize the GPCR family shown?",
+        "options": ["Four", "Seven", "Nine", "Twelve"],
+        "answer": 1,
+        "explanation": "The slide identifies GPCRs as receptors containing seven transmembrane helices."
+      }
+    ]
+  },
+  {
+    "page": 193,
+    "questions": [
+      {
+        "q": "What produces the amplification step highlighted in the GPCR diagram?",
+        "options": ["One receptor activates multiple G proteins", "One arrestin activates multiple receptors", "One G protein creates multiple receptors", "One ligand phosphorylates multiple GRKs"],
+        "answer": 0,
+        "explanation": "An active ligand-bound receptor can successively activate multiple G proteins."
+      },
+      {
+        "q": "Which event directly ends signaling by an individual G-alpha subunit?",
+        "options": ["Receptor phosphorylation", "Ligand binding", "GTP hydrolysis", "cAMP diffusion"],
+        "answer": 2,
+        "explanation": "G-alpha's GTPase activity hydrolyzes bound GTP to GDP, returning the subunit to its inactive state."
+      }
+    ]
+  },
+  {
+    "page": 194,
+    "questions": [
+      {
+        "q": "Which enzyme is activated by G-alpha in the pathway described on the slide?",
+        "options": ["Protein phosphatase 1", "Adenylyl cyclase", "Glycogen synthase", "Caspase-9"],
+        "answer": 1,
+        "explanation": "Activated G-alpha binds and activates adenylyl cyclase in the illustrated pathway."
+      },
+      {
+        "q": "What happens after G-alpha hydrolyzes its bound GTP?",
+        "options": ["It binds arrestin", "It phosphorylates the receptor", "It reassociates with beta-gamma", "It converts cAMP to ATP"],
+        "answer": 2,
+        "explanation": "GDP-bound G-alpha reassociates with beta-gamma, reforming the inactive trimeric G protein."
+      }
+    ]
+  },
+  {
+    "page": 196,
+    "questions": [
+      {
+        "q": "In the Aplysia images, which color represents the highest intracellular cAMP concentration?",
+        "options": ["Blue", "Green", "Yellow", "Red"],
+        "answer": 3,
+        "explanation": "The slide's color scale identifies blue as low, yellow as intermediate, and red as high cAMP."
+      },
+      {
+        "q": "In this signaling example, serotonin is classified as which messenger?",
+        "options": ["First messenger", "Second messenger", "Protein kinase", "Transcription factor"],
+        "answer": 0,
+        "explanation": "Serotonin binds the extracellular receptor and is therefore the first messenger; cAMP is the second messenger."
+      }
+    ]
+  },
+  {
+    "page": 197,
+    "questions": [
+      {
+        "q": "Which kinase is directly activated by cAMP in the illustrated liver-cell cascade?",
+        "options": ["Protein kinase A", "Protein kinase C", "Cyclin-dependent kinase 1", "Receptor tyrosine kinase"],
+        "answer": 0,
+        "explanation": "cAMP activates protein kinase A in the glucagon/epinephrine cascade."
+      },
+      {
+        "q": "What is the immediate metabolic purpose of activating glycogen phosphorylase in this pathway?",
+        "options": ["Glycogen synthesis", "Glycogen breakdown", "Fatty-acid synthesis", "DNA replication"],
+        "answer": 1,
+        "explanation": "Glycogen phosphorylase promotes glycogen breakdown, helping mobilize glucose."
+      }
+    ]
+  },
+  {
+    "page": 198,
+    "questions": [
+      {
+        "q": "Why are G proteins and arrestins mutually exclusive at an activated GPCR?",
+        "options": ["They hydrolyze one another", "They bind the same cytoplasmic receptor cavity", "They require different ligands", "They occupy opposite membrane leaflets"],
+        "answer": 1,
+        "explanation": "Both engage the same inter-helical cavity on the receptor's cytoplasmic side, so binding of one prevents binding of the other."
+      },
+      {
+        "q": "Which receptor-modifying enzyme acts before arrestin binds?",
+        "options": ["GRK", "Adenylyl cyclase", "PKA", "Phosphodiesterase"],
+        "answer": 0,
+        "explanation": "A GPCR kinase, or GRK, first phosphorylates the active receptor."
+      }
+    ]
+  },
+  {
+    "page": 201,
+    "questions": [
+      {
+        "q": "What happens to the overall volume of a cell and its nucleus during apoptosis?",
+        "options": ["Both increase", "The cell increases while the nucleus shrinks", "Both shrink", "Neither changes"],
+        "answer": 2,
+        "explanation": "Shrinkage of both the cell and nucleus is listed as a characteristic feature of apoptosis."
+      },
+      {
+        "q": "Which cell-surface change is characteristic of apoptosis on this slide?",
+        "options": ["Flagellum formation", "Membrane blebbing", "Cell-wall synthesis", "Tight-junction expansion"],
+        "answer": 1,
+        "explanation": "Apoptotic cells lose adhesion and form blebs at the cell surface."
+      }
+    ]
+  },
+  {
+    "page": 203,
+    "questions": [
+      {
+        "q": "Which event appears first in the illustrated apoptotic sequence?",
+        "options": ["Apoptotic-body formation", "Membrane blebbing", "Chromatin condensation", "Phagolysosome formation"],
+        "answer": 2,
+        "explanation": "The diagram begins with chromatin condensation, followed by blebbing, nuclear collapse, and apoptotic-body formation."
+      },
+      {
+        "q": "What is the final labeled morphological product of the sequence?",
+        "options": ["A multinucleated cell", "Apoptotic bodies", "A metaphase plate", "A bacterial spore"],
+        "answer": 1,
+        "explanation": "The dying cell fragments into membrane-bound apoptotic bodies."
+      }
+    ]
+  },
+  {
+    "page": 204,
+    "questions": [
+      {
+        "q": "Where are engulfed apoptotic bodies degraded inside macrophages?",
+        "options": ["Nucleoli", "Peroxisomes", "Phagolysosomes", "Centrosomes"],
+        "answer": 2,
+        "explanation": "Macrophages phagocytose apoptotic bodies and degrade them within phagolysosomes."
+      },
+      {
+        "q": "Which property of apoptotic bodies helps prevent inflammation?",
+        "options": ["They retain an intact enclosing plasma membrane", "They release ATP into surrounding tissue", "They immediately lyse neighboring cells", "They secrete inflammatory cytokines"],
+        "answer": 0,
+        "explanation": "Membrane enclosure prevents cellular contents from spilling into the surrounding tissue."
+      }
+    ]
+  },
+  {
+    "page": 208,
+    "questions": [
+      {
+        "q": "Which death receptor is named in the extrinsic apoptosis pathway?",
+        "options": ["EGFR", "TNFR1", "GPCR", "T-cell receptor"],
+        "answer": 1,
+        "explanation": "The slide begins the pathway with TNF binding to TNFR1."
+      },
+      {
+        "q": "Which pair consists of adaptor proteins recruited in the TNFR1 complex?",
+        "options": ["BAX and BAK", "Apaf-1 and cytochrome c", "TRADD and FADD", "BCL-2 and BCL-XL"],
+        "answer": 2,
+        "explanation": "Activated TNFR1 recruits the cytoplasmic adaptors TRADD and FADD."
+      }
+    ]
+  },
+  {
+    "page": 209,
+    "questions": [
+      {
+        "q": "Which set contains only anti-apoptotic BCL-2 family members listed on the slide?",
+        "options": ["BCL-2, BCL-XL, MCL-1", "BAX, BAK, BOK", "BID, BIM, BAD", "BAX, BCL-2, NOXA"],
+        "answer": 0,
+        "explanation": "BCL-2, BCL-XL, and MCL-1 are all listed as anti-apoptotic proteins."
+      },
+      {
+        "q": "What cellular event is caused by BAX and BAK oligomerization?",
+        "options": ["Nuclear-envelope assembly", "Mitochondrial outer-membrane permeabilization", "DNA replication", "GPCR desensitization"],
+        "answer": 1,
+        "explanation": "BAX and BAK form pores that permeabilize the mitochondrial outer membrane, producing MOMP."
+      }
+    ]
+  },
+  {
+    "page": 210,
+    "questions": [
+      {
+        "q": "From which mitochondrial compartment is cytochrome c released during intrinsic apoptosis?",
+        "options": ["Matrix", "Intermembrane space", "Inner-membrane matrix face", "Mitochondrial nucleoid"],
+        "answer": 1,
+        "explanation": "Cytochrome c resides in the intermembrane space before MOMP releases it into the cytosol."
+      },
+      {
+        "q": "Which initiator caspase is activated by the cytochrome c–Apaf-1 complex?",
+        "options": ["Caspase-1", "Caspase-3", "Caspase-8", "Caspase-9"],
+        "answer": 3,
+        "explanation": "The intrinsic pathway recruits and activates procaspase-9."
+      }
+    ]
+  },
+  {
+    "page": 211,
+    "questions": [
+      {
+        "q": "Where is phosphatidylserine normally located in a healthy cell?",
+        "options": ["Outer leaflet of the plasma membrane", "Cytoplasmic leaflet of the plasma membrane", "Mitochondrial matrix", "Nuclear pore"],
+        "answer": 1,
+        "explanation": "In healthy cells, phosphatidylserine is maintained on the cytoplasmic, inner leaflet."
+      },
+      {
+        "q": "What biological signal does exposed phosphatidylserine provide to macrophages?",
+        "options": ["A proliferate signal", "An eat-me signal", "A secrete-cAMP signal", "A DNA-repair signal"],
+        "answer": 1,
+        "explanation": "Externalized phosphatidylserine marks the apoptotic cell for engulfment."
+      }
+    ]
+  },
+  {
+    "page": 212,
+    "questions": [
+      {
+        "q": "Which treatment is used on the slide to induce apoptosis?",
+        "options": ["Serotonin", "Staurosporine", "Activin", "Propidium iodide"],
+        "answer": 1,
+        "explanation": "The treated cells were exposed to staurosporine to induce apoptosis."
+      },
+      {
+        "q": "In untreated cells, cytochrome c fluorescence is expected to appear in which pattern?",
+        "options": ["Diffuse throughout the cytosol", "Punctate and mitochondrial", "Restricted to the nucleus", "Absent from the cell"],
+        "answer": 1,
+        "explanation": "Before mitochondrial permeabilization, cytochrome c remains localized to mitochondria and appears punctate."
+      }
+    ]
+  },
+  {
+    "page": 214,
+    "questions": [
+      {
+        "q": "Which phases together constitute interphase?",
+        "options": ["G1, S, and G2", "Prophase, metaphase, and anaphase", "G0, M, and cytokinesis", "S, M, and telophase"],
+        "answer": 0,
+        "explanation": "Interphase consists of G1, S, and G2."
+      },
+      {
+        "q": "What structure performs the equipartition of chromosomes during mitosis?",
+        "options": ["Lysosome", "Mitotic spindle", "Golgi apparatus", "Phagolysosome"],
+        "answer": 1,
+        "explanation": "The mitotic spindle organizes and separates chromosomes into the two daughter cells."
+      }
+    ]
+  },
+  {
+    "page": 215,
+    "questions": [
+      {
+        "q": "Which fluorescent stain is identified as a DNA stain on this slide?",
+        "options": ["Annexin V", "Propidium iodide", "SYPRO Orange", "Calcein"],
+        "answer": 1,
+        "explanation": "The slide explicitly states that propidium iodide is used to stain DNA."
+      },
+      {
+        "q": "Which listed purpose of mitosis is especially important in skin and gut lining?",
+        "options": ["Nitrogen fixation", "Cell replacement and repair", "Antibody recombination", "Gametogenesis only"],
+        "answer": 1,
+        "explanation": "Mitosis replaces damaged, worn-out, or dead cells in rapidly renewed tissues such as skin and gut lining."
+      }
+    ]
+  },
+  {
+    "page": 216,
+    "questions": [
+      {
+        "q": "Approximately what fraction of the cell cycle is spent in interphase according to the slide?",
+        "options": ["10%", "25%", "50%", "90%"],
+        "answer": 3,
+        "explanation": "The slide labels interphase as approximately 90% of the cell cycle."
+      },
+      {
+        "q": "Which phase is described as a quiescent state outside active cycling?",
+        "options": ["G0", "G1", "S", "G2"],
+        "answer": 0,
+        "explanation": "Cells that temporarily or permanently stop dividing enter G0."
+      }
+    ]
+  },
+  {
+    "page": 217,
+    "questions": [
+      {
+        "q": "What is the DNA state of each decondensed chromosome in G1?",
+        "options": ["Two sister chromatids", "One linear double-stranded DNA molecule", "Four homologous chromosomes", "One single-stranded RNA molecule"],
+        "answer": 1,
+        "explanation": "Before S phase, each G1 chromosome consists of one linear double-stranded DNA molecule."
+      },
+      {
+        "q": "During which phase are sister chromatids generated?",
+        "options": ["G1", "S", "G2", "M"],
+        "answer": 1,
+        "explanation": "Chromosome replication in S phase creates sister chromatids."
+      }
+    ]
+  },
+  {
+    "page": 218,
+    "questions": [
+      {
+        "q": "At which mitotic stage do spindle microtubules gain access to chromosomes and attach to kinetochores?",
+        "options": ["Prophase", "Prometaphase", "Metaphase", "Telophase"],
+        "answer": 1,
+        "explanation": "The slide describes kinetochore attachment after nuclear-envelope breakdown in prometaphase."
+      },
+      {
+        "q": "At which stage are chromosomes aligned at the spindle midplane?",
+        "options": ["Prometaphase", "Metaphase", "Anaphase", "Telophase"],
+        "answer": 1,
+        "explanation": "Chromosome alignment at the spindle midplane defines metaphase."
+      }
+    ]
+  },
+  {
+    "page": 220,
+    "questions": [
+      {
+        "q": "Why does transcription decrease as chromosomes compact in prophase?",
+        "options": ["RNA is converted into DNA", "Transcription factors become displaced", "Ribosomes enter the nucleus", "Kinetochores degrade promoters"],
+        "answer": 1,
+        "explanation": "The slide states that transcription shuts down partly because compaction displaces transcription factors."
+      },
+      {
+        "q": "Toward where do the centrioles move as the mitotic spindle forms?",
+        "options": ["The nuclear center", "Opposite poles of the cell", "The metaphase plate together", "The nucleolus"],
+        "answer": 1,
+        "explanation": "The centrioles move toward opposite cell poles while spindle microtubules extend between them."
+      }
+    ]
+  },
+  {
+    "page": 221,
+    "questions": [
+      {
+        "q": "Approximately how many different polypeptides are stated to assemble into the human kinetochore?",
+        "options": ["About 10", "About 25", "About 100", "About 1,000"],
+        "answer": 2,
+        "explanation": "The slide states that approximately 100 different polypeptides assemble into kinetochore protein complexes."
+      },
+      {
+        "q": "Which motor protein is named as helping carry chromosomes along spindle microtubules?",
+        "options": ["Kinesin-1", "Dynein", "Myosin II", "Actin"],
+        "answer": 1,
+        "explanation": "Dynein is named as a kinetochore-associated motor that moves chromosomes on the spindle."
+      }
+    ]
+  },
+  {
+    "page": 223,
+    "questions": [
+      {
+        "q": "During which stage are sister chromatids pulled toward opposite poles?",
+        "options": ["Prophase", "Metaphase", "Anaphase", "Telophase"],
+        "answer": 2,
+        "explanation": "Separation and poleward movement of sister chromatids occur in anaphase."
+      },
+      {
+        "q": "What is the name of the process that physically pinches one cell into two daughter cells?",
+        "options": ["Condensation", "Cytokinesis", "Replication", "Gastrulation"],
+        "answer": 1,
+        "explanation": "Cytokinesis divides the cytoplasm and completes physical cell separation."
+      }
+    ]
+  },
+  {
+    "page": 225,
+    "questions": [
+      {
+        "q": "Which material was transferred from a maturing Xenopus oocyte into an immature oocyte?",
+        "options": ["Purified DNA", "Cytoplasm", "Plasma membrane", "Isolated chromosomes"],
+        "answer": 1,
+        "explanation": "Cytoplasm from a maturing oocyte was injected into an immature recipient."
+      },
+      {
+        "q": "What response in the recipient oocyte indicated induced maturation?",
+        "options": ["Apoptotic-body formation", "Germinal-vesicle breakdown", "Phosphatidylserine exposure", "Blastocoel formation"],
+        "answer": 1,
+        "explanation": "The injected recipient underwent germinal-vesicle breakdown and prematurely entered meiosis."
+      }
+    ]
+  },
+  {
+    "page": 226,
+    "questions": [
+      {
+        "q": "Which cyclin-CDK complex is most associated with the G1/S transition in the diagram?",
+        "options": ["Cyclin E–CDK2", "Cyclin A–CDK1", "Cyclin B–CDK1", "Cyclin D–CDK1"],
+        "answer": 0,
+        "explanation": "Cyclin E–CDK2 activity peaks around the G1/S transition."
+      },
+      {
+        "q": "Which cyclin is shown rising through S and G2 before declining in mitosis?",
+        "options": ["Cyclin E", "Cyclin A", "Cyclin B only after cytokinesis", "Cyclin D only in G0"],
+        "answer": 1,
+        "explanation": "The plotted Cyclin A activity spans S phase and G2."
+      }
+    ]
+  },
+  {
+    "page": 227,
+    "questions": [
+      {
+        "q": "In which phosphorylation state is pRb active as an E2F inhibitor?",
+        "options": ["Hyperphosphorylated", "Hypophosphorylated", "Ubiquitinated", "Acetylated only"],
+        "answer": 1,
+        "explanation": "Hypophosphorylated pRb binds and inactivates E2F transcription factors."
+      },
+      {
+        "q": "Loss of RB1 function also increases risk of which malignancy named on the slide?",
+        "options": ["Osteosarcoma", "Glioblastoma", "Melanoma", "Leukemia"],
+        "answer": 0,
+        "explanation": "The slide specifically names osteosarcoma and soft-tissue sarcomas as additional risks."
+      }
+    ]
+  },
+  {
+    "page": 230,
+    "questions": [
+      {
+        "q": "Which progenitor gives rise to B lymphocytes, T lymphocytes, and natural killer cells in the diagram?",
+        "options": ["Common myeloid progenitor", "Common lymphoid progenitor", "Megakaryocyte", "Erythrocyte"],
+        "answer": 1,
+        "explanation": "B, T, and natural killer cells branch from the common lymphoid progenitor."
+      },
+      {
+        "q": "Which mature blood cell is produced from a megakaryocyte?",
+        "options": ["Platelets", "Neutrophils", "Plasma cells", "Macrophages"],
+        "answer": 0,
+        "explanation": "The diagram shows thrombocytes/platelets arising from megakaryocytes."
+      }
+    ]
+  },
+  {
+    "page": 233,
+    "questions": [
+      {
+        "q": "Which specialized function is assigned to red blood cells on the slide?",
+        "options": ["Electrical conduction", "Force generation", "Oxygen transport", "Antibody secretion"],
+        "answer": 2,
+        "explanation": "Red blood cells are given as the example specialized for O2 transportation."
+      },
+      {
+        "q": "What is differentiation?",
+        "options": ["Replacement of a cell's entire genome", "Specialization of an unspecialized cell", "Fusion of all embryonic cells", "Permanent arrest of every stem cell"],
+        "answer": 1,
+        "explanation": "Differentiation is the process by which unspecialized cells acquire specialized morphology and function."
+      }
+    ]
+  },
+  {
+    "page": 234,
+    "questions": [
+      {
+        "q": "Which term describes the range of cell types that a cell can potentially become?",
+        "options": ["Fate", "Potency", "Morphology", "Clonality"],
+        "answer": 1,
+        "explanation": "Developmental potential, or potency, is the range of cell types a cell can become."
+      },
+      {
+        "q": "How does developmental potential generally change as development proceeds?",
+        "options": ["It progressively decreases", "It progressively increases", "It alternates randomly", "It remains identical in all cells"],
+        "answer": 0,
+        "explanation": "Cell fates become progressively restricted, so developmental potential decreases."
+      }
+    ]
+  },
+  {
+    "page": 235,
+    "questions": [
+      {
+        "q": "Which potency class has the broadest developmental potential?",
+        "options": ["Unipotent", "Oligopotent", "Multipotent", "Totipotent"],
+        "answer": 3,
+        "explanation": "Totipotent cells can generate all cell types required for an organism."
+      },
+      {
+        "q": "Which potency class is restricted to producing one specific cell type?",
+        "options": ["Pluripotent", "Multipotent", "Oligopotent", "Unipotent"],
+        "answer": 3,
+        "explanation": "A unipotent cell produces only its own specific cell type."
+      }
+    ]
+  },
+  {
+    "page": 236,
+    "questions": [
+      {
+        "q": "What does clonality mean in the lineage diagram?",
+        "options": ["Cells originate from one founder cell", "Cells contain different genomes", "Cells cannot proliferate", "Cells arise from multiple unrelated founders"],
+        "answer": 0,
+        "explanation": "A clone is a group of descendant cells derived from one founder."
+      },
+      {
+        "q": "What triggers expansion of the selected lymphocyte clone in the diagram?",
+        "options": ["Antigen recognition", "DNA loss", "Mitochondrial rupture", "Cyclin destruction"],
+        "answer": 0,
+        "explanation": "Antigen selects the matching lymphocyte clone, which then proliferates."
+      }
+    ]
+  },
+  {
+    "page": 237,
+    "questions": [
+      {
+        "q": "In the potency pyramid, in which direction does differentiation increase?",
+        "options": ["From base to apex", "From apex to base", "Only from left to right", "It does not change"],
+        "answer": 1,
+        "explanation": "The diagram shows broad totipotency at the apex and increasingly differentiated cell types toward the base."
+      },
+      {
+        "q": "How does potency change as cells move toward differentiated cell types?",
+        "options": ["It increases", "It decreases", "It becomes cyclic", "It becomes unrelated to fate"],
+        "answer": 1,
+        "explanation": "Developmental potency narrows as differentiation proceeds."
+      }
+    ]
+  },
+  {
+    "page": 238,
+    "questions": [
+      {
+        "q": "What is the direct molecular cause of different behavior in differentiated cells according to the slide?",
+        "options": ["Different subsets of genes are expressed", "Each cell loses most chromosomes", "All proteins are expressed equally", "The genetic code changes"],
+        "answer": 0,
+        "explanation": "Differential gene expression gives different cell types different protein complements."
+      },
+      {
+        "q": "What do the contrasting colors in the two heat maps primarily represent?",
+        "options": ["Different gene-expression levels", "Different chromosome numbers", "Different cell sizes", "Different membrane potentials only"],
+        "answer": 0,
+        "explanation": "Heat-map color differences represent relative expression levels of gene sets in the compared progenitors."
+      }
+    ]
+  },
+  {
+    "page": 239,
+    "questions": [
+      {
+        "q": "What is the fluid-filled cavity in a blastocyst called?",
+        "options": ["Blastocoel", "Nucleolus", "Phagosome", "Centromere"],
+        "answer": 0,
+        "explanation": "The hollow cavity shown inside the blastocyst is the blastocoel."
+      },
+      {
+        "q": "Which cell layer surrounds the mammalian blastocyst in the diagram?",
+        "options": ["Trophoblast", "Mesoderm", "Neural crest", "Endothelium"],
+        "answer": 0,
+        "explanation": "The outer cell layer of the blastocyst is labeled trophoblast."
+      }
+    ]
+  },
+  {
+    "page": 241,
+    "questions": [
+      {
+        "q": "Which three primary germ layers are established during mammalian gastrulation?",
+        "options": ["Ectoderm, mesoderm, and endoderm", "Epidermis, dermis, and hypodermis", "Trophoblast, blastocoel, and chorion", "Myeloid, lymphoid, and erythroid"],
+        "answer": 0,
+        "explanation": "Gastrulation establishes ectoderm, mesoderm, and endoderm."
+      }
+    ]
+  },
+  {
+    "page": 244,
+    "questions": [
+      {
+        "q": "Which germ layer gives rise to the digestive tract, liver, and pancreas?",
+        "options": ["Ectoderm", "Mesoderm", "Endoderm", "Trophoblast"],
+        "answer": 2,
+        "explanation": "The slide lists the digestive tract, liver, and pancreas as endoderm derivatives."
+      },
+      {
+        "q": "Which germ layer gives rise to bone, kidney, and the circulatory system?",
+        "options": ["Ectoderm", "Mesoderm", "Endoderm", "Inner cell mass"],
+        "answer": 1,
+        "explanation": "Bone, kidney, and circulatory and lymphatic systems are listed as mesoderm derivatives."
+      }
+    ]
+  },
+  {
+    "page": 245,
+    "questions": [
+      {
+        "q": "In what year was the Till and McCulloch experiment shown performed?",
+        "options": ["1951", "1961", "1971", "1981"],
+        "answer": 1,
+        "explanation": "The slide title identifies the Till and McCulloch experiment as occurring in 1961."
+      },
+      {
+        "q": "How were bone-marrow cells delivered to the irradiated mice?",
+        "options": ["Oral feeding", "Intravenous injection", "Intramuscular injection", "Inhalation"],
+        "answer": 1,
+        "explanation": "The experimental diagram specifies intravenous injection of bone-marrow cells."
+      }
+    ]
+  },
+  {
+    "page": 247,
+    "questions": [
+      {
+        "q": "Which term means that a stem cell can produce more stem cells like itself?",
+        "options": ["Determination", "Self-renewal", "Gastrulation", "Attenuation"],
+        "answer": 1,
+        "explanation": "Self-renewal is the ability to generate additional stem cells."
+      },
+      {
+        "q": "What metabolic and proliferative state is associated with many tissue stem cells?",
+        "options": ["Quiescent with low metabolic activity", "Continuously mitotic with maximal metabolism", "Apoptotic with membrane rupture", "Terminally differentiated with no renewal capacity"],
+        "answer": 0,
+        "explanation": "The slide describes stem cells as capable of quiescence, with no division and low metabolic activity."
+      }
+    ]
+  },
+  {
+    "page": 248,
+    "questions": [
+      {
+        "q": "Which two scientists shared the 2012 Nobel Prize highlighted on the slide?",
+        "options": ["Till and McCulloch", "Gurdon and Yamanaka", "Watson and Crick", "Bax and Bak"],
+        "answer": 1,
+        "explanation": "John Gurdon and Shinya Yamanaka shared the 2012 prize for discoveries concerning cellular reprogramming."
+      }
+    ]
+  },
+  {
+    "page": 249,
+    "questions": [
+      {
+        "q": "From which differentiated tissue were Gurdon's donor nuclei obtained?",
+        "options": ["Adult muscle fibers", "Tadpole intestinal epithelium", "Mouse embryonic fibroblasts", "Bone-marrow stem cells"],
+        "answer": 1,
+        "explanation": "The donor nuclei came from intestinal epithelial cells of feeding tadpoles."
+      },
+      {
+        "q": "What fraction of differentiated-cell nuclear transplants produced normal tadpoles on the slide?",
+        "options": ["1.5% (10 of 726)", "10% (72 of 726)", "25% (182 of 726)", "50% (363 of 726)"],
+        "answer": 0,
+        "explanation": "The slide reports 10 normal tadpoles from 726 transplants, approximately 1.5%."
+      }
+    ]
+  },
+  {
+    "page": 251,
+    "questions": [
+      {
+        "q": "What differentiated starting cell type was used in Yamanaka's experiment shown here?",
+        "options": ["Mouse embryonic fibroblasts", "Human erythrocytes", "Xenopus intestinal cells", "Mouse oocytes"],
+        "answer": 0,
+        "explanation": "The source cells shown are mouse embryonic fibroblasts."
+      },
+      {
+        "q": "How many candidate genes were initially screened using retroviral delivery?",
+        "options": ["4", "12", "24", "48"],
+        "answer": 2,
+        "explanation": "The slide states that 24 candidate genes were initially used to search for reprogramming factors."
+      }
+    ]
+  },
+  {
+    "page": 252,
+    "questions": [
+      {
+        "q": "What assay readout was used to judge successful reprogramming combinations?",
+        "options": ["Number of colonies", "Number of chromosomes lost", "Amount of cytochrome c released", "Frequency of membrane blebs"],
+        "answer": 0,
+        "explanation": "The graphs compare colony number after testing different factor combinations."
+      },
+      {
+        "q": "What general strategy narrowed the original candidate set to four factors?",
+        "options": ["Systematic factor removal and reduced combinations", "Random chromosome deletion", "Protein purification from mitochondria", "Selection by antibiotic resistance alone"],
+        "answer": 0,
+        "explanation": "Factors were removed and smaller combinations tested to identify those required for colony formation."
+      }
+    ]
+  },
+  {
+    "page": 253,
+    "questions": [
+      {
+        "q": "What does a normal karyotype establish about candidate iPSCs?",
+        "options": ["They have grossly normal chromosome number and structure", "They can form every germ layer", "They are free of all point mutations", "They beat like cardiomyocytes"],
+        "answer": 0,
+        "explanation": "Karyotyping checks chromosome number and major structural integrity."
+      },
+      {
+        "q": "Why is teratoma formation used alongside karyotyping?",
+        "options": ["It tests multilineage differentiation rather than chromosome integrity", "It measures GPCR activity", "It counts apoptotic bodies", "It proves the absence of all tumors"],
+        "answer": 0,
+        "explanation": "The two assays answer different questions: karyotype checks chromosomes, while teratoma tissues demonstrate broad differentiation."
+      }
+    ]
+  },
+  {
+    "page": 254,
+    "questions": [
+      {
+        "q": "Which technology is proposed for correcting disease-causing mutations in patient-derived iPSCs?",
+        "options": ["FRET", "CRISPR/Cas9", "Annexin V staining", "Propidium iodide"],
+        "answer": 1,
+        "explanation": "The slide proposes combining iPSCs with CRISPR/Cas9 for gene correction."
+      },
+      {
+        "q": "What enables drug screening directly on a disease-relevant target cell type?",
+        "options": ["Directed differentiation of patient-derived iPSCs", "Removal of all reprogramming factors", "Whole-body irradiation", "Blocking clonal expansion"],
+        "answer": 0,
+        "explanation": "Patient iPSCs can be directed into the relevant cell type and used for large-scale drug screening."
+      }
+    ]
+  },
+  {
+    "page": 255,
+    "questions": [
+      {
+        "q": "How were Rx-positive cells visualized in the optic-cup culture?",
+        "options": ["Annexin V positivity", "GFP fluorescence", "Propidium iodide staining", "Cytochrome c diffusion"],
+        "answer": 1,
+        "explanation": "Rx-positive cells appear GFP-positive in the culture."
+      },
+      {
+        "q": "Which matrix proteins are named as an alternative to Matrigel in the culture conditions?",
+        "options": ["Laminin and entactin", "Actin and myosin", "Collagen and keratin", "BAX and BAK"],
+        "answer": 0,
+        "explanation": "The slide names laminin plus entactin as matrix proteins used in the low-serum culture."
+      }
+    ]
+  },
+  {
+    "page": 256,
+    "questions": [
+      {
+        "q": "Which fluorescent marker identifies the developing vesicles in the time-course images?",
+        "options": ["Rx-GFP", "Annexin-V-PE", "PI-DNA", "BCL-2-YFP"],
+        "answer": 0,
+        "explanation": "The green signal is labeled Rx-GFP and marks retinal-field identity."
+      }
+    ]
+  },
+  {
+    "page": 257,
+    "questions": [
+      {
+        "q": "Which region of the spherical vesicle invaginates to form neural-retina tissue?",
+        "options": ["Distal portion", "Proximal outer shell", "Central lumen only", "Entire vesicle uniformly"],
+        "answer": 0,
+        "explanation": "The distal portion invaginates and expresses neural-retina markers."
+      },
+      {
+        "q": "Which marker pair supports retinal pigment epithelium identity in the outer epithelium?",
+        "options": ["Mitf and Otx2", "Chx10 and caspase-9", "TRADD and FADD", "Oct3/4 and c-Myc"],
+        "answer": 0,
+        "explanation": "The outer epithelium expresses RPE-associated markers including Mitf and Otx2."
+      }
+    ]
+  },
+  {
+    "page": 260,
+    "questions": [
+      {
+        "q": "Which organ is specifically important for T-cell maturation?",
+        "options": ["Thymus", "Spleen", "Bone marrow", "Tonsil"],
+        "answer": 0,
+        "explanation": "T-cell precursors mature in the thymus."
+      }
+    ]
+  }
+]

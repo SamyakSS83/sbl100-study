@@ -1,0 +1,2725 @@
+[
+  {
+    "page": 51,
+    "title": "Supplementary translation video",
+    "explain": "This slide contains only a link to a supplementary video. It adds no new written fact beyond the surrounding translation slides.",
+    "mustKnow": [
+      "Treat this as optional supporting material, not a new pathway or definition."
+    ],
+    "terms": [],
+    "diagramGuide": [],
+    "interaction": {
+      "type": "tap",
+      "label": "Non-content slide: supplementary video link."
+    }
+  },
+  {
+    "page": 52,
+    "title": "Translation direction",
+    "explain": "Translation is the process of making a protein from an mRNA. A ribosome moves along mRNA from its 5′ end toward its 3′ end, while the protein chain grows from the amino end to the carboxyl end.",
+    "mustKnow": [
+      "Translation occurs on ribosomes.",
+      "mRNA is read 5′ to 3′.",
+      "Protein is synthesized N-terminus to C-terminus."
+    ],
+    "terms": [
+      {
+        "term": "Translation",
+        "meaning": "Synthesis of a protein using the sequence in mRNA."
+      },
+      {
+        "term": "N-terminus",
+        "meaning": "The amino end and first end made of a protein."
+      },
+      {
+        "term": "C-terminus",
+        "meaning": "The carboxyl end toward which a protein grows."
+      }
+    ],
+    "diagramGuide": [
+      "Read the mRNA strand left to right as 5′→3′; each codon feeds one amino acid into the growing chain.",
+      "The chain grows by adding each new amino acid to the C-terminal end, so synthesis is N→C."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "A ribosome is moving toward the 3′ end of an mRNA. Where is the next amino acid added?",
+      "options": [
+        "To the protein's N-terminus",
+        "To the protein's C-terminus",
+        "To the mRNA's 5′ end",
+        "To the mRNA's 3′ end"
+      ],
+      "answer": 1,
+      "explanation": "Translation reads mRNA 5′→3′ while extending the polypeptide at its C-terminal end."
+    }
+  },
+  {
+    "page": 53,
+    "title": "Translation machinery",
+    "explain": "The ribosome is the molecular machine that joins amino acids. The mRNA supplies the coded instructions, and tRNAs carry the corresponding amino acids to the ribosome in the cytoplasm.",
+    "mustKnow": [
+      "mRNA provides the genetic message.",
+      "tRNA delivers amino acids.",
+      "The ribosome forms the protein chain."
+    ],
+    "terms": [
+      {
+        "term": "Ribosome",
+        "meaning": "RNA-protein machine where peptide synthesis occurs."
+      },
+      {
+        "term": "tRNA",
+        "meaning": "Transfer RNA that carries an amino acid to the ribosome."
+      },
+      {
+        "term": "mRNA",
+        "meaning": "Messenger RNA containing the sequence to be translated."
+      }
+    ],
+    "diagramGuide": [
+      "Follow the three-part machine: mRNA is the template, tRNA is the adaptor carrying an amino acid, and the ribosome is the catalytic assembly site.",
+      "In the peptide-bond inset, the bond forms between the carboxyl group of one amino acid and the amino group of the next."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which pairing correctly separates template, adaptor, and synthesis site?",
+      "options": [
+        "mRNA—adaptor; tRNA—template; ribosome—site",
+        "mRNA—template; tRNA—adaptor; ribosome—site",
+        "mRNA—site; tRNA—template; ribosome—adaptor",
+        "mRNA—template; tRNA—site; ribosome—adaptor"
+      ],
+      "answer": 1,
+      "explanation": "mRNA carries codons, tRNA links codons to amino acids, and the ribosome catalyzes peptide synthesis."
+    }
+  },
+  {
+    "page": 54,
+    "title": "From gene to functional protein",
+    "explain": "Gene expression proceeds through linked stages. DNA is transcribed into RNA in the nucleus, the RNA is processed into mature mRNA, and the mRNA is translated in the cytoplasm. The new protein then folds and may be transported through the endoplasmic reticulum and Golgi.",
+    "mustKnow": [
+      "Transcription: DNA to RNA.",
+      "RNA processing produces mature mRNA.",
+      "Translation: mRNA to protein.",
+      "Folding gives a protein its three-dimensional structure."
+    ],
+    "terms": [
+      {
+        "term": "Chaperone",
+        "meaning": "Protein that helps another protein fold correctly."
+      },
+      {
+        "term": "Golgi apparatus",
+        "meaning": "Organelle that modifies and sorts many transported proteins."
+      }
+    ],
+    "diagramGuide": [
+      "Read the boxes left to right: DNA transcription in the nucleus → RNA processing → translation in the cytoplasm → folding and ER/Golgi transport.",
+      "The arrows indicate order, not chemical reversibility."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "A newly transcribed eukaryotic RNA is not yet ready for cytosolic translation. Which event must occur next in the slide's sequence?",
+      "options": [
+        "Golgi transport",
+        "RNA processing",
+        "Protein folding",
+        "DNA replication"
+      ],
+      "answer": 1,
+      "explanation": "RNA processing produces mature mRNA before translation."
+    }
+  },
+  {
+    "page": 55,
+    "title": "Why gene expression is regulated",
+    "explain": "Cells do not need every gene product at the same time. Regulation lets cells match gene activity to metabolism, growth, development, and tissue specialization. Bacteria mainly control the start of transcription, while eukaryotes use more layers of control.",
+    "mustKnow": [
+      "Gene regulation supports metabolism, growth, development, and differentiation.",
+      "Prokaryotic genes are controlled mainly at transcription.",
+      "Eukaryotic regulation is more complex."
+    ],
+    "terms": [
+      {
+        "term": "Differentiation",
+        "meaning": "Development of cells into specialized cell types."
+      },
+      {
+        "term": "Gene regulation",
+        "meaning": "Control of when and how strongly a gene is expressed."
+      }
+    ],
+    "diagramGuide": [],
+    "interaction": {
+      "type": "mcq",
+      "q": "The slide contrasts bacterial and eukaryotic regulation. Which statement matches it?",
+      "options": [
+        "Bacteria regulate mainly at translation termination",
+        "Bacteria regulate mainly at transcription; eukaryotes use additional levels",
+        "Eukaryotes regulate only at transcription initiation",
+        "Neither cell type regulates metabolic genes"
+      ],
+      "answer": 1,
+      "explanation": "Bacterial control is mainly transcriptional, while eukaryotic control is multilayered."
+    }
+  },
+  {
+    "page": 56,
+    "title": "Regulatory levels in prokaryotes and eukaryotes",
+    "explain": "Prokaryotes mainly regulate transcription initiation. Because they have no nucleus, transcription and translation can occur at the same time. Eukaryotes can regulate transcription, RNA processing, RNA export from nucleus to cytosol, and translation.",
+    "mustKnow": [
+      "Prokaryotic control is mainly at transcription initiation.",
+      "Prokaryotic transcription and translation can be simultaneous.",
+      "Eukaryotes regulate gene expression at several stages."
+    ],
+    "terms": [
+      {
+        "term": "Co-translation",
+        "meaning": "Translation beginning while an mRNA is still being transcribed."
+      },
+      {
+        "term": "Post-transcriptional regulation",
+        "meaning": "Control applied after an RNA has been transcribed."
+      }
+    ],
+    "diagramGuide": [
+      "The tree splits regulation by cell type: prokaryotes mainly regulate transcription initiation; eukaryotes add post-transcriptional processing, export, and translation controls.",
+      "The prokaryotic branch links simultaneous transcription and translation to the absence of compartmentalization."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which feature most directly permits bacterial transcription and translation to occur simultaneously?",
+      "options": [
+        "Presence of introns",
+        "Absence of nuclear compartmentalization",
+        "Use of several RNA polymerases",
+        "Presence of a Golgi apparatus"
+      ],
+      "answer": 1,
+      "explanation": "Without a nucleus, ribosomes can engage an mRNA while it is being transcribed."
+    }
+  },
+  {
+    "page": 57,
+    "title": "Positive and negative gene regulation",
+    "explain": "Positive regulation increases gene expression, usually through an activator or inducer. Negative regulation decreases gene expression, usually through a repressor or inhibitor.",
+    "mustKnow": [
+      "Positive regulation increases expression.",
+      "Negative regulation decreases expression.",
+      "Activator and repressor have opposite effects."
+    ],
+    "terms": [
+      {
+        "term": "Activator",
+        "meaning": "Regulatory factor that increases gene expression."
+      },
+      {
+        "term": "Repressor",
+        "meaning": "Regulatory factor that decreases gene expression."
+      },
+      {
+        "term": "Inducer",
+        "meaning": "Molecule that promotes expression of a gene or operon."
+      }
+    ],
+    "diagramGuide": [],
+    "interaction": {
+      "type": "mcq",
+      "q": "A DNA-bound regulator lowers transcription of its target gene. In the slide's terminology it is a:",
+      "options": [
+        "Positive activator",
+        "Negative repressor",
+        "Positive inducer",
+        "Constitutive marker"
+      ],
+      "answer": 1,
+      "explanation": "A repressor or inhibitor mediates negative regulation."
+    }
+  },
+  {
+    "page": 58,
+    "title": "Operons",
+    "explain": "An operon is a bacterial DNA unit containing several functionally related genes controlled by one promoter. The genes are transcribed together, allowing a whole pathway to be switched as one unit. Operons are characteristic of prokaryotes, not eukaryotes.",
+    "mustKnow": [
+      "One promoter controls a cluster of genes.",
+      "Operons are found in prokaryotes.",
+      "Lac, ara, and gal operons control sugar metabolism."
+    ],
+    "terms": [
+      {
+        "term": "Operon",
+        "meaning": "Cluster of prokaryotic genes controlled together by one promoter."
+      },
+      {
+        "term": "Promoter",
+        "meaning": "DNA site where RNA polymerase binds to begin transcription."
+      },
+      {
+        "term": "Operator",
+        "meaning": "Regulatory DNA site where a repressor can bind."
+      }
+    ],
+    "diagramGuide": [
+      "The colored DNA blocks show one promoter and operator controlling several structural genes as one unit.",
+      "A single promoter upstream of multiple genes implies one polycistronic transcript."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which arrangement is diagnostic of the prokaryotic operon shown?",
+      "options": [
+        "Several genes, each with an independent promoter",
+        "A gene cluster controlled by one promoter and operator",
+        "One gene controlled by several origins of replication",
+        "A eukaryotic exon cluster under one enhancer"
+      ],
+      "answer": 1,
+      "explanation": "An operon is a gene cluster transcribed from shared regulatory DNA."
+    }
+  },
+  {
+    "page": 59,
+    "title": "Purpose of the lac operon",
+    "explain": "The lac operon contains genes that let bacteria take up and use lactose as an energy source. E. coli strongly uses this system when lactose is available but the preferred sugar, glucose, is unavailable.",
+    "mustKnow": [
+      "The lac operon supports lactose use.",
+      "Its genes share one promoter and one mRNA.",
+      "Glucose is preferred over lactose."
+    ],
+    "terms": [
+      {
+        "term": "Lac operon",
+        "meaning": "Bacterial operon encoding proteins needed for lactose metabolism."
+      }
+    ],
+    "diagramGuide": [],
+    "interaction": {
+      "type": "mcq",
+      "q": "Why is lac-operon expression normally favored only after glucose becomes unavailable?",
+      "options": [
+        "Lactose cannot enter cells containing glucose",
+        "Glucose is the preferred carbon source",
+        "Glucose directly destroys lacZ mRNA",
+        "Lactose represses CAP"
+      ],
+      "answer": 1,
+      "explanation": "The system prioritizes glucose and switches strongly to lactose use when glucose is scarce."
+    }
+  },
+  {
+    "page": 60,
+    "title": "Lactose uptake and breakdown",
+    "explain": "The diagram links lac-operon products to lactose use. LacY permease transports lactose into the bacterium. LacZ β-galactosidase breaks lactose into glucose and galactose and also produces the inducer allolactose. LacA encodes a transacetylase.",
+    "mustKnow": [
+      "Permease brings lactose into the cell.",
+      "β-galactosidase acts on lactose.",
+      "Allolactose helps switch on the operon."
+    ],
+    "terms": [
+      {
+        "term": "Permease",
+        "meaning": "Membrane transport protein encoded by lacY that imports lactose."
+      },
+      {
+        "term": "β-galactosidase",
+        "meaning": "lacZ enzyme that breaks lactose and can form allolactose."
+      },
+      {
+        "term": "Allolactose",
+        "meaning": "Lactose isomer that acts as the lac-operon inducer."
+      }
+    ],
+    "diagramGuide": [
+      "Trace lactose from the external medium through permease, then to β-galactosidase-mediated breakdown inside the bacterium.",
+      "Use the diagram to separate transport (LacY) from catalysis (LacZ)."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "In the diagram, which sequence correctly describes lactose utilization?",
+      "options": [
+        "LacZ imports lactose; LacY cleaves it",
+        "LacY imports lactose; LacZ cleaves it",
+        "LacA imports lactose; CAP cleaves it",
+        "CAP imports lactose; LacA cleaves it"
+      ],
+      "answer": 1,
+      "explanation": "LacY is permease; LacZ is β-galactosidase."
+    }
+  },
+  {
+    "page": 61,
+    "title": "Two controls of the lac operon",
+    "explain": "The lac operon integrates two nutrient signals. The lac repressor responds indirectly to lactose through allolactose and blocks transcription when lactose is absent. CAP responds indirectly to glucose through cAMP and stimulates transcription when glucose is low.",
+    "mustKnow": [
+      "Lac repressor is the lactose-control arm.",
+      "CAP is the glucose-control arm.",
+      "Allolactose disables repression.",
+      "High cAMP indicates low glucose."
+    ],
+    "terms": [
+      {
+        "term": "CAP",
+        "meaning": "Catabolite activator protein that promotes lac transcription when activated by cAMP."
+      },
+      {
+        "term": "cAMP",
+        "meaning": "Signal that rises when glucose is low and activates CAP."
+      }
+    ],
+    "diagramGuide": [],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which two indirect signals are correctly matched to their sensors?",
+      "options": [
+        "Allolactose—CAP; cAMP—lac repressor",
+        "Allolactose—lac repressor; cAMP—CAP",
+        "Glucose—lac repressor; lactose—CAP",
+        "cAMP—operator; allolactose—promoter"
+      ],
+      "answer": 1,
+      "explanation": "Allolactose relieves repression, while cAMP activates CAP under low glucose."
+    }
+  },
+  {
+    "page": 62,
+    "title": "Genes of the lac operon",
+    "explain": "The three structural genes lacZ, lacY, and lacA are transcribed together as one mRNA. Their products perform different parts of lactose handling: breakdown, transport, and transacetylation.",
+    "mustKnow": [
+      "lacZ encodes β-galactosidase.",
+      "lacY encodes lactose permease.",
+      "lacA encodes transacetylase.",
+      "All three genes share one transcript."
+    ],
+    "terms": [
+      {
+        "term": "lacZ",
+        "meaning": "Gene for β-galactosidase."
+      },
+      {
+        "term": "lacY",
+        "meaning": "Gene for lactose permease."
+      },
+      {
+        "term": "lacA",
+        "meaning": "Gene for transacetylase."
+      }
+    ],
+    "diagramGuide": [
+      "Read the DNA map left to right: CAP site → promoter → operator → lacZ → lacY → lacA.",
+      "Match the products shown at right: LacZ β-galactosidase, LacY permease, LacA transacetylase."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which complete lac-gene mapping is correct?",
+      "options": [
+        "lacZ—permease; lacY—transacetylase; lacA—β-galactosidase",
+        "lacZ—β-galactosidase; lacY—permease; lacA—transacetylase",
+        "lacZ—repressor; lacY—CAP; lacA—polymerase",
+        "lacZ—transacetylase; lacY—β-galactosidase; lacA—permease"
+      ],
+      "answer": 1,
+      "explanation": "The three structural genes encode β-galactosidase, permease, and transacetylase respectively."
+    }
+  },
+  {
+    "page": 63,
+    "title": "Promoter, operator, and CAP site",
+    "explain": "The promoter is where RNA polymerase binds. The operator overlaps the promoter and can be occupied by the lac repressor, physically blocking transcription. The CAP-binding site is a positive-control site; bound CAP helps RNA polymerase attach.",
+    "mustKnow": [
+      "RNA polymerase binds the promoter.",
+      "Lac repressor binds the operator.",
+      "CAP binds the CAP site and promotes transcription."
+    ],
+    "terms": [
+      {
+        "term": "Promoter",
+        "meaning": "DNA site for RNA polymerase binding."
+      },
+      {
+        "term": "Operator",
+        "meaning": "Negative-control DNA site bound by the lac repressor."
+      },
+      {
+        "term": "CAP-binding site",
+        "meaning": "Positive-control DNA site where CAP helps recruit RNA polymerase."
+      }
+    ],
+    "diagramGuide": [
+      "The operator overlaps the promoter region, so a bound repressor physically obstructs RNA polymerase.",
+      "CAP binds upstream and assists RNA-polymerase recruitment rather than removing the repressor."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "A mutation prevents repressor binding but leaves the CAP site intact. Which regulatory barrier is specifically lost?",
+      "options": [
+        "CAP-assisted recruitment",
+        "Operator-mediated blockage of RNA polymerase",
+        "cAMP production",
+        "Promoter recognition by RNA polymerase"
+      ],
+      "answer": 1,
+      "explanation": "The operator-bound repressor is the negative roadblock."
+    }
+  },
+  {
+    "page": 64,
+    "title": "How lactose removes repression",
+    "explain": "Without lactose, the lac repressor binds tightly to the operator and blocks RNA polymerase. When lactose is present, its isomer allolactose binds the repressor, reducing the repressor's ability to bind DNA and clearing the operator.",
+    "mustKnow": [
+      "No lactose: repressor bound, operon blocked.",
+      "Lactose present: allolactose releases the repressor.",
+      "Removing the repressor permits transcription but does not guarantee strong transcription."
+    ],
+    "terms": [
+      {
+        "term": "Lac repressor",
+        "meaning": "Protein that blocks lac-operon transcription by binding the operator."
+      }
+    ],
+    "diagramGuide": [],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which event directly changes the lac repressor so it no longer occupies the operator?",
+      "options": [
+        "CAP binds cAMP",
+        "Allolactose binds the repressor",
+        "Glucose binds RNA polymerase",
+        "Lactose binds the promoter"
+      ],
+      "answer": 1,
+      "explanation": "Allolactose is the inducer that changes repressor conformation."
+    }
+  },
+  {
+    "page": 65,
+    "title": "The lac operon is inducible",
+    "explain": "Allolactose is an inducer because it triggers expression of the lac operon. The lac operon is called inducible because its default state is off, but the inducer can remove repression and permit expression.",
+    "mustKnow": [
+      "Allolactose is the inducer.",
+      "An inducible operon is normally off.",
+      "Inducer presence makes expression possible."
+    ],
+    "terms": [
+      {
+        "term": "Inducible operon",
+        "meaning": "Operon normally off that can be switched on by an inducer."
+      },
+      {
+        "term": "Inducer",
+        "meaning": "Small molecule that triggers gene or operon expression."
+      }
+    ],
+    "diagramGuide": [
+      "Compare the two panels: without lactose the repressor occupies the operator; with allolactose the repressor changes shape and leaves DNA.",
+      "Allolactose acts on the repressor, not directly on RNA polymerase."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which description makes the lac operon inducible?",
+      "options": [
+        "It is normally ON and tryptophan switches it OFF",
+        "It is normally OFF and an inducer switches it ON",
+        "It is permanently ON",
+        "It is activated directly by glucose"
+      ],
+      "answer": 1,
+      "explanation": "An inducible operon has a default repressed state relieved by inducer."
+    }
+  },
+  {
+    "page": 66,
+    "title": "CAP boosts transcription",
+    "explain": "RNA polymerase binds the lac promoter weakly on its own. Active CAP binds DNA before the promoter and helps RNA polymerase bind, producing high transcription. The CAP protein is made continuously from a separate regulatory gene but becomes active only under the correct signal.",
+    "mustKnow": [
+      "CAP increases RNA polymerase binding.",
+      "CAP is encoded outside the lac operon.",
+      "CAP protein is constitutively available.",
+      "CAP must bind cAMP to become active."
+    ],
+    "terms": [
+      {
+        "term": "Constitutive expression",
+        "meaning": "Continuous expression rather than switching on only under one condition."
+      },
+      {
+        "term": "CAP",
+        "meaning": "Activator that helps RNA polymerase bind the lac promoter."
+      }
+    ],
+    "diagramGuide": [],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which statement about CAP production and action is correct?",
+      "options": [
+        "CAP is encoded within lacZ and made only with lactose",
+        "CAP is constitutively available but stimulates lac transcription after activation",
+        "CAP blocks the operator when glucose is low",
+        "CAP cleaves lactose into monosaccharides"
+      ],
+      "answer": 1,
+      "explanation": "CAP is encoded elsewhere and is constitutively produced; activated CAP improves polymerase binding."
+    }
+  },
+  {
+    "page": 67,
+    "title": "cAMP activates CAP",
+    "explain": "CAP cannot bind its DNA site effectively by itself. When glucose is low, the cell produces more cAMP. cAMP binds CAP, changes its shape, and allows CAP to bind DNA and promote transcription.",
+    "mustKnow": [
+      "Low glucose produces high cAMP.",
+      "cAMP binds and activates CAP.",
+      "CAP without cAMP is inactive."
+    ],
+    "terms": [
+      {
+        "term": "Cyclic AMP",
+        "meaning": "cAMP, a low-glucose signal that activates CAP."
+      },
+      {
+        "term": "Hunger signal",
+        "meaning": "Slide description for cAMP produced when glucose is low."
+      }
+    ],
+    "diagramGuide": [
+      "Compare low- and high-glucose panels: low glucose gives high cAMP and CAP–cAMP binding; high glucose gives low cAMP and inactive CAP.",
+      "The red transcription arrow appears only when CAP–cAMP can occupy the CAP site and repression is absent."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "A cell has high glucose. Which CAP state is expected?",
+      "options": [
+        "High cAMP; CAP bound to DNA",
+        "Low cAMP; CAP unable to bind DNA",
+        "High allolactose; CAP on operator",
+        "Low allolactose; CAP on promoter"
+      ],
+      "answer": 1,
+      "explanation": "Glucose and cAMP are inversely related; without cAMP, CAP is inactive."
+    }
+  },
+  {
+    "page": 68,
+    "title": "Conditions for strong lac transcription",
+    "explain": "Strong lac-operon expression requires two conditions at once: lactose must be present, removing the repressor through allolactose, and glucose must be absent, activating CAP through high cAMP. This leaves RNA polymerase an open path and gives it strong promoter support.",
+    "mustKnow": [
+      "Lactose present removes repression.",
+      "Glucose absent activates CAP.",
+      "Both conditions together produce strong transcription."
+    ],
+    "terms": [
+      {
+        "term": "Catabolite activation",
+        "meaning": "Activation of sugar-use genes by CAP when preferred glucose is scarce."
+      }
+    ],
+    "diagramGuide": [],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which molecular occupancy pattern produces maximal lac transcription?",
+      "options": [
+        "CAP absent, repressor present",
+        "CAP absent, repressor absent",
+        "CAP present, repressor present",
+        "CAP present, repressor absent"
+      ],
+      "answer": 3,
+      "explanation": "Strong expression requires positive activation plus removal of the negative block."
+    }
+  },
+  {
+    "page": 69,
+    "title": "Lac states when glucose is present",
+    "explain": "With glucose present, cAMP is low and CAP is inactive. If lactose is absent, the repressor also remains bound, so there is no transcription. If lactose is present, the repressor leaves, but inactive CAP means only low, leaky transcription.",
+    "mustKnow": [
+      "Glucose present keeps CAP inactive.",
+      "Glucose present plus no lactose gives no transcription.",
+      "Glucose present plus lactose gives low transcription."
+    ],
+    "terms": [
+      {
+        "term": "Leaky transcription",
+        "meaning": "Low basal transcription occurring without full activation."
+      }
+    ],
+    "diagramGuide": [
+      "Read each panel from environmental inputs to DNA occupancy: glucose controls CAP through cAMP, while lactose controls the repressor through allolactose.",
+      "Both panels have glucose present, so CAP is absent; lactose only changes no transcription to low basal transcription."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Glucose and lactose are both present. Which combination explains the expected low-level lac transcription?",
+      "options": [
+        "CAP active; repressor bound",
+        "CAP inactive; repressor released",
+        "CAP active; repressor released",
+        "CAP inactive; repressor bound"
+      ],
+      "answer": 1,
+      "explanation": "Lactose releases repressor, but glucose keeps cAMP low and CAP inactive."
+    }
+  },
+  {
+    "page": 70,
+    "title": "Lac states when glucose is absent",
+    "explain": "When glucose is absent, cAMP is high and CAP is active. If lactose is also absent, the bound repressor still blocks transcription. If lactose is present, the repressor is released and active CAP produces strong transcription.",
+    "mustKnow": [
+      "Low glucose alone cannot overcome a bound repressor.",
+      "No glucose plus no lactose gives no transcription.",
+      "No glucose plus lactose gives strong transcription."
+    ],
+    "terms": [],
+    "diagramGuide": [
+      "Both panels lack glucose, so CAP is bound; the decisive difference is lactose, which removes the repressor.",
+      "CAP cannot overcome an operator-bound repressor, but CAP plus repressor release produces strong transcription."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Glucose and lactose are both absent. CAP is DNA-bound, yet transcription remains off because:",
+      "options": [
+        "RNA polymerase lacks ATP",
+        "The repressor remains on the operator",
+        "lacZ degrades cAMP",
+        "The promoter is deleted"
+      ],
+      "answer": 1,
+      "explanation": "No allolactose is present to remove the repressor."
+    }
+  },
+  {
+    "page": 71,
+    "title": "Four-condition lac-operon table",
+    "explain": "The table combines the two switches. Lactose determines whether the repressor binds; glucose determines whether CAP binds. Strong expression occurs only with lactose present and glucose absent.",
+    "mustKnow": [
+      "Glucose+, lactose−: no transcription.",
+      "Glucose+, lactose+: low transcription.",
+      "Glucose−, lactose−: no transcription.",
+      "Glucose−, lactose+: strong transcription."
+    ],
+    "terms": [],
+    "diagramGuide": [
+      "Treat each row as a truth table: '+' under glucose predicts CAP off, while '+' under lactose predicts repressor off.",
+      "The only strong-transcription row is glucose − / lactose + / CAP + / repressor −."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which input row corresponds to CAP bound, repressor unbound, and strong transcription?",
+      "options": [
+        "Glucose +, lactose −",
+        "Glucose +, lactose +",
+        "Glucose −, lactose −",
+        "Glucose −, lactose +"
+      ],
+      "answer": 3,
+      "explanation": "Low glucose activates CAP; lactose removes the repressor."
+    }
+  },
+  {
+    "page": 72,
+    "title": "Organization of the trp operon",
+    "explain": "The trp operon contains the structural genes trpE, trpD, trpC, trpB, and trpA. They are transcribed together and translated into enzymes needed for tryptophan biosynthesis. A promoter and operator control the group.",
+    "mustKnow": [
+      "The trp genes encode enzymes for tryptophan synthesis.",
+      "The genes share one transcript.",
+      "The promoter binds RNA polymerase; the operator binds the repressor."
+    ],
+    "terms": [
+      {
+        "term": "trp operon",
+        "meaning": "Operon encoding enzymes that synthesize tryptophan."
+      },
+      {
+        "term": "Structural genes",
+        "meaning": "Genes encoding the pathway enzymes controlled by the operon."
+      }
+    ],
+    "diagramGuide": [
+      "The upper line is the trp DNA unit; the lower arrows show one transcript translated into enzymes for tryptophan biosynthesis.",
+      "The regulatory gene is separate from the clustered structural genes."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What is the direct output of transcribing and translating the trp structural genes shown?",
+      "options": [
+        "Lactose permeases",
+        "Enzymes for tryptophan biosynthesis",
+        "Tryptophan repressor only",
+        "cAMP-producing enzymes"
+      ],
+      "answer": 1,
+      "explanation": "The clustered trp genes encode enzymes that synthesize tryptophan."
+    }
+  },
+  {
+    "page": 73,
+    "title": "Tryptophan switches the trp operon off",
+    "explain": "The trp operon is on when tryptophan is absent because the repressor cannot block the operator. When tryptophan is present, it binds the repressor as a co-repressor. The active complex binds the operator and stops transcription.",
+    "mustKnow": [
+      "Tryptophan present: operon off.",
+      "Tryptophan absent: operon on.",
+      "Tryptophan activates the repressor as a co-repressor."
+    ],
+    "terms": [
+      {
+        "term": "Co-repressor",
+        "meaning": "Small molecule that activates a repressor so it can block transcription."
+      },
+      {
+        "term": "Repressible operon",
+        "meaning": "Operon normally on that can be switched off."
+      }
+    ],
+    "diagramGuide": [
+      "Compare the two rows: tryptophan present forms an active repressor–corepressor complex that binds the operator; tryptophan absent leaves the repressor inactive.",
+      "The red X marks blocked transcription; the lower row proceeds to enzyme production."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "When tryptophan is abundant, it switches the trp operon off by acting as a:",
+      "options": [
+        "CAP activator",
+        "Corepressor that activates repressor binding",
+        "Competitive RNA-polymerase inhibitor",
+        "DNA-cutting nuclease"
+      ],
+      "answer": 1,
+      "explanation": "Tryptophan binds the inactive repressor, enabling operator binding."
+    }
+  },
+  {
+    "page": 74,
+    "title": "Inducible versus repressible operons",
+    "explain": "The lac operon is normally off and is induced when allolactose disables an active repressor. The trp operon is normally on because its repressor is inactive; tryptophan acts as a co-repressor and switches it off. Both systems use negative regulation through a repressor.",
+    "mustKnow": [
+      "Lac: default off; inducer turns it on.",
+      "Trp: default on; co-repressor turns it off.",
+      "Both are negatively regulated by repressors.",
+      "Constitutive genes do not require this switching."
+    ],
+    "terms": [
+      {
+        "term": "Constitutive gene",
+        "meaning": "Gene expressed continuously with little or no switching."
+      },
+      {
+        "term": "Regulatory gene",
+        "meaning": "Gene whose expression is controlled according to cellular need."
+      }
+    ],
+    "diagramGuide": [
+      "Read across each row rather than down a column: lac is default OFF and induced ON, whereas trp is default ON and corepressed OFF.",
+      "Both are negative regulation because a repressor is the direct DNA-blocking protein."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which paired default states are correct?",
+      "options": [
+        "lac ON; trp OFF",
+        "lac OFF; trp ON",
+        "lac ON; trp ON",
+        "lac OFF; trp OFF"
+      ],
+      "answer": 1,
+      "explanation": "The inducible lac operon is usually OFF; the repressible trp operon is usually ON."
+    }
+  },
+  {
+    "page": 75,
+    "title": "Gene-regulation references",
+    "explain": "This slide lists textbooks and a web source used for the lecture. It introduces no new mechanism or definition.",
+    "mustKnow": [
+      "No new examinable concept is presented on this references slide."
+    ],
+    "terms": [],
+    "diagramGuide": [],
+    "interaction": {
+      "type": "tap",
+      "label": "Non-content slide: reference list."
+    }
+  },
+  {
+    "page": 76,
+    "title": "Genetic engineering overview",
+    "explain": "A recombinant DNA construct combines a gene of interest with vector elements that let the DNA replicate, be selected, and sometimes be expressed. The slide highlights a promoter, terminator, selectable marker, and origin of replication.",
+    "mustKnow": [
+      "A gene of interest is inserted into a DNA vector.",
+      "The origin permits replication.",
+      "A selectable marker identifies cells carrying the construct.",
+      "Promoter and terminator control transcription."
+    ],
+    "terms": [
+      {
+        "term": "Recombinant DNA",
+        "meaning": "DNA assembled from sequences that originated from different sources."
+      },
+      {
+        "term": "Origin of replication",
+        "meaning": "Vector sequence that permits DNA replication in a host."
+      },
+      {
+        "term": "Selectable marker",
+        "meaning": "Gene used to select cells carrying the vector."
+      }
+    ],
+    "diagramGuide": [
+      "The circular recombinant-DNA map labels the minimum functional parts: origin, selectable marker, promoter, inserted gene, and terminator.",
+      "Promoter/terminator govern expression; origin governs replication; marker governs selection."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "On the recombinant-DNA map, which feature is required for autonomous copying in the host but does not itself select transformants?",
+      "options": [
+        "Selectable marker",
+        "Origin of replication",
+        "Promoter",
+        "Terminator"
+      ],
+      "answer": 1,
+      "explanation": "The ori enables replication; the marker enables selection."
+    }
+  },
+  {
+    "page": 77,
+    "title": "Milestones in GMO development",
+    "explain": "The timeline moves from the first genetically modified bacteria in 1973 to GM mice in 1974, commercial insulin-producing bacteria in 1982, GM food sales in 1994, and GM pets such as GloFish in 2003.",
+    "mustKnow": [
+      "1973: first genetically modified bacteria.",
+      "1982: commercial insulin-producing bacteria.",
+      "1994: genetically modified food sold.",
+      "2003: GM pets sold."
+    ],
+    "terms": [
+      {
+        "term": "GMO",
+        "meaning": "Organism whose genetic material has been deliberately modified."
+      },
+      {
+        "term": "GloFish",
+        "meaning": "Genetically modified fluorescent fish sold as pets."
+      }
+    ],
+    "diagramGuide": [],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which chronology is correct according to the slide?",
+      "options": [
+        "GM mice 1973 → GM bacteria 1974 → insulin bacteria 1994",
+        "GM bacteria 1973 → GM mice 1974 → insulin bacteria 1982",
+        "GM food 1982 → insulin bacteria 1994 → GloFish 2003",
+        "GloFish 1994 → GM food 2003 → GM mice 1974"
+      ],
+      "answer": 1,
+      "explanation": "The listed milestones are bacteria 1973, mice 1974, insulin-producing bacteria 1982, GM food 1994, GloFish 2003."
+    }
+  },
+  {
+    "page": 78,
+    "title": "Central dogma reminder",
+    "explain": "The central dogma states the main direction of genetic information flow: DNA is used to make RNA, and RNA is used to make protein.",
+    "mustKnow": [
+      "DNA → RNA → protein."
+    ],
+    "terms": [
+      {
+        "term": "Central dogma",
+        "meaning": "Main flow of sequence information from DNA to RNA to protein."
+      }
+    ],
+    "diagramGuide": [
+      "The top arrow is information flow DNA→RNA→protein; the lower panels distinguish replication, transcription, and translation.",
+      "Do not confuse DNA replication (DNA→DNA) with gene expression."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which process is paired with the correct information flow?",
+      "options": [
+        "Replication: RNA→DNA",
+        "Transcription: protein→RNA",
+        "Translation: RNA→protein",
+        "Translation: DNA→DNA"
+      ],
+      "answer": 2,
+      "explanation": "Translation uses RNA information to synthesize protein."
+    }
+  },
+  {
+    "page": 79,
+    "title": "Definition of genetic engineering",
+    "explain": "Genetic engineering is deliberate DNA modification using molecular biology. A chosen gene is isolated, modified if needed, placed in a vector, and transferred to a host where it can be copied or expressed to make a product.",
+    "mustKnow": [
+      "It involves isolation, modification, and transfer of DNA.",
+      "A vector carries the gene of interest.",
+      "A host maintains or expresses the recombinant DNA.",
+      "It underlies recombinant DNA technology."
+    ],
+    "terms": [
+      {
+        "term": "Gene of interest",
+        "meaning": "Specific DNA sequence selected for cloning or expression."
+      },
+      {
+        "term": "Vector",
+        "meaning": "DNA vehicle used to carry foreign DNA into a host."
+      },
+      {
+        "term": "Host cell",
+        "meaning": "Cell that receives and maintains recombinant DNA."
+      }
+    ],
+    "diagramGuide": [
+      "Follow the lower workflow: gene of interest → vector → recombinant DNA → host cell → desired product.",
+      "The vector is the carrier; the host is the living system that maintains or expresses it."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which sequence best captures the engineering logic shown?",
+      "options": [
+        "Host → vector → gene → product",
+        "Gene of interest → vector → recombinant DNA → host → product",
+        "Vector → product → host → gene",
+        "Gene → host → vector → recombinant DNA"
+      ],
+      "answer": 1,
+      "explanation": "The gene is inserted into a vector, introduced into a host, then replicated and/or expressed."
+    }
+  },
+  {
+    "page": 80,
+    "title": "Basic genetic-engineering workflow",
+    "explain": "The standard workflow is: isolate or amplify the target gene, cut the gene and vector with compatible restriction enzymes, join them with DNA ligase, introduce the recombinant vector into a host, select and verify positive cells, and express the gene to obtain the product.",
+    "mustKnow": [
+      "Restriction enzymes cut gene and vector.",
+      "DNA ligase joins insert and vector.",
+      "Transformation introduces DNA into the host.",
+      "Selection and screening identify correct clones."
+    ],
+    "terms": [
+      {
+        "term": "Ligation",
+        "meaning": "Covalent joining of DNA fragments by DNA ligase."
+      },
+      {
+        "term": "Transformation",
+        "meaning": "Introduction of foreign DNA into a host cell."
+      },
+      {
+        "term": "Screening",
+        "meaning": "Testing selected cells to identify the correct recombinant clone."
+      }
+    ],
+    "diagramGuide": [
+      "Read the six numbered stages in order; cutting precedes ligation, and transformation precedes selection/screening.",
+      "The same restriction enzyme creates compatible ends on insert and vector."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "After compatible vector and insert ends have been generated, what is the next construction step?",
+      "options": [
+        "Selection",
+        "Ligation",
+        "Protein purification",
+        "Sequencing"
+      ],
+      "answer": 1,
+      "explanation": "DNA ligase joins the insert and vector before host introduction."
+    }
+  },
+  {
+    "page": 81,
+    "title": "Core genetic-engineering terms",
+    "explain": "The slide defines the parts and outcomes of cloning. A vector carries foreign DNA into a host; recombinant DNA contains joined sequences from different sources; transformation delivers it; a clone is the genetically identical population produced from one starting cell.",
+    "mustKnow": [
+      "Vector carries DNA.",
+      "Host cell receives recombinant DNA.",
+      "Transformation is DNA introduction.",
+      "A selectable marker allows carrier cells to survive or be identified."
+    ],
+    "terms": [
+      {
+        "term": "Clone",
+        "meaning": "Genetically identical population derived from one progenitor cell."
+      },
+      {
+        "term": "Transformation",
+        "meaning": "Introduction of foreign or recombinant DNA into a host."
+      },
+      {
+        "term": "Recombinant DNA",
+        "meaning": "DNA made by joining sequences from different sources."
+      },
+      {
+        "term": "Selectable marker",
+        "meaning": "Gene that enables selection of cells containing a vector."
+      }
+    ],
+    "diagramGuide": [
+      "Each icon is a separate term: free DNA segment = gene of interest, circle = vector, circle plus insert = recombinant DNA, cell = host.",
+      "A clone is the descendant population after one transformed progenitor grows."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "A bacterial population derived from one transformed progenitor is a:",
+      "options": [
+        "Vector",
+        "Clone",
+        "Marker",
+        "Restriction site"
+      ],
+      "answer": 1,
+      "explanation": "A clone is a genetically identical descendant population."
+    }
+  },
+  {
+    "page": 82,
+    "title": "Restriction enzymes",
+    "explain": "Restriction endonucleases are bacterial defense enzymes that cut DNA at specific short recognition sequences, usually 4–8 base pairs. Many sites are palindromic. Cutting the insert and vector with the same enzyme can create matching ends for cloning.",
+    "mustKnow": [
+      "Restriction enzymes recognize specific DNA sequences.",
+      "Many recognition sites are palindromic.",
+      "The same enzyme can generate compatible vector and insert ends.",
+      "They naturally help bacteria defend against foreign DNA."
+    ],
+    "terms": [
+      {
+        "term": "Restriction endonuclease",
+        "meaning": "Enzyme that cuts DNA at or near a specific recognition sequence."
+      },
+      {
+        "term": "Palindromic sequence",
+        "meaning": "DNA site read the same 5′ to 3′ on both complementary strands."
+      },
+      {
+        "term": "Recognition site",
+        "meaning": "Specific DNA sequence recognized by a restriction enzyme."
+      }
+    ],
+    "diagramGuide": [
+      "The recognition-site inset is antiparallel: the sequence reads identically 5′→3′ on the two strands.",
+      "The scissors mark a sequence-specific cut; the resulting compatible ends permit cloning."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which feature is typical of the restriction-enzyme recognition sites described?",
+      "options": [
+        "Usually 40–80 bp and non-specific",
+        "Usually 4–8 bp and often palindromic",
+        "Always RNA and asymmetric",
+        "Located only in eukaryotic promoters"
+      ],
+      "answer": 1,
+      "explanation": "Restriction enzymes commonly recognize short palindromic DNA sequences."
+    }
+  },
+  {
+    "page": 83,
+    "title": "Sticky and blunt DNA ends",
+    "explain": "Different restriction enzymes create different cut ends. Sticky ends contain single-stranded overhangs that can base-pair with complementary ends. Blunt ends have no overhang. The enzyme choice depends on the available recognition sites and required compatibility.",
+    "mustKnow": [
+      "Sticky ends have overhangs.",
+      "Blunt ends have no overhangs.",
+      "Compatible ends make ligation easier.",
+      "Restriction-site location affects enzyme choice."
+    ],
+    "terms": [
+      {
+        "term": "Sticky end",
+        "meaning": "DNA end with a single-stranded overhang."
+      },
+      {
+        "term": "Blunt end",
+        "meaning": "DNA end with no single-stranded overhang."
+      },
+      {
+        "term": "Compatible ends",
+        "meaning": "DNA ends able to align for joining."
+      }
+    ],
+    "diagramGuide": [
+      "Sticky-end drawings have single-stranded overhangs that base-pair before ligation; blunt-end drawings terminate flush.",
+      "The bottom equation shows vector and insert cut with compatible ends and then sealed into a recombinant plasmid."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Why can two DNA fragments cut with the same sticky-end-producing enzyme align before ligase acts?",
+      "options": [
+        "Their phosphates repel each other",
+        "Their complementary overhangs base-pair",
+        "Ligase first synthesizes missing genes",
+        "Their blunt ends contain primers"
+      ],
+      "answer": 1,
+      "explanation": "Complementary single-stranded overhangs anneal."
+    }
+  },
+  {
+    "page": 84,
+    "title": "DNA ligase joins DNA fragments",
+    "explain": "DNA ligase seals breaks in the sugar-phosphate backbone. It forms a phosphodiester bond between a 3′-OH and a 5′-phosphate. Sticky-end ligation is usually more efficient because complementary overhangs align the fragments before sealing.",
+    "mustKnow": [
+      "Ligase forms phosphodiester bonds.",
+      "It joins a 3′-OH to a 5′-phosphate.",
+      "It joins insert and vector after restriction digestion.",
+      "Sticky ends usually ligate more efficiently than blunt ends."
+    ],
+    "terms": [
+      {
+        "term": "Phosphodiester bond",
+        "meaning": "Covalent bond linking neighboring nucleotides in the DNA backbone."
+      },
+      {
+        "term": "Nick",
+        "meaning": "Single-strand break in an otherwise continuous DNA duplex."
+      }
+    ],
+    "diagramGuide": [
+      "In the nick-sealing inset, ligase connects an adjacent 3′-OH and 5′-phosphate to restore the sugar-phosphate backbone.",
+      "The sticky-end panel shows base pairing aligns fragments before covalent sealing."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "DNA ligase seals a nick by forming a phosphodiester bond between:",
+      "options": [
+        "Two 5′ phosphates",
+        "A 3′-OH and an adjacent 5′-phosphate",
+        "Two nitrogenous bases",
+        "A primer and RNA polymerase"
+      ],
+      "answer": 1,
+      "explanation": "Those are the reactive backbone groups at a DNA nick."
+    }
+  },
+  {
+    "page": 85,
+    "title": "T4 DNA ligase mechanism",
+    "explain": "T4 DNA ligase uses ATP. First it forms a ligase–AMP intermediate, then transfers AMP to the DNA 5′-phosphate. The neighboring 3′-OH attacks this activated phosphate, forming the phosphodiester bond and sealing the DNA.",
+    "mustKnow": [
+      "T4 DNA ligase is ATP-dependent.",
+      "A ligase–AMP intermediate forms.",
+      "AMP activates the DNA 5′-phosphate.",
+      "The 3′-OH attack completes backbone joining."
+    ],
+    "terms": [
+      {
+        "term": "Ligase–AMP",
+        "meaning": "Activated covalent intermediate formed between ligase and AMP."
+      },
+      {
+        "term": "PPi",
+        "meaning": "Pyrophosphate released when ligase reacts with ATP."
+      }
+    ],
+    "diagramGuide": [
+      "Read the numbered mechanism: ligase binds → ATP forms ligase–AMP → AMP activates the DNA 5′-phosphate → 3′-OH attack forms the bond.",
+      "AMP is an enzyme/DNA intermediate, not part of the final phosphodiester bond."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which ordering matches the T4 ligase mechanism shown?",
+      "options": [
+        "DNA–AMP → ligase–AMP → ATP binding → bond formation",
+        "Ligase–AMP → DNA–AMP → 3′-OH attack → phosphodiester bond",
+        "3′-OH attack → ATP synthesis → DNA–AMP → ligase binding",
+        "PPi binding → blunt-end melting → AMP removal"
+      ],
+      "answer": 1,
+      "explanation": "ATP first adenylates ligase, AMP is transferred to DNA, then 3′-OH attack seals the backbone."
+    }
+  },
+  {
+    "page": 86,
+    "title": "Requirements for efficient ligation",
+    "explain": "Successful ligation requires DNA ends that can be physically joined and ATP for T4 DNA ligase. Sticky ends are usually more efficient because complementary base pairing holds the fragments in alignment, increasing their effective local concentration.",
+    "mustKnow": [
+      "T4 ligase requires ATP.",
+      "DNA ends must be compatible or blunt.",
+      "Ligation creates a stable recombinant molecule.",
+      "Sticky ends are generally more efficient."
+    ],
+    "terms": [
+      {
+        "term": "Cohesive end",
+        "meaning": "Another name for a sticky end with a complementary overhang."
+      },
+      {
+        "term": "Effective concentration",
+        "meaning": "Local availability of aligned DNA ends for the ligase reaction."
+      }
+    ],
+    "diagramGuide": [
+      "The plasmid cartoon shows insert and vector first held together by complementary sticky ends, then covalently closed by ligase.",
+      "The final continuous circle represents a stable recombinant molecule."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What mainly gives sticky-end ligation an efficiency advantage over blunt-end ligation?",
+      "options": [
+        "Sticky ends eliminate the need for ligase",
+        "Complementary pairing holds partners together",
+        "Sticky ends carry selectable markers",
+        "Blunt ends cannot form phosphodiester bonds"
+      ],
+      "answer": 1,
+      "explanation": "Annealing raises the effective local concentration of correctly aligned ends."
+    }
+  },
+  {
+    "page": 87,
+    "title": "PCR principle and components",
+    "explain": "Polymerase chain reaction is an in vitro method that selectively amplifies a chosen DNA region. Repeated temperature changes in a thermal cycler allow a small starting amount to produce millions of copies. The reaction requires template DNA, primers, nucleotides, polymerase, and suitable buffer.",
+    "mustKnow": [
+      "PCR amplifies a specific DNA sequence.",
+      "It is performed in vitro.",
+      "A thermal cycler repeatedly changes temperature.",
+      "Primers define the target region."
+    ],
+    "terms": [
+      {
+        "term": "PCR",
+        "meaning": "Polymerase chain reaction, a method for amplifying selected DNA."
+      },
+      {
+        "term": "Primer",
+        "meaning": "Short DNA strand that defines an amplification boundary and provides a starting 3′ end."
+      },
+      {
+        "term": "Thermal cycler",
+        "meaning": "Instrument that runs PCR temperature cycles."
+      }
+    ],
+    "diagramGuide": [
+      "Identify every required PCR component in the bottom row: template, two primers, thermostable polymerase, dNTPs, Mg²⁺ buffer, and thermal cycler.",
+      "Forward and reverse primers flank opposite ends of the target region."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which PCR component pair defines the boundaries of the amplified target?",
+      "options": [
+        "Mg²⁺ and dNTPs",
+        "Forward and reverse primers",
+        "Template and thermal cycler",
+        "Buffer and polymerase"
+      ],
+      "answer": 1,
+      "explanation": "The two primers anneal on opposite strands flanking the target."
+    }
+  },
+  {
+    "page": 88,
+    "title": "Uses of PCR",
+    "explain": "PCR supplies many copies of a selected sequence. Those copies can be used for cloning, pathogen detection, mutation analysis, sequencing, and other downstream tests.",
+    "mustKnow": [
+      "PCR supports gene amplification and cloning.",
+      "PCR can detect pathogen nucleic acid.",
+      "PCR can help detect mutations.",
+      "PCR can prepare DNA for sequencing."
+    ],
+    "terms": [
+      {
+        "term": "SNP",
+        "meaning": "Single-nucleotide polymorphism, a one-base genetic variation."
+      },
+      {
+        "term": "Template preparation",
+        "meaning": "Producing enough DNA for a later method such as sequencing."
+      }
+    ],
+    "diagramGuide": [
+      "The primer arrows face inward and define the DNA segment copied; the lower product stack represents amplification of that bounded region.",
+      "PCR enriches a selected interval rather than copying the entire genome equally."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which use of PCR depends most directly on producing enough copies for a downstream readout?",
+      "options": [
+        "Protein folding",
+        "Sequencing-template preparation",
+        "Cell lysis",
+        "Affinity chromatography"
+      ],
+      "answer": 1,
+      "explanation": "PCR can generate sufficient target DNA for sequencing."
+    }
+  },
+  {
+    "page": 89,
+    "title": "PCR cycle and exponential amplification",
+    "explain": "Each PCR cycle has three ordered steps: denaturation separates DNA strands, annealing lets primers bind, and extension allows polymerase to synthesize new DNA. Under ideal conditions, the target approximately doubles each cycle, giving about 2ⁿ copies after n cycles.",
+    "mustKnow": [
+      "Order: denaturation, annealing, extension.",
+      "Denaturation separates strands.",
+      "Annealing binds primers.",
+      "Ideal amplification is approximately 2ⁿ."
+    ],
+    "terms": [
+      {
+        "term": "Denaturation",
+        "meaning": "Heat separation of the two DNA strands."
+      },
+      {
+        "term": "Annealing",
+        "meaning": "Binding of primers to complementary target sequences."
+      },
+      {
+        "term": "Extension",
+        "meaning": "DNA synthesis from the primers by polymerase."
+      }
+    ],
+    "diagramGuide": [
+      "Read each cycle left to right: strand separation at 94–95°C, primer binding at 50–65°C, extension at 72°C.",
+      "The staircase graph represents ideal doubling, approximately 2ⁿ products after n cycles."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which temperature-stage match is correct?",
+      "options": [
+        "94–95°C—annealing",
+        "50–65°C—extension",
+        "72°C—extension",
+        "72°C—denaturation"
+      ],
+      "answer": 2,
+      "explanation": "Typical PCR uses high heat for denaturation, lower temperature for annealing, and 72°C for polymerase extension."
+    }
+  },
+  {
+    "page": 90,
+    "title": "Agarose gel electrophoresis",
+    "explain": "DNA has a negatively charged phosphate backbone, so it moves toward the positive electrode in an electric field. The agarose gel acts as a sieve: smaller fragments pass through more easily and therefore travel faster and farther than larger fragments.",
+    "mustKnow": [
+      "DNA moves toward the positive anode.",
+      "Agarose separates DNA mainly by size.",
+      "Smaller fragments travel farther.",
+      "Migration distance is inversely related to fragment size."
+    ],
+    "terms": [
+      {
+        "term": "Agarose gel",
+        "meaning": "Porous matrix used to separate DNA fragments."
+      },
+      {
+        "term": "Anode",
+        "meaning": "Positive electrode toward which DNA migrates."
+      },
+      {
+        "term": "Molecular sieve",
+        "meaning": "Matrix that slows large molecules more than small ones."
+      }
+    ],
+    "diagramGuide": [
+      "DNA starts at wells near the negative side and migrates toward the positive anode because of its phosphate backbone.",
+      "Use distance from the wells to infer size: lower/farther bands are smaller."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Two DNA bands start at the same well. Band X migrates farther toward the anode than band Y. What follows?",
+      "options": [
+        "X is larger",
+        "X is smaller",
+        "X is less negatively charged because of sequence",
+        "Y contains no phosphate"
+      ],
+      "answer": 1,
+      "explanation": "In agarose, smaller DNA fragments move faster and farther."
+    }
+  },
+  {
+    "page": 91,
+    "title": "Sanger DNA sequencing",
+    "explain": "Sanger sequencing mixes normal dNTPs with a small amount of ddNTPs. A ddNTP lacks the 3′-OH needed to add the next nucleotide, so its incorporation stops DNA synthesis. The resulting fragments of different lengths reveal the DNA sequence.",
+    "mustKnow": [
+      "dNTPs support DNA extension.",
+      "ddNTPs terminate DNA synthesis.",
+      "ddNTPs lack a 3′-OH.",
+      "Fragments ending at each base are used to determine sequence."
+    ],
+    "terms": [
+      {
+        "term": "dNTP",
+        "meaning": "Normal deoxynucleotide used to extend DNA."
+      },
+      {
+        "term": "ddNTP",
+        "meaning": "Chain-terminating nucleotide lacking a 3′-OH."
+      },
+      {
+        "term": "Chain termination",
+        "meaning": "Stopping DNA synthesis after incorporation of a ddNTP."
+      }
+    ],
+    "diagramGuide": [
+      "Compare nucleotide structures: dNTP has a 3′-OH; ddNTP has 3′-H, so no next phosphodiester bond can form.",
+      "The chromatogram color peaks are read in order to recover the newly synthesized sequence."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "A Sanger reaction fragment terminates immediately after incorporation of a ddNTP because the ddNTP lacks:",
+      "options": [
+        "A 5′ phosphate",
+        "A nitrogenous base",
+        "A 3′-OH",
+        "A sugar"
+      ],
+      "answer": 2,
+      "explanation": "Without a 3′-OH, the next nucleotide cannot be joined."
+    }
+  },
+  {
+    "page": 92,
+    "title": "CRISPR-Cas9 overview",
+    "explain": "CRISPR-Cas9 is a genome-editing system adapted from bacterial antiviral defense. A guide RNA directs the Cas9 nuclease to a matching DNA sequence, where Cas9 creates a double-strand break. Cellular repair of the break can knock out, insert, or correct genes.",
+    "mustKnow": [
+      "Guide RNA provides target specificity.",
+      "Cas9 is the DNA-cutting nuclease.",
+      "Cas9 creates a double-strand break.",
+      "Repair can create a knockout or a precise change."
+    ],
+    "terms": [
+      {
+        "term": "Guide RNA",
+        "meaning": "RNA that base-pairs with the chosen DNA target and directs Cas9."
+      },
+      {
+        "term": "Cas9",
+        "meaning": "RNA-guided nuclease that cuts target DNA."
+      },
+      {
+        "term": "Double-strand break",
+        "meaning": "Cut through both strands of a DNA duplex."
+      },
+      {
+        "term": "Gene knockout",
+        "meaning": "Disruption that removes or strongly reduces gene function."
+      }
+    ],
+    "diagramGuide": [
+      "The two-part diagram assigns specificity to guide RNA and cutting activity to Cas9.",
+      "Editing begins only after the guide–Cas9 complex reaches complementary target DNA."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which division of labor in CRISPR-Cas9 is correct?",
+      "options": [
+        "Cas9 supplies sequence specificity; gRNA repairs DNA",
+        "gRNA supplies sequence specificity; Cas9 cuts DNA",
+        "gRNA cuts DNA; Cas9 supplies donor template",
+        "Cas9 makes cAMP; gRNA binds CAP"
+      ],
+      "answer": 1,
+      "explanation": "Guide RNA targets the sequence; Cas9 is the nuclease."
+    }
+  },
+  {
+    "page": 93,
+    "title": "CRISPR targeting, cutting, and repair",
+    "explain": "The guide RNA pairs with a roughly 20-nucleotide target next to a PAM sequence, allowing Cas9 to bind and cut both DNA strands. The cell then repairs the break. Error-prone NHEJ often creates small insertions or deletions and gene knockout, while HDR uses donor DNA for precise insertion or correction.",
+    "mustKnow": [
+      "Cas9 targeting requires guide matching plus a PAM.",
+      "Cas9 makes a double-strand break.",
+      "NHEJ often creates indels and knockout.",
+      "HDR uses donor DNA for precise editing."
+    ],
+    "terms": [
+      {
+        "term": "PAM",
+        "meaning": "Short DNA motif next to the target that Cas9 requires for cutting."
+      },
+      {
+        "term": "NHEJ",
+        "meaning": "Error-prone end joining that often creates small insertions or deletions."
+      },
+      {
+        "term": "HDR",
+        "meaning": "Template-guided repair used for precise sequence insertion or correction."
+      },
+      {
+        "term": "Indel",
+        "meaning": "Small insertion or deletion in DNA."
+      }
+    ],
+    "diagramGuide": [
+      "Follow the numbered panels: guide targeting near PAM → Cas9 double-strand break → cellular repair.",
+      "NHEJ often creates indels and knockout; HDR uses a donor template for precise insertion or correction."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "After a Cas9 double-strand break, which outcome most strongly indicates NHEJ rather than HDR?",
+      "options": [
+        "Precise donor-directed correction",
+        "A small insertion or deletion causing knockout",
+        "Insertion copied from a supplied template",
+        "No DNA-end joining"
+      ],
+      "answer": 1,
+      "explanation": "Error-prone NHEJ commonly creates indels; HDR uses a homologous donor."
+    }
+  },
+  {
+    "page": 94,
+    "title": "Vectors in genetic engineering",
+    "explain": "A vector is a DNA vehicle that carries foreign DNA into a host for replication and sometimes expression. A useful vector needs an origin of replication, a selectable marker, an insertion site such as an MCS, and the ability to enter a suitable host. Vector choice depends partly on insert size and purpose.",
+    "mustKnow": [
+      "Vectors deliver and maintain foreign DNA.",
+      "ori permits replication.",
+      "A selectable marker supports selection.",
+      "An MCS provides insertion sites."
+    ],
+    "terms": [
+      {
+        "term": "MCS",
+        "meaning": "Multiple cloning site containing several useful restriction sites."
+      },
+      {
+        "term": "ori",
+        "meaning": "Origin of replication."
+      },
+      {
+        "term": "Vector",
+        "meaning": "DNA molecule used to carry foreign DNA into a host."
+      }
+    ],
+    "diagramGuide": [
+      "The vector icons increase in carrying capacity from plasmid/phage-type vectors toward BAC and YAC.",
+      "On the feature list, ori supports replication, marker supports selection, and MCS supports insertion."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "A useful cloning vector must contain all of the following core features except:",
+      "options": [
+        "Origin of replication",
+        "Selectable marker",
+        "Insertion site/MCS",
+        "A pre-existing copy of every target gene"
+      ],
+      "answer": 3,
+      "explanation": "The target gene is inserted; it is not a universal built-in vector feature."
+    }
+  },
+  {
+    "page": 95,
+    "title": "Cloning vectors and plasmids",
+    "explain": "A cloning vector is designed mainly to carry and replicate foreign DNA, not necessarily to express it. Good plasmid vectors are small, easy to introduce, often high-copy, and contain an ori, selectable marker, and MCS. Examples include pBR322 and the pUC series.",
+    "mustKnow": [
+      "Cloning vectors primarily replicate inserted DNA.",
+      "ori influences replication and copy number.",
+      "Antibiotic-resistance genes are common selectable markers.",
+      "pBR322 and pUC are plasmid-vector examples."
+    ],
+    "terms": [
+      {
+        "term": "Copy number",
+        "meaning": "Number of vector molecules maintained in one host cell."
+      },
+      {
+        "term": "pBR322",
+        "meaning": "Early plasmid vector carrying ampicillin- and tetracycline-resistance markers."
+      },
+      {
+        "term": "pUC",
+        "meaning": "High-copy plasmid-vector series used for cloning and blue-white screening."
+      }
+    ],
+    "diagramGuide": [
+      "On the plasmid map, separate ori, antibiotic-resistance marker, and MCS; each has a distinct job.",
+      "The pBR322/pUC examples below illustrate selectable markers and high-copy/blue-white-screening designs."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which vector-feature match is correct?",
+      "options": [
+        "pBR322—Ampᴿ and Tetᴿ",
+        "pUC—low copy number only",
+        "MCS—determines host-cell metabolism",
+        "ori—blue-white reporter enzyme"
+      ],
+      "answer": 0,
+      "explanation": "The slide lists pBR322 with ampicillin- and tetracycline-resistance markers."
+    }
+  },
+  {
+    "page": 96,
+    "title": "Expression vectors",
+    "explain": "An expression vector contains the regulatory elements needed to produce RNA and protein from an inserted gene. In a pET system, the vector enters E. coli, IPTG induces the T7 promoter, the gene is transcribed to mRNA, and the mRNA is translated. Unlike a basic cloning vector, it includes a promoter, translation-initiation signal, and terminator.",
+    "mustKnow": [
+      "Expression vectors are designed to produce RNA or protein.",
+      "They require promoter and translation-control sequences.",
+      "IPTG can induce the pET/T7 system.",
+      "A cloning vector may maintain DNA without expressing it."
+    ],
+    "terms": [
+      {
+        "term": "Expression vector",
+        "meaning": "Vector designed to express an inserted gene in a host."
+      },
+      {
+        "term": "RBS",
+        "meaning": "Ribosome-binding site used to initiate bacterial translation."
+      },
+      {
+        "term": "IPTG",
+        "meaning": "Chemical inducer commonly used to activate lac-controlled expression systems."
+      },
+      {
+        "term": "pET",
+        "meaning": "Common E. coli expression-vector system using a T7 promoter."
+      }
+    ],
+    "diagramGuide": [
+      "The expression-vector map adds promoter, RBS/Kozak sequence, and terminator around the insert.",
+      "In the pET map, the T7 promoter drives transcription and the His tag can aid purification."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which element most clearly distinguishes an expression vector from a simple DNA-maintenance vector?",
+      "options": [
+        "A promoter positioned to drive the insert",
+        "An origin of replication",
+        "Circular DNA",
+        "A selectable marker"
+      ],
+      "answer": 0,
+      "explanation": "Expression requires transcriptional control of the cloned gene."
+    }
+  },
+  {
+    "page": 97,
+    "title": "Selectable markers and reporter genes",
+    "explain": "A selectable marker gives vector-containing cells a survival advantage under a selective condition, such as antibiotic resistance. A reporter gene produces a visible or measurable signal. AmpR and KanR are selectable markers; GFP, lacZ, and luciferase are reporters.",
+    "mustKnow": [
+      "Selection identifies cells that carry the vector by survival.",
+      "Reporters produce a detectable signal.",
+      "AmpR permits growth on ampicillin.",
+      "GFP, lacZ, and luciferase are reporter examples."
+    ],
+    "terms": [
+      {
+        "term": "AmpR",
+        "meaning": "Ampicillin-resistance selectable marker."
+      },
+      {
+        "term": "GFP",
+        "meaning": "Green fluorescent protein used as a reporter."
+      },
+      {
+        "term": "lacZ reporter",
+        "meaning": "Reporter used in blue-white colony screening."
+      },
+      {
+        "term": "Luciferase",
+        "meaning": "Reporter enzyme that produces light."
+      }
+    ],
+    "diagramGuide": [
+      "The left half shows survival-based selection on antibiotic; the right half shows visible or measurable reporters.",
+      "Growth identifies vector-bearing cells, whereas GFP/lacZ/luciferase reports gene activity or clone status."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which pair contains one selectable marker followed by one reporter?",
+      "options": [
+        "Ampᴿ, GFP",
+        "GFP, Kanᴿ",
+        "lacZ, Ampᴿ",
+        "Luciferase, Tetᴿ"
+      ],
+      "answer": 0,
+      "explanation": "Ampicillin resistance enables survival selection; GFP provides a detectable signal."
+    }
+  },
+  {
+    "page": 98,
+    "title": "Host systems for recombinant expression",
+    "explain": "Host choice depends on the protein and purpose. E. coli is fast, cheap, and high-yield but lacks eukaryotic post-translational modifications. Yeast performs some modifications. Plant cells are scalable but slower. Mammalian cells provide the most appropriate complex modifications and protein quality but are slower and more expensive.",
+    "mustKnow": [
+      "E. coli is fast and inexpensive but lacks eukaryotic modifications.",
+      "Yeast can perform some post-translational modifications.",
+      "Plant cells can support scalable production.",
+      "Mammalian cells suit complex therapeutic proteins."
+    ],
+    "terms": [
+      {
+        "term": "Post-translational modification",
+        "meaning": "Chemical processing of a protein after translation, such as glycosylation."
+      },
+      {
+        "term": "CHO cells",
+        "meaning": "Mammalian host cells commonly used to produce therapeutic proteins."
+      },
+      {
+        "term": "S. cerevisiae",
+        "meaning": "Yeast host used for eukaryotic recombinant expression."
+      }
+    ],
+    "diagramGuide": [
+      "Read the table by trade-off: E. coli is fast but lacks complex modifications; yeast adds some processing; plant/insect and mammalian cells support increasingly complex proteins.",
+      "Host choice follows protein requirements, not simply maximum growth rate."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "A protein requires native complex glycosylation and assembly. Which host is the best match from the table?",
+      "options": [
+        "E. coli",
+        "Mammalian cells",
+        "Cell-free agarose",
+        "Bacteriophage alone"
+      ],
+      "answer": 1,
+      "explanation": "Mammalian cells best support complex mammalian folding and post-translational modification."
+    }
+  },
+  {
+    "page": 99,
+    "title": "Recombinant DNA workflow",
+    "explain": "The complete workflow is ordered: isolate the target gene, insert it into a vector, transform host cells, select and screen transformants, confirm recombinant clones, induce gene expression, and finally produce and purify the recombinant protein.",
+    "mustKnow": [
+      "Insertion into a vector comes before transformation.",
+      "Selection and screening come before clone confirmation.",
+      "Expression is induced only after a correct clone is found.",
+      "Protein purification is the final stage shown."
+    ],
+    "terms": [
+      {
+        "term": "Transformant",
+        "meaning": "Host cell that has received introduced DNA."
+      },
+      {
+        "term": "Recombinant clone",
+        "meaning": "Verified clone carrying the intended recombinant DNA."
+      },
+      {
+        "term": "Induction",
+        "meaning": "Triggering expression of the inserted gene."
+      }
+    ],
+    "diagramGuide": [
+      "The seven icons form the complete workflow from gene isolation to purified recombinant product.",
+      "Selection/screening and clone confirmation are distinct checkpoints before expression."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which checkpoint occurs after selection/screening but before gene expression in the displayed workflow?",
+      "options": [
+        "Gene isolation",
+        "Clone confirmation",
+        "Vector insertion",
+        "Protein purification"
+      ],
+      "answer": 1,
+      "explanation": "Putative transformants are confirmed before induction and product formation."
+    }
+  },
+  {
+    "page": 100,
+    "title": "Isolating the gene of interest",
+    "explain": "A target gene can be obtained from genomic DNA or from cDNA. Genomic DNA contains introns and regulatory regions. cDNA is copied from mature mRNA by reverse transcription and therefore lacks introns. cDNA is preferred for expressing a eukaryotic coding sequence in bacteria because bacteria cannot remove introns.",
+    "mustKnow": [
+      "Genomic DNA contains introns and regulatory DNA.",
+      "cDNA is made from mRNA by reverse transcription.",
+      "cDNA contains the processed coding sequence without introns.",
+      "Bacterial expression usually uses eukaryotic cDNA."
+    ],
+    "terms": [
+      {
+        "term": "Genomic DNA",
+        "meaning": "DNA taken from the genome, including introns and surrounding regulatory regions."
+      },
+      {
+        "term": "cDNA",
+        "meaning": "DNA copy of processed mRNA, usually lacking introns."
+      },
+      {
+        "term": "Reverse transcription",
+        "meaning": "Synthesis of DNA using RNA as the template."
+      },
+      {
+        "term": "Gene-specific primer",
+        "meaning": "Primer designed to amplify one selected gene sequence."
+      }
+    ],
+    "diagramGuide": [
+      "The source comparison distinguishes genomic DNA containing introns from cDNA copied from processed mRNA.",
+      "Primer arrows flank the gene, showing the segment PCR will amplify."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which source gives an intron-free coding sequence suitable for bacterial expression?",
+      "options": [
+        "Unprocessed genomic DNA",
+        "cDNA made from mature mRNA",
+        "Promoter-only DNA",
+        "Bacterial rRNA"
+      ],
+      "answer": 1,
+      "explanation": "Reverse-transcribed mature mRNA yields cDNA lacking eukaryotic introns."
+    }
+  },
+  {
+    "page": 101,
+    "title": "Purifying the Gene After PCR",
+    "explain": "PCR makes many copies of the target gene. The amplified DNA is then purified to remove primers, free nucleotides, enzymes, and other reaction components. The result is a clean DNA fragment ready to be inserted into a vector.",
+    "mustKnow": [
+      "PCR amplifies the target gene.",
+      "Purification removes PCR reaction contaminants.",
+      "The purified gene fragment is ready for cloning."
+    ],
+    "terms": [
+      {
+        "term": "PCR product",
+        "meaning": "The DNA fragment amplified during PCR."
+      },
+      {
+        "term": "Purification",
+        "meaning": "Separation of the desired DNA from unwanted reaction components."
+      },
+      {
+        "term": "Vector",
+        "meaning": "A DNA carrier used to introduce a gene into a host."
+      }
+    ],
+    "diagramGuide": [
+      "The left-to-right diagram shows PCR mixture → amplified target plus contaminants → gel/kit purification → clean DNA fragment.",
+      "Purification does not amplify DNA; it removes primers, nucleotides, and enzymes."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which material should be depleted by PCR-product purification while the target fragment is retained?",
+      "options": [
+        "Target double-stranded DNA",
+        "Residual primers and free nucleotides",
+        "The cloned host genome",
+        "The vector origin"
+      ],
+      "answer": 1,
+      "explanation": "Purification removes reaction components from the amplified DNA."
+    }
+  },
+  {
+    "page": 102,
+    "title": "Transformation of Host Cells",
+    "explain": "Transformation introduces a recombinant plasmid into competent bacterial cells. In heat shock, a rapid rise to about 42°C briefly opens membrane pores; electroporation uses a high-voltage pulse. Cells then recover before being placed on selective medium.",
+    "mustKnow": [
+      "Competence increases membrane permeability to DNA.",
+      "Heat shock and electroporation create temporary membrane pores.",
+      "Recovery occurs before antibiotic selection.",
+      "The plasmid needs an origin of replication and selectable marker."
+    ],
+    "terms": [
+      {
+        "term": "Transformation",
+        "meaning": "Introduction of external DNA into a host cell."
+      },
+      {
+        "term": "Competent cell",
+        "meaning": "A cell treated so that it can take up DNA."
+      },
+      {
+        "term": "Heat shock",
+        "meaning": "Rapid temperature change used to promote DNA entry."
+      },
+      {
+        "term": "Electroporation",
+        "meaning": "An electric pulse used to create temporary membrane pores."
+      }
+    ],
+    "diagramGuide": [
+      "Compare transformation routes: heat shock uses rapid temperature change; electroporation uses a high-voltage pulse.",
+      "After uptake, recovery precedes plating on selective medium."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which transformation description is correct?",
+      "options": [
+        "Heat shock uses a 1–2.5 kV pulse",
+        "Electroporation uses transient pores produced by high voltage",
+        "Competent cells are impermeable by design",
+        "Selection occurs before recovery"
+      ],
+      "answer": 1,
+      "explanation": "Electroporation uses an electric pulse; heat shock uses rapid temperature change."
+    }
+  },
+  {
+    "page": 103,
+    "title": "Selection Versus Screening",
+    "explain": "Antibiotic selection identifies cells that received a plasmid carrying the resistance marker. It does not prove that the desired insert is present. Screening then identifies colonies likely to contain the recombinant plasmid, followed by molecular confirmation.",
+    "mustKnow": [
+      "Selection detects plasmid-containing cells.",
+      "Screening distinguishes likely recombinant colonies.",
+      "A positive screened colony still needs confirmation.",
+      "White colonies are commonly treated as likely recombinants in the shown scheme."
+    ],
+    "terms": [
+      {
+        "term": "Selection",
+        "meaning": "Growth condition that allows cells with a selectable marker to survive."
+      },
+      {
+        "term": "Screening",
+        "meaning": "Testing selected colonies for the desired recombinant plasmid."
+      },
+      {
+        "term": "Transformant",
+        "meaning": "A cell that has taken up introduced DNA."
+      },
+      {
+        "term": "AmpR",
+        "meaning": "Ampicillin-resistance marker carried by a plasmid."
+      }
+    ],
+    "diagramGuide": [
+      "In the selection panel, only plasmid-bearing cells grow on antibiotic; in screening, colony color separates likely recombinant from non-recombinant plasmids.",
+      "White colonies are candidates, not final proof; confirmation still follows."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "A colony grows on ampicillin but is blue in blue-white screening. What can be concluded from the slide's logic?",
+      "options": [
+        "It lacks all plasmid DNA",
+        "It carries a plasmid but is likely non-recombinant",
+        "It is definitively the desired recombinant",
+        "It cannot express antibiotic resistance"
+      ],
+      "answer": 1,
+      "explanation": "Selection confirms plasmid carriage; screening distinguishes likely insert-containing clones."
+    }
+  },
+  {
+    "page": 104,
+    "title": "Confirming Recombinant Clones",
+    "explain": "Candidate colonies can be checked by colony PCR, restriction digestion, or DNA sequencing. Sequencing gives the exact nucleotide sequence and can confirm both the identity and orientation of the inserted gene.",
+    "mustKnow": [
+      "Colony PCR checks for an insert directly from a colony.",
+      "Restriction digestion checks fragment patterns.",
+      "DNA sequencing gives exact base information and orientation."
+    ],
+    "terms": [
+      {
+        "term": "Colony PCR",
+        "meaning": "PCR performed using cells from a colony to test for an insert."
+      },
+      {
+        "term": "Restriction digestion",
+        "meaning": "Cutting DNA at specific sites to produce diagnostic fragments."
+      },
+      {
+        "term": "DNA sequencing",
+        "meaning": "Determining the exact order of nucleotides."
+      },
+      {
+        "term": "Orientation",
+        "meaning": "The direction in which an insert lies in the vector."
+      }
+    ],
+    "diagramGuide": [
+      "The three panels provide increasing specificity: colony PCR checks size, restriction digestion checks fragment pattern, and sequencing checks exact bases and orientation.",
+      "Read gel bands against the ladder and expected insert/vector sizes."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which method can simultaneously confirm exact insert sequence and orientation?",
+      "options": [
+        "Colony growth alone",
+        "DNA sequencing",
+        "Antibiotic selection",
+        "Cell lysis"
+      ],
+      "answer": 1,
+      "explanation": "Sequencing reads the nucleotide order and reveals orientation."
+    }
+  },
+  {
+    "page": 105,
+    "title": "From Recombinant DNA to Protein",
+    "explain": "Inside the host, the inserted gene is transcribed into mRNA and the mRNA is translated into protein. An inducible promoter allows the experimenter to decide when expression begins.",
+    "mustKnow": [
+      "DNA is transcribed into mRNA.",
+      "mRNA is translated into protein.",
+      "An inducible promoter provides control over expression."
+    ],
+    "terms": [
+      {
+        "term": "Transcription",
+        "meaning": "Synthesis of RNA from a DNA template."
+      },
+      {
+        "term": "Translation",
+        "meaning": "Synthesis of protein from an mRNA template."
+      },
+      {
+        "term": "Inducible promoter",
+        "meaning": "A promoter activated by a chosen signal or inducer."
+      }
+    ],
+    "diagramGuide": [
+      "The upper sequence shows transform → grow → induce; the lower sequence shows recombinant DNA → mRNA → protein.",
+      "The promoter controls transcription; the ribosome acts later during translation."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "After induction, which molecular step immediately produces mRNA from the recombinant gene?",
+      "options": [
+        "Translation",
+        "Transcription",
+        "Ligation",
+        "Transformation"
+      ],
+      "answer": 1,
+      "explanation": "The host transcribes DNA to mRNA before translation."
+    }
+  },
+  {
+    "page": 106,
+    "title": "Controlling Recombinant Gene Expression",
+    "explain": "A promoter determines when, where, and how strongly a gene is transcribed. In inducible systems such as lac or T7, adding an inducer such as IPTG switches expression on, allowing controlled high-level protein production.",
+    "mustKnow": [
+      "Promoters regulate transcription.",
+      "IPTG can induce lac-based expression.",
+      "lac, T7, and ara are common expression systems.",
+      "Induction separates cell growth from strong protein production."
+    ],
+    "terms": [
+      {
+        "term": "Promoter",
+        "meaning": "DNA region that controls initiation of transcription."
+      },
+      {
+        "term": "Inducer",
+        "meaning": "A molecule that activates an inducible expression system."
+      },
+      {
+        "term": "IPTG",
+        "meaning": "A commonly used inducer of lac-based expression."
+      },
+      {
+        "term": "T7 system",
+        "meaning": "A high-expression system commonly used in E. coli."
+      }
+    ],
+    "diagramGuide": [
+      "Without inducer, repressor blocks transcription; IPTG inactivates the repressor and exposes the promoter.",
+      "The T7 panel separates IPTG-controlled T7 RNA-polymerase production from T7-promoter-driven target expression."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "In the inducible systems shown, IPTG is used primarily to:",
+      "options": [
+        "Digest the plasmid",
+        "Relieve repression and switch on expression",
+        "Bind the His tag",
+        "Terminate transcription"
+      ],
+      "answer": 1,
+      "explanation": "IPTG inactivates lac repression, enabling controlled expression."
+    }
+  },
+  {
+    "page": 107,
+    "title": "Recombinant Protein Workflow",
+    "explain": "The workflow proceeds in order: transform the plasmid, grow the culture, induce expression, harvest cells, lyse them, and purify the recombinant protein. Each step prepares the material for the next.",
+    "mustKnow": [
+      "Transformation comes before culture growth.",
+      "Expression is induced before harvesting.",
+      "Cell lysis releases intracellular protein.",
+      "Purification follows lysis."
+    ],
+    "terms": [
+      {
+        "term": "Induction",
+        "meaning": "Activation of recombinant gene expression."
+      },
+      {
+        "term": "Harvest",
+        "meaning": "Collection of cells from the culture."
+      },
+      {
+        "term": "Cell lysis",
+        "meaning": "Breaking cells open to release their contents."
+      },
+      {
+        "term": "Purification",
+        "meaning": "Isolation of the target protein from other cell components."
+      }
+    ],
+    "diagramGuide": [
+      "Follow the production line exactly: transform → culture → induce → harvest → lyse → purify → product.",
+      "Centrifugation harvests cells before lysis releases intracellular protein."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which ordering is correct for intracellular recombinant-protein production?",
+      "options": [
+        "Induce → transform → lyse → grow",
+        "Transform → grow → induce → harvest → lyse → purify",
+        "Grow → purify → transform → induce",
+        "Lyse → induce → harvest → purify"
+      ],
+      "answer": 1,
+      "explanation": "That is the numbered workflow on the slide."
+    }
+  },
+  {
+    "page": 108,
+    "title": "His-Tag Purification with Ni-NTA",
+    "explain": "A His-tagged protein binds nickel ions on Ni-NTA resin. Low imidazole washes away weakly or nonspecifically bound proteins. High imidazole competes with the His tag and releases the target protein, which can then be checked by SDS-PAGE.",
+    "mustKnow": [
+      "His tags bind Ni2+ on Ni-NTA resin.",
+      "Low imidazole is used during washing.",
+      "High imidazole elutes the target protein.",
+      "SDS-PAGE checks purity and molecular weight."
+    ],
+    "terms": [
+      {
+        "term": "His tag",
+        "meaning": "A short histidine sequence added to aid protein purification."
+      },
+      {
+        "term": "Ni-NTA resin",
+        "meaning": "Nickel-containing affinity resin that binds His-tagged proteins."
+      },
+      {
+        "term": "Elution",
+        "meaning": "Release of a bound molecule from a purification column."
+      },
+      {
+        "term": "Imidazole",
+        "meaning": "A competitor used to wash or elute His-tagged protein."
+      }
+    ],
+    "diagramGuide": [
+      "The column sequence is bind, wash, elute: His tag binds Ni²⁺, low imidazole removes weak contaminants, high imidazole competes off the target.",
+      "SDS-PAGE is an analysis step after elution, not the affinity-separation mechanism itself."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "During Ni-NTA purification, which condition should release a His-tagged target after contaminants have been washed away?",
+      "options": [
+        "No imidazole and no nickel",
+        "High imidazole",
+        "Low imidazole only",
+        "SDS before column binding"
+      ],
+      "answer": 1,
+      "explanation": "High imidazole competes with histidines for Ni²⁺ binding."
+    }
+  },
+  {
+    "page": 109,
+    "title": "Reading an SDS-PAGE Gel",
+    "explain": "SDS denatures proteins and gives them a similar negative charge-to-mass relationship. The gel therefore separates proteins mainly by size: smaller proteins move faster and appear lower. A strong band at the expected size supports successful expression and purity.",
+    "mustKnow": [
+      "SDS denatures proteins.",
+      "Separation depends mainly on molecular weight.",
+      "Smaller proteins migrate farther down the gel.",
+      "A band at the expected size indicates the target protein may be present."
+    ],
+    "terms": [
+      {
+        "term": "SDS-PAGE",
+        "meaning": "Gel electrophoresis used to separate denatured proteins mainly by size."
+      },
+      {
+        "term": "Molecular weight",
+        "meaning": "Protein size, commonly estimated in kilodaltons."
+      },
+      {
+        "term": "Band",
+        "meaning": "A visible group of proteins at a particular gel position."
+      },
+      {
+        "term": "Denaturation",
+        "meaning": "Loss of a protein's folded structure."
+      }
+    ],
+    "diagramGuide": [
+      "In the gel, wells are at the top; smaller proteins migrate farther downward.",
+      "Compare crude, wash, and eluted lanes: enrichment is shown by one strong band at the expected molecular weight in the elution."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "An elution lane shows one intense band at the expected mass and few other bands. This most directly indicates:",
+      "options": [
+        "Efficient DNA transformation",
+        "Enrichment and high purity of the target protein",
+        "Failure of SDS denaturation",
+        "A larger-than-expected plasmid"
+      ],
+      "answer": 1,
+      "explanation": "SDS-PAGE band position estimates mass and band complexity reflects purity."
+    }
+  },
+  {
+    "page": 110,
+    "title": "Major Uses of Genetic Engineering",
+    "explain": "The applications are grouped into four broad areas: medicine and healthcare, agriculture and food production, industrial biotechnology, and environmental sustainability.",
+    "mustKnow": [
+      "Medicine is a major application area.",
+      "Agriculture uses engineered traits.",
+      "Industry uses engineered organisms to make products.",
+      "Environmental uses include sustainable processes."
+    ],
+    "terms": [
+      {
+        "term": "Industrial biotechnology",
+        "meaning": "Use of biological systems to manufacture useful products."
+      },
+      {
+        "term": "Sustainability",
+        "meaning": "Meeting needs while reducing long-term environmental cost."
+      }
+    ],
+    "diagramGuide": [
+      "The four quadrants organize applications: medicine, agriculture, industrial biotechnology, and environment/sustainability.",
+      "Use the icons as category cues—insulin/vaccines, GM crops, enzymes/biofuels, and bioremediation."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which application-category match is correct?",
+      "options": [
+        "Bioremediation—environment and sustainability",
+        "Golden Rice—industrial enzyme production",
+        "Recombinant insulin—crop improvement",
+        "Biofuel enzymes—monoclonal-antibody therapy"
+      ],
+      "answer": 0,
+      "explanation": "Bioremediation uses organisms or engineered systems to address environmental contamination."
+    }
+  },
+  {
+    "page": 111,
+    "title": "Recombinant Human Insulin",
+    "explain": "The human insulin gene is cloned into a vector, expressed in E. coli, and the product is purified and processed to make therapeutic insulin. It is a classic example of recombinant protein production.",
+    "mustKnow": [
+      "The insulin gene is human DNA.",
+      "E. coli can serve as the expression host.",
+      "The expressed product must be purified and processed.",
+      "The final product is therapeutic insulin."
+    ],
+    "terms": [
+      {
+        "term": "Recombinant insulin",
+        "meaning": "Human insulin produced using genetically engineered cells."
+      },
+      {
+        "term": "Expression host",
+        "meaning": "The cell used to produce a recombinant product."
+      },
+      {
+        "term": "Processing",
+        "meaning": "Steps that convert the expressed product into its usable form."
+      }
+    ],
+    "diagramGuide": [
+      "The diagram separates insulin A- and B-chain DNA, bacterial expression, purification, chain combination/refolding, and therapeutic product.",
+      "The final disulfide-linked A/B-chain structure is assembled after expression and purification."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "In the insulin case study, what occurs after separate bacterial production and purification of A and B chains?",
+      "options": [
+        "They are reverse-transcribed",
+        "They are combined and refolded with disulfide bonds",
+        "They are inserted into rice endosperm",
+        "They are separated by CRISPR"
+      ],
+      "answer": 1,
+      "explanation": "The mature active product requires correct A/B-chain assembly."
+    }
+  },
+  {
+    "page": 112,
+    "title": "Other Recombinant Therapeutic Proteins",
+    "explain": "Different recombinant proteins treat different conditions: growth hormone treats growth hormone deficiency, EPO stimulates red blood cell production in anemia, interferons have antiviral and some anticancer uses, and Factors VIII and IX treat hemophilia.",
+    "mustKnow": [
+      "hGH treats growth hormone deficiency.",
+      "EPO stimulates red blood cell production.",
+      "Factor VIII treats hemophilia A; Factor IX treats hemophilia B.",
+      "Interferons can be used in antiviral therapy and some cancers."
+    ],
+    "terms": [
+      {
+        "term": "hGH",
+        "meaning": "Human growth hormone used to treat growth hormone deficiency."
+      },
+      {
+        "term": "EPO",
+        "meaning": "Erythropoietin, which stimulates red blood cell production."
+      },
+      {
+        "term": "Interferon",
+        "meaning": "A signaling protein used in some antiviral and cancer treatments."
+      },
+      {
+        "term": "Clotting factor",
+        "meaning": "A blood protein required for normal coagulation."
+      }
+    ],
+    "diagramGuide": [
+      "Read each protein together with its indication: hGH—growth deficiency; EPO—anemia; interferons—antiviral/some cancers; factors VIII/IX—hemophilia.",
+      "Factor number distinguishes hemophilia A (VIII) from hemophilia B (IX)."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which therapeutic-protein/clinical-use pairing is incorrect?",
+      "options": [
+        "EPO—anemia",
+        "Factor VIII—hemophilia A",
+        "hGH—growth hormone deficiency",
+        "Factor IX—hemophilia A"
+      ],
+      "answer": 3,
+      "explanation": "Factor IX treats hemophilia B; Factor VIII treats hemophilia A."
+    }
+  },
+  {
+    "page": 113,
+    "title": "Recombinant Vaccines",
+    "explain": "Recombinant vaccines present selected pathogen material without using the complete infectious pathogen. Types shown include subunit, virus-like particle, and recombinant vector vaccines. The hepatitis B vaccine uses HBsAg produced in yeast.",
+    "mustKnow": [
+      "Recombinant vaccine types include subunit, VLP, and vector vaccines.",
+      "The hepatitis B vaccine is based on HBsAg.",
+      "HBsAg is produced in yeast and is non-infectious.",
+      "The recombinant hepatitis B vaccine was approved in 1986."
+    ],
+    "terms": [
+      {
+        "term": "Subunit vaccine",
+        "meaning": "A vaccine containing selected pathogen components."
+      },
+      {
+        "term": "VLP",
+        "meaning": "Virus-like particle that resembles a virus but lacks infectious genetic material."
+      },
+      {
+        "term": "HBsAg",
+        "meaning": "Hepatitis B surface antigen used in the vaccine."
+      },
+      {
+        "term": "Recombinant vector vaccine",
+        "meaning": "A vaccine using an engineered carrier to deliver antigen information."
+      }
+    ],
+    "diagramGuide": [
+      "The upper sequence is gene → expression host → purified antigen → immune uptake → antibodies; no infectious whole virus is required.",
+      "The hepatitis B panel identifies HBsAg made in yeast as the antigen."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which set correctly describes the recombinant hepatitis B vaccine?",
+      "options": [
+        "Live HBV; produced in bacteria; approved 1973",
+        "HBsAg subunit; produced in yeast; non-infectious",
+        "Whole inactivated HBV; produced in rice",
+        "Cas9 protein; produced in mammalian cells"
+      ],
+      "answer": 1,
+      "explanation": "The vaccine uses recombinant hepatitis B surface antigen made in yeast."
+    }
+  },
+  {
+    "page": 114,
+    "title": "Monoclonal Antibodies and Biologics",
+    "explain": "Monoclonal antibodies are engineered biologic molecules designed to bind specific targets. Their production commonly uses mammalian cells because complex antibody proteins require cellular processing and folding. The slide points to therapeutic applications involving targets such as HER2 and diseases such as RSV infection.",
+    "mustKnow": [
+      "Monoclonal antibodies bind specific targets.",
+      "They are produced using genetic engineering.",
+      "Mammalian cells are commonly required for proper production of complex antibodies.",
+      "Therapeutic antibodies have applications against disease-associated targets."
+    ],
+    "terms": [
+      {
+        "term": "Monoclonal antibody",
+        "meaning": "A uniform antibody population directed against one target."
+      },
+      {
+        "term": "Biologic",
+        "meaning": "A therapeutic product made using living systems."
+      },
+      {
+        "term": "HER2",
+        "meaning": "Human epidermal growth factor receptor 2, a therapeutic target."
+      },
+      {
+        "term": "RSV",
+        "meaning": "Respiratory syncytial virus."
+      }
+    ],
+    "diagramGuide": [
+      "The production pipeline is antibody gene → mammalian cell → culture → purification → therapeutic mAb.",
+      "The mammalian-cell inset emphasizes folding, post-translational modification, and assembly."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Why are mammalian production cells preferred for many therapeutic monoclonal antibodies?",
+      "options": [
+        "They remove all disulfide bonds",
+        "They support folding, assembly, and post-translational modification",
+        "They prevent antibody-gene transcription",
+        "They eliminate purification requirements"
+      ],
+      "answer": 1,
+      "explanation": "Complex antibodies require eukaryotic processing and assembly."
+    }
+  },
+  {
+    "page": 115,
+    "title": "Gene Therapy Strategies",
+    "explain": "Gene therapy introduces functional genetic material into a person's cells to restore function or reduce disease. It can replace a defective gene, add a useful gene, silence a harmful gene, or directly edit a mutation.",
+    "mustKnow": [
+      "Gene replacement supplies a functional version of a defective gene.",
+      "Gene addition provides a new useful function.",
+      "Gene silencing reduces harmful expression.",
+      "Gene editing corrects DNA at the mutation level."
+    ],
+    "terms": [
+      {
+        "term": "Gene therapy",
+        "meaning": "Treatment based on changing or supplying genetic material in a patient's cells."
+      },
+      {
+        "term": "Gene silencing",
+        "meaning": "Reduction or prevention of expression of a harmful gene."
+      },
+      {
+        "term": "siRNA",
+        "meaning": "Small RNA that can reduce expression of a target gene."
+      },
+      {
+        "term": "CRISPR",
+        "meaning": "A genome-editing system that can make targeted DNA changes."
+      }
+    ],
+    "diagramGuide": [
+      "The left branch distinguishes ex vivo from in vivo delivery; the right branch distinguishes replacement, addition, silencing, and editing.",
+      "Editing changes DNA sequence, whereas silencing reduces expression without necessarily correcting DNA."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which intervention is gene silencing rather than gene replacement or editing?",
+      "options": [
+        "Adding a functional copy of a missing gene",
+        "Using siRNA to reduce harmful-gene expression",
+        "Correcting a point mutation with CRISPR",
+        "Replacing a defective coding sequence"
+      ],
+      "answer": 1,
+      "explanation": "Silencing lowers expression without necessarily changing the genomic sequence."
+    }
+  },
+  {
+    "page": 116,
+    "title": "Examples of Gene Therapy",
+    "explain": "The slide contrasts three applications: in vivo gene addition for spinal muscular atrophy, ex vivo gene editing for sickle cell disease, and engineered immune cells in CAR-T therapy. Editing the BCL11A enhancer can restore fetal hemoglobin and reduce sickling.",
+    "mustKnow": [
+      "SMA is shown as in vivo gene addition.",
+      "Sickle cell treatment is shown as ex vivo gene editing.",
+      "CAR-T therapy uses engineered immune cells.",
+      "BCL11A enhancer editing can increase fetal hemoglobin."
+    ],
+    "terms": [
+      {
+        "term": "In vivo",
+        "meaning": "Treatment performed directly inside the body."
+      },
+      {
+        "term": "Ex vivo",
+        "meaning": "Cells are modified outside the body and then returned."
+      },
+      {
+        "term": "CAR-T",
+        "meaning": "T cells engineered to express a chimeric antigen receptor."
+      },
+      {
+        "term": "BCL11A",
+        "meaning": "A regulator whose enhancer can be edited to reactivate fetal hemoglobin."
+      }
+    ],
+    "diagramGuide": [
+      "Match each picture to delivery strategy: SMA uses in vivo gene addition, sickle-cell treatment edits cells ex vivo, and CAR-T engineers immune cells.",
+      "The BCL11A-enhancer route raises fetal hemoglobin rather than directly repairing every sickle mutation."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which example is correctly paired with its strategy?",
+      "options": [
+        "SMA—in vivo SMN1 gene addition",
+        "Sickle-cell disease—unmodified cell transfusion only",
+        "CAR-T—direct addition of insulin to T cells",
+        "SMA—Bt toxin expression"
+      ],
+      "answer": 0,
+      "explanation": "The slide presents SMA as in vivo delivery of a functional SMN1 gene."
+    }
+  },
+  {
+    "page": 117,
+    "title": "Genetic Engineering in Agriculture",
+    "explain": "Crop genomes can be modified for pest and disease resistance, tolerance to drought or salinity, improved nutrition, higher yield, and better quality. The intended benefits include food production, reduced chemical inputs, and improved stress tolerance.",
+    "mustKnow": [
+      "Biotic stress includes pests and pathogens.",
+      "Abiotic stress includes drought, salinity, heat, and cold.",
+      "Nutritional traits can increase vitamins, amino acids, or minerals.",
+      "Crop engineering can target yield and shelf life."
+    ],
+    "terms": [
+      {
+        "term": "Biotic stress",
+        "meaning": "Stress caused by living agents such as pests or pathogens."
+      },
+      {
+        "term": "Abiotic stress",
+        "meaning": "Stress caused by nonliving factors such as drought or heat."
+      },
+      {
+        "term": "Trait",
+        "meaning": "A measurable characteristic of an organism."
+      },
+      {
+        "term": "Sustainable agriculture",
+        "meaning": "Food production designed for long-term resource and environmental viability."
+      }
+    ],
+    "diagramGuide": [
+      "The pipeline runs gene identification → transformation → selection/regeneration → engineered plant.",
+      "Keep biotic stress (pests/pathogens) separate from abiotic stress (drought, salt, heat, cold)."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which pair contains one biotic and one abiotic target, respectively?",
+      "options": [
+        "Drought; salinity",
+        "Insect pest; drought",
+        "Heat; cold",
+        "Vitamin content; yield"
+      ],
+      "answer": 1,
+      "explanation": "Pests are biological; drought is non-biological environmental stress."
+    }
+  },
+  {
+    "page": 118,
+    "title": "Bt Crops",
+    "explain": "Bt crops express Cry insecticidal proteins from Bacillus thuringiensis. These proteins protect against specific insect pests, potentially reducing chemical insecticide use. Concerns include insect resistance, non-target effects, gene flow, and biosafety.",
+    "mustKnow": [
+      "Bt refers to Bacillus thuringiensis.",
+      "Cry proteins provide insect resistance.",
+      "The protection is directed against specific target pests.",
+      "Resistance management is needed to slow evolution of resistant insects."
+    ],
+    "terms": [
+      {
+        "term": "Bt crop",
+        "meaning": "A crop engineered to express an insecticidal Bt protein."
+      },
+      {
+        "term": "Cry toxin",
+        "meaning": "An insecticidal protein produced by Bacillus thuringiensis."
+      },
+      {
+        "term": "Non-target organism",
+        "meaning": "An organism not intended to be affected by the engineered trait."
+      },
+      {
+        "term": "Gene flow",
+        "meaning": "Movement of genes between populations, such as through pollen."
+      }
+    ],
+    "diagramGuide": [
+      "Follow the Bt mechanism: plant expresses Cry protein → insect ingests it → toxin is activated in the gut → membrane pores form → insect dies.",
+      "The crop protects against specified target insects; the diagram does not imply universal toxicity."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What is the immediate lethal action of activated Bt Cry toxin in a susceptible insect?",
+      "options": [
+        "Inhibition of plant photosynthesis",
+        "Pore formation in the insect gut membrane",
+        "Conversion of β-carotene to vitamin A",
+        "Blocking bacterial CAP binding"
+      ],
+      "answer": 1,
+      "explanation": "Activated Cry toxin damages gut cells by forming pores."
+    }
+  },
+  {
+    "page": 119,
+    "title": "Golden Rice",
+    "explain": "Golden rice is engineered so that its endosperm produces beta-carotene, a provitamin A compound. Introducing genes activates the carotenoid pathway in the grain, producing the golden color and aiming to reduce vitamin A deficiency.",
+    "mustKnow": [
+      "Golden rice accumulates beta-carotene.",
+      "Beta-carotene is provitamin A.",
+      "Production occurs in the rice endosperm.",
+      "This is nutritional biofortification."
+    ],
+    "terms": [
+      {
+        "term": "Beta-carotene",
+        "meaning": "A carotenoid that the body can convert to vitamin A."
+      },
+      {
+        "term": "Endosperm",
+        "meaning": "The nutrient-rich storage tissue of a seed."
+      },
+      {
+        "term": "Biofortification",
+        "meaning": "Increasing the nutritional content of a food crop."
+      },
+      {
+        "term": "Carotenoid pathway",
+        "meaning": "A biochemical pathway that produces carotenoid pigments."
+      }
+    ],
+    "diagramGuide": [
+      "The pathway diagram adds psy and crtI activity in rice endosperm, allowing carotenoid intermediates to reach β-carotene.",
+      "The yellow grain is a visual marker of β-carotene accumulation, not vitamin A itself."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Golden Rice is engineered so that which compound accumulates in the endosperm?",
+      "options": [
+        "Erythropoietin",
+        "β-carotene",
+        "Factor VIII",
+        "Allolactose"
+      ],
+      "answer": 1,
+      "explanation": "β-carotene is provitamin A and gives the grain its golden color."
+    }
+  },
+  {
+    "page": 120,
+    "title": "Crop Improvement Traits",
+    "explain": "The slide compares ordinary and engineered crops across six traits: herbicide tolerance, disease resistance, improved nutrition, abiotic-stress tolerance, delayed ripening, and improved yield or quality.",
+    "mustKnow": [
+      "Herbicide-tolerant plants survive the relevant herbicide.",
+      "Disease resistance targets pathogens.",
+      "Delayed ripening can extend shelf life.",
+      "Abiotic-stress tolerance can cover drought, heat, cold, or salinity."
+    ],
+    "terms": [
+      {
+        "term": "Herbicide tolerance",
+        "meaning": "Ability of a crop to survive application of a herbicide."
+      },
+      {
+        "term": "Delayed ripening",
+        "meaning": "Slower maturation that can extend storage life."
+      },
+      {
+        "term": "Nutritional quality",
+        "meaning": "Content of useful nutrients such as vitamins or amino acids."
+      }
+    ],
+    "diagramGuide": [
+      "Read the six paired comparisons as trait outcomes: herbicide survival, pathogen resistance, nutrient enhancement, abiotic tolerance, delayed ripening, and yield/quality.",
+      "Each pair contrasts a conventional/sensitive phenotype with the engineered phenotype."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which engineered outcome is matched to the correct trait category?",
+      "options": [
+        "Longer fruit shelf life—delayed ripening",
+        "Survival after pathogen attack—abiotic tolerance",
+        "Higher vitamin level—herbicide tolerance",
+        "Drought survival—disease resistance"
+      ],
+      "answer": 0,
+      "explanation": "Delayed ripening slows softening and extends storage life."
+    }
+  }
+]

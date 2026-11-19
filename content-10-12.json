@@ -1,0 +1,452 @@
+[
+  {
+    "title": "Module 10 - Host-Pathogen Interaction: How Bacteria Enter, Evade, Damage, and Exit",
+    "sourcePages": "Host pathogen interaction.pdf, pp. 30-59",
+    "mission": "Build a one-page 'pathogen attack pipeline' from memory. Draw five boxes: entry/adherence -> colonization/biofilm -> immune evasion -> tissue damage/toxins -> exit. As you study, place every named factor from the primer into one box. Then close the slides and explain aloud how any three factors increase virulence. Finish by answering the recall set and MCQs without looking back.",
+    "primer": [
+      "Virulence is the capacity of a pathogen to harm the host. The slide sequence frames disease as entry, adherence, penetration or evasion of defenses, host-cell damage, and exit.",
+      "Adherence is often essential for colonization. It requires a microbial ligand or adhesin and a receptor on the host cell; it can determine host specificity and is a potential drug target.",
+      "Group A Streptococcus M protein helps attachment and invasion through fibronectin binding. It can also recruit host proteins to form a cloak that hides bacterial epitopes and changes antibody access.",
+      "Capsules promote attachment and immune evasion. They can mask PAMP recognition by Toll-like receptors, inhibit phagocytosis, and help bacteria resist lysosomal digestion after uptake.",
+      "Biofilms are organized microbial communities. Quorum sensing lets bacteria detect population density and alter gene expression, helping coordinate biofilm behavior.",
+      "Tissue invasion can be aided by enzymes: hyaluronidase and collagenase digest connective tissue; coagulase produces a protective clot-like barrier; kinases such as streptokinase dissolve clots; IgA protease attacks a mucosal antibody.",
+      "Other invasion and survival tools include invasins that rearrange host actin, mycolic acid that resists lysosomal digestion, and mucus-barrier breach that gives microbes access to host cells.",
+      "Exotoxins are secreted proteins with specific targets: diphtheria toxin ADP-ribosylates eEF-2 and stops translation; cholera toxin locks Gs-alpha active, raises cAMP, and drives ion and water loss. Endotoxin is heat-stable lipid A of Gram-negative LPS and promotes cytokine release, inflammation, and fever."
+    ],
+    "recall": [
+      {
+        "q": "Without looking, write the five-stage pathogenesis pipeline used in this module.",
+        "a": "Entry/adherence, colonization or biofilm formation, penetration or immune evasion, damage to host cells, and exit."
+      },
+      {
+        "q": "What two interacting components are required for bacterial adherence?",
+        "a": "A microbial ligand or adhesin and a receptor on the host cell."
+      },
+      {
+        "q": "Give three distinct ways a capsule can increase bacterial survival.",
+        "a": "It can aid attachment, mask PAMP recognition by receptors such as TLRs, inhibit phagocytosis, and resist lysosomal digestion. Any three earn full credit."
+      },
+      {
+        "q": "Match the enzyme to its main action: hyaluronidase, collagenase, coagulase, streptokinase.",
+        "a": "Hyaluronidase digests hyaluronic-acid-rich connective material; collagenase digests collagen; coagulase promotes clot formation that can shield bacteria; streptokinase dissolves clots."
+      },
+      {
+        "q": "What is quorum sensing, and why is it useful in a biofilm?",
+        "a": "It is the ability to sense population density and change gene expression, allowing a bacterial population to coordinate behaviors such as biofilm development."
+      },
+      {
+        "q": "Trace diphtheria toxin from cell entry to cell death in four steps.",
+        "a": "Receptor-mediated endocytosis -> endosomal acidification and translocation of fragment A -> ADP-ribosylation of eEF-2 -> translation stops and the host cell dies."
+      },
+      {
+        "q": "Trace cholera toxin from receptor binding to diarrhea.",
+        "a": "The B pentamer binds GM1 -> toxin enters the cell -> A1 reaches the cytosol and locks Gs-alpha in its active GTP-bound form -> adenylyl cyclase remains active -> cAMP rises -> ions and water move into the intestine, causing diarrhea."
+      },
+      {
+        "q": "State two contrasts between exotoxin and endotoxin from these slides.",
+        "a": "Exotoxins are microbial protein toxins with specific intracellular targets; endotoxin is lipid A in Gram-negative LPS. Endotoxin is heat stable and is released during lysis, phagocytic digestion, or antibiotic killing, producing cytokines, inflammation, and fever."
+      }
+    ],
+    "mcqs": [
+      {
+        "q": "A bacterial mutation prevents binding of its surface adhesin to fibronectin. Which early pathogenic event is most directly impaired?",
+        "options": [
+          "Adherence to host tissue",
+          "Endotoxin release",
+          "Caspase activation",
+          "Antibody production"
+        ],
+        "answer": "Adherence to host tissue",
+        "explanation": "The slides use fibronectin binding by Group A Streptococcus M protein as an example of attachment and invasion."
+      },
+      {
+        "q": "Which bacterial structure can simultaneously reduce TLR recognition and inhibit phagocytosis?",
+        "options": [
+          "Capsule",
+          "Ribosome",
+          "Flagellar motor",
+          "Nucleoid"
+        ],
+        "answer": "Capsule",
+        "explanation": "The capsule can hide PAMPs from pattern-recognition receptors and physically impede phagocytosis."
+      },
+      {
+        "q": "Quorum sensing is best described as:",
+        "options": [
+          "Population-density sensing that alters bacterial gene expression",
+          "Antibody-mediated coating of bacteria",
+          "Random mutation during antibiotic treatment",
+          "Host-cell recognition of lipid A"
+        ],
+        "answer": "Population-density sensing that alters bacterial gene expression",
+        "explanation": "The biofilm slide defines quorum sensing as sensing population density and changing gene expression."
+      },
+      {
+        "q": "Which enzyme-factor pair is correctly matched?",
+        "options": [
+          "Collagenase - digestion of connective tissue",
+          "Coagulase - dissolution of blood clots",
+          "Streptokinase - formation of a protective clot",
+          "IgA protease - synthesis of mucosal IgA"
+        ],
+        "answer": "Collagenase - digestion of connective tissue",
+        "explanation": "Collagenase supports tissue invasion. Coagulase promotes clotting, whereas streptokinase dissolves clots."
+      },
+      {
+        "q": "Why can mycolic acid increase survival of Mycobacterium tuberculosis inside a host cell?",
+        "options": [
+          "It resists digestion by lysosomal enzymes",
+          "It permanently activates host Gs-alpha",
+          "It cleaves host fibronectin",
+          "It converts NADH to NAD+"
+        ],
+        "answer": "It resists digestion by lysosomal enzymes",
+        "explanation": "The slides identify mycolic acid in the mycobacterial cell wall as a barrier to lysosomal digestion."
+      },
+      {
+        "q": "Diphtheria toxin kills a host cell primarily by:",
+        "options": [
+          "ADP-ribosylating eEF-2 and blocking translation",
+          "Increasing cAMP through persistent Gs-alpha activation",
+          "Digesting collagen in the extracellular matrix",
+          "Activating TLR4 with lipid A"
+        ],
+        "answer": "ADP-ribosylating eEF-2 and blocking translation",
+        "explanation": "Fragment A targets eEF-2, halting protein synthesis."
+      },
+      {
+        "q": "The severe fluid loss in cholera follows directly from:",
+        "options": [
+          "A sustained rise in host-cell cAMP",
+          "Inhibition of host-cell ribosomes by eEF-2 modification",
+          "Suppression of all ion channels",
+          "Degradation of the intestinal collagen matrix"
+        ],
+        "answer": "A sustained rise in host-cell cAMP",
+        "explanation": "Cholera toxin keeps Gs-alpha active, maintaining adenylyl cyclase activity and causing ion and water efflux into the intestine."
+      },
+      {
+        "q": "Which statement about endotoxin is supported by the slides?",
+        "options": [
+          "It is heat-stable lipid A associated with Gram-negative LPS",
+          "It is an AB5 protein secreted by Vibrio cholerae",
+          "It is destroyed whenever bacteria are killed",
+          "It acts by ADP-ribosylating eEF-2"
+        ],
+        "answer": "It is heat-stable lipid A associated with Gram-negative LPS",
+        "explanation": "The slides identify lipid A as endotoxin and warn that sterilization that kills bacteria may not eliminate this heat-stable material."
+      }
+    ],
+    "traps": [
+      "Do not swap coagulase and kinase: coagulase forms a protective clot; streptokinase dissolves clots.",
+      "Do not equate capsule only with attachment. In these slides it also masks recognition, inhibits phagocytosis, and can resist lysosomal digestion.",
+      "Do not swap the toxin mechanisms: diphtheria toxin blocks translation through eEF-2; cholera toxin raises cAMP through Gs-alpha.",
+      "Bacterial death does not guarantee endotoxin removal. Lipid A is heat stable and may be released during lysis or antibiotic treatment."
+    ],
+    "checkpoint": [
+      "On blank paper, rebuild the pathogenesis pipeline and correctly place M protein, capsule, biofilm, coagulase, collagenase, invasins, exotoxin, and endotoxin. Pass condition: at least 7 of 8 placed correctly.",
+      "Give yourself 90 seconds each to explain diphtheria toxin and cholera toxin without notes. Pass condition: receptor or entry, intracellular target, signaling or biochemical change, and clinical consequence are all present.",
+      "Retake the eight MCQs closed-book. Pass condition: 7/8. For every miss, add a two-column correction: 'I confused...' and 'The deciding clue is...'."
+    ]
+  },
+  {
+    "title": "Module 11 - Cell Death Pathways: Identify the Mechanism from the Clues",
+    "sourcePages": "Lecture 31 SMondal_16102026.pdf, pp. 1-13",
+    "mission": "Create a four-column death-mode discriminator for apoptosis, necroptosis, autophagy, and ferroptosis. For each, fill in trigger or control, key machinery, membrane or morphology, and inflammatory or biochemical outcome. Then cover the table and diagnose eight imaginary cells using only their clues. Finish with the recall and MCQs closed-book.",
+    "primer": [
+      "Programmed cell death is required for tissue control and removal of unwanted or damaged cells. The central exam task is to distinguish pathways by morphology, molecular machinery, and inflammatory outcome.",
+      "Apoptosis shows cell shrinkage, chromatin condensation, nuclear fragmentation, membrane blebbing, apoptotic bodies, and phagocytosis. Biochemical clues include caspase activation, DNA fragmentation, and phosphatidylserine exposure.",
+      "Initiator caspases begin the cascade: caspase-8 is associated with the extrinsic pathway and caspase-9 with the intrinsic pathway. Executioner caspases 3, 6, and 7 dismantle the cell.",
+      "In intrinsic apoptosis, pro-apoptotic BAX and BAK oligomerize in the mitochondrial outer membrane, cytochrome c is released, the apoptosome forms, and caspases activate. Anti-apoptotic BCL-2 can sequester pro-apoptotic proteins and prevent BAX/BAK activation.",
+      "BCL-2 family organization is testable: effectors and anti-apoptotic members contain BH1-BH4 domains, while activators and derepressors or sensitizers are BH3-only proteins.",
+      "Extrinsic apoptosis begins at a death receptor such as Fas. Fas ligand promotes receptor activation, FADD recruitment, DISC assembly, caspase-8 dimerization and activation, followed by executioner caspases 3 and 7.",
+      "Necroptosis is caspase-independent, lytic, and inflammatory, often appearing when caspase-8 or apoptosis is inhibited. It features membrane rupture, cytoplasmic swelling and vacuolization, swollen mitochondria, and a lack of the condensed fragmented nucleus typical of apoptosis.",
+      "Autophagy uses acidic lysosomes containing degradative enzymes, including abundant cathepsins. Ferroptosis is driven by iron-linked oxidation of PUFA-containing phospholipids and membrane disruption; protective systems shown include GPX4/GSH, FSP1/CoQ, and DHFR/BH4."
+    ],
+    "recall": [
+      {
+        "q": "List four morphological and three biochemical features of apoptosis.",
+        "a": "Morphological: cell shrinkage, chromatin condensation, nuclear fragmentation, membrane blebbing, apoptotic bodies, and phagocytosis; any four. Biochemical: caspase activation, DNA fragmentation, and phosphatidylserine inversion or exposure."
+      },
+      {
+        "q": "Sort these caspases into initiators and executioners: 3, 6, 7, 8, 9.",
+        "a": "Initiators: caspase-8 and caspase-9. Executioners: caspase-3, caspase-6, and caspase-7."
+      },
+      {
+        "q": "Recite the intrinsic apoptosis sequence from BAX/BAK to cell death.",
+        "a": "BAX/BAK activation and oligomerization -> mitochondrial outer-membrane permeabilization -> cytochrome c release -> apoptosome formation -> initiator caspase activation, especially caspase-9 -> executioner caspases -> apoptosis."
+      },
+      {
+        "q": "How does overexpressed BCL-2 favor cancer-cell survival?",
+        "a": "BCL-2 sequesters pro-apoptotic proteins, prevents BAX/BAK activation and mitochondrial permeabilization, and therefore blocks the downstream apoptotic cascade."
+      },
+      {
+        "q": "Recite the extrinsic Fas pathway from ligand binding to executioner caspases.",
+        "a": "Fas ligand binds Fas death receptor -> receptor death domains recruit FADD -> DISC assembles -> caspase-8 molecules dimerize and activate -> caspases 3 and 7 are activated -> apoptosis."
+      },
+      {
+        "q": "Give four clues that favor necroptosis over apoptosis.",
+        "a": "Caspase independence, plasma-membrane rupture, inflammatory DAMP release, cytoplasmic swelling or vacuolization, swollen mitochondria, and absence of strongly condensed fragmented nuclei; any four."
+      },
+      {
+        "q": "What activates extrinsic versus intrinsic necroptosis in the slides?",
+        "a": "Extrinsic necroptosis can be triggered by death receptors such as TNFR1 or pattern-recognition receptors such as TLR3 and TLR4. Intrinsic necroptosis is initiated by ZBP1 recognition of Z-nucleic acids."
+      },
+      {
+        "q": "State the damaging chemistry of ferroptosis and name three protective systems shown.",
+        "a": "Iron promotes peroxidation of PUFA-containing phospholipids, causing membrane disruption. Protective systems include GPX4 with glutathione, FSP1 with reduced CoQ, DHFR with BH4, and alpha-tocopherol; any three."
+      }
+    ],
+    "mcqs": [
+      {
+        "q": "Which combination most strongly identifies apoptosis?",
+        "options": [
+          "Cell shrinkage, membrane blebbing, and apoptotic bodies",
+          "Cell swelling, membrane rupture, and DAMP release",
+          "PUFA phospholipid peroxidation and iron dependence",
+          "Lysosomal acidification and bulk degradation"
+        ],
+        "answer": "Cell shrinkage, membrane blebbing, and apoptotic bodies",
+        "explanation": "These are classic morphological features listed for apoptosis."
+      },
+      {
+        "q": "Which caspase pairing is correct?",
+        "options": [
+          "Caspase-8 initiator; caspase-3 executioner",
+          "Caspase-3 initiator; caspase-9 executioner",
+          "Caspase-6 initiator; caspase-8 executioner",
+          "Caspase-7 initiator; caspase-9 executioner"
+        ],
+        "answer": "Caspase-8 initiator; caspase-3 executioner",
+        "explanation": "Caspases 8 and 9 are initiators; caspases 3, 6, and 7 are executioners."
+      },
+      {
+        "q": "The most direct consequence of BAX and BAK oligomerization is:",
+        "options": [
+          "Mitochondrial outer-membrane permeabilization",
+          "Fas-ligand secretion",
+          "Plasma-membrane rupture by necroptosis",
+          "Lysosomal pH neutralization"
+        ],
+        "answer": "Mitochondrial outer-membrane permeabilization",
+        "explanation": "BAX/BAK create the mitochondrial event that permits cytochrome c release."
+      },
+      {
+        "q": "Which event belongs to the extrinsic apoptosis pathway?",
+        "options": [
+          "FADD-dependent DISC assembly and caspase-8 activation",
+          "Cytochrome c release followed by apoptosome formation",
+          "Ferritinophagy followed by lipid peroxidation",
+          "ZBP1 recognition of Z-nucleic acids"
+        ],
+        "answer": "FADD-dependent DISC assembly and caspase-8 activation",
+        "explanation": "Fas receptor signaling uses FADD and the DISC to activate caspase-8."
+      },
+      {
+        "q": "A dying cell has a ruptured membrane, swollen cytoplasm, swollen mitochondria, and releases DAMPs. The best diagnosis is:",
+        "options": [
+          "Necroptosis",
+          "Apoptosis",
+          "Autophagy",
+          "Cell-cycle arrest"
+        ],
+        "answer": "Necroptosis",
+        "explanation": "The lytic morphology and inflammatory DAMP release match necroptosis."
+      },
+      {
+        "q": "Necroptosis is especially likely when:",
+        "options": [
+          "Caspase-8 or apoptosis is inhibited",
+          "BAX and BAK are strongly activated",
+          "Executioner caspases are fully active",
+          "Phosphatidylserine exposure causes silent phagocytosis"
+        ],
+        "answer": "Caspase-8 or apoptosis is inhibited",
+        "explanation": "The slides define necroptosis as commonly activated when apoptosis is blocked, often through loss or inhibition of caspase-8."
+      },
+      {
+        "q": "Why are lysosomal enzymes effective inside lysosomes?",
+        "options": [
+          "Their activity is turned on by the low luminal pH",
+          "They require high cytosolic cAMP",
+          "They are activated by Fas ligand",
+          "They require mitochondrial cytochrome c"
+        ],
+        "answer": "Their activity is turned on by the low luminal pH",
+        "explanation": "The autophagy slide emphasizes the acidic lysosomal lumen and its degradative enzymes."
+      },
+      {
+        "q": "Loss of which protective enzyme would most directly increase ferroptotic lipid damage?",
+        "options": [
+          "GPX4",
+          "Caspase-8",
+          "FADD",
+          "BCL-2"
+        ],
+        "answer": "GPX4",
+        "explanation": "GPX4 uses glutathione to reduce lipid hydroperoxides and counter PUFA-phospholipid oxidation."
+      }
+    ],
+    "traps": [
+      "Do not label every programmed death as apoptosis. Necroptosis and ferroptosis are regulated but have different machinery and morphology.",
+      "Do not swap caspase-8 and caspase-9: 8 is the key extrinsic initiator; 9 is the key intrinsic initiator.",
+      "Membrane blebbing with an intact membrane favors apoptosis; membrane rupture with swelling and DAMP release favors necroptosis.",
+      "BCL-2 is anti-apoptotic, whereas BAX and BAK are pro-apoptotic effectors that permeabilize mitochondria."
+    ],
+    "checkpoint": [
+      "Draw the intrinsic and extrinsic apoptosis pathways side by side from memory. Pass condition: each has the correct trigger, adaptor or organelle event, initiator caspase, and executioner stage.",
+      "Complete a blind comparison of apoptosis, necroptosis, autophagy, and ferroptosis using four headings: membrane, morphology, key machinery, inflammatory or biochemical clue. Pass condition: no pathway is confused with another.",
+      "Retake all eight MCQs closed-book. Pass condition: 7/8, plus a one-sentence explanation for why each rejected option is wrong on any missed question."
+    ]
+  },
+  {
+    "title": "Module 12 - Cancer Biology: From Mutation to Tumor Survival",
+    "sourcePages": "Lecture 32 SMondal_21102026.pdf, pp. 1-11; Lecture 33 SMondal_23102026.pdf, pp. 1-7",
+    "mission": "Build a causal map with six nodes: mutation -> altered growth or death control -> tumor formation -> microenvironment and metabolism -> invasion or metastasis -> immune evasion. Attach every named molecule or process in the primer to a node. Then use the map to explain one complete cancer story aloud, from an activating EGFR or RAS mutation to tumor survival. Finish the recall set and MCQs without reopening the slides.",
+    "primer": [
+      "Cancer cells differ from normal cells through persistent proliferation, failure of normal apoptosis, invasion through extracellular matrix and basement membrane, and metastasis. Tumors can therefore arise through increased division or decreased cell death, and transformed cells lose contact inhibition and form piled-up foci instead of an orderly monolayer.",
+      "The tumor microenvironment includes nonmalignant stroma: fibroblasts, immune cells, endothelial cells, and other support cells. Carcinoma-associated fibroblasts remodel extracellular matrix and secrete factors that affect growth, invasion, inflammation, and angiogenesis.",
+      "As tumor cells move farther from blood vessels, oxygen falls and severe hypoxia can lead to necrosis. Under normoxia HIF-alpha is hydroxylated, recognized by VHL, ubiquitinated, and degraded; under hypoxia stabilized HIF activates genes supporting metabolism, erythropoiesis, and angiogenesis.",
+      "The Warburg-effect slide emphasizes elevated glucose uptake and conversion of pyruvate to lactate even when oxygen may be present. This reaction uses NADH and regenerates NAD+, allowing continued glucose-to-pyruvate metabolism.",
+      "Tumors evade immunity by losing tumor antigens or MHC, expressing non-classical HLA, delivering inhibitory signals to T cells, secreting immunosuppressive cytokines, and building a microenvironment containing suppressive cells such as Tregs and MDSCs.",
+      "PD-1 on T cells binding PD-L1 on tumor or immune cells reduces T-cell activity. Anti-PD-1 or anti-PD-L1 antibodies block this inhibitory interaction, increase T-cell activity, and can promote tumor-cell death.",
+      "Cancer development usually requires multiple rare genetic or epigenetic events. Proto-oncogenes become oncogenes through gain-of-function changes, often in one allele; tumor-suppressor genes promote cancer through loss of function, commonly requiring inactivation of both copies.",
+      "EGFR and RAS illustrate oncogenic activation. EGFR truncation can cause ligand-independent hyperphosphorylation; mutant RAS can remain in the active GTP-bound signaling state. DNA damage normally raises p53, which induces p21 to inhibit cyclin-CDK and pause the cell cycle; MDM2 and MDMX negatively regulate p53, including inhibition, nuclear export, ubiquitination, and proteasomal degradation."
+    ],
+    "recall": [
+      {
+        "q": "Distinguish proliferation, invasion, and metastasis in one sentence each.",
+        "a": "Proliferation is continued cell division; invasion is penetration into surrounding tissue through extracellular matrix or basement membrane; metastasis is spread from the primary tumor to nearby or distant sites."
+      },
+      {
+        "q": "How can either increased division or decreased apoptosis produce a tumor?",
+        "a": "Both create a net accumulation of cells: faster production raises cell number, while reduced removal lets cells persist and accumulate."
+      },
+      {
+        "q": "What is the stroma, and what do carcinoma-associated fibroblasts do?",
+        "a": "Stroma is the nonmalignant supportive cellular environment around a tumor. Carcinoma-associated fibroblasts remodel extracellular matrix and secrete factors that influence tumor growth, invasion, inflammation, and angiogenesis."
+      },
+      {
+        "q": "Contrast the fate of HIF-alpha in normoxia and hypoxia.",
+        "a": "In normoxia HIF-alpha is hydroxylated, bound by VHL, ubiquitinated, and degraded by the proteasome. In hypoxia it is stabilized, partners with HIF-beta, enters or acts in the nucleus, and activates hypoxia-response genes."
+      },
+      {
+        "q": "What is the metabolic logic of converting pyruvate to lactate in the Warburg-effect slide?",
+        "a": "The reaction consumes NADH and regenerates NAD+, which supports continued conversion of glucose to pyruvate during high glycolytic flux."
+      },
+      {
+        "q": "Name four immune-evasion strategies shown in the cancer slides.",
+        "a": "Loss of tumor antigen or MHC, expression of non-classical HLA, inhibitory ligand-receptor signaling to T cells, immunosuppressive cytokines, and recruitment of suppressive cells such as Tregs or MDSCs; any four."
+      },
+      {
+        "q": "State the oncogene versus tumor-suppressor rule, including gain or loss of function and the typical number of mutational hits.",
+        "a": "An oncogene results from gain-of-function activation of a proto-oncogene and one altered copy may be sufficient. A tumor suppressor promotes cancer when function is lost, commonly after both gene copies are inactivated."
+      },
+      {
+        "q": "Trace the p53 checkpoint and then explain how MDM2 or MDMX oppose it.",
+        "a": "DNA damage raises p53 -> p53 induces p21 -> p21 inhibits cyclin-CDK -> the cell cycle pauses for repair. MDM2 and MDMX bind and inhibit p53; MDM2 also supports nuclear export, ubiquitination, and proteasomal degradation of p53, while MDMX can strengthen MDM2 activity."
+      }
+    ],
+    "mcqs": [
+      {
+        "q": "A cell line grows as piled-up foci rather than an orderly monolayer. Which cancer-associated property does this demonstrate?",
+        "options": [
+          "Loss of contact inhibition",
+          "Restored anchorage dependence",
+          "Increased apoptotic clearance",
+          "Loss of glucose uptake"
+        ],
+        "answer": "Loss of contact inhibition",
+        "explanation": "The slide shows transformed cells continuing to divide and forming foci after losing contact inhibition."
+      },
+      {
+        "q": "Which component belongs to tumor stroma rather than the malignant cell population itself?",
+        "options": [
+          "Carcinoma-associated fibroblast",
+          "Activated KRAS inside a cancer cell",
+          "Mutant p53 in a cancer cell",
+          "Truncated EGFR in a cancer cell"
+        ],
+        "answer": "Carcinoma-associated fibroblast",
+        "explanation": "Stroma includes nonmalignant fibroblasts, immune cells, endothelial cells, and related support cells."
+      },
+      {
+        "q": "Under normal oxygen conditions, HIF-alpha is usually:",
+        "options": [
+          "Hydroxylated, recognized by VHL, ubiquitinated, and degraded",
+          "Stabilized and used to activate angiogenesis genes",
+          "Converted into lactate by LDH",
+          "Bound to PD-1 on T cells"
+        ],
+        "answer": "Hydroxylated, recognized by VHL, ubiquitinated, and degraded",
+        "explanation": "The hypoxia slide contrasts normoxic HIF-alpha destruction with hypoxic stabilization."
+      },
+      {
+        "q": "Why does pyruvate-to-lactate conversion support high glycolytic activity in cancer cells?",
+        "options": [
+          "It regenerates NAD+ from NADH",
+          "It directly generates oxygen",
+          "It activates p53 transcription",
+          "It prevents glucose entry through GLUTs"
+        ],
+        "answer": "It regenerates NAD+ from NADH",
+        "explanation": "Regenerated NAD+ can be reused in glucose-to-pyruvate metabolism."
+      },
+      {
+        "q": "Blocking the PD-1:PD-L1 interaction is expected to:",
+        "options": [
+          "Increase T-cell activity against tumor cells",
+          "Suppress all T-cell receptor signaling",
+          "Increase HIF-alpha degradation in hypoxia",
+          "Convert a tumor suppressor into an oncogene"
+        ],
+        "answer": "Increase T-cell activity against tumor cells",
+        "explanation": "PD-1:PD-L1 is inhibitory; anti-PD-1 or anti-PD-L1 antibodies release this brake."
+      },
+      {
+        "q": "Which genetic change most closely fits activation of a proto-oncogene?",
+        "options": [
+          "A gain-of-function mutation in one EGFR allele",
+          "Loss-of-function mutations in both copies of a tumor suppressor",
+          "Deletion of both p53 alleles only",
+          "Inactivation of p21 by normal p53 signaling"
+        ],
+        "answer": "A gain-of-function mutation in one EGFR allele",
+        "explanation": "Proto-oncogenes become oncogenes through activating gain-of-function events, and one altered copy can be enough."
+      },
+      {
+        "q": "A truncation removes the extracellular ligand-binding region of EGFR but leaves the intracellular signaling region hyperphosphorylated. The likely result is:",
+        "options": [
+          "Ligand-independent growth signaling",
+          "Permanent shutdown of all receptor signaling",
+          "Immediate activation of p21 by p53",
+          "Loss of tumor-cell glucose uptake"
+        ],
+        "answer": "Ligand-independent growth signaling",
+        "explanation": "The slide shows truncated EGFR triggering intracellular signaling even without growth factor."
+      },
+      {
+        "q": "Which sequence correctly describes the p53 checkpoint?",
+        "options": [
+          "DNA damage -> p53 -> p21 -> cyclin-CDK inhibition -> cell-cycle arrest",
+          "DNA damage -> MDM2 -> p21 degradation -> faster cell division",
+          "PD-L1 -> p53 -> HIF-alpha degradation -> apoptosis",
+          "EGFR truncation -> p21 activation -> contact inhibition"
+        ],
+        "answer": "DNA damage -> p53 -> p21 -> cyclin-CDK inhibition -> cell-cycle arrest",
+        "explanation": "p53 acts as a tumor-suppressor transcription factor by inducing p21 and pausing the cycle for repair."
+      }
+    ],
+    "traps": [
+      "Do not use invasion and metastasis as synonyms: invasion is local tissue penetration; metastasis is spread to a new site.",
+      "Do not assume all tumor cells are simply dividing faster. Reduced apoptosis can also produce net cell accumulation.",
+      "Do not reverse the gene logic: oncogenes are activated gain-of-function drivers; tumor suppressors contribute when function is lost.",
+      "PD-1:PD-L1 binding suppresses T-cell activity. Blocking the interaction restores activity; it does not block the T cell."
+    ],
+    "checkpoint": [
+      "From memory, draw the six-node cancer causal map from mutation to immune evasion and place EGFR, RAS, p53/p21, CAFs, HIF, lactate, MHC loss, and PD-L1 correctly. Pass condition: 7 of 8 placements are correct.",
+      "Teach a two-minute contrast: oncogene versus tumor suppressor. Pass condition: you include gain versus loss of function, one-hit versus two-hit logic, and one slide example of each.",
+      "Retake the eight MCQs closed-book. Pass condition: 7/8. Then answer this synthesis prompt in four sentences: 'How can a genetically altered cancer cell use its microenvironment, metabolism, and immune checkpoints to survive?'"
+    ]
+  }
+]

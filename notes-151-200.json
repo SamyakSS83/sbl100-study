@@ -1,0 +1,1591 @@
+[
+  {
+    "page": 151,
+    "title": "Myosin Moving on Actin",
+    "explain": "The fluorescence image shows myosin-II motor regions in green associated with actin filaments in blue. It is visual evidence that motor proteins work on cytoskeletal tracks rather than moving freely through the cell.",
+    "mustKnow": [
+      "Actin forms the track used by myosin motors.",
+      "Myosin converts chemical energy into movement or force."
+    ],
+    "terms": [
+      {
+        "term": "Myosin",
+        "meaning": "An ATP-powered motor protein that interacts with actin."
+      },
+      {
+        "term": "Actin filament",
+        "meaning": "A cytoskeletal polymer that serves as a structural element and myosin track."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "In the image, which cytoskeletal structure acts as the track for myosin?",
+      "options": [
+        "Actin filament",
+        "DNA helix",
+        "Cell membrane",
+        "Ribosome"
+      ],
+      "answer": "Actin filament",
+      "explanation": "Myosin motors bind to and move along actin filaments."
+    }
+  },
+  {
+    "page": 152,
+    "title": "G-Actin and F-Actin",
+    "explain": "Actin exists as globular G-actin monomers and filamentous F-actin polymers. ATP or ADP can bind each actin subunit, and ATP affects how readily subunits join the dynamic filament.",
+    "mustKnow": [
+      "G-actin is the monomer; F-actin is the polymer.",
+      "Actin filaments form a right-handed double helix.",
+      "Actin filaments can grow and shrink."
+    ],
+    "terms": [
+      {
+        "term": "G-actin",
+        "meaning": "The globular, soluble actin monomer."
+      },
+      {
+        "term": "F-actin",
+        "meaning": "The filament made by polymerized actin monomers."
+      },
+      {
+        "term": "Microfilament",
+        "meaning": "Another name for an actin filament."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which conversion builds an actin filament?",
+      "options": [
+        "F-actin to G-actin",
+        "G-actin to F-actin",
+        "Myosin to actin",
+        "ADP to DNA"
+      ],
+      "answer": "G-actin to F-actin",
+      "explanation": "Globular G-actin monomers polymerize to form filamentous F-actin."
+    }
+  },
+  {
+    "page": 153,
+    "title": "Helical Arrangement of Actin Subunits",
+    "explain": "The molecular model shows repeated actin subunits packed into a two-stranded helical filament. Repetition and directional packing give the filament structural polarity.",
+    "mustKnow": [
+      "F-actin is assembled from many repeating actin subunits.",
+      "The filament has a helical, polar organization."
+    ],
+    "terms": [
+      {
+        "term": "Polarity",
+        "meaning": "Structural difference between the two ends of a filament."
+      },
+      {
+        "term": "Subunit",
+        "meaning": "A repeating molecular building block in a polymer."
+      }
+    ],
+    "interaction": {
+      "type": "tap",
+      "label": "Tap after locating the repeating colored actin subunits in the helical filament."
+    }
+  },
+  {
+    "page": 154,
+    "title": "Actin Polymerization: Nucleation and Elongation",
+    "explain": "Actin assembly begins with slow nucleation, when a few G-actin monomers form an unstable starter cluster. Elongation then adds monomers at both ends, but addition is faster at the plus or barbed end than at the minus or pointed end.",
+    "mustKnow": [
+      "Nucleation creates the initial actin seed.",
+      "Elongation occurs at both ends.",
+      "The plus end grows faster than the minus end."
+    ],
+    "terms": [
+      {
+        "term": "Nucleation",
+        "meaning": "Formation of the small initial cluster that can seed a filament."
+      },
+      {
+        "term": "Barbed end",
+        "meaning": "The faster-growing plus end of an actin filament."
+      },
+      {
+        "term": "Pointed end",
+        "meaning": "The slower-growing minus end of an actin filament."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "At which end of an actin filament is elongation usually faster?",
+      "options": [
+        "Plus or barbed end",
+        "Minus or pointed end",
+        "Both ends always grow equally",
+        "The filament has no ends"
+      ],
+      "answer": "Plus or barbed end",
+      "explanation": "Actin subunits are added more rapidly at the plus, also called barbed, end."
+    }
+  },
+  {
+    "page": 155,
+    "title": "From One Actin Subunit to a Filament",
+    "explain": "The slide contrasts one actin subunit with a long filament containing many subunits. Polymerization changes the scale and function of actin without changing the identity of the repeating building block.",
+    "mustKnow": [
+      "A filament is a polymer of many actin subunits.",
+      "The monomer-to-polymer change is G-actin to F-actin."
+    ],
+    "terms": [
+      {
+        "term": "Polymerization",
+        "meaning": "Joining many small subunits into a larger polymer."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What is the direct building block of an actin filament?",
+      "options": [
+        "G-actin",
+        "Myosin heavy chain",
+        "cAMP",
+        "Collagen"
+      ],
+      "answer": "G-actin",
+      "explanation": "Many G-actin monomers join to form F-actin."
+    }
+  },
+  {
+    "page": 156,
+    "title": "ATP Hydrolysis in Actin",
+    "explain": "Actin binds ATP and has ATPase activity. Polymerization changes actin's conformation and promotes ATP hydrolysis; ATP-actin adds to filaments more readily than ADP-actin, while ADP-actin is more likely to dissociate.",
+    "mustKnow": [
+      "Actin can hydrolyze ATP after entering a filament.",
+      "ATP-actin is favored for addition.",
+      "ADP-actin dissociates more readily than ATP-actin."
+    ],
+    "terms": [
+      {
+        "term": "ATPase",
+        "meaning": "An activity that hydrolyzes ATP to ADP and inorganic phosphate."
+      },
+      {
+        "term": "Inorganic phosphate",
+        "meaning": "The phosphate released after ATP hydrolysis, written Pi."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which actin form is added to a growing filament most efficiently?",
+      "options": [
+        "ATP-G-actin",
+        "ADP-G-actin",
+        "Actin with no nucleotide",
+        "Myosin-bound ADP"
+      ],
+      "answer": "ATP-G-actin",
+      "explanation": "The slide notes that ATP-bound G-actin has a higher rate of addition than ADP-bound G-actin."
+    }
+  },
+  {
+    "page": 157,
+    "title": "Steady State and Treadmilling",
+    "explain": "At steady state, total F-actin mass can remain constant even while subunits move through the filament. Addition at the plus end and loss at the minus end create treadmilling, a directional flux of actin subunits.",
+    "mustKnow": [
+      "Steady state does not mean the filament is inactive.",
+      "Treadmilling combines plus-end addition with minus-end loss.",
+      "Critical concentration separates net polymerization from net depolymerization."
+    ],
+    "terms": [
+      {
+        "term": "Treadmilling",
+        "meaning": "Subunit addition at one end and loss at the other with little net mass change."
+      },
+      {
+        "term": "Critical concentration",
+        "meaning": "The free actin concentration at which addition and loss balance."
+      },
+      {
+        "term": "Steady state",
+        "meaning": "A state with no net change in total filament mass despite ongoing exchange."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which event best describes actin treadmilling?",
+      "options": [
+        "Addition at the plus end and loss at the minus end",
+        "Loss at both ends with no addition",
+        "Addition only at the minus end",
+        "Permanent locking of every subunit"
+      ],
+      "answer": "Addition at the plus end and loss at the minus end",
+      "explanation": "That opposite-end exchange produces subunit flux while total filament mass may stay nearly constant."
+    }
+  },
+  {
+    "page": 158,
+    "title": "Sarcomere Organization",
+    "explain": "A sarcomere runs from one Z line to the next. Thin actin filaments extend inward from the Z lines, while thick myosin filaments are centered around the M line; their overlap produces the banded appearance of muscle.",
+    "mustKnow": [
+      "A sarcomere is bounded by two Z lines.",
+      "Actin is the thin filament; myosin is the thick filament.",
+      "The M line lies at the center of the sarcomere."
+    ],
+    "terms": [
+      {
+        "term": "Sarcomere",
+        "meaning": "The repeating contractile unit of striated muscle."
+      },
+      {
+        "term": "Z line",
+        "meaning": "The boundary where thin filaments are anchored."
+      },
+      {
+        "term": "M line",
+        "meaning": "The central region associated with thick filaments."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which pair marks the two boundaries of one sarcomere?",
+      "options": [
+        "Two Z lines",
+        "Two M lines",
+        "One Z line and one H zone",
+        "Two actin monomers"
+      ],
+      "answer": "Two Z lines",
+      "explanation": "One sarcomere extends from a Z line to the next Z line."
+    }
+  },
+  {
+    "page": 159,
+    "title": "Myosin Structure",
+    "explain": "Myosin contains two heavy chains plus essential and regulatory light chains. Each heavy chain has a head that binds actin and ATP, a neck associated with light chains, and a coiled-coil tail that supports dimerization and cargo or filament interactions.",
+    "mustKnow": [
+      "The myosin head binds both actin and ATP.",
+      "The neck carries light chains.",
+      "The tail is a dimeric coiled-coil."
+    ],
+    "terms": [
+      {
+        "term": "Motor domain",
+        "meaning": "The myosin head region that binds actin and hydrolyzes ATP."
+      },
+      {
+        "term": "Light chain",
+        "meaning": "A smaller protein associated with the myosin neck."
+      },
+      {
+        "term": "Coiled-coil",
+        "meaning": "A rope-like structure formed by intertwined alpha helices."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Where are the actin-binding and ATP-binding sites located in myosin?",
+      "options": [
+        "Head domain",
+        "Tail tip only",
+        "Regulatory light chain only",
+        "Actin filament"
+      ],
+      "answer": "Head domain",
+      "explanation": "The myosin head is the motor domain and contains both binding sites."
+    }
+  },
+  {
+    "page": 160,
+    "title": "Myosin Movement Video Resource",
+    "explain": "This slide points to an animation of myosin action. The exam-relevant idea is that repeated ATP-linked changes in the myosin head produce attachment, force generation, release, and resetting on actin.",
+    "mustKnow": [
+      "Myosin movement is cyclic rather than a single permanent pull.",
+      "ATP controls changes in actin-myosin binding and motor conformation."
+    ],
+    "terms": [
+      {
+        "term": "Cross-bridge cycle",
+        "meaning": "The repeating sequence of myosin attachment, force generation, detachment, and reset."
+      }
+    ],
+    "interaction": {
+      "type": "tap",
+      "label": "Tap after identifying ATP as the energy source for the myosin cycle."
+    }
+  },
+  {
+    "page": 161,
+    "title": "Fluorescent Tracking of Myosin and Actin",
+    "explain": "The microscopy frame labels myosin-II in green and actin in blue. Fluorescent tags let researchers distinguish two molecular components and follow where they are over time inside a sample.",
+    "mustKnow": [
+      "Different fluorescent colors can label different proteins.",
+      "The image links myosin distribution with the actin network."
+    ],
+    "terms": [
+      {
+        "term": "Fluorescent tag",
+        "meaning": "A light-emitting label used to locate a molecule in an image."
+      },
+      {
+        "term": "HaloTag",
+        "meaning": "A protein-tagging system that can be linked to fluorescent dyes."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Why are myosin and actin shown in different colors?",
+      "options": [
+        "To distinguish their locations",
+        "To prove they have different DNA sequences",
+        "To measure blood pressure",
+        "To convert actin into myosin"
+      ],
+      "answer": "To distinguish their locations",
+      "explanation": "Separate fluorescent labels make the two protein systems visually distinguishable."
+    }
+  },
+  {
+    "page": 162,
+    "title": "Arthur Ashkin and Optical Tweezers",
+    "explain": "Arthur Ashkin showed that one tightly focused laser beam can trap a dielectric particle in three dimensions. The method uses light-generated forces to hold and manipulate microscopic objects.",
+    "mustKnow": [
+      "Arthur Ashkin is associated with optical tweezers.",
+      "A tightly focused laser can trap a dielectric particle in 3D."
+    ],
+    "terms": [
+      {
+        "term": "Optical tweezers",
+        "meaning": "A focused-laser method for trapping and moving microscopic particles."
+      },
+      {
+        "term": "Dielectric particle",
+        "meaning": "A nonconducting particle that can be polarized by an electric field."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What is used to trap a microscopic dielectric bead in optical tweezers?",
+      "options": [
+        "A tightly focused laser beam",
+        "A magnetic chromosome",
+        "An electric motor",
+        "A centrifuge rotor"
+      ],
+      "answer": "A tightly focused laser beam",
+      "explanation": "The optical trap is created by the forces from a focused laser beam."
+    }
+  },
+  {
+    "page": 163,
+    "title": "Gaussian Beam and Scattering Force",
+    "explain": "The laser is brightest at the center and weaker toward the edges, giving a Gaussian intensity profile. A bead refracts and scatters the light, and the scattering force increases with optical intensity.",
+    "mustKnow": [
+      "A Gaussian beam has maximum intensity at its center.",
+      "The bead changes the direction of incident light.",
+      "Scattering force is proportional to optical intensity."
+    ],
+    "terms": [
+      {
+        "term": "Gaussian intensity profile",
+        "meaning": "A beam profile that is brightest at the center and fades toward the edges."
+      },
+      {
+        "term": "Scattering force",
+        "meaning": "A light-driven force generally directed along beam propagation."
+      },
+      {
+        "term": "Refraction",
+        "meaning": "Bending of light as it passes between materials."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Where is the optical intensity highest in the Gaussian laser profile shown?",
+      "options": [
+        "At the center",
+        "At both outer edges only",
+        "Uniformly everywhere",
+        "Behind the detector"
+      ],
+      "answer": "At the center",
+      "explanation": "The Gaussian profile is brightest at the center of the beam."
+    }
+  },
+  {
+    "page": 164,
+    "title": "Light Momentum Produces Force",
+    "explain": "Light carries momentum. When a bead bends light by refraction or reflection, the light's momentum changes; conservation of momentum gives the bead an equal and opposite momentum change, which appears as force.",
+    "mustKnow": [
+      "Light carries momentum.",
+      "Changing light direction changes light momentum.",
+      "The bead experiences an equal and opposite momentum change."
+    ],
+    "terms": [
+      {
+        "term": "Conservation of momentum",
+        "meaning": "Total momentum is conserved, so a change in light momentum is balanced by the object."
+      },
+      {
+        "term": "Radiation pressure",
+        "meaning": "Pressure or force caused by transfer of light momentum."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Why does bending a light ray exert force on a bead?",
+      "options": [
+        "The light's momentum changes",
+        "The bead creates ATP",
+        "The bead becomes a receptor",
+        "The light loses all energy instantly"
+      ],
+      "answer": "The light's momentum changes",
+      "explanation": "Conservation of momentum requires an equal and opposite momentum change in the bead."
+    }
+  },
+  {
+    "page": 165,
+    "title": "Gradient and Scattering Forces in an Optical Trap",
+    "explain": "Scattering force pushes mainly along the incident beam. Gradient force points toward the high-intensity beam center and acts as a restoring force; displacement of a trapped bead can therefore report the force applied by a molecular motor.",
+    "mustKnow": [
+      "Gradient force pulls the bead toward the beam center.",
+      "Scattering force points mainly along beam propagation.",
+      "Optical traps measure piconewton forces and nanometer displacements."
+    ],
+    "terms": [
+      {
+        "term": "Gradient force",
+        "meaning": "The restoring optical force directed toward the highest-intensity region."
+      },
+      {
+        "term": "Piconewton",
+        "meaning": "A force unit equal to 10^-12 newton."
+      },
+      {
+        "term": "Nanometer",
+        "meaning": "A length unit equal to 10^-9 meter."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which optical force pulls a displaced bead back toward the center of the laser beam?",
+      "options": [
+        "Gradient force",
+        "Gravitational force",
+        "Nuclear force",
+        "Actin depolymerization"
+      ],
+      "answer": "Gradient force",
+      "explanation": "The intensity gradient creates a restoring force toward the bright beam center."
+    }
+  },
+  {
+    "page": 166,
+    "title": "Optical Trap as a Spring",
+    "explain": "Near its center, an optical trap behaves like a spring: force is proportional to bead displacement. Hooke's law, F = -kx, lets displacement become a force measurement once trap stiffness k is known.",
+    "mustKnow": [
+      "An optical trap can be calibrated like a spring.",
+      "Force magnitude equals stiffness times displacement.",
+      "The minus sign indicates restoring force."
+    ],
+    "terms": [
+      {
+        "term": "Hooke's law",
+        "meaning": "The relation F = -kx for a linear restoring force."
+      },
+      {
+        "term": "Trap stiffness",
+        "meaning": "The proportionality constant k between displacement and restoring force."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "If bead displacement doubles while trap stiffness stays fixed, what happens to force magnitude?",
+      "options": [
+        "It doubles",
+        "It halves",
+        "It becomes zero",
+        "It is unchanged"
+      ],
+      "answer": "It doubles",
+      "explanation": "From F = kx in magnitude, force is directly proportional to displacement."
+    }
+  },
+  {
+    "page": 167,
+    "title": "Measuring Single-Myosin Mechanics",
+    "explain": "The slide introduces an optical-tweezers experiment designed to detect piconewton forces and nanometer steps from individual myosin molecules. The apparatus converts tiny bead movements into quantitative motor measurements.",
+    "mustKnow": [
+      "Single-molecule experiments resolve individual motor events.",
+      "Relevant scales are piconewtons for force and nanometers for displacement."
+    ],
+    "terms": [
+      {
+        "term": "Single-molecule mechanics",
+        "meaning": "Measurement of movement and force from individual molecules rather than a bulk average."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What two quantities does the myosin optical-tweezers experiment directly target?",
+      "options": [
+        "Force and displacement",
+        "DNA sequence and pH",
+        "Blood pressure and temperature",
+        "Protein color and taste"
+      ],
+      "answer": "Force and displacement",
+      "explanation": "The experiment measures piconewton forces and nanometer-scale steps."
+    }
+  },
+  {
+    "page": 168,
+    "title": "Dual-Beam Optical Trap",
+    "explain": "An actin filament is held taut between two trapped beads and lowered onto a pedestal bead carrying sparse myosin. When myosin binds and pulls actin, the trapped beads move, revealing stroke size, attachment time, and force.",
+    "mustKnow": [
+      "The two trapped beads hold the actin filament.",
+      "Myosin is placed on a separate pedestal bead.",
+      "Bead displacement reports myosin activity."
+    ],
+    "terms": [
+      {
+        "term": "Working stroke",
+        "meaning": "The force-producing movement made by a motor protein."
+      },
+      {
+        "term": "Attachment lifetime",
+        "meaning": "How long the motor remains bound during one interaction."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What causes the trapped beads to move in this experiment?",
+      "options": [
+        "Myosin binding to and pulling the actin filament",
+        "DNA replication inside the beads",
+        "cAMP leaving the cell",
+        "Actin turning into a laser"
+      ],
+      "answer": "Myosin binding to and pulling the actin filament",
+      "explanation": "The bead displacement is the readout of the myosin working stroke on actin."
+    }
+  },
+  {
+    "page": 169,
+    "title": "Single-Myosin Experimental Setup",
+    "explain": "The actin filament is stretched between two optically trapped beads to about 2 pN and positioned near a sparsely myosin-coated support. A quadrant photodiode tracks bead position with high resolution, allowing brief motor events to be detected.",
+    "mustKnow": [
+      "Sparse myosin coating helps isolate one or a few motors.",
+      "The actin filament is held under about 2 pN tension.",
+      "A quadrant photodiode detects bead position."
+    ],
+    "terms": [
+      {
+        "term": "Heavy meromyosin",
+        "meaning": "A myosin fragment containing the motor heads and part of the tail."
+      },
+      {
+        "term": "Quadrant photodiode",
+        "meaning": "A detector that measures small changes in the position of a light image."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Why is myosin placed sparsely on the support bead?",
+      "options": [
+        "To observe interactions from one or a few motors",
+        "To make the laser brighter",
+        "To polymerize DNA",
+        "To eliminate actin"
+      ],
+      "answer": "To observe interactions from one or a few motors",
+      "explanation": "Low motor density reduces overlapping events from many myosin molecules."
+    }
+  },
+  {
+    "page": 170,
+    "title": "Myosin Step Traces",
+    "explain": "The upper trace records bead motion parallel to the actin filament and the lower trace records perpendicular motion. The detected displacement is close to 11 nm at both low and high ATP concentrations, supporting a characteristic myosin stroke size.",
+    "mustKnow": [
+      "The productive displacement is measured along the actin filament.",
+      "The observed step is about 11 nm.",
+      "Step distance is similar at low and high ATP in the shown traces."
+    ],
+    "terms": [
+      {
+        "term": "Displacement trace",
+        "meaning": "A graph showing measured position as a function of time."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What approximate displacement is highlighted for the myosin event?",
+      "options": [
+        "11 nm",
+        "11 mm",
+        "2 m",
+        "100 micrometers"
+      ],
+      "answer": "11 nm",
+      "explanation": "The slide states that the bead moves close to 11 nm at both ATP concentrations."
+    }
+  },
+  {
+    "page": 171,
+    "title": "Distribution of Myosin Displacements",
+    "explain": "The histogram collects many single-motor displacement events instead of relying on one trace. Most events cluster around roughly 10 to 13 nm, while biological and measurement variation spreads the values.",
+    "mustKnow": [
+      "A histogram shows how frequently each displacement range occurred.",
+      "The main cluster is around the approximately 11 nm working stroke."
+    ],
+    "terms": [
+      {
+        "term": "Histogram",
+        "meaning": "A plot that groups measurements into ranges and counts their frequency."
+      },
+      {
+        "term": "Distribution",
+        "meaning": "The pattern of values observed across repeated measurements."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Near which distance does the displacement histogram show its main cluster?",
+      "options": [
+        "About 10 to 13 nm",
+        "About 100 to 130 nm",
+        "About 1 to 2 micrometers",
+        "Exactly 0 nm"
+      ],
+      "answer": "About 10 to 13 nm",
+      "explanation": "The tallest part of the displayed distribution lies around the known approximately 11 nm displacement."
+    }
+  },
+  {
+    "page": 172,
+    "title": "Force from a Single Myosin Motor",
+    "explain": "The force histogram shows repeated single-motor measurements in piconewtons. Most events lie around 2 to 5 pN, with the highest frequency near 3 pN.",
+    "mustKnow": [
+      "Single myosin forces are in the piconewton range.",
+      "The displayed distribution peaks near 3 pN.",
+      "Repeated events vary rather than giving one identical value."
+    ],
+    "terms": [
+      {
+        "term": "Force distribution",
+        "meaning": "The frequency pattern of force values from repeated motor events."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Near which value is the displayed myosin force distribution highest?",
+      "options": [
+        "3 pN",
+        "3 N",
+        "30 mN",
+        "300 pN"
+      ],
+      "answer": "3 pN",
+      "explanation": "The tallest histogram bin is centered close to 3 piconewtons."
+    }
+  },
+  {
+    "page": 173,
+    "title": "Bacteria-Powered 3D Micromotors",
+    "explain": "The slide presents fabricated micromotor structures whose motion is powered by bacteria and controlled using light. It is an example of coupling living biological motors to engineered microscale devices.",
+    "mustKnow": [
+      "Bacteria can provide propulsion for engineered micromotors.",
+      "Light is used to control the system.",
+      "The device scale is micrometers."
+    ],
+    "terms": [
+      {
+        "term": "Micromotor",
+        "meaning": "A motor-like device built at micrometer scale."
+      },
+      {
+        "term": "Biohybrid",
+        "meaning": "A system combining biological components with engineered material."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What supplies the biological power in the micromotor example?",
+      "options": [
+        "Bacteria",
+        "Actin monomers alone",
+        "Red blood cells",
+        "DNA polymerase"
+      ],
+      "answer": "Bacteria",
+      "explanation": "The slide title explicitly identifies the 3D micromotors as powered by bacteria."
+    }
+  },
+  {
+    "page": 174,
+    "title": "Array of Bacterial Micromotors",
+    "explain": "The microscopy image shows repeated gear-like micromotor structures surrounded by bacteria. It demonstrates that the biohybrid design can be fabricated as multiple microscale units rather than only one device.",
+    "mustKnow": [
+      "The repeated structures are microscale engineered devices.",
+      "Bacteria around the structures are part of the propulsion system."
+    ],
+    "terms": [
+      {
+        "term": "Microscopy array",
+        "meaning": "A field containing multiple repeated small structures viewed by microscopy."
+      }
+    ],
+    "interaction": {
+      "type": "tap",
+      "label": "Tap after identifying the repeated gear-like micromotor units."
+    }
+  },
+  {
+    "page": 175,
+    "title": "Bacterial Flagella",
+    "explain": "The slide introduces bacterial flagella as rotary motility structures. A flagellar motor rotates the helical flagellum, allowing a bacterium to move through liquid.",
+    "mustKnow": [
+      "Bacterial flagella generate swimming motion by rotation.",
+      "The bacterial flagellar motor is a rotary biological motor."
+    ],
+    "terms": [
+      {
+        "term": "Flagellum",
+        "meaning": "A long helical appendage used for bacterial swimming."
+      },
+      {
+        "term": "Flagellar motor",
+        "meaning": "The membrane-associated rotary motor that turns a bacterial flagellum."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What type of motion drives a bacterial flagellum?",
+      "options": [
+        "Rotation",
+        "DNA transcription",
+        "Actin treadmilling",
+        "Passive diffusion only"
+      ],
+      "answer": "Rotation",
+      "explanation": "The bacterial flagellar motor rotates the flagellum to propel the cell."
+    }
+  },
+  {
+    "page": 176,
+    "title": "Biological Motors Reference",
+    "explain": "The lecture cites Molecular Biology of the Cell by Bruce Alberts as its reference text. This page contains source information rather than a new mechanism.",
+    "mustKnow": [
+      "The cited reference is Molecular Biology of the Cell, 5th edition."
+    ],
+    "terms": [],
+    "interaction": {
+      "type": "tap",
+      "label": "Tap to mark the Biological Motors section complete."
+    }
+  },
+  {
+    "page": 177,
+    "title": "Cellular Signaling",
+    "explain": "This begins the cellular signaling lecture. The central topic is how cells detect information, process it internally, and produce an appropriate response.",
+    "mustKnow": [
+      "Cell signaling links detection of a signal to a cellular response."
+    ],
+    "terms": [
+      {
+        "term": "Cellular signaling",
+        "meaning": "Communication processes by which cells detect and respond to information."
+      }
+    ],
+    "interaction": {
+      "type": "tap",
+      "label": "Tap to begin Cellular Signaling."
+    }
+  },
+  {
+    "page": 178,
+    "title": "Perceiving the Environment",
+    "explain": "The examples emphasize that living systems detect external cues and direct movement or behavior in response. At cell level, receptors perform the sensing and signaling pathways organize the response.",
+    "mustKnow": [
+      "Environmental information must first be detected.",
+      "Sensing is followed by a directed response."
+    ],
+    "terms": [
+      {
+        "term": "Chemotaxis",
+        "meaning": "Directed cell movement in response to a chemical gradient."
+      },
+      {
+        "term": "Phagocytosis",
+        "meaning": "Engulfment of a particle by a cell."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What does chemotaxis describe?",
+      "options": [
+        "Directed movement in response to a chemical cue",
+        "Random DNA mutation",
+        "ATP synthesis in mitochondria",
+        "Breakdown of actin by light"
+      ],
+      "answer": "Directed movement in response to a chemical cue",
+      "explanation": "Chemotaxis converts chemical information into directional movement."
+    }
+  },
+  {
+    "page": 179,
+    "title": "Why Cells Need Signaling",
+    "explain": "Cells must detect changes around them and respond. Because a cell may receive several signals at once, it must process and integrate them into one coordinated action plan.",
+    "mustKnow": [
+      "Cells sense environmental change.",
+      "Cells can receive multiple signals simultaneously.",
+      "Signal information is integrated into a response."
+    ],
+    "terms": [
+      {
+        "term": "Signal integration",
+        "meaning": "Combining multiple inputs to determine one cellular response."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Why must cells integrate signals?",
+      "options": [
+        "They often receive multiple inputs at once",
+        "Every signal always produces the same response",
+        "Receptors cannot bind ligands",
+        "Only dead cells receive signals"
+      ],
+      "answer": "They often receive multiple inputs at once",
+      "explanation": "Integration lets the cell turn several inputs into a unified action."
+    }
+  },
+  {
+    "page": 180,
+    "title": "Core Features of Cell Signaling",
+    "explain": "Signals can operate over short or long distances, and cells respond only if they have the right receptor and state. Lipid-soluble signals may cross the membrane to intracellular receptors, while many other signals use cell-surface receptors and internal relay pathways.",
+    "mustKnow": [
+      "Only target cells with suitable receptors respond.",
+      "Responses may be rapid or slow.",
+      "Some hormones use intracellular receptors; others use cell-surface receptors."
+    ],
+    "terms": [
+      {
+        "term": "Target cell",
+        "meaning": "A cell able to respond because it has the appropriate receptor and machinery."
+      },
+      {
+        "term": "Intracellular receptor",
+        "meaning": "A receptor located inside the cell."
+      },
+      {
+        "term": "Cell-surface receptor",
+        "meaning": "A membrane receptor that detects an extracellular signal."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What most directly determines whether a cell can detect a particular signal?",
+      "options": [
+        "Presence of the appropriate receptor",
+        "Its physical size alone",
+        "Its distance from the nucleus only",
+        "The number of ribosomes only"
+      ],
+      "answer": "Presence of the appropriate receptor",
+      "explanation": "A cell can respond only to signals for which it has a suitable receptor and response system."
+    }
+  },
+  {
+    "page": 181,
+    "title": "Chemical Types of Signals",
+    "explain": "Cell signals have many chemical forms: amino-acid derivatives, gases, steroids, peptides or proteins, and surface-bound molecules. Their chemistry influences how they travel and whether they can cross the plasma membrane.",
+    "mustKnow": [
+      "NO and CO are gaseous signals.",
+      "Steroid hormones are derived from cholesterol.",
+      "Many peptide and protein signals act outside the cell through receptors."
+    ],
+    "terms": [
+      {
+        "term": "Steroid hormone",
+        "meaning": "A cholesterol-derived signal that can often cross the plasma membrane."
+      },
+      {
+        "term": "Neurotransmitter",
+        "meaning": "A signal released by a neuron to act on another cell."
+      },
+      {
+        "term": "Antigen receptor",
+        "meaning": "A B-cell or T-cell receptor that recognizes foreign antigen."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which class of signal is derived from cholesterol?",
+      "options": [
+        "Steroid hormones",
+        "Gases",
+        "Bacterial flagella",
+        "Actin filaments"
+      ],
+      "answer": "Steroid hormones",
+      "explanation": "Steroids are cholesterol-derived signaling molecules."
+    }
+  },
+  {
+    "page": 182,
+    "title": "Autocrine and Paracrine Signaling",
+    "explain": "In autocrine signaling, the producing cell also responds to its own messenger. In paracrine signaling, the messenger travels a short distance to nearby target cells; PDGF released during wound repair is the slide's example.",
+    "mustKnow": [
+      "Autocrine means self-signaling.",
+      "Paracrine means local signaling to nearby cells.",
+      "PDGF is a paracrine wound-repair example."
+    ],
+    "terms": [
+      {
+        "term": "Autocrine",
+        "meaning": "A signaling mode in which a cell responds to its own secreted signal."
+      },
+      {
+        "term": "Paracrine",
+        "meaning": "Short-range signaling to nearby cells."
+      },
+      {
+        "term": "PDGF",
+        "meaning": "Platelet-derived growth factor, a local signal involved in repair."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "A cancer cell secretes a growth factor and also responds to it. What type of signaling is this?",
+      "options": [
+        "Autocrine",
+        "Paracrine",
+        "Endocrine",
+        "Juxtacrine"
+      ],
+      "answer": "Autocrine",
+      "explanation": "The producing cell itself responds to the messenger in autocrine signaling."
+    }
+  },
+  {
+    "page": 183,
+    "title": "Juxtacrine and Endocrine Signaling",
+    "explain": "Juxtacrine signaling requires direct contact between surface molecules on neighboring cells. Endocrine hormones enter the bloodstream and act at distant targets; insulin released by pancreatic beta cells is the slide's example.",
+    "mustKnow": [
+      "Juxtacrine signaling is contact-dependent.",
+      "Endocrine signaling uses the bloodstream for long-range delivery.",
+      "Insulin is an endocrine hormone."
+    ],
+    "terms": [
+      {
+        "term": "Juxtacrine",
+        "meaning": "Direct contact-dependent signaling between neighboring cells."
+      },
+      {
+        "term": "Endocrine",
+        "meaning": "Long-range hormonal signaling through the bloodstream."
+      },
+      {
+        "term": "Contact inhibition",
+        "meaning": "Reduced cell growth or division when cells contact neighbors."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which signaling mode carries insulin through blood to distant target cells?",
+      "options": [
+        "Endocrine",
+        "Autocrine",
+        "Juxtacrine",
+        "Treadmilling"
+      ],
+      "answer": "Endocrine",
+      "explanation": "Endocrine hormones travel in the bloodstream to distant targets."
+    }
+  },
+  {
+    "page": 184,
+    "title": "Examples of Hormone Signals",
+    "explain": "The table links each hormone to its origin, chemical nature, and action. High-yield pairs include adrenal epinephrine, adrenal cortisol, pancreatic alpha-cell glucagon, pancreatic beta-cell insulin, and thyroid-gland thyroxine.",
+    "mustKnow": [
+      "Epinephrine and cortisol originate in the adrenal gland.",
+      "Glucagon comes from pancreatic alpha cells; insulin from beta cells.",
+      "Cortisol, estradiol, and testosterone are steroids."
+    ],
+    "terms": [
+      {
+        "term": "Glucagon",
+        "meaning": "A pancreatic alpha-cell peptide hormone that promotes fuel mobilization."
+      },
+      {
+        "term": "Insulin",
+        "meaning": "A pancreatic beta-cell protein hormone that promotes glucose uptake and synthesis."
+      },
+      {
+        "term": "Cortisol",
+        "meaning": "An adrenal steroid hormone that affects metabolism in many tissues."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which pairing is correct?",
+      "options": [
+        "Insulin - pancreatic beta cells",
+        "Glucagon - pancreatic beta cells",
+        "Cortisol - thyroid gland",
+        "Testosterone - adrenal alpha cells"
+      ],
+      "answer": "Insulin - pancreatic beta cells",
+      "explanation": "The table lists insulin as a protein hormone produced by pancreatic beta cells."
+    }
+  },
+  {
+    "page": 185,
+    "title": "Local, Neural, and Contact Signals",
+    "explain": "The table contrasts local mediators, neurotransmitters, and contact-dependent signals. EGF and PDGF promote proliferation, NGF supports neurons, TGF-beta inhibits proliferation, histamine promotes inflammatory vessel changes, and GABA is inhibitory in the central nervous system.",
+    "mustKnow": [
+      "EGF and PDGF stimulate proliferation.",
+      "Histamine promotes vessel dilation and leakiness in inflammation.",
+      "GABA is an inhibitory neurotransmitter.",
+      "Delta is a contact-dependent transmembrane signal."
+    ],
+    "terms": [
+      {
+        "term": "EGF",
+        "meaning": "Epidermal growth factor, a protein signal that stimulates proliferation."
+      },
+      {
+        "term": "GABA",
+        "meaning": "An inhibitory neurotransmitter in the central nervous system."
+      },
+      {
+        "term": "Histamine",
+        "meaning": "A mast-cell signal that promotes blood-vessel dilation and leakiness."
+      },
+      {
+        "term": "Delta",
+        "meaning": "A membrane-bound contact-dependent signal."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which signal in the table is an inhibitory neurotransmitter in the central nervous system?",
+      "options": [
+        "GABA",
+        "EGF",
+        "PDGF",
+        "Histamine"
+      ],
+      "answer": "GABA",
+      "explanation": "The table identifies gamma-aminobutyric acid, or GABA, as inhibitory in the central nervous system."
+    }
+  },
+  {
+    "page": 186,
+    "title": "Signal Processing Architecture",
+    "explain": "Cell signaling can be viewed as an engineering chain: sensor, information processing, and response. Useful pathway properties include specificity, cascades, amplification, feedback, and integration.",
+    "mustKnow": [
+      "The basic sequence is sensor to processing to response.",
+      "Amplification increases signal output.",
+      "Feedback modifies pathway activity.",
+      "Integration combines inputs."
+    ],
+    "terms": [
+      {
+        "term": "Specificity",
+        "meaning": "Selective recognition of particular signals and targets."
+      },
+      {
+        "term": "Amplification",
+        "meaning": "Production of a larger downstream response from a smaller initial input."
+      },
+      {
+        "term": "Feedback",
+        "meaning": "A downstream effect that changes earlier pathway activity."
+      },
+      {
+        "term": "Cascade",
+        "meaning": "A sequence in which one activated component activates the next."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which order best represents the signaling system shown?",
+      "options": [
+        "Sensor - information processing - response",
+        "Response - sensor - DNA replication",
+        "Amplification - receptor - ligand synthesis",
+        "Nucleus - actin - bloodstream"
+      ],
+      "answer": "Sensor - information processing - response",
+      "explanation": "A receptor or sensor detects input, the pathway processes it, and the cell produces an action."
+    }
+  },
+  {
+    "page": 187,
+    "title": "Signaling Pathways Form Networks",
+    "explain": "The waterfall analogy and pathway map show that signals pass through multiple connected components rather than one isolated switch. Different receptors can converge on shared proteins, and one pathway can branch toward several outputs.",
+    "mustKnow": [
+      "Signaling often proceeds as a multistep cascade.",
+      "Different receptor inputs can converge.",
+      "One signal can branch into multiple responses."
+    ],
+    "terms": [
+      {
+        "term": "Convergence",
+        "meaning": "Different upstream signals meeting at a shared pathway component."
+      },
+      {
+        "term": "Divergence",
+        "meaning": "One upstream signal branching toward multiple downstream effects."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What does pathway convergence mean?",
+      "options": [
+        "Different inputs activate a shared downstream component",
+        "One receptor is removed from the membrane",
+        "Every signal remains completely separate",
+        "A motor walks along actin"
+      ],
+      "answer": "Different inputs activate a shared downstream component",
+      "explanation": "The network image shows several receptor systems feeding into common intracellular nodes."
+    }
+  },
+  {
+    "page": 188,
+    "title": "Nuclear Receptor Signaling",
+    "explain": "Cortisol diffuses through the lipid bilayer and binds an intracellular glucocorticoid receptor. The activated receptor moves to the nucleus, binds target DNA, and changes transcription, leading to synthesis of specific proteins.",
+    "mustKnow": [
+      "Cortisol can cross the plasma membrane.",
+      "Its receptor is intracellular.",
+      "The hormone-receptor complex regulates gene transcription.",
+      "This response requires new protein synthesis."
+    ],
+    "terms": [
+      {
+        "term": "Glucocorticoid receptor",
+        "meaning": "An intracellular receptor activated by glucocorticoid hormones such as cortisol."
+      },
+      {
+        "term": "Transcription",
+        "meaning": "Production of RNA from a DNA template."
+      },
+      {
+        "term": "Nuclear receptor",
+        "meaning": "An intracellular receptor that directly regulates gene expression."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What happens after cortisol binds its intracellular receptor?",
+      "options": [
+        "The complex regulates transcription in the nucleus",
+        "The receptor becomes an actin filament",
+        "The hormone is pumped into blood",
+        "A bacterial flagellum rotates"
+      ],
+      "answer": "The complex regulates transcription in the nucleus",
+      "explanation": "Activated glucocorticoid receptor translocates to the nucleus and activates target genes."
+    }
+  },
+  {
+    "page": 189,
+    "title": "Major Membrane Receptor Classes",
+    "explain": "The lecture lists three major cell-surface receptor types: G protein-coupled receptors, receptor tyrosine kinases, and ion channels. All detect extracellular information but use different mechanisms to transmit it across the membrane.",
+    "mustKnow": [
+      "GPCRs activate G proteins.",
+      "Receptor tyrosine kinases use regulated phosphorylation.",
+      "Ligand-gated ion channels control ion flow."
+    ],
+    "terms": [
+      {
+        "term": "GPCR",
+        "meaning": "A seven-pass membrane receptor that activates a G protein."
+      },
+      {
+        "term": "Receptor tyrosine kinase",
+        "meaning": "A receptor whose cytosolic kinase activity phosphorylates tyrosines."
+      },
+      {
+        "term": "Ion channel receptor",
+        "meaning": "A receptor that changes ion flow across the membrane."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which option is NOT one of the three membrane receptor classes listed?",
+      "options": [
+        "Nuclear ribosome receptor",
+        "G protein-coupled receptor",
+        "Receptor tyrosine kinase",
+        "Ion channel"
+      ],
+      "answer": "Nuclear ribosome receptor",
+      "explanation": "The listed classes are GPCRs, receptor tyrosine kinases, and ion channels."
+    }
+  },
+  {
+    "page": 190,
+    "title": "GPCR Examples and Outputs",
+    "explain": "GPCRs mediate many physiological responses. The table links signals such as epinephrine, serotonin, light, odorants, fMet peptides, and acetylcholine to specific GPCRs, effectors, and outcomes.",
+    "mustKnow": [
+      "One receptor family can control many different physiological processes.",
+      "GPCR specificity comes from the receptor, G protein, effector, and cell context.",
+      "Rhodopsin is the light-detecting GPCR example."
+    ],
+    "terms": [
+      {
+        "term": "Rhodopsin",
+        "meaning": "A light-sensitive GPCR involved in visual excitation."
+      },
+      {
+        "term": "Effector",
+        "meaning": "A downstream enzyme or channel directly regulated by an activated G protein."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which GPCR is associated with detection of light?",
+      "options": [
+        "Rhodopsin",
+        "Insulin receptor",
+        "Glucocorticoid receptor",
+        "Actin"
+      ],
+      "answer": "Rhodopsin",
+      "explanation": "The table pairs light with rhodopsin and visual excitation."
+    }
+  },
+  {
+    "page": 191,
+    "title": "GPCRs Activate Trimeric G Proteins",
+    "explain": "GPCRs contain seven membrane-spanning helices. Ligand binding changes receptor shape, allowing it to activate a heterotrimeric G protein, which can then regulate an effector such as adenylyl cyclase.",
+    "mustKnow": [
+      "GPCRs have seven transmembrane helices.",
+      "They interact with a trimeric G protein.",
+      "Adenylyl cyclase is a common downstream effector."
+    ],
+    "terms": [
+      {
+        "term": "Heterotrimeric G protein",
+        "meaning": "A GTP-binding signaling protein made of alpha, beta, and gamma subunits."
+      },
+      {
+        "term": "Adenylyl cyclase",
+        "meaning": "A membrane enzyme that produces cAMP from ATP."
+      },
+      {
+        "term": "Ligand",
+        "meaning": "A molecule that binds specifically to a receptor."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "How many membrane-spanning helices are characteristic of a GPCR?",
+      "options": [
+        "Seven",
+        "One",
+        "Two",
+        "Twenty"
+      ],
+      "answer": "Seven",
+      "explanation": "The seven-transmembrane architecture is the defining structural feature highlighted on the slide."
+    }
+  },
+  {
+    "page": 192,
+    "title": "Three-Dimensional GPCR Structure",
+    "explain": "The structural model shows a GPCR as a compact bundle of seven alpha helices crossing the membrane. A ligand approaching the receptor can stabilize a new conformation that is transmitted to the intracellular G-protein-binding side.",
+    "mustKnow": [
+      "The seven helices form one receptor bundle.",
+      "Ligand binding changes receptor conformation.",
+      "The conformational change connects outside binding to inside signaling."
+    ],
+    "terms": [
+      {
+        "term": "Conformational change",
+        "meaning": "A change in a protein's three-dimensional shape."
+      },
+      {
+        "term": "Transmembrane helix",
+        "meaning": "An alpha helix that passes through the lipid bilayer."
+      }
+    ],
+    "interaction": {
+      "type": "tap",
+      "label": "Tap after locating the seven-helix receptor bundle and the ligand above it."
+    }
+  },
+  {
+    "page": 193,
+    "title": "GPCR Activation, Amplification, and Attenuation",
+    "explain": "The diagram follows activation from ligand-bound receptor to G protein and effector. One active receptor can activate multiple G proteins, creating amplification; receptor phosphorylation and arrestin binding then stop further activation.",
+    "mustKnow": [
+      "A single active receptor can activate multiple G proteins.",
+      "This one-to-many step amplifies the signal.",
+      "Phosphorylation plus arrestin produces attenuation."
+    ],
+    "terms": [
+      {
+        "term": "Signal attenuation",
+        "meaning": "Reduction or termination of signaling strength."
+      },
+      {
+        "term": "Arrestin",
+        "meaning": "A protein that binds an active phosphorylated GPCR and blocks further G-protein activation."
+      },
+      {
+        "term": "GRK",
+        "meaning": "A GPCR kinase that phosphorylates an active receptor."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which event directly prevents a phosphorylated active GPCR from activating more G proteins?",
+      "options": [
+        "Arrestin binding",
+        "Actin polymerization",
+        "ATP production by myosin",
+        "Insulin entering the nucleus"
+      ],
+      "answer": "Arrestin binding",
+      "explanation": "Arrestin occupies the active phosphorylated receptor and blocks G-protein coupling."
+    }
+  },
+  {
+    "page": 194,
+    "title": "The GPCR-G Protein Cycle",
+    "explain": "Ligand-bound GPCR promotes GDP release and GTP binding on G alpha. G alpha-GTP activates an effector such as adenylyl cyclase, which produces cAMP; G alpha then hydrolyzes GTP, reassociates with beta-gamma, and signaling stops. GRK and arrestin further desensitize the receptor.",
+    "mustKnow": [
+      "GDP-to-GTP exchange activates G alpha.",
+      "Adenylyl cyclase produces cAMP.",
+      "GTP hydrolysis deactivates G alpha.",
+      "GRK phosphorylation and arrestin block the receptor."
+    ],
+    "terms": [
+      {
+        "term": "G alpha",
+        "meaning": "The nucleotide-binding G-protein subunit that regulates an effector."
+      },
+      {
+        "term": "GTPase activity",
+        "meaning": "Hydrolysis of bound GTP to GDP, switching G alpha off."
+      },
+      {
+        "term": "Desensitization",
+        "meaning": "Reduced receptor signaling despite continued ligand presence."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which nucleotide state corresponds to active G alpha?",
+      "options": [
+        "GTP-bound",
+        "GDP-bound",
+        "ATP-bound",
+        "No nucleotide under any condition"
+      ],
+      "answer": "GTP-bound",
+      "explanation": "GPCR activation replaces GDP with GTP, and G alpha-GTP activates the effector."
+    }
+  },
+  {
+    "page": 195,
+    "title": "AMP Compared with Cyclic AMP",
+    "explain": "Both molecules contain adenine, ribose, and phosphate. In cAMP, the phosphate forms a cyclic linkage on the ribose; this ring structure distinguishes the second messenger from ordinary AMP.",
+    "mustKnow": [
+      "cAMP is cyclic adenosine monophosphate.",
+      "Its phosphate forms a cyclic bond with ribose.",
+      "cAMP acts as an intracellular second messenger."
+    ],
+    "terms": [
+      {
+        "term": "cAMP",
+        "meaning": "Cyclic adenosine monophosphate, an intracellular second messenger."
+      },
+      {
+        "term": "AMP",
+        "meaning": "Adenosine monophosphate, a nucleotide with adenine, ribose, and one phosphate."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What structural feature distinguishes cAMP from ordinary AMP on the slide?",
+      "options": [
+        "A cyclic phosphate linkage",
+        "A second adenine base",
+        "A protein tail",
+        "Seven transmembrane helices"
+      ],
+      "answer": "A cyclic phosphate linkage",
+      "explanation": "The highlighted phosphate-ribose ring is the cyclic portion of cAMP."
+    }
+  },
+  {
+    "page": 196,
+    "title": "cAMP as an Amplifying Second Messenger",
+    "explain": "A first messenger such as serotonin binds a surface receptor, and the cell produces cAMP inside. cAMP diffuses to intracellular targets and can regulate several activities, allowing one extracellular stimulus to create a broad coordinated response.",
+    "mustKnow": [
+      "The ligand is the first messenger.",
+      "cAMP is an intracellular second messenger.",
+      "Second messengers amplify and distribute the signal."
+    ],
+    "terms": [
+      {
+        "term": "First messenger",
+        "meaning": "The extracellular ligand that binds a receptor."
+      },
+      {
+        "term": "Second messenger",
+        "meaning": "A small intracellular molecule generated or released after receptor activation."
+      },
+      {
+        "term": "Aplysia",
+        "meaning": "The sea hare whose neuron is shown in the cAMP imaging example."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "In the example, which molecule is the second messenger?",
+      "options": [
+        "cAMP",
+        "Serotonin outside the cell",
+        "The GPCR protein",
+        "Actin"
+      ],
+      "answer": "cAMP",
+      "explanation": "Serotonin is the extracellular first messenger, while cAMP carries the signal inside the cell."
+    }
+  },
+  {
+    "page": 197,
+    "title": "cAMP Cascade in a Liver Cell",
+    "explain": "Glucagon or epinephrine activates a GPCR, G protein, adenylyl cyclase, cAMP, and protein kinase A. The cascade promotes glycogen breakdown and glucose release, while another branch activates CREB to alter gene transcription.",
+    "mustKnow": [
+      "GPCR activation leads to cAMP and protein kinase A.",
+      "The pathway activates glycogen phosphorylase and inhibits glycogen synthase.",
+      "The metabolic output is glucose mobilization.",
+      "PKA can also activate the transcription factor CREB."
+    ],
+    "terms": [
+      {
+        "term": "Protein kinase A",
+        "meaning": "A cAMP-activated kinase that phosphorylates downstream proteins."
+      },
+      {
+        "term": "Glycogen phosphorylase",
+        "meaning": "An enzyme that promotes glycogen breakdown."
+      },
+      {
+        "term": "CREB",
+        "meaning": "A transcription factor activated by phosphorylation in the cAMP pathway."
+      },
+      {
+        "term": "Phosphodiesterase",
+        "meaning": "An enzyme that converts cAMP to AMP and helps terminate the signal."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which kinase is directly activated downstream of cAMP in this cascade?",
+      "options": [
+        "Protein kinase A",
+        "Myosin light-chain kinase only",
+        "DNA polymerase",
+        "Adenylyl cyclase"
+      ],
+      "answer": "Protein kinase A",
+      "explanation": "cAMP activates protein kinase A, which phosphorylates metabolic enzymes and CREB."
+    }
+  },
+  {
+    "page": 198,
+    "title": "GPCR Signal Attenuation",
+    "explain": "GRKs phosphorylate an active GPCR, creating a high-affinity site for arrestin. Arrestin and G proteins compete for the same cytoplasmic receptor cavity, so arrestin binding prevents additional G-protein activation and can promote receptor internalization.",
+    "mustKnow": [
+      "GRKs phosphorylate active GPCRs.",
+      "Arrestin selectively binds the active phosphorylated receptor.",
+      "Arrestin blocks G-protein coupling.",
+      "Attenuation prevents unlimited signaling."
+    ],
+    "terms": [
+      {
+        "term": "Receptor internalization",
+        "meaning": "Removal of a receptor from the cell surface into an intracellular vesicle."
+      },
+      {
+        "term": "Competition",
+        "meaning": "Mutually exclusive binding of G protein or arrestin to the same receptor region."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Why can arrestin binding attenuate GPCR signaling?",
+      "options": [
+        "It prevents the receptor from coupling to more G proteins",
+        "It converts cAMP into ATP",
+        "It opens every ion channel",
+        "It polymerizes actin at both ends"
+      ],
+      "answer": "It prevents the receptor from coupling to more G proteins",
+      "explanation": "Arrestin occupies the receptor's cytoplasmic binding cavity and excludes G proteins."
+    }
+  },
+  {
+    "page": 199,
+    "title": "Cell Survival and Cell Death",
+    "explain": "This slide opens the next lecture, which examines how cells remain alive or activate controlled death programs. The immediate transition is from signaling pathways to apoptosis.",
+    "mustKnow": [
+      "Cell survival and cell death are regulated biological outcomes.",
+      "Apoptosis is the first cell-death mode introduced."
+    ],
+    "terms": [
+      {
+        "term": "Cell survival",
+        "meaning": "Maintenance of cellular functions and resistance to death signals."
+      },
+      {
+        "term": "Cell death",
+        "meaning": "Loss of cell viability through regulated or damaging processes."
+      }
+    ],
+    "interaction": {
+      "type": "tap",
+      "label": "Tap to begin the Cell Survival and Cell Death section."
+    }
+  },
+  {
+    "page": 200,
+    "title": "Apoptosis",
+    "explain": "The tissue image marks cells with the condensed, rounded appearance associated with apoptosis. Apoptosis is a regulated form of cell death in which a cell dismantles itself in an orderly way.",
+    "mustKnow": [
+      "Apoptosis is regulated cell death.",
+      "Apoptotic cells show condensation and fragmentation.",
+      "Apoptosis removes individual cells in an organized manner."
+    ],
+    "terms": [
+      {
+        "term": "Apoptosis",
+        "meaning": "A programmed, tightly regulated process of cell self-destruction."
+      },
+      {
+        "term": "Cell condensation",
+        "meaning": "Shrinkage and compacting of an apoptotic cell and its contents."
+      }
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which description best matches apoptosis?",
+      "options": [
+        "Regulated and orderly cell death",
+        "Uncontrolled cell growth",
+        "Actin filament elongation",
+        "Long-range hormone transport"
+      ],
+      "answer": "Regulated and orderly cell death",
+      "explanation": "Apoptosis is a controlled cell-death program rather than a growth or signaling mode."
+    }
+  }
+]

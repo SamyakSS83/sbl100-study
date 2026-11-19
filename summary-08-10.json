@@ -1,0 +1,364 @@
+[
+  {
+    "topic": "Cell Death and Cell Division",
+    "oneLiner": "Apoptosis is orderly, regulated cell suicide triggered by death receptors (caspase-8) or mitochondria (BCL-2 family → cytochrome c → caspase-9). The cell cycle (G1→S→G2→M) copies DNA in S phase, splits sister chromatids by mitosis, and is driven by cyclin-CDKs and gated by pRb/E2F.",
+    "sections": [
+      {
+        "heading": "Apoptosis: morphology and clearance",
+        "points": [
+          "Apoptosis is programmed, tightly regulated, orderly self-destruction that removes individual cells.",
+          "Order of events: cell and nucleus shrink → lose contact with neighbours → chromatin condenses → membrane blebs → nucleus collapses and chromatin fragments → membrane-bound apoptotic bodies.",
+          "Apoptotic bodies keep an intact membrane around tightly packed organelles and nuclear fragments.",
+          "Macrophages engulf them by phagocytosis and degrade them in phagolysosomes, so contents don't spill and there is little inflammation.",
+          "If corpses are not cleared quickly, the membrane fails: this is secondary necrosis.",
+          "The cell is taken apart into fragments; it does not simply burst."
+        ],
+        "pages": [200, 201, 202, 203, 204, 206, 207]
+      },
+      {
+        "heading": "Extrinsic (death-receptor) pathway",
+        "points": [
+          "TNF binds the death receptor TNFR1.",
+          "TNFR1 recruits the death-domain adaptors TRADD and FADD plus procaspase-8 into a complex at the membrane.",
+          "Procaspase-8 is activated to caspase-8, the initiator caspase of this pathway.",
+          "Caspase-8 activates executioner caspases, which take the cell apart."
+        ],
+        "pages": [208]
+      },
+      {
+        "heading": "BCL-2 family and the intrinsic (mitochondrial) pathway",
+        "points": [
+          "Anti-apoptotic: BCL-2, BCL-XL, MCL-1, BCL-w, A1. They oppose BAX/BAK.",
+          "Pro-apoptotic multidomain: BAX, BAK, BOK. BH3-only inducers (BID, BIM, NOXA, BAD) promote BAX/BAK activation.",
+          "Cellular stress activates BAX/BAK, which oligomerize in the mitochondrial outer membrane → pores → MOMP.",
+          "MOMP releases cytochrome c into the cytosol. Cytochrome c + Apaf-1 + procaspase-9 form the activation complex (apoptosome).",
+          "Caspase-9 (the intrinsic initiator) activates executioner caspases."
+        ],
+        "pages": [209, 210]
+      },
+      {
+        "heading": "Detecting apoptosis",
+        "points": [
+          "Phosphatidylserine (PS) normally sits on the inner (cytoplasmic) leaflet. In apoptosis it flips to the outer leaflet and acts as an 'eat-me' signal.",
+          "Annexin V binds exposed PS, so it marks apoptotic cells.",
+          "Cytochrome c staining: punctate/reticular (inside mitochondria) in healthy cells, diffuse through the cytosol after release.",
+          "Staurosporine is used experimentally to induce apoptosis."
+        ],
+        "pages": [211, 212, 213]
+      },
+      {
+        "heading": "Cell cycle phases and DNA state",
+        "points": [
+          "Cycle: G1 → S → G2 → M → cytokinesis. Interphase (G1+S+G2) is about 90% of the cycle.",
+          "G1: growth and organelle production. S: nuclear DNA replication, forming sister chromatids. G2: proteins and energy prepared for division.",
+          "G0: quiescent, non-dividing exit from the cycle; can be temporary or permanent.",
+          "In G1 each chromosome is one linear dsDNA molecule. In G2 each has two sister chromatids held together by cohesin.",
+          "Mitosis + cytokinesis give two genetically identical diploid daughters. Uses: growth, repair/replacement, asexual reproduction (e.g., yeast).",
+          "Propidium iodide stains DNA, so DNA content per cell can be measured (histogram)."
+        ],
+        "pages": [214, 215, 216, 217]
+      },
+      {
+        "heading": "Mitosis stages (PMAT)",
+        "points": [
+          "Prophase: chromosomes condense (shorter, thicker, visible as paired sister chromatids), transcription largely shuts down, centrosomes separate, spindle forms. Nuclear envelope breaks down at the end.",
+          "Prometaphase: spindle microtubules reach chromosomes and attach to them at the kinetochores.",
+          "Metaphase: chromosomes line up at the equator (metaphase plate). Kinetochore motors such as dynein help move them.",
+          "Anaphase: sister chromatids separate and move to opposite poles.",
+          "Telophase: a nuclear membrane re-forms around each chromosome set. Cytokinesis then pinches the cytoplasm into two cells.",
+          "Mitosis separates sister chromatids, not homologous pairs."
+        ],
+        "pages": [218, 219, 220, 221, 223, 224]
+      },
+      {
+        "heading": "Cell-cycle control: MPF, cyclin-CDKs, pRb",
+        "points": [
+          "Xenopus experiment: cytoplasm from a meiotic oocyte, injected into an immature oocyte, caused premature germinal-vesicle breakdown and entry into meiosis. A soluble cytoplasmic factor (MPF) drives entry into M phase.",
+          "Cyclin E–CDK2 drives G1→S. Cyclin A–CDK1/CDK2 acts through S and G2. Cyclin B–CDK1 drives entry into M.",
+          "Checkpoints: G1–S, G2–M, metaphase–anaphase.",
+          "Active (hypophosphorylated) pRb binds and inhibits E2F, keeping S-phase genes off and guarding the G1→S checkpoint.",
+          "Losing both RB1 copies frees E2F → uncontrolled proliferation → retinoblastoma and other cancers."
+        ],
+        "pages": [225, 226, 227]
+      }
+    ],
+    "mustRemember": [
+      "Extrinsic: TNF → TNFR1 → TRADD/FADD + procaspase-8 → caspase-8 → executioner caspases",
+      "Intrinsic: stress → BAX/BAK pore (MOMP) → cytochrome c → Apaf-1 + procaspase-9 → caspase-9 → executioner caspases",
+      "Anti-apoptotic: BCL-2, BCL-XL, MCL-1, BCL-w, A1. Pro-apoptotic: BAX, BAK, BOK. BH3-only: BID, BIM, NOXA, BAD",
+      "Annexin V binds outward-flipped phosphatidylserine ('eat-me' signal)",
+      "Diffuse cytosolic cytochrome c staining = released from mitochondria. Staurosporine induces apoptosis",
+      "Apoptosis order: shrinkage → chromatin condensation → blebbing → nuclear collapse/fragmentation → apoptotic bodies → macrophage phagocytosis",
+      "Interphase ≈ 90% of the cycle. G1 grow, S copy, G2 prepare, M divide. G0 = quiescent",
+      "Cohesin holds sister chromatids together. Kinetochores bind spindle microtubules",
+      "Mitosis order: prophase → prometaphase → metaphase → anaphase → telophase → cytokinesis",
+      "Cyclin E–CDK2 (G1/S), Cyclin A–CDK1/2 (S, G2), Cyclin B–CDK1 (M)",
+      "Hypophosphorylated pRb inhibits E2F. Loss of both RB1 copies → retinoblastoma",
+      "MPF discovered by Xenopus oocyte cytoplasm transfer",
+      "Propidium iodide = fluorescent DNA stain"
+    ],
+    "distinguish": [
+      {"pair": "Extrinsic vs intrinsic apoptosis", "difference": "Extrinsic starts at a death receptor (TNFR1) and uses caspase-8. Intrinsic starts at mitochondria (cytochrome c/Apaf-1) and uses caspase-9."},
+      {"pair": "BCL-2/BCL-XL vs BAX/BAK", "difference": "BCL-2/BCL-XL are anti-apoptotic. BAX/BAK are pro-apoptotic and oligomerize to cause MOMP."},
+      {"pair": "Initiator vs executioner caspases", "difference": "Initiators (caspase-8 or -9) are activated first in their complexes. Executioners carry out the dismantling."},
+      {"pair": "Apoptosis vs secondary necrosis", "difference": "In apoptosis the membrane stays intact and corpses are cleared with minimal inflammation. Secondary necrosis is membrane failure when clearance is too slow."},
+      {"pair": "Metaphase vs anaphase", "difference": "Metaphase means alignment at the equator. Anaphase means sister chromatids separate to the poles."},
+      {"pair": "Telophase vs cytokinesis", "difference": "Telophase re-forms the nuclei. Cytokinesis divides the cytoplasm into two cells."},
+      {"pair": "G0 vs G1", "difference": "G0 is a quiescent exit from the cycle. G1 is an active growth phase before S."},
+      {"pair": "Hypophosphorylated vs lost pRb", "difference": "Active pRb holds E2F and blocks S entry. Loss of both RB1 copies frees E2F and causes proliferation."}
+    ],
+    "traps": [
+      "Don't swap the initiators: extrinsic = caspase-8, intrinsic = caspase-9.",
+      "BCL-2 is ANTI-apoptotic. BAX/BAK promote mitochondrial permeabilization.",
+      "DNA replication happens in S phase, not mitosis. Mitosis only distributes chromatids that are already replicated.",
+      "If a question says 'equator', the answer is metaphase. Separation is anaphase.",
+      "Mitosis separates sister chromatids, not homologous chromosomes.",
+      "PS normally faces inward. Annexin V detects it only once it is exposed on the outside."
+    ]
+  },
+  {
+    "topic": "Stem Cells and Differentiation",
+    "oneLiner": "Stem cells self-renew and differentiate. Potency narrows from totipotent to unipotent as development goes on, and identity comes from differential gene expression. Gurdon's nuclear transfer, Dolly and Yamanaka's OSKM factors proved that differentiated cells can be reprogrammed to pluripotency, and ES cells can self-organize into optic cups.",
+    "sections": [
+      {
+        "heading": "Core concepts: fate, potency, determination, differentiation",
+        "points": [
+          "Fate = what a cell normally becomes. Potency = the range of cell types it could become.",
+          "Determination = commitment to a fate before any visible specialization. Differentiation = carrying out the specialized morphology and physiology.",
+          "Development progressively restricts potency (lineage restriction).",
+          "All cell types descend from the zygote, e.g. neurons conduct, muscle generates force, RBCs carry O₂.",
+          "Differentiation is driven by differential gene expression: same genome, different active gene subsets → different proteomes → different structures and functions."
+        ],
+        "pages": [233, 234, 237, 238]
+      },
+      {
+        "heading": "Potency hierarchy and clonality",
+        "points": [
+          "Totipotent → pluripotent → multipotent → oligopotent → unipotent (decreasing potential).",
+          "Totipotent: all embryonic and extraembryonic cells, so a complete organism; the earliest embryonic cells.",
+          "Pluripotent: cells of all major body lineages, but cannot form a whole organism alone (e.g., ES cells).",
+          "Multipotent/oligopotent: restricted to a lineage. Unipotent: one mature cell type.",
+          "A clone is all cells descended from one founder. Clonal expansion is repeated division, e.g. an antigen-matched lymphocyte clone is selected and then expands."
+        ],
+        "pages": [235, 236, 237]
+      },
+      {
+        "heading": "Hematopoietic tree",
+        "points": [
+          "The multipotent hematopoietic stem cell splits into common myeloid and common lymphoid progenitors.",
+          "Myeloid: erythrocytes, megakaryocytes/platelets, granulocytes, mast cells, monocytes/macrophages.",
+          "Lymphoid: B cells, T cells, NK cells."
+        ],
+        "pages": [230]
+      },
+      {
+        "heading": "Early development: blastulation, gastrulation, germ layers",
+        "points": [
+          "Cleavage → morula → blastocyst (blastula) with a fluid-filled blastocoel.",
+          "Mammalian blastocyst = inner cell mass (gives the embryo proper and the pluripotent ES cell lines) + outer trophoblast.",
+          "Gastrulation uses coordinated morphogenetic cell movements to set up ectoderm, mesoderm and endoderm (triploblasts). Diploblasts have two layers.",
+          "Endoderm → digestive tract, liver, pancreas.",
+          "Mesoderm → kidney, cartilage, bone, spleen, circulatory and lymphatic systems, muscle, blood.",
+          "Ectoderm → hair, nails, dermis, brain, spinal cord, retina (nervous system)."
+        ],
+        "pages": [239, 240, 241, 242, 243, 244]
+      },
+      {
+        "heading": "Discovery of adult stem cells and their properties",
+        "points": [
+          "Till & McCulloch: mice given whole-body irradiation were rescued by IV bone marrow. Survival rose with the number of marrow cells injected, pointing to rare regenerative marrow cells.",
+          "Mauro: TEM of frog muscle showed satellite cells beside fibres, proposed as precursors. They were later shown to be muscle stem cells.",
+          "Defining properties: self-renewal + differentiation + long-term proliferation.",
+          "Adult (tissue-specific) stem cells give a restricted output, and many are quiescent (reversible low-activity state). ES cells can generate all body cell types."
+        ],
+        "pages": [245, 246, 247]
+      },
+      {
+        "heading": "Reprogramming: SCNT, Dolly, iPSCs",
+        "points": [
+          "2012 Nobel (Physiology or Medicine): John Gurdon and Shinya Yamanaka. Mature cells can be reprogrammed to pluripotency.",
+          "Gurdon: tadpole intestinal-cell nucleus put into an enucleated Xenopus egg gave some normal tadpoles. Differentiation does not delete the needed genome.",
+          "Dolly (1997): SCNT of an adult mammary-cell nucleus into an enucleated egg; the first mammal cloned from an adult somatic nucleus.",
+          "Yamanaka: retroviral vectors delivered transcription-factor genes into mouse embryonic fibroblasts → iPSC colonies.",
+          "Factor elimination: 24 candidates narrowed to 10 by dropping one at a time (colony loss = required), then to four (OSKM). Two- or three-factor sets were much weaker.",
+          "Validation: normal karyotype (genetic stability) and teratoma formation with tissues from all three germ layers (pluripotency). Both are needed."
+        ],
+        "pages": [248, 249, 250, 251, 252, 253]
+      },
+      {
+        "heading": "iPSC applications and optic-cup self-organization",
+        "points": [
+          "iPSCs avoid the ethical issues of ES cells and can be patient-specific. Uses: disease models, drug screening on differentiated cells, CRISPR gene correction plus cell replacement, tissue engineering.",
+          "Mouse ES cells grown as a 3D embryoid body in Matrigel; Activin induced the retinal gene Rx, shown by Rx-GFP.",
+          "Timeline: Day 5 Rx+ neuroepithelium → Day 7 spherical evagination (optic vesicle) → Day 9 invagination into an optic cup. Self-organizing morphogenesis.",
+          "Distal invaginated layer → neural retina (Chx10 + Rx + Pax6). Proximal outer layer → RPE (Mitf, Otx2), pigmented by about day 12."
+        ],
+        "pages": [254, 255, 256, 257]
+      }
+    ],
+    "mustRemember": [
+      "Fate = normal outcome. Potency = possible range",
+      "Determination (commitment, not visible) precedes differentiation (visible phenotype)",
+      "Totipotent > pluripotent > multipotent > oligopotent > unipotent",
+      "Endoderm: gut, liver, pancreas. Mesoderm: kidney, bone, cartilage, spleen, blood/lymph systems. Ectoderm: brain, spinal cord, retina, hair, nails",
+      "Inner cell mass → embryo proper and ES cells (pluripotent). Trophoblast = outer layer",
+      "Till & McCulloch: irradiated mice + bone marrow → survival proportional to dose",
+      "Mauro: satellite cells (muscle stem cells), seen by TEM of frog muscle",
+      "Gurdon: tadpole intestinal nucleus → enucleated Xenopus egg → tadpoles",
+      "Dolly 1997: adult mammary nucleus, SCNT",
+      "Yamanaka factors (OSKM): Oct3/4, Sox2, Klf4, c-Myc; retroviral delivery into mouse embryonic fibroblasts; 24 → 10 → 4 candidates",
+      "2012 Nobel: Gurdon + Yamanaka",
+      "iPSC tests: karyotype (stability) + teratoma (three germ layers = pluripotency)",
+      "Optic cup: Activin → Rx (GFP). Day 7 vesicle, Day 9 cup. Neural retina = Chx10/Rx/Pax6. RPE = Mitf/Otx2, pigmented by about day 12",
+      "Stem cell = self-renewal + differentiation + long-term proliferation. Adult stem cells are often quiescent"
+    ],
+    "distinguish": [
+      {"pair": "Fate vs potency", "difference": "Fate is the normal destination. Potency is the full range a cell could produce."},
+      {"pair": "Determination vs differentiation", "difference": "Determination is an invisible commitment that comes first. Differentiation is the later, visible specialized phenotype."},
+      {"pair": "Totipotent vs pluripotent", "difference": "Totipotent cells can form a whole organism, including extraembryonic tissue. Pluripotent cells form all body lineages but not a whole organism."},
+      {"pair": "Self-renewal vs differentiation", "difference": "Self-renewal makes more stem cells. Differentiation makes specialized descendants."},
+      {"pair": "ES cells vs adult stem cells", "difference": "ES cells come from the inner cell mass, are pluripotent and make all body cell types. Adult stem cells are tissue-resident, restricted and often quiescent."},
+      {"pair": "SCNT vs iPSC", "difference": "SCNT resets a somatic nucleus with egg cytoplasm (Gurdon, Dolly). iPSCs are reprogrammed by defined factors (OSKM)."},
+      {"pair": "Karyotype vs teratoma test", "difference": "Karyotype checks chromosome number and structure (stability). Teratoma checks the ability to form tissues from all three germ layers (pluripotency)."},
+      {"pair": "Neural retina vs RPE", "difference": "Neural retina is the distal invaginated layer (Chx10, Rx, Pax6). RPE is the proximal outer layer (Mitf, Otx2) and becomes pigmented."}
+    ],
+    "traps": [
+      "Fate and potency are not synonyms.",
+      "Determination comes before visible differentiation. A committed cell can still look like its neighbours.",
+      "Don't swap the arrows: self-renewal → stem cell, differentiation → specialized cell.",
+      "Don't mix the gene sets: Oct3/4, Sox2, c-Myc and Klf4 are reprogramming factors. Rx, Pax6, Chx10, Mitf and Otx2 are optic-cup markers.",
+      "Pluripotent cells cannot form a complete organism alone; only totipotent cells can.",
+      "Differentiation changes which genes are expressed, not the genome. Reprogramming shows it is reversible."
+    ]
+  },
+  {
+    "topic": "Host Pathogen Interaction",
+    "oneLiner": "Innate immunity (barriers, phagocytes, complement, inflammation, NK cells) responds fast and broadly, and adaptive immunity (antibodies, cytotoxic T cells) follows with specificity and memory. Pathogens counter with virulence factors for adherence, invasion and evasion, plus toxins that damage the host (diphtheria, cholera, endotoxin).",
+    "sections": [
+      {
+        "heading": "Immune system organisation and blood-cell lineages",
+        "points": [
+          "Hematopoiesis happens mainly in adult bone marrow. The thymus matures T cells. The spleen, lymph nodes and tonsils are lymphoid organs.",
+          "Myeloid: erythrocytes, platelets (from megakaryocytes), mast cells, granulocytes (neutrophils), monocytes/macrophages. Lymphoid: B, T, NK cells.",
+          "The immune system is a distributed network: barriers, secretions, WBCs, bone marrow, liver-made complement, lymphatics, tissue-resident immune cells.",
+          "Tissue fluid enters lymphatic vessels as lymph, is filtered through lymph nodes, and returns to the blood.",
+          "Blood defences: cellular (WBCs) and extracellular (complement, coagulation proteins, cytokines as cell-to-cell signals)."
+        ],
+        "pages": [260, 261, 262, 263, 273]
+      },
+      {
+        "heading": "Innate vs adaptive and the response map",
+        "points": [
+          "Innate: rapid with no major lag, recognizes broad patterns, no classical memory. Adaptive: initial lag, antigen-specific, forms memory (later responses are faster and stronger).",
+          "The two arms interact continuously.",
+          "Route: external barriers → if breached, internal innate (phagocytes, antimicrobial proteins, inflammation, complement, NK cells) → adaptive.",
+          "Humoral adaptive response = antibodies (B cells → plasma cells). Cell-mediated = cytotoxic T lymphocytes.",
+          "WBC roles: macrophages engulf and present antigen, T cells coordinate or kill, NK cells kill without antigen-specific receptors, mast cells release inflammatory mediators."
+        ],
+        "pages": [264, 265, 266, 271, 272, 274]
+      },
+      {
+        "heading": "External innate barriers",
+        "points": [
+          "Mechanical: intact skin; flushing by saliva, tears and urine; the mucociliary escalator clears airways.",
+          "Chemical: antimicrobial peptides in sweat, lysozyme in tears and saliva (breaks peptidoglycan), stomach HCl (low pH).",
+          "Biological: normal flora compete for nutrients and attachment sites and can make inhibitory substances. This is microbial antagonism, or colonization resistance."
+        ],
+        "pages": [267, 268, 269, 270]
+      },
+      {
+        "heading": "Phagocytes: neutrophils, monocytes, macrophages",
+        "points": [
+          "Neutrophils are the most abundant WBC (about 50–60%). They are short-lived granulocytes, efficient phagocytes and the first responders.",
+          "Chemotaxis: the cell senses a chemoattractant and becomes polarized with its leading edge toward the source, then moves up the gradient.",
+          "Phagocytosis: recognition/attachment → pseudopods engulf the microbe → phagosome → fuses with lysosomes/granules → phagolysosome → digestion → residue expelled.",
+          "Granules store digestive enzymes and antimicrobial proteins for rapid use. Neutrophils also release inflammatory mediators that influence adaptive immunity.",
+          "NETs (released by NETosis) are webs of decondensed DNA plus antimicrobial proteins that trap microbes outside cells.",
+          "Monocytes (about 2–10% of WBCs) circulate, then enter tissues and become macrophages (lung, liver, brain, bone, gut). Macrophages are long-lived tissue phagocytes that present antigen on MHC to T cells."
+        ],
+        "pages": [275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285]
+      },
+      {
+        "heading": "NK cells and cytotoxic killing",
+        "points": [
+          "NK cells are innate lymphoid cells, not B or T cells. They kill virus-infected, intracellularly infected and cancerous host cells without antigen-specific priming.",
+          "Missing-self recognition: normal MHC class I gives an inhibitory 'do not kill' signal. Loss of MHC-I tips the activating/inhibitory balance toward killing.",
+          "Killing: stable contact (immune synapse) → directed release of cytotoxic granules → perforin lets granzymes in → granzymes (proteases) trigger apoptosis.",
+          "Killing the host cell removes the pathogen's intracellular niche. Directed secretion spares neighbouring cells.",
+          "Cytotoxic T cells (adaptive) use the same perforin/granzyme machinery but recognize a specific peptide–MHC I complex through the TCR."
+        ],
+        "pages": [286, 287, 288, 289, 290, 291]
+      },
+      {
+        "heading": "Pathogenicity, adherence and capsules",
+        "points": [
+          "Virulence is the capacity to harm the host. Sequence: portal of entry (with enough microbes) → adherence → penetration/evasion → damage → portal of exit. Virulence factors improve success at these steps.",
+          "Adherence: a microbial adhesin (ligand) binds a host receptor and resists wash-out. It sets host specificity and tissue tropism and is a drug target.",
+          "Group A Streptococcus M protein binds fibronectin (attachment, invasion) and recruits fibrinogen, albumin and plasminogen into a cloak that hides epitopes from antibodies.",
+          "Capsule: polysaccharide layer outside the cell wall (S. pneumoniae, H. influenzae, B. anthracis). It aids attachment and masks PAMPs from TLRs (TLR4 senses LPS).",
+          "Capsules also inhibit phagocytosis (opsonization by antibody or complement counters this) and can resist lysosomal digestion after uptake.",
+          "Biofilm: a surface-attached community. Quorum sensing detects population density and switches gene expression to coordinate the biofilm."
+        ],
+        "pages": [292, 293, 294, 295, 296, 297, 298, 299, 300, 301]
+      },
+      {
+        "heading": "Invasion tools: enzymes, mycolic acid, invasins",
+        "points": [
+          "A pathogen may first need to breach the mucus barrier to reach host cells.",
+          "Hyaluronidase (S. aureus, S. pyogenes) and collagenase (C. perfringens, gas gangrene) digest connective tissue, which helps invasion.",
+          "Coagulase (pathogenic S. aureus) forms a clot that shields the bacteria from phagocytes, immune factors and antibiotics. Streptokinase dissolves clots and is used clinically.",
+          "IgA protease cleaves the mucosal antibody IgA.",
+          "Mycolic acid (a waxy wall lipid in M. tuberculosis and M. leprae) resists lysosomal digestion. The cell wall is peptidoglycan (sugars + amino acids).",
+          "Invasins are surface proteins that rearrange host actin → membrane ruffling → microbe enters the cell."
+        ],
+        "pages": [302, 303, 304, 305, 306, 307, 308]
+      },
+      {
+        "heading": "Toxins: exotoxins and endotoxin",
+        "points": [
+          "Toxin = poisonous microbial product. Toxigenicity = ability to make toxin. Toxemia = toxin in the blood.",
+          "Diphtheria toxin (A-B): receptor-mediated endocytosis → acid-triggered translocation → fragment A ADP-ribosylates eEF-2 → translation stops → cell death.",
+          "Cholera toxin (AB5): five B subunits bind GM1 → A1 locks Gsα in its active GTP state → adenylyl cyclase stays on → cAMP rises → ion and water efflux → diarrhoea.",
+          "GPCR background: 7-TM receptor → trimeric G protein → effector (adenylyl cyclase) amplifies the signal. Shut-off by Gα GTP hydrolysis and by receptor phosphorylation plus arrestin.",
+          "Endotoxin is lipid A of Gram-negative LPS. It is released by complement lysis, phagocytic digestion or antibiotics.",
+          "Endotoxin triggers cytokine secretion and inflammation, causes fever (pyrogen) and affects the blood-brain barrier. It is heat-stable."
+        ],
+        "pages": [309, 310, 311, 312, 313, 314, 315, 316, 317]
+      }
+    ],
+    "mustRemember": [
+      "Neutrophils about 50–60% of WBCs. Monocytes about 2–10%",
+      "Phagocytosis: chemotaxis → attach → phagosome → phagolysosome → digest → expel",
+      "NETs = decondensed DNA + antimicrobial proteins (NETosis)",
+      "NK missing-self: MHC class I inhibits; loss of MHC-I → kill via perforin + granzymes → apoptosis",
+      "CTLs: specific peptide–MHC I via TCR, same perforin/granzyme killing",
+      "Barriers: mechanical (skin, flushing, mucociliary escalator), chemical (lysozyme, HCl, antimicrobial peptides), biological (normal flora, colonization resistance)",
+      "Liver makes complement. Bone marrow = main adult hematopoiesis. Thymus = T-cell maturation",
+      "M protein (Group A Strep): fibronectin binding + host-protein cloak (fibrinogen, albumin, plasminogen)",
+      "Capsule examples: S. pneumoniae, H. influenzae, B. anthracis. TLR4 senses LPS",
+      "Hyaluronidase: S. aureus, S. pyogenes. Collagenase: C. perfringens (gas gangrene). Coagulase: S. aureus",
+      "Mycolic acid: M. tuberculosis, M. leprae",
+      "Diphtheria toxin (A-B): ADP-ribosylates eEF-2 → blocks translation",
+      "Cholera toxin (AB5, binds GM1): Gsα locked active → ↑cAMP → diarrhoea",
+      "Endotoxin = lipid A of Gram-negative LPS; heat-stable pyrogen; released on lysis or antibiotic treatment"
+    ],
+    "distinguish": [
+      {"pair": "Innate vs adaptive immunity", "difference": "Innate is rapid, broad and has no memory. Adaptive has a lag but is antigen-specific and builds memory."},
+      {"pair": "Humoral vs cell-mediated", "difference": "Humoral uses antibodies from B/plasma cells. Cell-mediated uses cytotoxic T lymphocytes."},
+      {"pair": "Neutrophil vs macrophage", "difference": "Neutrophils are abundant, short-lived first responders in the blood. Macrophages are long-lived tissue phagocytes derived from monocytes that present antigen."},
+      {"pair": "NK cell vs cytotoxic T cell", "difference": "NK cells are innate and kill on missing MHC-I. CTLs are adaptive and need a specific peptide–MHC I. Both use perforin/granzyme."},
+      {"pair": "Coagulase vs streptokinase", "difference": "Coagulase forms a protective clot around the bacteria. Streptokinase dissolves clots."},
+      {"pair": "Hyaluronidase vs collagenase", "difference": "Both digest connective tissue. Hyaluronidase comes from S. aureus and S. pyogenes; collagenase from C. perfringens."},
+      {"pair": "Diphtheria vs cholera toxin", "difference": "Diphtheria (A-B) ADP-ribosylates eEF-2 and stops translation. Cholera (AB5) locks Gsα active and raises cAMP."},
+      {"pair": "Exotoxin vs endotoxin", "difference": "Exotoxins are secreted proteins with specific targets. Endotoxin is the heat-stable lipid A of Gram-negative LPS, released on lysis, and drives cytokines and fever."}
+    ],
+    "traps": [
+      "Innate immunity is not just barriers: phagocytes, complement, inflammation and NK cells are innate too.",
+      "NK cells are lymphoid but are neither B nor T cells, and in this course they count as innate.",
+      "Antibodies belong to humoral adaptive immunity, not to neutrophils or NK cells.",
+      "Don't swap coagulase (makes a clot) with streptokinase (dissolves clots).",
+      "A capsule is not only for attachment: it also masks PAMPs, inhibits phagocytosis and resists lysosomal digestion.",
+      "Killing bacteria doesn't remove endotoxin: lipid A is heat-stable and is released during lysis or antibiotic treatment."
+    ]
+  }
+]

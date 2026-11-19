@@ -1,0 +1,2716 @@
+[
+  {
+    "page": 261,
+    "title": "The blood-cell lineage tree",
+    "explain": "A multipotent hematopoietic stem cell branches into common myeloid and common lymphoid progenitors. The myeloid branch produces erythrocytes, platelets, mast cells, granulocytes and monocytes/macrophages. The lymphoid branch produces B cells, T cells and natural killer cells.",
+    "mustKnow": [
+      "All blood-cell lineages begin from hematopoietic stem cells.",
+      "Neutrophils, monocytes and macrophages belong to the myeloid branch.",
+      "B cells, T cells and NK cells belong to the lymphoid branch.",
+      "Monocytes can differentiate into macrophages."
+    ],
+    "terms": [
+      {
+        "term": "Progenitor",
+        "meaning": "A partially specialized precursor that produces a restricted set of cell types."
+      },
+      {
+        "term": "Myeloid lineage",
+        "meaning": "Branch producing red cells, platelets, granulocytes, monocytes and several other cells."
+      },
+      {
+        "term": "Lymphoid lineage",
+        "meaning": "Branch producing B cells, T cells and NK cells."
+      },
+      {
+        "term": "Megakaryocyte",
+        "meaning": "Large marrow cell that releases platelets."
+      }
+    ],
+    "diagramGuide": [
+      "Start at the multipotent hematopoietic stem cell, then follow the first split into common myeloid and common lymphoid progenitors.",
+      "Trace monocyte to macrophage; trace small lymphocyte to B cell/plasma cell, T cell, and NK cell.",
+      "Do not group NK cells with the myeloid phagocytes: the diagram places NK cells on the lymphoid branch."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "A marrow precursor gives rise to neutrophils, monocytes, erythrocytes, and megakaryocytes but not T cells. Which labeled progenitor matches it?",
+      "options": [
+        "Common lymphoid progenitor",
+        "Plasma cell",
+        "Natural killer cell",
+        "Common myeloid progenitor"
+      ],
+      "answer": 3,
+      "explanation": "The lineage diagram places those four outputs under the common myeloid progenitor; T cells arise from the lymphoid branch."
+    }
+  },
+  {
+    "page": 262,
+    "title": "The immune system is distributed",
+    "explain": "The immune system is a functional network rather than one anatomically isolated organ system. It combines barriers, antimicrobial secretions, circulating white blood cells, bone marrow, liver-made complement, lymphatic organs and immune cells permanently resident in tissues.",
+    "mustKnow": [
+      "Skin and mucous membranes are physical barriers.",
+      "The liver produces many complement proteins.",
+      "Bone marrow produces immune-cell precursors.",
+      "Many tissues contain resident immune cells."
+    ],
+    "terms": [
+      {
+        "term": "Complement",
+        "meaning": "A group of blood proteins that helps tag, inflame and destroy microbes."
+      },
+      {
+        "term": "Resident immune cell",
+        "meaning": "An immune cell that normally lives within a tissue."
+      },
+      {
+        "term": "Mucous membrane",
+        "meaning": "Moist epithelial lining that protects body passages exposed to the environment."
+      }
+    ],
+    "diagramGuide": [
+      "Read the slide as a distributed system: barriers and secretions act at surfaces, WBCs circulate, bone marrow supplies cells, liver supplies complement, and lymphoid organs organize responses."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which source-product pairing is shown for a soluble innate immune component?",
+      "options": [
+        "Skin - immunoglobulin synthesis",
+        "Lymphatic vessel - lysozyme synthesis",
+        "Liver - complement proteins",
+        "Bone marrow - gastric HCl"
+      ],
+      "answer": 2,
+      "explanation": "The slide identifies the liver as a source of complement proteins."
+    }
+  },
+  {
+    "page": 263,
+    "title": "Blood and lymph transport immune cells",
+    "explain": "Blood rapidly carries immune cells and soluble proteins around the body. Fluid leaving blood capillaries becomes tissue fluid; much of it enters lymphatic vessels as lymph. Lymph passes through lymph nodes and eventually returns to the bloodstream.",
+    "mustKnow": [
+      "Blood and lymph form linked transport routes for immune surveillance.",
+      "Lymph is derived from interstitial fluid.",
+      "Lymph nodes filter lymph and organize immune-cell encounters."
+    ],
+    "terms": [
+      {
+        "term": "Lymph",
+        "meaning": "Interstitial fluid after it enters lymphatic vessels."
+      },
+      {
+        "term": "Lymph node",
+        "meaning": "A filtering organ where lymph-borne material meets immune cells."
+      },
+      {
+        "term": "Interstitial fluid",
+        "meaning": "Fluid surrounding cells within tissues."
+      }
+    ],
+    "diagramGuide": [
+      "Red arrows show blood leaving the heart through arteries and returning through veins; green lymphatics collect tissue fluid and return lymph to the venous circulation.",
+      "At capillary beds, fluid leaves blood to become tissue fluid; lymphatic capillaries collect the excess."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "After excess interstitial fluid enters the green vessels in the diagram, what is it called?",
+      "options": [
+        "Cytosol",
+        "Lymph",
+        "Plasma",
+        "Serum"
+      ],
+      "answer": 1,
+      "explanation": "Interstitial fluid becomes lymph after entering lymphatic capillaries."
+    }
+  },
+  {
+    "page": 264,
+    "title": "Two interacting arms of immunity",
+    "explain": "Innate immunity provides rapid, broad defense, while adaptive immunity generates highly specific responses. They are presented as first and second lines of defense, but they cooperate continuously rather than acting as isolated systems.",
+    "mustKnow": [
+      "Innate immunity is rapid and nonspecific.",
+      "Adaptive immunity is antigen-specific.",
+      "Innate and adaptive immunity interact."
+    ],
+    "terms": [
+      {
+        "term": "Innate immunity",
+        "meaning": "Immediate defense using pre-existing barriers, cells and molecules."
+      },
+      {
+        "term": "Adaptive immunity",
+        "meaning": "Antigen-specific defense mediated mainly by B and T lymphocytes."
+      }
+    ],
+    "diagramGuide": [
+      "The tree divides immunity into innate/nonspecific first-line defense and adaptive/specific second-line defense.",
+      "The bottom statement is important: the two arms interact rather than operating independently."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which classification correctly matches the two branches in the overview?",
+      "options": [
+        "Innate: nonspecific; adaptive: specific",
+        "Innate: specific; adaptive: nonspecific",
+        "Innate: memory-forming only; adaptive: no memory",
+        "Innate: second line only; adaptive: first line only"
+      ],
+      "answer": 0,
+      "explanation": "The overview labels innate immunity nonspecific and adaptive immunity specific."
+    }
+  },
+  {
+    "page": 265,
+    "title": "Innate versus adaptive immunity",
+    "explain": "Innate responses begin with little or no delay, recognize broad microbial patterns and do not generate classical antigen-specific memory. Adaptive responses have a slower first response because matching lymphocytes must activate and expand, but they are specific and form memory cells.",
+    "mustKnow": [
+      "Innate: no major time lag, broad recognition, no classical antigen-specific memory.",
+      "Adaptive: initial lag, antigen specificity and memory.",
+      "Memory makes later adaptive responses faster and stronger."
+    ],
+    "terms": [
+      {
+        "term": "Antigen",
+        "meaning": "A molecule specifically recognized by an antibody or lymphocyte receptor."
+      },
+      {
+        "term": "Immunological memory",
+        "meaning": "Enhanced response after previous exposure to the same antigen."
+      },
+      {
+        "term": "Time lag",
+        "meaning": "Delay before a measurable immune response develops."
+      }
+    ],
+    "diagramGuide": [
+      "Compare each row horizontally: innate has no lag, no antigen specificity, and no memory; adaptive has a lag, specificity, and memory."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "A response begins slowly after first exposure but is faster on re-exposure to the same antigen. Which arm accounts for both properties?",
+      "options": [
+        "Innate immunity",
+        "Mechanical barrier defense",
+        "Normal flora",
+        "Adaptive immunity"
+      ],
+      "answer": 3,
+      "explanation": "A lag and immunological memory are paired features of adaptive immunity."
+    }
+  },
+  {
+    "page": 266,
+    "title": "Map of a typical immune response",
+    "explain": "External innate defenses try to prevent entry. If microbes enter, internal innate mechanisms respond rapidly through phagocytes, antimicrobial proteins, inflammation, complement and NK cells. Adaptive immunity adds antibody-mediated humoral responses and cytotoxic cell-mediated responses.",
+    "mustKnow": [
+      "External innate defenses include skin, mucous membranes and secretions.",
+      "Internal innate defenses include phagocytes, inflammation, complement and NK cells.",
+      "Humoral adaptive immunity uses antibodies.",
+      "Cell-mediated adaptive immunity uses cytotoxic lymphocytes."
+    ],
+    "terms": [
+      {
+        "term": "Humoral response",
+        "meaning": "Antibody-based adaptive defense in body fluids."
+      },
+      {
+        "term": "Cell-mediated response",
+        "meaning": "Adaptive defense carried out mainly by T cells."
+      },
+      {
+        "term": "Phagocyte",
+        "meaning": "A cell that engulfs particles or microbes."
+      },
+      {
+        "term": "Inflammation",
+        "meaning": "A local protective response that recruits cells and molecules to injury or infection."
+      }
+    ],
+    "diagramGuide": [
+      "Follow invading microbes into external innate defenses first, then internal innate defenses; the adaptive branch splits into humoral antibodies and cell-mediated cytotoxic lymphocytes.",
+      "Complement is shown with internal innate defenses, not with antibody-producing humoral immunity."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which pair occupies the two adaptive branches at the right of the response map?",
+      "options": [
+        "Skin and mucous membranes",
+        "Inflammation and natural killer cells",
+        "Antibodies and cytotoxic lymphocytes",
+        "Complement and neutrophils"
+      ],
+      "answer": 2,
+      "explanation": "The adaptive arm divides into humoral antibody and cell-mediated cytotoxic-lymphocyte responses."
+    }
+  },
+  {
+    "page": 267,
+    "title": "External innate defenses",
+    "explain": "External defenses are the body's boundary-level protections. They reduce the chance that microbes cross epithelial surfaces and enter internal tissues.",
+    "mustKnow": [
+      "External innate defenses act before microbes enter tissues.",
+      "They include mechanical, chemical and biological barriers."
+    ],
+    "terms": [
+      {
+        "term": "Barrier defense",
+        "meaning": "A physical, chemical or biological feature that blocks microbial entry."
+      },
+      {
+        "term": "Epithelium",
+        "meaning": "A sheet of cells covering surfaces and lining cavities."
+      }
+    ],
+    "diagramGuide": [
+      "The wall and fortress image represents intact external barriers preventing entry before immune cells need to attack."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "In the fortress analogy, what event must occur before internal innate defenses become relevant?",
+      "options": [
+        "Release of bacterial endotoxin",
+        "Breach of an external barrier",
+        "Class switching by B cells",
+        "Formation of memory cells"
+      ],
+      "answer": 1,
+      "explanation": "The wall represents external innate defenses that must be breached before internal defenses confront the invader."
+    }
+  },
+  {
+    "page": 268,
+    "title": "Mechanical barriers",
+    "explain": "Mechanical defenses physically block or remove microbes. Intact skin is a hard-to-cross surface. Saliva, tears and urine flush organisms away, while cilia move mucus and trapped particles out of the respiratory tract.",
+    "mustKnow": [
+      "Skin blocks entry.",
+      "Saliva, tears and urine remove microbes by flushing.",
+      "The mucociliary escalator clears inhaled material from airways."
+    ],
+    "terms": [
+      {
+        "term": "Mucociliary escalator",
+        "meaning": "Coordinated ciliary movement that carries mucus and trapped particles toward the throat."
+      },
+      {
+        "term": "Cilia",
+        "meaning": "Motile hair-like cell projections that move material across a surface."
+      }
+    ],
+    "diagramGuide": [
+      "Match each picture to its mechanical action: skin blocks entry, cilia move mucus upward, and saliva/tears/urine flush organisms away."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Failure of ciliary beating would most directly impair which barrier mechanism?",
+      "options": [
+        "Mucociliary clearance",
+        "Gastric acidification",
+        "Complement activation",
+        "Normal-flora antagonism"
+      ],
+      "answer": 0,
+      "explanation": "Cilia propel mucus and trapped particles upward in the mucociliary escalator."
+    }
+  },
+  {
+    "page": 269,
+    "title": "Chemical barriers",
+    "explain": "Chemical defenses create conditions that damage or inhibit microbes. Sweat contains antimicrobial peptides, tears and saliva contain lysozyme, and stomach hydrochloric acid provides a very low pH that kills many swallowed organisms.",
+    "mustKnow": [
+      "Lysozyme is present in tears and saliva.",
+      "Stomach HCl is a low-pH antimicrobial barrier.",
+      "Sweat contains antimicrobial peptides."
+    ],
+    "terms": [
+      {
+        "term": "Lysozyme",
+        "meaning": "An enzyme that breaks bonds in bacterial peptidoglycan cell walls."
+      },
+      {
+        "term": "Antimicrobial peptide",
+        "meaning": "A short peptide that inhibits or kills microbes, often by damaging membranes."
+      },
+      {
+        "term": "pH",
+        "meaning": "A scale of acidity or alkalinity; low pH is acidic."
+      }
+    ],
+    "diagramGuide": [
+      "The three chemical mechanisms are antimicrobial peptides in sweat, very low gastric pH from HCl, and lysozyme in tears/saliva."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which pairing is inconsistent with the chemical-barrier slide?",
+      "options": [
+        "HCl - low gastric pH",
+        "Antimicrobial peptides - sweat",
+        "Lysozyme - tears",
+        "Lysozyme - stomach acidification"
+      ],
+      "answer": 3,
+      "explanation": "HCl, not lysozyme, creates the low pH of the stomach."
+    }
+  },
+  {
+    "page": 270,
+    "title": "Normal flora as a biological barrier",
+    "explain": "Normal flora are the resident microbes that usually coexist with the host. They hinder pathogens by occupying attachment sites, consuming nutrients and sometimes producing inhibitory substances. This competition is called microbial antagonism or colonization resistance.",
+    "mustKnow": [
+      "Normal flora compete with pathogens for nutrients and space.",
+      "This protective competition is called antagonism or colonization resistance.",
+      "Normal flora are part of external innate defense."
+    ],
+    "terms": [
+      {
+        "term": "Normal flora",
+        "meaning": "Microorganisms that normally live on or in the body without causing disease."
+      },
+      {
+        "term": "Colonization resistance",
+        "meaning": "Protection created when resident microbes prevent pathogen establishment."
+      },
+      {
+        "term": "Antagonism",
+        "meaning": "One organism suppressing another through competition or inhibitory products."
+      }
+    ],
+    "diagramGuide": [
+      "The body map marks colonized sites; the key relationship is competition by normal flora for nutrients and space, termed antagonism."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Resident bacteria prevent a pathogen from establishing by consuming the same nutrient. Which labeled barrier principle is this?",
+      "options": [
+        "Opsonization",
+        "Cytotoxicity",
+        "Antagonism by normal flora",
+        "Chemotaxis"
+      ],
+      "answer": 2,
+      "explanation": "Competition for nutrients and space by normal flora is described as antagonism."
+    }
+  },
+  {
+    "page": 271,
+    "title": "From barriers to internal defense",
+    "explain": "This repeated overview emphasizes the transition: barriers act first; if a pathogen breaches them, internal innate defenses respond, followed by antigen-specific adaptive responses.",
+    "mustKnow": [
+      "Defense proceeds from external barriers to internal innate mechanisms and adaptive immunity.",
+      "Complement and inflammation are innate; antibodies and cytotoxic lymphocytes are adaptive."
+    ],
+    "terms": [
+      {
+        "term": "Breach",
+        "meaning": "Successful crossing of a protective barrier by a pathogen."
+      }
+    ],
+    "diagramGuide": [
+      "The enlarged response map adds internal innate defenses after the external barrier: phagocytes, antimicrobial proteins, inflammation, NK cells, and complement."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "A pathogen has crossed mucus but adaptive immunity has not yet developed. Which listed defense can act immediately inside tissue?",
+      "options": [
+        "Antigen-specific cytotoxic clones",
+        "Phagocytic cells",
+        "Memory B cells",
+        "High-affinity antibodies from recall"
+      ],
+      "answer": 1,
+      "explanation": "Phagocytic cells are internal innate defenses and do not require clonal priming."
+    }
+  },
+  {
+    "page": 272,
+    "title": "Internal innate defenses",
+    "explain": "Once microbes enter tissues or blood, internal defenses detect, contain and eliminate them. Major components include soluble blood proteins and innate immune cells.",
+    "mustKnow": [
+      "Internal innate defenses act after barrier penetration.",
+      "They include soluble proteins, phagocytes, inflammatory mechanisms and NK cells."
+    ],
+    "terms": [
+      {
+        "term": "Internal defense",
+        "meaning": "Immune mechanisms acting within tissues, blood or lymph after microbial entry."
+      }
+    ],
+    "diagramGuide": [
+      "The breached-wall and army images signal the transition from barrier defenses to cellular and soluble internal defenses."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "The breached-wall image marks the handoff from which defense category to which category?",
+      "options": [
+        "External innate to internal innate",
+        "Adaptive humoral to mechanical",
+        "Cell-mediated to normal flora",
+        "Memory to primary response"
+      ],
+      "answer": 0,
+      "explanation": "Once external barriers fail, internal innate defenses engage the invader."
+    }
+  },
+  {
+    "page": 273,
+    "title": "Immune components in blood",
+    "explain": "Blood contains cellular and soluble defense components. White blood cells are cellular. Complement proteins, coagulation proteins and cytokines are extracellular molecules that can tag microbes, control inflammation, form clots and coordinate cell behavior.",
+    "mustKnow": [
+      "WBCs are cellular blood components.",
+      "Complement, coagulation proteins and cytokines act extracellularly.",
+      "Cytokines are communication signals between cells."
+    ],
+    "terms": [
+      {
+        "term": "Cytokine",
+        "meaning": "A secreted signaling protein that changes the behavior of immune or other cells."
+      },
+      {
+        "term": "Coagulation",
+        "meaning": "The clot-forming process that limits bleeding and can help contain infection."
+      },
+      {
+        "term": "Extracellular",
+        "meaning": "Located or acting outside cells."
+      },
+      {
+        "term": "WBC",
+        "meaning": "White blood cell, also called a leukocyte."
+      }
+    ],
+    "diagramGuide": [
+      "The centrifuged blood tube separates plasma from formed elements; complement, coagulation proteins, and cytokines are extracellular plasma components, whereas WBCs are cells."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which component belongs in the extracellular plasma bracket rather than the WBC fraction?",
+      "options": [
+        "Neutrophil",
+        "Monocyte",
+        "Natural killer cell",
+        "Complement protein"
+      ],
+      "answer": 3,
+      "explanation": "Complement is soluble in plasma; the other options are leukocytes."
+    }
+  },
+  {
+    "page": 274,
+    "title": "Major white blood cell types",
+    "explain": "White blood cells have distinct jobs. Macrophages engulf microbes and present antigens; B cells make antibodies after becoming plasma cells; T cells coordinate responses or kill infected cells; NK cells kill abnormal cells without antigen-specific receptors; mast cells release inflammatory mediators.",
+    "mustKnow": [
+      "B and T lymphocytes are central to adaptive immunity.",
+      "NK cells and macrophages contribute strongly to innate immunity.",
+      "Mast cells promote inflammation."
+    ],
+    "terms": [
+      {
+        "term": "B lymphocyte",
+        "meaning": "Adaptive immune cell that can differentiate into an antibody-secreting plasma cell."
+      },
+      {
+        "term": "T lymphocyte",
+        "meaning": "Adaptive immune cell involved in coordination or direct killing."
+      },
+      {
+        "term": "Mast cell",
+        "meaning": "Tissue immune cell that releases inflammatory mediators from granules."
+      },
+      {
+        "term": "Macrophage",
+        "meaning": "Large tissue phagocyte with microbe-killing and antigen-presenting functions."
+      }
+    ],
+    "diagramGuide": [
+      "Use morphology only as a cue, but learn the labels: monocyte has a kidney-shaped nucleus, neutrophil a multilobed nucleus, eosinophil a bilobed nucleus with granules, and basophil dense granules.",
+      "The arrows separately group B, T, and NK lymphocytes."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which labeled leukocyte is identified by a multilobed nucleus and fine cytoplasmic granules?",
+      "options": [
+        "Lymphocyte",
+        "Mast cell",
+        "Neutrophil",
+        "Monocyte"
+      ],
+      "answer": 2,
+      "explanation": "The neutrophil drawing shows the characteristic multilobed nucleus."
+    }
+  },
+  {
+    "page": 275,
+    "title": "Neutrophils: rapid first responders",
+    "explain": "Neutrophils are the most abundant circulating white blood cells and highly efficient phagocytes. They rapidly leave blood and accumulate at infection sites, making them major early-response cells of innate immunity.",
+    "mustKnow": [
+      "Neutrophils make up roughly 50–60% of circulating WBCs.",
+      "They are efficient phagocytes.",
+      "They arrive early at sites of infection."
+    ],
+    "terms": [
+      {
+        "term": "Neutrophil",
+        "meaning": "Abundant short-lived granulocyte specialized for rapid antimicrobial defense."
+      },
+      {
+        "term": "First responder",
+        "meaning": "A cell recruited very early during infection or injury."
+      },
+      {
+        "term": "Granulocyte",
+        "meaning": "A white blood cell containing prominent cytoplasmic granules."
+      }
+    ],
+    "diagramGuide": [
+      "The neutrophil image has a multilobed nucleus. The bullets identify it as the most abundant WBC, an efficient phagocyte, and an early cell at infection sites."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "A newly infected tissue recruits the most abundant circulating WBC as a primary responder. Which cell is expected?",
+      "options": [
+        "Natural killer cell",
+        "Neutrophil",
+        "Basophil",
+        "Monocyte"
+      ],
+      "answer": 1,
+      "explanation": "Neutrophils are shown as roughly 50-60% of WBCs and rapid primary-response phagocytes."
+    }
+  },
+  {
+    "page": 276,
+    "title": "Chemotaxis guides neutrophils",
+    "explain": "Neutrophils locate infection by chemotaxis: they detect soluble attractant molecules and move up the concentration gradient toward the source.",
+    "mustKnow": [
+      "Chemotaxis is directed movement along a chemical gradient.",
+      "Neutrophils move toward higher concentrations of attractant signals."
+    ],
+    "terms": [
+      {
+        "term": "Chemotaxis",
+        "meaning": "Directed cell movement in response to a chemical concentration gradient."
+      },
+      {
+        "term": "Chemoattractant",
+        "meaning": "A molecule that attracts motile cells."
+      },
+      {
+        "term": "Concentration gradient",
+        "meaning": "A spatial change from lower to higher concentration."
+      }
+    ],
+    "diagramGuide": [
+      "Chemotaxis means directed movement along a chemical concentration gradient toward a microbial or inflammatory source."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "A neutrophil detects increasing chemoattractant concentrations toward a wound. Its net movement should be:",
+      "options": [
+        "Up the concentration gradient",
+        "Down the concentration gradient",
+        "Independent of the gradient",
+        "Restricted to the bloodstream"
+      ],
+      "answer": 0,
+      "explanation": "Positive chemotaxis directs movement toward higher chemoattractant concentration."
+    }
+  },
+  {
+    "page": 277,
+    "title": "Neutrophil chemotaxis in motion",
+    "explain": "The linked demonstration visualizes a neutrophil changing shape and crawling toward a chemical source. Receptor sensing at the front polarizes the cell so that protrusion and movement are directed rather than random.",
+    "mustKnow": [
+      "Chemotaxis requires sensing plus polarized cell movement.",
+      "The leading edge faces the chemoattractant source."
+    ],
+    "terms": [
+      {
+        "term": "Cell polarity",
+        "meaning": "An asymmetric front–rear organization that gives a migrating cell direction."
+      },
+      {
+        "term": "Leading edge",
+        "meaning": "The forward, protruding side of a moving cell."
+      }
+    ],
+    "diagramGuide": [
+      "The moving neutrophil changes shape and extends its leading edge toward the chemoattractant source; this is directional migration, not random motion."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which observation best distinguishes the filmed behavior as chemotaxis rather than random motility?",
+      "options": [
+        "Repeated engulfment without displacement",
+        "Symmetric membrane blebbing in all directions",
+        "Loss of all cell polarity",
+        "Persistent movement toward a localized chemical source"
+      ],
+      "answer": 3,
+      "explanation": "Chemotaxis is directional migration toward a chemical source."
+    }
+  },
+  {
+    "page": 278,
+    "title": "Phagocytosis",
+    "explain": "Phagocytosis is cellular eating. A phagocyte recognizes and surrounds a microbe, encloses it inside a membrane-bound compartment and then digests it using antimicrobial molecules and enzymes.",
+    "mustKnow": [
+      "Phagocytosis means engulfment of a particle or microbe by a cell.",
+      "Neutrophils are professional phagocytes.",
+      "Engulfment is followed by intracellular killing and digestion."
+    ],
+    "terms": [
+      {
+        "term": "Phagocytosis",
+        "meaning": "Engulfment of a large particle or microbe into a cell."
+      },
+      {
+        "term": "Phagocyte",
+        "meaning": "A cell specialized to engulf particles or microbes."
+      },
+      {
+        "term": "Engulfment",
+        "meaning": "Extension of the cell membrane around a target to internalize it."
+      }
+    ],
+    "diagramGuide": [
+      "The word roots explain the process: phago means eat and cyte means cell; the operational sequence is find, engulf, and digest."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which sequence best operationalizes phagocytosis by a neutrophil?",
+      "options": [
+        "Adhesion, mitosis, memory formation",
+        "Lysis, antigen rearrangement, exocytosis",
+        "Recognition, engulfment, intracellular digestion",
+        "Secretion, diffusion, antibody synthesis"
+      ],
+      "answer": 2,
+      "explanation": "Phagocytes find/recognize, engulf, and digest microbes."
+    }
+  },
+  {
+    "page": 279,
+    "title": "Neutrophils engulf bacteria",
+    "explain": "The linked microscopy shows a motile neutrophil chasing and engulfing bacteria. It combines the two processes just introduced: chemotaxis brings the cell to its target, then phagocytosis internalizes the target.",
+    "mustKnow": [
+      "Chemotaxis precedes contact with the bacterium.",
+      "Phagocytosis begins after recognition and contact."
+    ],
+    "terms": [
+      {
+        "term": "Recognition",
+        "meaning": "Binding of a target directly or through molecules coating its surface."
+      }
+    ],
+    "diagramGuide": [
+      "The micrograph shows a neutrophil among red blood cells with bacteria being engulfed; recognition and enclosure precede intracellular digestion."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "In the micrograph, bacterial enclosure by the neutrophil must occur before formation of which compartment?",
+      "options": [
+        "Extracellular trap",
+        "Phagosome",
+        "Nucleus",
+        "Golgi cisterna"
+      ],
+      "answer": 1,
+      "explanation": "Engulfment encloses the bacterium in a membrane-bound phagosome."
+    }
+  },
+  {
+    "page": 280,
+    "title": "The phagocytosis pathway",
+    "explain": "After chemotaxis and attachment, the neutrophil surrounds the microbe and encloses it in a phagosome. Lysosomes or antimicrobial granules fuse with the phagosome to make a phagolysosome. Enzymes digest the microbe, and indigestible residue is later discharged.",
+    "mustKnow": [
+      "Engulfment forms a phagosome.",
+      "Phagosome–lysosome fusion forms a phagolysosome.",
+      "Microbial digestion occurs in the phagolysosome.",
+      "Residual waste can be expelled."
+    ],
+    "terms": [
+      {
+        "term": "Phagosome",
+        "meaning": "Membrane-bound vesicle containing an engulfed particle."
+      },
+      {
+        "term": "Lysosome",
+        "meaning": "Enzyme-rich acidic organelle that degrades material."
+      },
+      {
+        "term": "Phagolysosome",
+        "meaning": "Digestive compartment formed by fusion of a phagosome with lysosomes."
+      },
+      {
+        "term": "Pseudopod",
+        "meaning": "Temporary cell extension used to surround a target."
+      }
+    ],
+    "diagramGuide": [
+      "Read clockwise: attachment, pseudopod extension, phagosome formation, lysosome fusion, killing/digestion, and discharge of residual material.",
+      "Granules/lysosomes deliver antimicrobial molecules to the microbe-containing compartment."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which event immediately converts a microbe-containing phagosome into the main digestive compartment?",
+      "options": [
+        "Fusion with a lysosome",
+        "Binding to a B-cell receptor",
+        "Release through exocytosis",
+        "Division of the phagocyte"
+      ],
+      "answer": 0,
+      "explanation": "Phagosome-lysosome fusion creates the phagolysosomal digestive compartment."
+    }
+  },
+  {
+    "page": 281,
+    "title": "What neutrophil granules contain",
+    "explain": "Neutrophil granules store concentrated antimicrobial cargo. Their contents include digestive enzymes that break microbial structures and other proteins that kill or inhibit microbes. Fusion delivers this cargo into the phagocytic compartment.",
+    "mustKnow": [
+      "Granules contain digestive enzymes and antimicrobial proteins.",
+      "Granule contents help kill and digest engulfed bacteria.",
+      "Storage in granules permits rapid deployment."
+    ],
+    "terms": [
+      {
+        "term": "Granule",
+        "meaning": "Intracellular storage compartment containing ready-made antimicrobial molecules."
+      },
+      {
+        "term": "Digestive enzyme",
+        "meaning": "A protein that chemically breaks large biological molecules into smaller products."
+      },
+      {
+        "term": "Degranulation",
+        "meaning": "Release of stored granule contents."
+      }
+    ],
+    "diagramGuide": [
+      "The highlighted granules contain digestive enzymes and antimicrobial proteins; after fusion, these contents act inside the phagolysosome."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "A neutrophil forms phagosomes normally but cannot deliver granule contents. Which function is most directly lost?",
+      "options": [
+        "Chemotactic gradient detection",
+        "Production of erythrocytes",
+        "Antigen-specific memory",
+        "Intracellular microbial killing"
+      ],
+      "answer": 3,
+      "explanation": "Granules supply digestive enzymes and antimicrobial proteins to the microbe-containing compartment."
+    }
+  },
+  {
+    "page": 282,
+    "title": "Neutrophils also signal",
+    "explain": "Neutrophils do more than ingest microbes. They release mediators that promote inflammation and influence other immune cells, helping connect the immediate innate response with later adaptive immunity.",
+    "mustKnow": [
+      "Neutrophils can trigger or amplify inflammation.",
+      "Neutrophil signals can affect adaptive immune responses.",
+      "Neutrophils are not only microbe-eating cells."
+    ],
+    "terms": [
+      {
+        "term": "Inflammatory mediator",
+        "meaning": "A released molecule that promotes vascular or cellular features of inflammation."
+      },
+      {
+        "term": "Immune crosstalk",
+        "meaning": "Communication between different immune cells or immune-system branches."
+      }
+    ],
+    "diagramGuide": [
+      "The red annotation adds a signaling role to killing: neutrophils release mediators that trigger inflammation and influence adaptive immunity."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which outcome shows that neutrophils do more than directly ingest bacteria?",
+      "options": [
+        "Production of gastric acid",
+        "Generation of antigen receptors by gene rearrangement",
+        "Recruitment/activation of other immune responses by inflammatory mediators",
+        "Differentiation into plasma cells"
+      ],
+      "answer": 2,
+      "explanation": "The slide emphasizes inflammatory signaling and links to adaptive immunity."
+    }
+  },
+  {
+    "page": 283,
+    "title": "Neutrophil extracellular traps",
+    "explain": "Neutrophils can release web-like neutrophil extracellular traps, or NETs. These structures contain decondensed DNA associated with antimicrobial proteins, allowing them to trap microbes outside cells and concentrate toxic molecules around them.",
+    "mustKnow": [
+      "NET stands for neutrophil extracellular trap.",
+      "NETs are DNA-rich extracellular webs.",
+      "NETs trap microbes and expose them to antimicrobial proteins."
+    ],
+    "terms": [
+      {
+        "term": "NET",
+        "meaning": "Neutrophil extracellular trap made largely of DNA and antimicrobial proteins."
+      },
+      {
+        "term": "NETosis",
+        "meaning": "A process by which a neutrophil releases an extracellular trap."
+      },
+      {
+        "term": "Decondensed DNA",
+        "meaning": "DNA loosened from its compact chromatin organization."
+      }
+    ],
+    "diagramGuide": [
+      "Follow the numbered sequence: rolling, slow rolling, adhesion, transmigration, then effector actions including NET release and exocytosis/ROS.",
+      "The NET is a web-like extracellular scaffold that traps microbes."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which step occurs after firm adhesion but before neutrophil effector release in the vessel diagram?",
+      "options": [
+        "Hematopoietic differentiation",
+        "Transmigration across endothelium",
+        "Rolling on selectins",
+        "Initial tethering"
+      ],
+      "answer": 1,
+      "explanation": "The displayed recruitment order proceeds from rolling to adhesion to transmigration, then tissue effector actions."
+    }
+  },
+  {
+    "page": 284,
+    "title": "Monocytes become tissue macrophages",
+    "explain": "Monocytes are circulating white blood cells that make up roughly 2–10% of WBCs. After leaving blood and entering tissues, they can differentiate into macrophages with tissue-adapted forms in organs such as lung, liver, brain, bone and intestine.",
+    "mustKnow": [
+      "Monocytes circulate in blood.",
+      "Monocytes migrate into tissues and become macrophages.",
+      "Different tissues contain specialized macrophage populations."
+    ],
+    "terms": [
+      {
+        "term": "Monocyte",
+        "meaning": "Circulating myeloid white blood cell that can differentiate into macrophages."
+      },
+      {
+        "term": "Differentiation",
+        "meaning": "Acquisition of a more specialized cell identity and function."
+      },
+      {
+        "term": "Tissue macrophage",
+        "meaning": "A macrophage residing and functioning within a particular organ."
+      }
+    ],
+    "diagramGuide": [
+      "The central monocyte leaves blood and differentiates into tissue macrophages; the organ icons show specialized macrophages in lung, liver, brain, intestine, and other tissues."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which tissue-cell relationship is supported by the differentiation arrows?",
+      "options": [
+        "Circulating monocyte becomes tissue macrophage",
+        "Neutrophil becomes natural killer cell",
+        "B cell becomes monocyte",
+        "Macrophage becomes erythrocyte"
+      ],
+      "answer": 0,
+      "explanation": "Monocytes migrate into tissues and differentiate into macrophages."
+    }
+  },
+  {
+    "page": 285,
+    "title": "Macrophages: big eaters and antigen presenters",
+    "explain": "Macrophages are long-lived tissue phagocytes. They engulf microbes and debris and can display microbial peptide fragments to T cells. This antigen-presentation function helps connect innate detection to adaptive activation.",
+    "mustKnow": [
+      "Macrophages phagocytose microbes in tissues.",
+      "Macrophages can present antigens to T cells.",
+      "Neutrophils normally circulate in blood, whereas macrophages reside in tissues."
+    ],
+    "terms": [
+      {
+        "term": "Antigen presentation",
+        "meaning": "Display of peptide fragments on cell-surface MHC molecules for recognition by T cells."
+      },
+      {
+        "term": "MHC",
+        "meaning": "Cell-surface proteins that hold peptide fragments for T-cell inspection."
+      },
+      {
+        "term": "Tissue phagocyte",
+        "meaning": "A particle-engulfing immune cell located within tissue."
+      }
+    ],
+    "diagramGuide": [
+      "The slide assigns macrophages two linked jobs: tissue phagocytosis and antigen presentation to adaptive immune cells."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "After ingesting a microbe, which macrophage activity most directly connects innate detection to an adaptive T-cell response?",
+      "options": [
+        "Synthesis of peptidoglycan",
+        "Release of gastric HCl",
+        "Formation of a bacterial capsule",
+        "Presentation of microbial antigen"
+      ],
+      "answer": 3,
+      "explanation": "Antigen presentation enables macrophages to communicate microbial information to T cells."
+    }
+  },
+  {
+    "page": 286,
+    "title": "Natural killer cells",
+    "explain": "Natural killer cells are innate lymphocytes, not B or T cells. They survey host cells and kill cells altered by viral infection, some intracellular infections or cancer. Their response does not require the same antigen-specific priming used by adaptive cytotoxic T cells.",
+    "mustKnow": [
+      "NK cells are part of innate immunity.",
+      "NK cells are lymphoid cells but are neither B nor T lymphocytes.",
+      "They kill infected and cancerous host cells."
+    ],
+    "terms": [
+      {
+        "term": "Natural killer cell",
+        "meaning": "Innate lymphocyte that kills stressed, infected or transformed host cells."
+      },
+      {
+        "term": "Intracellular pathogen",
+        "meaning": "A pathogen that lives or replicates within host cells."
+      },
+      {
+        "term": "Transformed cell",
+        "meaning": "A cell with cancer-like abnormal growth properties."
+      }
+    ],
+    "diagramGuide": [
+      "The cartoon separates NK cells from B and T lymphocytes and shows their targets as infected cells and cancer cells."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which target profile is most consistent with the NK-cell panel?",
+      "options": [
+        "Free bacterial endotoxin molecule",
+        "Normal erythrocyte with intact self markers",
+        "Virus-infected host cell",
+        "Extracellular collagen fiber"
+      ],
+      "answer": 2,
+      "explanation": "NK cells kill infected and malignant host cells rather than free molecules or matrix."
+    }
+  },
+  {
+    "page": 287,
+    "title": "Missing-self recognition by NK cells",
+    "explain": "Healthy cells display surface molecules, especially MHC class I, that provide inhibitory 'do not kill' signals to NK cells. Infected or cancerous cells may lose these molecules. Loss of inhibitory signaling shifts the balance toward NK-cell killing; this is called missing-self recognition.",
+    "mustKnow": [
+      "Normal MHC class I helps inhibit NK-cell killing.",
+      "Reduced or missing MHC class I can mark an abnormal cell.",
+      "NK decisions reflect a balance of activating and inhibitory signals."
+    ],
+    "terms": [
+      {
+        "term": "Missing self",
+        "meaning": "NK-cell recognition of abnormally low self MHC class I on a target cell."
+      },
+      {
+        "term": "MHC class I",
+        "meaning": "A surface molecule on most nucleated cells that can deliver an inhibitory signal to NK cells."
+      },
+      {
+        "term": "Inhibitory receptor",
+        "meaning": "A receptor whose engagement reduces cell activation."
+      }
+    ],
+    "diagramGuide": [
+      "Compare the two target cells: normal cells display inhibitory self-surface signals, while infected/cancer cells may lose them; loss of inhibition permits NK killing."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "An infected cell loses a surface protein that normally delivers an inhibitory signal to NK cells. What is the predicted result?",
+      "options": [
+        "Complement synthesis by the target",
+        "NK-cell activation and target killing",
+        "Guaranteed protection from NK cells",
+        "Bacterial spore formation"
+      ],
+      "answer": 1,
+      "explanation": "Loss of normal self-surface inhibition is the missing-self cue for NK killing."
+    }
+  },
+  {
+    "page": 288,
+    "title": "How NK cells kill targets",
+    "explain": "After recognizing an abnormal target, an NK cell releases cytotoxic granules at the contact site. Perforin helps create membrane pores or supports granzyme entry; granzymes are proteases that activate apoptosis. Killing the infected host cell also removes the pathogen's intracellular niche.",
+    "mustKnow": [
+      "NK cells release cytotoxic granules.",
+      "Perforin promotes granzyme access to the target cell.",
+      "Granzymes trigger apoptotic death.",
+      "The host target cell, not only the microbe, is eliminated."
+    ],
+    "terms": [
+      {
+        "term": "Perforin",
+        "meaning": "Pore-forming cytotoxic protein released by NK cells and cytotoxic T cells."
+      },
+      {
+        "term": "Granzyme",
+        "meaning": "Cytotoxic protease that enters a target and activates cell-death pathways."
+      },
+      {
+        "term": "Cytotoxic granule",
+        "meaning": "Secretory vesicle containing cell-killing proteins."
+      },
+      {
+        "term": "Apoptosis",
+        "meaning": "Controlled cell death triggered here in the abnormal target cell."
+      }
+    ],
+    "diagramGuide": [
+      "The top panel shows inhibitory recognition sparing a healthy cell; the lower panel shows an abnormal target receiving released granules.",
+      "Perforin enables entry/pore formation and proteases such as granzymes activate target-cell death."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which molecule-function pairing fits granule-mediated NK killing?",
+      "options": [
+        "Perforin - enables pore/entry; granzyme - proteolytic death signal",
+        "Perforin - antibody; granzyme - complement receptor",
+        "Perforin - adhesin; granzyme - capsule enzyme",
+        "Perforin - cytokine receptor; granzyme - MHC molecule"
+      ],
+      "answer": 0,
+      "explanation": "Perforin facilitates access and granzyme proteases activate death pathways in the target."
+    }
+  },
+  {
+    "page": 289,
+    "title": "NK-cell killing demonstration",
+    "explain": "The linked material illustrates contact-dependent cytotoxicity. An NK cell forms a focused junction with a selected target, directs granules toward that junction and triggers target-cell death while limiting damage to nearby cells.",
+    "mustKnow": [
+      "Cytotoxic granules are released directionally at the immune-cell–target junction.",
+      "Focused secretion helps protect neighboring cells."
+    ],
+    "terms": [
+      {
+        "term": "Immune synapse",
+        "meaning": "Organized contact zone between an immune cell and its target."
+      },
+      {
+        "term": "Directed secretion",
+        "meaning": "Release of molecules toward one selected target rather than in all directions."
+      }
+    ],
+    "diagramGuide": [
+      "Treat the molecular image as the recognition/contact stage: a cytotoxic lymphocyte must first form a close interface with its target before polarized granule release."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Before polarized cytotoxic granule release, which event must occur at the target-cell interface?",
+      "options": [
+        "Phagosome-lysosome fusion",
+        "Bacterial binary fission",
+        "Complement synthesis in the liver",
+        "Stable recognition/contact synapse"
+      ],
+      "answer": 3,
+      "explanation": "Cytotoxic killing requires target recognition and close contact before directed granule release."
+    }
+  },
+  {
+    "page": 290,
+    "title": "Cytotoxic lymphocyte mechanism",
+    "explain": "This video resource reinforces the sequence of target recognition, stable contact, polarized granule release and apoptotic target death. The essential molecular pair is perforin plus granzymes.",
+    "mustKnow": [
+      "Target recognition precedes granule release.",
+      "Perforin and granzymes execute cytotoxic killing.",
+      "The target typically dies by apoptosis."
+    ],
+    "terms": [
+      {
+        "term": "Cytotoxic lymphocyte",
+        "meaning": "An NK cell or cytotoxic T cell capable of killing another cell."
+      }
+    ],
+    "diagramGuide": [
+      "The faint video frame belongs to the killing sequence: target recognition and synapse formation precede directed release of cytotoxic granules and target death."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which sequence best represents granule-mediated lymphocyte cytotoxicity?",
+      "options": [
+        "Chemotaxis, antibody secretion, capsule formation, lysis",
+        "Endotoxin release, receptor loss, DNA replication, memory",
+        "Target recognition, synapse formation, granule release, target-cell death",
+        "Granule release, target recognition, mitosis, phagocytosis"
+      ],
+      "answer": 2,
+      "explanation": "Recognition and synapse formation precede polarized cytotoxic granule release and death."
+    }
+  },
+  {
+    "page": 291,
+    "title": "Cytotoxic T cells",
+    "explain": "The linked cytotoxic T-cell example uses a killing mechanism similar to NK cells but target selection differs. Cytotoxic T cells belong to adaptive immunity and recognize a specific antigen peptide displayed on MHC class I before releasing perforin and granzymes.",
+    "mustKnow": [
+      "Cytotoxic T cells are adaptive immune cells.",
+      "They recognize specific peptide–MHC class I complexes.",
+      "They can kill through perforin and granzymes."
+    ],
+    "terms": [
+      {
+        "term": "Cytotoxic T cell",
+        "meaning": "Adaptive T lymphocyte that kills cells displaying its specific antigen on MHC class I."
+      },
+      {
+        "term": "Peptide–MHC complex",
+        "meaning": "A peptide fragment held by an MHC molecule for T-cell recognition."
+      },
+      {
+        "term": "T-cell receptor",
+        "meaning": "Antigen-specific receptor used by a T cell to inspect peptide–MHC."
+      }
+    ],
+    "diagramGuide": [
+      "The cytotoxic T-cell frame represents adaptive cell-mediated killing; unlike NK missing-self recognition, a cytotoxic T cell recognizes a specific peptide-MHC complex."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What gives a cytotoxic T cell greater antigen specificity than the missing-self mechanism of an NK cell?",
+      "options": [
+        "Sensing any extracellular ATP",
+        "Recognition of a particular peptide-MHC complex",
+        "Recognition of any low-pH compartment",
+        "Binding directly to peptidoglycan"
+      ],
+      "answer": 1,
+      "explanation": "Cytotoxic T cells use antigen receptors to recognize specific peptide-MHC complexes."
+    }
+  },
+  {
+    "page": 292,
+    "title": "Overall mechanism of microbial pathogenicity",
+    "explain": "Disease depends on a sequence of successful events: enough microbes reach a portal of entry, adhere, penetrate or evade defenses, damage host cells and eventually leave through a portal of exit. Virulence factors are microbial features that increase success at one or more steps.",
+    "mustKnow": [
+      "Virulence is a pathogen's capacity to harm a host.",
+      "Pathogenicity involves entry, adherence, defense evasion, damage and exit.",
+      "The number of invading microbes can affect whether disease develops.",
+      "Virulence factors convert a microbe into a more effective pathogen."
+    ],
+    "terms": [
+      {
+        "term": "Virulence",
+        "meaning": "Degree or capacity of a pathogen to cause harm."
+      },
+      {
+        "term": "Virulence factor",
+        "meaning": "A microbial structure or product that promotes colonization, invasion, evasion or damage."
+      },
+      {
+        "term": "Portal of entry",
+        "meaning": "Route by which a pathogen enters the host."
+      },
+      {
+        "term": "Portal of exit",
+        "meaning": "Route by which a pathogen leaves the host for transmission."
+      }
+    ],
+    "diagramGuide": [
+      "Read the flow left to right: portal of entry, penetration/evasion, damage, and portal of exit.",
+      "Adherence feeds into establishment of infection, while inoculum size and virulence factors influence whether disease occurs."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which ordering follows the pathogenicity flowchart from entry to transmission?",
+      "options": [
+        "Portal of entry -> defense evasion -> host damage -> portal of exit",
+        "Host damage -> portal of exit -> adherence -> portal of entry",
+        "Portal of exit -> colonization -> entry -> inoculum",
+        "Adherence -> portal of exit -> entry -> no host damage"
+      ],
+      "answer": 0,
+      "explanation": "The chart runs from entry through penetration/evasion and damage to exit."
+    }
+  },
+  {
+    "page": 293,
+    "title": "Steps in bacterial pathogenesis",
+    "explain": "The diagram organizes bacterial disease into exposure, adhesion, invasion, colonization with immune evasion, toxin action and tissue damage. Not every bacterium uses every step, but successful disease generally requires persistence at the host site and enough damage to disturb normal function.",
+    "mustKnow": [
+      "Exposure is followed by attachment or adhesion.",
+      "Invasion and colonization allow persistence and spread.",
+      "Immune evasion helps bacteria survive in the host.",
+      "Toxins and direct microbial effects produce tissue damage and disease."
+    ],
+    "terms": [
+      {
+        "term": "Colonization",
+        "meaning": "Establishment and multiplication of microbes at a host site."
+      },
+      {
+        "term": "Invasion",
+        "meaning": "Entry into host tissues or cells beyond the initial surface."
+      },
+      {
+        "term": "Immune evasion",
+        "meaning": "Avoidance, suppression or resistance of host immune defenses."
+      },
+      {
+        "term": "Toxin",
+        "meaning": "A microbial product that directly damages cells or disrupts physiology."
+      }
+    ],
+    "diagramGuide": [
+      "Follow the panels in order: exposure, adhesion, invasion, colonization/growth, toxicity, then tissue damage and disease.",
+      "The epithelial surface and mucus layer remain the spatial reference throughout."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which stage immediately precedes invasion in the illustrated pathogenesis sequence?",
+      "options": [
+        "Toxicity",
+        "Tissue damage",
+        "Portal of exit",
+        "Adhesion"
+      ],
+      "answer": 3,
+      "explanation": "The panel order is exposure, adhesion, invasion, colonization/growth, toxicity, and damage."
+    }
+  },
+  {
+    "page": 294,
+    "title": "Adherence requires a microbial ligand and host receptor",
+    "explain": "Adherence is often essential because microbes must resist being washed away before they can colonize. Attachment depends on complementary binding: a microbial surface ligand, often called an adhesin, binds a receptor on the host cell.",
+    "mustKnow": [
+      "Adherence is microbial attachment to host cells.",
+      "A microbial ligand binds a host receptor.",
+      "Attachment commonly precedes colonization and infection."
+    ],
+    "terms": [
+      {
+        "term": "Adherence",
+        "meaning": "Attachment of a microorganism to a host surface or cell."
+      },
+      {
+        "term": "Adhesin",
+        "meaning": "A microbial surface molecule that mediates attachment."
+      },
+      {
+        "term": "Ligand",
+        "meaning": "A molecule that binds specifically to a receptor."
+      },
+      {
+        "term": "Receptor",
+        "meaning": "A host component recognized and bound by a microbial ligand."
+      }
+    ],
+    "diagramGuide": [
+      "The binding pair is asymmetric: the receptor is a host-cell component and the ligand/adhesin is microbial."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "In a bacterial attachment pair, which component is expected on the microbe?",
+      "options": [
+        "MHC class I",
+        "Complement C3 made by the bacterium",
+        "Adhesin ligand",
+        "Host receptor"
+      ],
+      "answer": 2,
+      "explanation": "The microbial ligand/adhesin binds a receptor that is a host-cell component."
+    }
+  },
+  {
+    "page": 295,
+    "title": "M protein in Group A Streptococcus",
+    "explain": "Group A Streptococcus uses surface M protein in adherence and immune evasion. M protein helps interactions with fibronectin, promoting attachment and invasion. It also recruits host proteins such as fibrinogen, albumin and plasminogen, forming a cloak that hides bacterial epitopes and changes antibody access.",
+    "mustKnow": [
+      "M protein is a virulence factor of Group A Streptococcus.",
+      "Fibronectin binding promotes attachment and invasion.",
+      "A host-protein cloak can hide bacterial epitopes from antibodies.",
+      "M protein contributes to both adherence and immune evasion."
+    ],
+    "terms": [
+      {
+        "term": "M protein",
+        "meaning": "Major surface virulence protein of Group A Streptococcus."
+      },
+      {
+        "term": "Fibronectin",
+        "meaning": "A host extracellular-matrix protein that bacteria can exploit for attachment."
+      },
+      {
+        "term": "Epitope",
+        "meaning": "The specific part of an antigen recognized by an antibody or receptor."
+      },
+      {
+        "term": "Host-protein cloak",
+        "meaning": "Layer of recruited host proteins that masks a pathogen's surface."
+      }
+    ],
+    "diagramGuide": [
+      "The diagram places GAS M protein on the bacterial surface, binding host proteins such as fibronectin; the resulting cloak changes antibody access and supports adherence/invasion."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which host-protein recruitment would most directly create the M-protein cloak shown for GAS?",
+      "options": [
+        "Caspase coating an epithelial receptor",
+        "Fibronectin/fibrinogen coating the bacterial surface",
+        "Peptidoglycan coating the host nucleus",
+        "LPS coating a Gram-positive cell"
+      ],
+      "answer": 1,
+      "explanation": "M protein recruits host proteins including fibronectin and fibrinogen, masking bacterial epitopes."
+    }
+  },
+  {
+    "page": 296,
+    "title": "Why adherence matters",
+    "explain": "Attachment lets microbes remain at a favorable site long enough to colonize and cause disease. Because adhesin–receptor binding is selective, it can determine which host species or tissue a pathogen infects. Blocking adherence is therefore a possible treatment strategy.",
+    "mustKnow": [
+      "Adherence supports colonization and disease.",
+      "Receptor availability contributes to host and tissue specificity.",
+      "Adhesins or their receptor interactions can be drug targets."
+    ],
+    "terms": [
+      {
+        "term": "Host specificity",
+        "meaning": "Restriction of a pathogen to particular host species."
+      },
+      {
+        "term": "Tissue tropism",
+        "meaning": "Preference of a pathogen for particular tissues or cell types."
+      },
+      {
+        "term": "Drug target",
+        "meaning": "A molecule or interaction whose inhibition can reduce disease."
+      }
+    ],
+    "diagramGuide": [
+      "The receptor-ligand cartoon explains host specificity: adherence succeeds only when a microbial adhesin matches a receptor on the host tissue."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Why can the same bacterial adhesin colonize one tissue but not another?",
+      "options": [
+        "Its matching host receptor is tissue-restricted",
+        "All tissues have identical receptors",
+        "Adherence occurs without molecular binding",
+        "The capsule determines blood group"
+      ],
+      "answer": 0,
+      "explanation": "Tissue distribution of the matching host receptor helps determine tropism and host specificity."
+    }
+  },
+  {
+    "page": 297,
+    "title": "Bacterial capsules",
+    "explain": "A capsule is an organized outer layer, usually made of polysaccharide, located outside the bacterial cell wall. It can promote attachment and protect bacteria from host defenses. Encapsulated pathogens listed here include Streptococcus pneumoniae, Haemophilus influenzae and Bacillus anthracis.",
+    "mustKnow": [
+      "A capsule lies outside the bacterial cell wall.",
+      "Most bacterial capsules are polysaccharide-rich.",
+      "Capsules can aid attachment and immune evasion.",
+      "S. pneumoniae, H. influenzae and B. anthracis are examples shown."
+    ],
+    "terms": [
+      {
+        "term": "Capsule",
+        "meaning": "Organized protective layer external to a bacterial cell wall."
+      },
+      {
+        "term": "Polysaccharide",
+        "meaning": "A long carbohydrate polymer; a common capsule material."
+      },
+      {
+        "term": "Encapsulated bacterium",
+        "meaning": "A bacterium surrounded by a distinct capsule."
+      }
+    ],
+    "diagramGuide": [
+      "The capsule is the outer polysaccharide layer beyond the cell wall; the slide links it to attachment and evasion of host defenses."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which structural description identifies a capsule?",
+      "options": [
+        "Lipid bilayer inside the cytoplasm",
+        "Protein shell surrounding the nucleus",
+        "Peptidoglycan located inside ribosomes",
+        "Polysaccharide layer external to the cell wall"
+      ],
+      "answer": 3,
+      "explanation": "The capsule is shown as an outer polysaccharide layer outside the bacterial cell wall."
+    }
+  },
+  {
+    "page": 298,
+    "title": "Capsules can mask PAMP recognition",
+    "explain": "Innate immune cells use pattern-recognition receptors such as Toll-like receptors to detect conserved pathogen-associated molecular patterns. TLR4 recognizes bacterial lipopolysaccharide. A capsule can cover underlying microbial patterns, reducing receptor access and weakening early immune activation.",
+    "mustKnow": [
+      "PAMPs are conserved microbial features recognized by innate immunity.",
+      "TLRs are pattern-recognition receptors.",
+      "TLR4 recognizes bacterial LPS.",
+      "A capsule may mask PAMPs and reduce recognition."
+    ],
+    "terms": [
+      {
+        "term": "PAMP",
+        "meaning": "Pathogen-associated molecular pattern: a conserved microbial structure sensed by innate immunity."
+      },
+      {
+        "term": "TLR",
+        "meaning": "Toll-like receptor, a family of pattern-recognition receptors."
+      },
+      {
+        "term": "TLR4",
+        "meaning": "A receptor best known for detecting bacterial lipopolysaccharide."
+      },
+      {
+        "term": "LPS",
+        "meaning": "Lipopolysaccharide, a major outer-membrane component of Gram-negative bacteria."
+      }
+    ],
+    "diagramGuide": [
+      "In the normal route, bacterial PAMP recognition by a TLR activates signaling and inflammatory cytokines; the capsule blocks access, so the crossed-out route produces little/no response."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "If a capsule masks an LPS-containing surface from the pathway shown, which recognition event is reduced?",
+      "options": [
+        "Fas binding to Fas ligand",
+        "GPCR binding to epinephrine",
+        "TLR4 detection of a PAMP",
+        "T-cell receptor binding to peptide-MHC"
+      ],
+      "answer": 2,
+      "explanation": "The slide specifically identifies LPS as a PAMP recognized by TLR4."
+    }
+  },
+  {
+    "page": 299,
+    "title": "Capsules inhibit phagocytosis",
+    "explain": "Phagocytes ingest bacteria more efficiently when the microbial surface is directly recognizable or coated with opsonins. A capsule can hide binding targets and prevent close receptor contact, making attachment and engulfment less efficient.",
+    "mustKnow": [
+      "Capsules can reduce phagocyte binding to bacteria.",
+      "Reduced binding leads to reduced engulfment.",
+      "Opsonization can improve phagocytosis of encapsulated bacteria."
+    ],
+    "terms": [
+      {
+        "term": "Opsonization",
+        "meaning": "Coating a target with molecules that make it easier for phagocytes to bind and ingest."
+      },
+      {
+        "term": "Opsonin",
+        "meaning": "A molecule, such as certain antibodies or complement fragments, that promotes phagocytosis."
+      },
+      {
+        "term": "Antiphagocytic",
+        "meaning": "Able to resist or inhibit engulfment by phagocytes."
+      }
+    ],
+    "diagramGuide": [
+      "Compare left and right: complement C3b opsonization promotes binding to the phagocyte; the capsule interferes with opsonization/binding and therefore uptake."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "In the opsonization diagram, loss of surface C3b deposition would first reduce:",
+      "options": [
+        "Lysosomal acidification",
+        "Binding of the bacterium to the phagocyte",
+        "Bacterial DNA replication",
+        "Host collagen synthesis"
+      ],
+      "answer": 1,
+      "explanation": "Opsonin deposition promotes phagocyte binding, so blocking it impairs attachment before engulfment."
+    }
+  },
+  {
+    "page": 300,
+    "title": "Capsules can support survival after engulfment",
+    "explain": "Some capsules protect bacteria even after they enter a phagocyte. The capsule can reduce access or effectiveness of lysosomal enzymes and other antimicrobial factors, allowing the bacterium to resist digestion inside the phagolysosomal pathway.",
+    "mustKnow": [
+      "Some encapsulated bacteria resist intracellular digestion.",
+      "Capsules may reduce damage by lysosomal enzymes.",
+      "Engulfment does not guarantee microbial killing."
+    ],
+    "terms": [
+      {
+        "term": "Intracellular survival",
+        "meaning": "Persistence of a microbe inside a host cell despite antimicrobial mechanisms."
+      },
+      {
+        "term": "Lysosomal enzyme",
+        "meaning": "An acidic-compartment enzyme that degrades biological material."
+      },
+      {
+        "term": "Phagocyte evasion",
+        "meaning": "A microbial strategy that prevents engulfment, killing or digestion by phagocytes."
+      }
+    ],
+    "diagramGuide": [
+      "The bacterium is already inside a phagocyte, but its capsule resists lysosomal enzyme action; engulfment therefore does not guarantee killing."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "A bacterium is visible inside a phagosome but remains viable. Which capsule-associated step has most likely failed?",
+      "options": [
+        "Effective lysosomal digestion",
+        "Initial exposure to a host receptor",
+        "Release through a portal of exit",
+        "Synthesis of cytokines by the liver"
+      ],
+      "answer": 0,
+      "explanation": "The diagram shows capsule-mediated resistance to lysosomal digestion after uptake."
+    }
+  },
+  {
+    "page": 301,
+    "title": "Biofilms and Quorum Sensing",
+    "explain": "A biofilm is a surface-associated microbial community. Quorum sensing lets bacteria detect population density and change gene expression together, which helps coordinate biofilm behavior.",
+    "mustKnow": [
+      "Biofilms are organized bacterial communities.",
+      "Quorum sensing links population density to altered gene expression."
+    ],
+    "terms": [
+      {
+        "term": "Biofilm",
+        "meaning": "A community of microorganisms attached to a surface."
+      },
+      {
+        "term": "Quorum sensing",
+        "meaning": "Population-density sensing that changes bacterial gene expression."
+      }
+    ],
+    "diagramGuide": [
+      "Follow the biofilm stages left to right: attachment, initial adherence, microcolony/biofilm maturation, then dispersal.",
+      "Quorum sensing coordinates density-dependent gene expression during community development."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which biofilm stage supplies cells that can colonize a new site?",
+      "options": [
+        "Initial attachment",
+        "Irreversible attachment",
+        "Maturation only",
+        "Dispersal"
+      ],
+      "answer": 3,
+      "explanation": "The last panel shows cells leaving the mature community during dispersal."
+    }
+  },
+  {
+    "page": 302,
+    "title": "Breaching the Mucus Barrier",
+    "explain": "Mucus keeps many pathogens away from host-cell surfaces. To attach to or invade those cells, a pathogen often must first cross or disrupt this protective barrier.",
+    "mustKnow": [
+      "Mucus is a physical host barrier.",
+      "Breaching mucus can be necessary for access to host cells."
+    ],
+    "terms": [
+      {
+        "term": "Mucus barrier",
+        "meaning": "A protective secretion that limits microbial access to underlying cells."
+      },
+      {
+        "term": "Barrier breach",
+        "meaning": "Crossing or disrupting a host defense layer."
+      }
+    ],
+    "diagramGuide": [
+      "The diagram is layered: mucus is the first barrier, epithelial cells lie below it, and basement membrane is deeper. Pathogens must cross mucus to contact cell receptors."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "After crossing the mucus layer, which structure does a pathogen encounter next in the displayed tissue arrangement?",
+      "options": [
+        "Lymph-node germinal center",
+        "Mitochondrial matrix",
+        "Epithelial cell surface",
+        "Bone marrow"
+      ],
+      "answer": 2,
+      "explanation": "The diagram places the epithelial surface directly beneath mucus."
+    }
+  },
+  {
+    "page": 303,
+    "title": "Bacterial Enzymes as Virulence Factors",
+    "explain": "Pathogenic bacteria can produce enzymes that change host barriers or defenses. The listed groups are coagulase and kinases, hyaluronidase and collagenase, and IgA protease.",
+    "mustKnow": [
+      "Bacterial enzymes can promote invasion or immune evasion.",
+      "Know the three listed enzyme groups."
+    ],
+    "terms": [
+      {
+        "term": "Virulence factor",
+        "meaning": "A microbial feature that helps cause disease."
+      },
+      {
+        "term": "IgA protease",
+        "meaning": "A bacterial enzyme that cleaves the antibody IgA."
+      }
+    ],
+    "diagramGuide": [
+      "The brick wall represents connective-tissue barriers; the listed enzymes are grouped by what they help bacteria overcome: clotting, matrix, or mucosal antibody."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which enzyme is best matched to escape from a mucosal IgA defense rather than connective-tissue spread?",
+      "options": [
+        "Coagulase",
+        "IgA protease",
+        "Collagenase",
+        "Hyaluronidase"
+      ],
+      "answer": 1,
+      "explanation": "IgA protease targets mucosal antibody; collagenase and hyaluronidase target matrix."
+    }
+  },
+  {
+    "page": 304,
+    "title": "Hyaluronidase and Collagenase",
+    "explain": "These enzymes digest components of connective tissue, making tissue invasion easier. The slide associates hyaluronidase with Staphylococcus aureus and Streptococcus pyogenes, and collagenase with Clostridium perfringens.",
+    "mustKnow": [
+      "Both enzymes support invasion by digesting connective tissue.",
+      "Hyaluronidase: S. aureus and S. pyogenes.",
+      "Collagenase: C. perfringens and gas gangrene."
+    ],
+    "terms": [
+      {
+        "term": "Hyaluronidase",
+        "meaning": "An enzyme that helps break down connective-tissue material."
+      },
+      {
+        "term": "Collagenase",
+        "meaning": "An enzyme that breaks down collagen."
+      },
+      {
+        "term": "Gas gangrene",
+        "meaning": "A severe tissue infection associated here with C. perfringens."
+      }
+    ],
+    "diagramGuide": [
+      "Hyaluronidase digests hyaluronic-acid-rich ground substance; collagenase digests collagen. Both open paths through connective tissue.",
+      "The examples pair hyaluronidase with S. aureus/S. pyogenes and collagenase with C. perfringens."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "A pathogen spreads through collagen-rich deep tissue. Which listed enzyme is the closest mechanistic match?",
+      "options": [
+        "Collagenase",
+        "Coagulase",
+        "IgA protease",
+        "Streptokinase"
+      ],
+      "answer": 0,
+      "explanation": "Collagenase digests collagen and is linked on the slide to tissue invasion."
+    }
+  },
+  {
+    "page": 305,
+    "title": "Coagulase and Streptokinase",
+    "explain": "Coagulase promotes clot formation around bacteria, which can reduce access by phagocytes, immune factors, and antibiotics. Streptokinase has the opposite clot-related use: it is used clinically to dissolve clots.",
+    "mustKnow": [
+      "Coagulase can shield bacteria from host defenses.",
+      "Coagulase-producing S. aureus strains are associated with pathogenicity.",
+      "Streptokinase is used to dissolve clots."
+    ],
+    "terms": [
+      {
+        "term": "Coagulase",
+        "meaning": "A bacterial enzyme that promotes clot formation."
+      },
+      {
+        "term": "Streptokinase",
+        "meaning": "A clot-dissolving bacterial protein used clinically."
+      },
+      {
+        "term": "Phagocytosis",
+        "meaning": "Engulfment and digestion of microbes by host cells."
+      }
+    ],
+    "diagramGuide": [
+      "The left-to-right clot sequence contrasts coagulase, which creates a protective clot, with kinase/streptokinase, which dissolves clots and permits spread.",
+      "The checks connect clot formation with reduced phagocyte, immune, and antibiotic access."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which contrast between the two enzyme types is correct?",
+      "options": [
+        "Both enzymes exclusively form clots",
+        "Coagulase dissolves clots; streptokinase makes capsules",
+        "Both enzymes digest IgA",
+        "Coagulase forms a protective clot; streptokinase dissolves clots"
+      ],
+      "answer": 3,
+      "explanation": "The figure contrasts coagulase-driven clot formation with kinase-mediated clot dissolution."
+    }
+  },
+  {
+    "page": 306,
+    "title": "Basic Bacterial Cell-Wall Structure",
+    "explain": "The bacterial cell wall is an outer layer containing peptidoglycan, a network built from sugars and amino acids. Surface proteins may also be carried on the wall.",
+    "mustKnow": [
+      "Peptidoglycan contains sugars and amino acids.",
+      "The cell wall can display surface proteins."
+    ],
+    "terms": [
+      {
+        "term": "Peptidoglycan",
+        "meaning": "A sugar-and-amino-acid polymer that forms the bacterial cell wall."
+      },
+      {
+        "term": "Surface protein",
+        "meaning": "A protein exposed or attached at the bacterial surface."
+      }
+    ],
+    "diagramGuide": [
+      "The envelope diagram places peptidoglycan outside the cytoplasmic membrane; surface proteins may project from or associate with the wall."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which wall component is explicitly composed of sugars and amino acids?",
+      "options": [
+        "Lipid A",
+        "Cholesterol",
+        "Peptidoglycan",
+        "Mycolic acid"
+      ],
+      "answer": 2,
+      "explanation": "Peptidoglycan is identified as the sugar-and-amino-acid wall polymer."
+    }
+  },
+  {
+    "page": 307,
+    "title": "Mycolic Acid Resists Lysosomal Digestion",
+    "explain": "Mycolic acid in the cell wall helps some bacteria resist digestion by lysosomal enzymes after they are engulfed. The examples given are Mycobacterium tuberculosis and Mycobacterium leprae.",
+    "mustKnow": [
+      "Mycolic acid increases resistance to lysosomal digestion.",
+      "M. tuberculosis and M. leprae contain mycolic acid in their walls."
+    ],
+    "terms": [
+      {
+        "term": "Mycolic acid",
+        "meaning": "A waxy cell-wall lipid that helps mycobacteria resist degradation."
+      },
+      {
+        "term": "Lysosomal enzyme",
+        "meaning": "A degradative enzyme inside a lysosome."
+      }
+    ],
+    "diagramGuide": [
+      "The phagocyte diagram shows mycobacteria surviving after uptake because the mycolic-acid-rich wall resists lysosomal digestion."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which organisms on the slide gain lysosomal resistance from a mycolic-acid-rich wall?",
+      "options": [
+        "Clostridium perfringens and Bacillus anthracis",
+        "Mycobacterium tuberculosis and M. leprae",
+        "Vibrio cholerae and E. coli",
+        "Streptococcus pyogenes and S. pneumoniae"
+      ],
+      "answer": 1,
+      "explanation": "The two listed examples are M. tuberculosis and M. leprae."
+    }
+  },
+  {
+    "page": 308,
+    "title": "Invasins and Membrane Ruffling",
+    "explain": "Invasins are pathogen surface proteins that rearrange actin in the host-cell cytoskeleton. This produces membrane ruffling and helps the microbe enter the cell.",
+    "mustKnow": [
+      "Invasins are pathogen surface proteins.",
+      "They alter host actin filaments.",
+      "Actin rearrangement enables microbial entry."
+    ],
+    "terms": [
+      {
+        "term": "Invasin",
+        "meaning": "A microbial surface protein that promotes entry into host cells."
+      },
+      {
+        "term": "Membrane ruffling",
+        "meaning": "Actin-driven folding or movement of the host plasma membrane."
+      },
+      {
+        "term": "Actin",
+        "meaning": "A cytoskeletal protein involved in cell shape and movement."
+      }
+    ],
+    "diagramGuide": [
+      "Follow the arrows: bacterial invasin signals to host actin, membrane ruffles rise around the bacterium, the bacterium is enclosed, and then enters the cell."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "In the membrane-ruffling sequence, which host component is rearranged directly by invasin-triggered signaling?",
+      "options": [
+        "Actin cytoskeleton",
+        "Peptidoglycan wall",
+        "Nuclear DNA polymerase",
+        "Lysosomal cathepsin"
+      ],
+      "answer": 0,
+      "explanation": "Invasins alter host actin filaments, driving membrane ruffles around the microbe."
+    }
+  },
+  {
+    "page": 309,
+    "title": "Toxins, Toxigenicity, and Toxemia",
+    "explain": "A toxin is a poisonous substance produced by a microorganism. Toxigenicity is the organism's ability to produce toxins, while toxemia means toxins are present in the blood.",
+    "mustKnow": [
+      "Toxin: poisonous microbial product.",
+      "Toxigenicity: ability to produce toxin.",
+      "Toxemia: toxin present in blood."
+    ],
+    "terms": [
+      {
+        "term": "Toxin",
+        "meaning": "A poisonous substance produced by a microorganism."
+      },
+      {
+        "term": "Toxigenicity",
+        "meaning": "The ability of a microorganism to produce toxins."
+      },
+      {
+        "term": "Toxemia",
+        "meaning": "The presence of toxins in the bloodstream."
+      }
+    ],
+    "diagramGuide": [
+      "The lower cartoons contrast exotoxin secretion from a living bacterium with endotoxin as part of the outer envelope released especially when cells break down."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which statement distinguishes exotoxin from endotoxin in the lower diagrams?",
+      "options": [
+        "Both are host antibodies",
+        "Endotoxin is secreted only by living Gram-positive cells",
+        "Exotoxin is the lipid A portion of LPS",
+        "Exotoxin is secreted protein; endotoxin is part of the bacterial outer envelope"
+      ],
+      "answer": 3,
+      "explanation": "The slide contrasts secreted exotoxin with envelope-associated endotoxin."
+    }
+  },
+  {
+    "page": 310,
+    "title": "Diphtheria Toxin Blocks Translation",
+    "explain": "Diphtheria toxin is an A-B toxin. After receptor-mediated endocytosis and acid-triggered translocation, fragment A enters the cytoplasm and ADP-ribosylates eEF-2, stopping protein translation and killing the host cell.",
+    "mustKnow": [
+      "Diphtheria toxin is an A-B toxin.",
+      "Fragment A modifies eEF-2.",
+      "The result is inhibition of protein synthesis."
+    ],
+    "terms": [
+      {
+        "term": "A-B toxin",
+        "meaning": "A toxin with an active component and a cell-binding or delivery component."
+      },
+      {
+        "term": "eEF-2",
+        "meaning": "A eukaryotic elongation factor required for protein translation."
+      },
+      {
+        "term": "ADP-ribosylation",
+        "meaning": "Covalent addition of an ADP-ribose group to a target protein."
+      }
+    ],
+    "diagramGuide": [
+      "Follow the A-B toxin route: receptor binding and endocytosis, endosomal acidification, A-fragment translocation, then eEF-2 ADP-ribosylation and halted translation."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Diphtheria toxin fragment A reaches the cytosol. Which substrate modification causes translation arrest?",
+      "options": [
+        "Cleavage of GM1 ganglioside",
+        "Acetylation of peptidoglycan",
+        "ADP-ribosylation of eEF-2",
+        "Phosphorylation of actin"
+      ],
+      "answer": 2,
+      "explanation": "Fragment A ADP-ribosylates eEF-2, preventing protein synthesis."
+    }
+  },
+  {
+    "page": 311,
+    "title": "Cholera Toxin Raises cAMP",
+    "explain": "Cholera toxin is an AB5 toxin: five B subunits bind GM1 and deliver the active A1 fragment. A1 locks Gs alpha in its active GTP-bound state, keeping adenylyl cyclase active. The resulting cAMP surge drives ion and water loss into the intestine, causing diarrhea.",
+    "mustKnow": [
+      "Cholera toxin has one active A subunit and five binding B subunits.",
+      "It keeps Gs alpha active and raises cAMP.",
+      "High cAMP causes ion and water efflux into the intestine."
+    ],
+    "terms": [
+      {
+        "term": "AB5 toxin",
+        "meaning": "A toxin containing one active A subunit and five receptor-binding B subunits."
+      },
+      {
+        "term": "GM1",
+        "meaning": "The cell-surface receptor bound by cholera toxin B subunits."
+      },
+      {
+        "term": "cAMP",
+        "meaning": "A second messenger produced by adenylyl cyclase."
+      }
+    ],
+    "diagramGuide": [
+      "The AB5 diagram shows five B subunits binding GM1 and one enzymatic A subunit entering the cell.",
+      "The signaling chain is persistent Gs activation to adenylyl cyclase to high cAMP to ion/water secretion into the intestine."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which molecular event lies directly between cholera-toxin entry and the cAMP surge?",
+      "options": [
+        "Polymerization of peptidoglycan",
+        "Persistent activation of Gs alpha",
+        "Inactivation of all adenylyl cyclase",
+        "Cleavage of eEF-2"
+      ],
+      "answer": 1,
+      "explanation": "A1 locks Gs alpha active, which persistently stimulates adenylyl cyclase."
+    }
+  },
+  {
+    "page": 312,
+    "title": "How GPCR Signaling Begins",
+    "explain": "G protein-coupled receptors have seven membrane-spanning helices. Ligand binding activates a trimeric G protein, which then regulates an effector such as adenylyl cyclase.",
+    "mustKnow": [
+      "GPCRs have seven transmembrane helices.",
+      "They activate trimeric G proteins after ligand binding.",
+      "Adenylyl cyclase is one possible downstream effector."
+    ],
+    "terms": [
+      {
+        "term": "GPCR",
+        "meaning": "A seven-transmembrane receptor that signals through G proteins."
+      },
+      {
+        "term": "Trimeric G protein",
+        "meaning": "A signaling protein complex with alpha, beta, and gamma subunits."
+      },
+      {
+        "term": "Effector",
+        "meaning": "A downstream protein whose activity is changed by a signal."
+      }
+    ],
+    "diagramGuide": [
+      "The receptor crosses the membrane seven times; ligand binding changes the cytosolic face, where it activates a heterotrimeric G protein that regulates an effector such as adenylyl cyclase."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "A receptor has seven transmembrane helices and activates a trimeric G protein. Which effector shown may be activated next?",
+      "options": [
+        "Adenylyl cyclase",
+        "Peptidoglycan synthase",
+        "Caspase-9 apoptosome",
+        "Lysosomal collagenase"
+      ],
+      "answer": 0,
+      "explanation": "The GPCR diagram shows activated G protein regulating an effector such as adenylyl cyclase."
+    }
+  },
+  {
+    "page": 313,
+    "title": "GPCR Amplification and Shutoff",
+    "explain": "An activated G protein can stimulate an effector to generate many second-messenger molecules, amplifying the signal. Signaling stops when the G alpha subunit hydrolyzes GTP, and receptor phosphorylation plus arrestin binding attenuates further receptor signaling.",
+    "mustKnow": [
+      "Effector activation can amplify the original signal.",
+      "GTP hydrolysis on G alpha helps stop signaling.",
+      "Receptor phosphorylation and arrestin produce attenuation."
+    ],
+    "terms": [
+      {
+        "term": "Signal amplification",
+        "meaning": "Production of a larger intracellular response from a smaller initial signal."
+      },
+      {
+        "term": "Signal attenuation",
+        "meaning": "Reduction of signaling despite continued or repeated stimulation."
+      },
+      {
+        "term": "Arrestin",
+        "meaning": "A protein that binds phosphorylated GPCRs and limits further G-protein activation."
+      }
+    ],
+    "diagramGuide": [
+      "The left panels show signal amplification: one receptor activates multiple G proteins and effectors. The right panels show cessation/attenuation as GTP is hydrolyzed and components reset."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which event terminates the active alpha-subunit state in the GPCR cycle?",
+      "options": [
+        "Exchange of GDP for GTP",
+        "Ligand binding to the receptor",
+        "Activation of adenylyl cyclase",
+        "Hydrolysis of bound GTP to GDP"
+      ],
+      "answer": 3,
+      "explanation": "GTP hydrolysis returns the alpha subunit to the inactive GDP-bound state and attenuates signaling."
+    }
+  },
+  {
+    "page": 314,
+    "title": "Endotoxin Is Lipid A of LPS",
+    "explain": "In Gram-negative bacteria, the lipid A portion of lipopolysaccharide acts as endotoxin and contributes importantly to disease.",
+    "mustKnow": [
+      "Endotoxin is the lipid A portion of LPS.",
+      "LPS is associated with the Gram-negative bacterial cell wall."
+    ],
+    "terms": [
+      {
+        "term": "Endotoxin",
+        "meaning": "The inflammatory lipid A component of Gram-negative LPS."
+      },
+      {
+        "term": "LPS",
+        "meaning": "Lipopolysaccharide, a major component of the Gram-negative outer membrane."
+      },
+      {
+        "term": "Lipid A",
+        "meaning": "The endotoxin-containing lipid portion of LPS."
+      }
+    ],
+    "diagramGuide": [
+      "The envelope diagram locates LPS in the outer membrane of Gram-negative bacteria; lipid A is the membrane-anchored toxic portion."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which nested identification is correct?",
+      "options": [
+        "Endotoxin = secreted A subunit of cholera toxin",
+        "Endotoxin = bacterial capsule polysaccharide",
+        "Endotoxin = lipid A portion of LPS in Gram-negative outer membrane",
+        "Endotoxin = peptidoglycan of Gram-positive cytoplasm"
+      ],
+      "answer": 2,
+      "explanation": "The slide identifies lipid A within LPS as Gram-negative endotoxin."
+    }
+  },
+  {
+    "page": 315,
+    "title": "How Endotoxin Is Released",
+    "explain": "Endotoxin can be released when Gram-negative bacteria are broken down. The listed causes are complement-mediated lysis, phagocytic digestion, and antibiotic use.",
+    "mustKnow": [
+      "Bacterial breakdown can release endotoxin.",
+      "Complement lysis, phagocytic digestion, and antibiotics are listed release routes."
+    ],
+    "terms": [
+      {
+        "term": "Complement-mediated lysis",
+        "meaning": "Destruction of a microbial cell by complement proteins."
+      },
+      {
+        "term": "Phagocytic digestion",
+        "meaning": "Breakdown of engulfed microbes inside a phagocyte."
+      }
+    ],
+    "diagramGuide": [
+      "The broken bacterium icon represents endotoxin release during bacterial lysis/digestion; listed causes include complement, phagocytes, and antibiotic treatment."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Why can antibiotic treatment transiently increase exposure to endotoxin?",
+      "options": [
+        "Host cells begin producing LPS",
+        "Bacterial damage/lysis releases LPS-associated lipid A",
+        "Antibiotics convert exotoxin into antibody",
+        "Antibiotics synthesize new capsules"
+      ],
+      "answer": 1,
+      "explanation": "Breakdown of Gram-negative bacteria can release envelope-associated endotoxin."
+    }
+  },
+  {
+    "page": 316,
+    "title": "Effects of Endotoxin",
+    "explain": "Endotoxin stimulates inflammatory signaling and cytokine secretion. The slide links this response with fever and effects involving the blood-brain barrier.",
+    "mustKnow": [
+      "Endotoxin promotes inflammation.",
+      "It stimulates cytokine secretion.",
+      "Fever is a major outcome."
+    ],
+    "terms": [
+      {
+        "term": "Cytokine",
+        "meaning": "A secreted signaling protein that coordinates immune and inflammatory responses."
+      },
+      {
+        "term": "Inflammation",
+        "meaning": "A coordinated host response to infection or tissue damage."
+      },
+      {
+        "term": "Blood-brain barrier",
+        "meaning": "A selective barrier between circulating blood and brain tissue."
+      }
+    ],
+    "diagramGuide": [
+      "The central endotoxin node branches to cytokine secretion, inflammation, fever, and blood-brain-barrier effects; cytokines mediate several downstream effects."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which mediator most directly links endotoxin sensing to the multiple branches shown?",
+      "options": [
+        "Cytokine secretion",
+        "Bacterial collagen synthesis",
+        "Antibody gene rearrangement",
+        "Erythrocyte enucleation"
+      ],
+      "answer": 0,
+      "explanation": "The diagram places cytokine secretion downstream of endotoxin and upstream of systemic effects."
+    }
+  },
+  {
+    "page": 317,
+    "title": "Endotoxin Is Heat Stable",
+    "explain": "Endotoxins are pyrogens, meaning they can cause fever. They are heat stable, so killing bacteria by some sterilization methods does not necessarily remove the endotoxin already present.",
+    "mustKnow": [
+      "Endotoxins are pyrogens.",
+      "Endotoxins are heat stable.",
+      "Bacterial killing does not guarantee endotoxin removal."
+    ],
+    "terms": [
+      {
+        "term": "Pyrogen",
+        "meaning": "A substance that can produce fever."
+      },
+      {
+        "term": "Heat stable",
+        "meaning": "Not readily destroyed by heating."
+      },
+      {
+        "term": "Sterilization",
+        "meaning": "A process intended to eliminate viable microorganisms."
+      }
+    ],
+    "diagramGuide": [
+      "Read the sequence left to right: macrophage uptake of endotoxin, cytokine release into blood, hypothalamic prostaglandin production, and increased temperature set point.",
+      "The red note separates bacterial killing from endotoxin removal because endotoxin is heat stable."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "In the pyrogen pathway, cytokines raise temperature by acting through which intermediate site/process?",
+      "options": [
+        "Bone-marrow peptidoglycan synthesis",
+        "Renal capsule formation",
+        "Mitochondrial cytochrome-c retention",
+        "Hypothalamic prostaglandin production"
+      ],
+      "answer": 3,
+      "explanation": "The diagram routes cytokine signals to hypothalamic prostaglandins that alter the temperature set point."
+    }
+  },
+  {
+    "page": 318,
+    "title": "Lecture 31: Cell Death Pathways",
+    "explain": "This lecture introduces major regulated cell-death pathways, including apoptosis, necroptosis, autophagy-related degradation, and ferroptosis.",
+    "mustKnow": [
+      "The lecture topic is cell death pathways.",
+      "The following slides compare distinct mechanisms of cell death."
+    ],
+    "terms": [
+      {
+        "term": "Cell-death pathway",
+        "meaning": "A defined molecular process that leads to loss of cell viability."
+      }
+    ],
+    "diagramGuide": [
+      "This is a section divider. The concentric-cell graphic introduces multiple regulated routes of cell death covered in the following slides."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which topic begins with this divider and is developed in the following slides?",
+      "options": [
+        "Blood-cell hematopoiesis",
+        "Mucociliary clearance",
+        "Regulated cell-death pathways",
+        "Bacterial adherence"
+      ],
+      "answer": 2,
+      "explanation": "The divider explicitly introduces Lecture 31 on cell-death pathways."
+    }
+  },
+  {
+    "page": 319,
+    "title": "Why Programmed Cell Death Is Needed",
+    "explain": "Programmed cell death supports normal development and tissue homeostasis, regulates immune-cell populations, removes infected or damaged cells, and responds to cellular stress.",
+    "mustKnow": [
+      "It shapes tissues during development.",
+      "It maintains tissue and immune homeostasis.",
+      "It eliminates damaged or infected cells.",
+      "It can be triggered by cellular stress."
+    ],
+    "terms": [
+      {
+        "term": "Homeostasis",
+        "meaning": "Maintenance of stable tissue composition and function."
+      },
+      {
+        "term": "Morphogenesis",
+        "meaning": "The biological process that gives tissues and organs their form."
+      },
+      {
+        "term": "Cellular stress",
+        "meaning": "A condition that threatens normal cell function or survival."
+      }
+    ],
+    "diagramGuide": [
+      "The wheel groups physiological uses of programmed death: development/homeostasis, organ shaping, immune regulation, removal of infected or damaged cells, and stress responses."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which scenario is a physiological use of programmed cell death rather than accidental injury?",
+      "options": [
+        "Mechanical tearing of a membrane",
+        "Removal of self-reactive lymphocytes",
+        "Immediate rupture after extreme trauma",
+        "Random protein denaturation by heat"
+      ],
+      "answer": 1,
+      "explanation": "Immune regulation, including deletion of inappropriate lymphocytes, is a normal role of programmed death."
+    }
+  },
+  {
+    "page": 320,
+    "title": "Hallmarks of Apoptosis",
+    "explain": "Apoptosis produces an orderly set of structural and biochemical changes: cell shrinkage, condensed and fragmented chromatin, membrane blebbing, apoptotic bodies, and phagocytosis. Caspases activate, DNA fragments, and phosphatidylserine becomes exposed at the cell surface.",
+    "mustKnow": [
+      "Morphology includes shrinkage, chromatin condensation, nuclear fragmentation, and blebbing.",
+      "Apoptotic bodies are removed by phagocytosis.",
+      "Biochemical signs include caspase activation, DNA fragmentation, and phosphatidylserine exposure."
+    ],
+    "terms": [
+      {
+        "term": "Apoptotic body",
+        "meaning": "A membrane-bound fragment produced by an apoptotic cell."
+      },
+      {
+        "term": "Phosphatidylserine inversion",
+        "meaning": "Exposure of phosphatidylserine on the outer surface of the plasma membrane."
+      },
+      {
+        "term": "Chromatin condensation",
+        "meaning": "Compaction of nuclear DNA and associated proteins."
+      }
+    ],
+    "diagramGuide": [
+      "Read the top sequence left to right: shrinkage, membrane blebbing, apoptotic-body formation, then phagocytosis.",
+      "The micrographs contrast an intact normal nucleus with condensed/fragmented apoptotic chromatin."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which sequence preserves the morphology shown for apoptosis?",
+      "options": [
+        "Cell shrinkage -> blebbing -> apoptotic bodies -> phagocytosis",
+        "Cell swelling -> rupture -> DAMP release -> inflammation",
+        "Ruffling -> invasion -> biofilm -> dispersal",
+        "Adhesion -> clotting -> collagen digestion -> exit"
+      ],
+      "answer": 0,
+      "explanation": "The top row shows shrinkage, blebbing, fragmentation into apoptotic bodies, then clearance."
+    }
+  },
+  {
+    "page": 321,
+    "title": "Initiator and Executioner Caspases",
+    "explain": "Caspases form an activation cascade. Initiator caspases such as caspase-8 and caspase-9 activate executioner caspases such as caspase-3, caspase-6, and caspase-7, which dismantle the cell.",
+    "mustKnow": [
+      "Initiators: caspase-8 and caspase-9.",
+      "Executioners: caspase-3, caspase-6, and caspase-7.",
+      "Initiators activate the downstream execution phase."
+    ],
+    "terms": [
+      {
+        "term": "Caspase",
+        "meaning": "A protease that cleaves selected proteins during regulated cell death."
+      },
+      {
+        "term": "Initiator caspase",
+        "meaning": "An upstream caspase that starts a caspase cascade."
+      },
+      {
+        "term": "Executioner caspase",
+        "meaning": "A downstream caspase that cleaves cellular targets."
+      }
+    ],
+    "diagramGuide": [
+      "The diagram is a proteolytic cascade: apoptotic signals activate initiator caspases 8/9, which cleave executioner procaspases 3/6/7, and executioners cleave many cellular substrates."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which pairing correctly assigns cascade level?",
+      "options": [
+        "Caspase-3 initiator; caspase-9 executioner",
+        "Caspase-6 initiator; caspase-8 executioner",
+        "Caspase-7 initiator; caspase-9 executioner",
+        "Caspase-9 initiator; caspase-3 executioner"
+      ],
+      "answer": 3,
+      "explanation": "Caspases 8/9 are initiators; caspases 3/6/7 are executioners."
+    }
+  },
+  {
+    "page": 322,
+    "title": "How Caspases Produce Apoptotic Features",
+    "explain": "Caspase cleavage of cytoskeletal regulators drives cortical actin changes and membrane blebbing. Cleavage of plasma-membrane phospholipid-transfer proteins exposes phosphatidylserine on the cell surface.",
+    "mustKnow": [
+      "Caspase targets help create membrane blebs.",
+      "Caspase activity leads to surface exposure of phosphatidylserine."
+    ],
+    "terms": [
+      {
+        "term": "Cell cortex",
+        "meaning": "The actin-rich layer beneath the plasma membrane."
+      },
+      {
+        "term": "Membrane blebbing",
+        "meaning": "Formation of bulges in the plasma membrane during apoptosis."
+      },
+      {
+        "term": "Phospholipid-transfer protein",
+        "meaning": "A protein that helps maintain lipid distribution across a membrane."
+      }
+    ],
+    "diagramGuide": [
+      "The left tree groups caspase functions; the center gel illustrates CAD-mediated DNA laddering after ICAD cleavage; the lower membrane sketch shows phosphatidylserine exposure.",
+      "Caspase cleavage links molecular substrates to visible apoptotic features."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "ICAD cleavage releases CAD. Which experimental pattern in the slide is the expected consequence?",
+      "options": [
+        "LPS band formation",
+        "Collagen cross-linking",
+        "Internucleosomal DNA laddering",
+        "Increased intact genomic DNA only"
+      ],
+      "answer": 2,
+      "explanation": "Released CAD fragments DNA at regular intervals, producing the ladder pattern."
+    }
+  },
+  {
+    "page": 323,
+    "title": "Intrinsic Mitochondrial Apoptosis",
+    "explain": "An internal apoptotic stimulus induces pro-apoptotic proteins and activates BAX and BAK. These proteins permeabilize the mitochondrial outer membrane, releasing cytochrome c. Cytochrome c supports apoptosome formation, caspase activation, and apoptosis. Excess anti-apoptotic BCL-2 can block BAX and BAK and preserve survival.",
+    "mustKnow": [
+      "BAX and BAK permeabilize the mitochondrial outer membrane.",
+      "Cytochrome c release promotes apoptosome formation.",
+      "The apoptosome activates caspases.",
+      "BCL-2 opposes the pathway."
+    ],
+    "terms": [
+      {
+        "term": "BAX and BAK",
+        "meaning": "Pro-apoptotic proteins that form openings in the mitochondrial outer membrane."
+      },
+      {
+        "term": "Cytochrome c",
+        "meaning": "A mitochondrial protein that helps form the apoptosome after release into the cytosol."
+      },
+      {
+        "term": "Apoptosome",
+        "meaning": "A cytosolic protein complex that activates an initiator caspase."
+      },
+      {
+        "term": "BCL-2",
+        "meaning": "An anti-apoptotic protein that can prevent mitochondrial permeabilization."
+      }
+    ],
+    "diagramGuide": [
+      "Follow the mitochondrial route: cellular stress activates BH3-only proteins, BAX/BAK permeabilize the outer mitochondrial membrane, cytochrome c is released, apoptosome forms, caspase-9 activates caspase-3/7."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which ordering correctly follows intrinsic apoptosis after cellular stress?",
+      "options": [
+        "LPS release -> TLR4 -> caspase-9",
+        "BAX/BAK activation -> cytochrome c release -> apoptosome -> caspase-9",
+        "Fas ligation -> DISC -> caspase-8 -> BAX synthesis only",
+        "MLKL activation -> membrane rupture -> apoptosome"
+      ],
+      "answer": 1,
+      "explanation": "The mitochondrial pathway proceeds through BAX/BAK permeabilization, cytochrome c, apoptosome, and caspase-9."
+    }
+  },
+  {
+    "page": 324,
+    "title": "Classes of BCL-2 Family Proteins",
+    "explain": "The BCL-2 family contains three pro-apoptotic classes—activators, effectors, and derepressors or sensitizers—and one anti-apoptotic class. Effectors and anti-apoptotic members contain BH1-BH4 domains, while activators and sensitizers contain only a BH3 domain.",
+    "mustKnow": [
+      "There are three pro-apoptotic classes and one anti-apoptotic class.",
+      "Effectors and anti-apoptotic members have BH1-BH4.",
+      "Activators and sensitizers are BH3-only proteins."
+    ],
+    "terms": [
+      {
+        "term": "BCL-2 family",
+        "meaning": "Proteins that regulate mitochondrial apoptosis."
+      },
+      {
+        "term": "BH domain",
+        "meaning": "A BCL-2 homology region used to classify and mediate interactions among family members."
+      },
+      {
+        "term": "BH3-only protein",
+        "meaning": "A pro-apoptotic BCL-2 family member containing only the BH3 domain."
+      }
+    ],
+    "diagramGuide": [
+      "Use the domain bars: effectors BAX/BAK and anti-apoptotic BCL-2-like proteins contain BH1-BH4; activators and sensitizers such as BID/BIM/PUMA or BAD/BIK/BMF are BH3-only.",
+      "The interaction grid shows anti-apoptotic proteins binding and restraining pro-apoptotic members."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which pair belongs to the multi-domain pro-apoptotic effector class rather than the BH3-only class?",
+      "options": [
+        "BAX and BAK",
+        "BID and BIM",
+        "BAD and BIK",
+        "BMF and NOXA"
+      ],
+      "answer": 0,
+      "explanation": "BAX and BAK contain BH1-BH4 and act as effectors; the other pairs are BH3-only."
+    }
+  },
+  {
+    "page": 325,
+    "title": "Extrinsic Fas-Mediated Apoptosis",
+    "explain": "The extrinsic pathway begins when Fas ligand binds and clusters Fas death receptors. FADD adaptor proteins recruit caspase-8 to form the DISC. Caspase-8 becomes active and cleaves executioner caspases 3 and 7, producing apoptosis.",
+    "mustKnow": [
+      "Fas ligand activates the Fas death receptor.",
+      "FADD and caspase-8 assemble into the DISC.",
+      "Caspase-8 activates executioner caspases 3 and 7."
+    ],
+    "terms": [
+      {
+        "term": "Fas",
+        "meaning": "A cell-surface death receptor."
+      },
+      {
+        "term": "FADD",
+        "meaning": "An adaptor that links activated Fas to caspase-8."
+      },
+      {
+        "term": "DISC",
+        "meaning": "Death-inducing signaling complex assembled at an activated death receptor."
+      }
+    ],
+    "diagramGuide": [
+      "Follow Fas ligand to Fas receptor clustering, FADD recruitment, DISC assembly, procaspase-8 activation, and executioner-caspase activation.",
+      "The alternative panel shows FLIP at the DISC blocking productive caspase activation and preventing apoptosis."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which complex forms at clustered Fas receptors before initiator-caspase activation?",
+      "options": [
+        "Apoptosome containing cytochrome c and caspase-9",
+        "Necrosome containing RIPK3 and MLKL",
+        "Autolysosome containing LC3 and cathepsin",
+        "DISC containing FADD and procaspase-8"
+      ],
+      "answer": 3,
+      "explanation": "Fas recruits FADD and procaspase-8 into the death-inducing signaling complex."
+    }
+  },
+  {
+    "page": 326,
+    "title": "Necroptosis Versus Apoptosis",
+    "explain": "Necroptosis is caspase-independent, lytic, and inflammatory, and often occurs when apoptosis is blocked through loss or inhibition of caspase-8. Unlike apoptosis, it causes plasma-membrane rupture, cytoplasmic swelling and vacuolization, swollen mitochondria, and lacks the strongly condensed, fragmented nucleus of apoptosis.",
+    "mustKnow": [
+      "Necroptosis is caspase-independent and inflammatory.",
+      "It is favored when caspase-8 is absent or inhibited.",
+      "Membrane rupture and cell swelling distinguish it from apoptosis.",
+      "Apoptotic membranes remain intact while blebbing."
+    ],
+    "terms": [
+      {
+        "term": "Necroptosis",
+        "meaning": "A regulated lytic and inflammatory form of cell death."
+      },
+      {
+        "term": "Lytic death",
+        "meaning": "Cell death involving plasma-membrane rupture."
+      },
+      {
+        "term": "Vacuolization",
+        "meaning": "Formation of vacuole-like spaces in the cytoplasm."
+      }
+    ],
+    "diagramGuide": [
+      "Compare micrographs feature by feature: necroptosis shows swelling, vacuolization, swollen mitochondria, and plasma-membrane rupture; apoptosis shows condensation/fragmentation and membrane blebbing while the membrane remains intact."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Electron microscopy shows swollen mitochondria, cytoplasmic vacuoles, and ruptured plasma membrane without condensed fragmented chromatin. Which death mode fits?",
+      "options": [
+        "Autophagic recycling alone",
+        "Adaptive immunity",
+        "Necroptosis",
+        "Apoptosis"
+      ],
+      "answer": 2,
+      "explanation": "The feature set matches the necroptotic micrograph rather than apoptotic condensation and intact blebbing membrane."
+    }
+  },
+  {
+    "page": 327,
+    "title": "Triggers of Necroptosis",
+    "explain": "Extrinsic necroptosis can begin at cell-surface receptors such as TNFR1 or pattern-recognition receptors TLR3 and TLR4. Intrinsic necroptosis begins inside the cell when ZBP1 recognizes Z-form nucleic acids.",
+    "mustKnow": [
+      "Extrinsic triggers include TNFR1, TLR3, and TLR4.",
+      "Intrinsic necroptosis can use ZBP1 recognition of Z-nucleic acids."
+    ],
+    "terms": [
+      {
+        "term": "TNFR1",
+        "meaning": "A tumor-necrosis-factor receptor that can trigger death signaling."
+      },
+      {
+        "term": "Pattern-recognition receptor",
+        "meaning": "A receptor that detects conserved microbial or danger-associated patterns."
+      },
+      {
+        "term": "ZBP1",
+        "meaning": "An intracellular sensor that can recognize Z-form nucleic acids."
+      }
+    ],
+    "diagramGuide": [
+      "The top row shows extrinsic triggers at TNFR1/Fas/TRAIL receptors and TLR3/TLR4; downstream RIPK1/RIPK3 activate MLKL, which damages the membrane.",
+      "The intracellular branch shows ZBP1 sensing Z-nucleic acids and converging on RIPK3-MLKL."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which protein is the downstream membrane-disrupting effector of the RIPK1-RIPK3 necroptosis axis?",
+      "options": [
+        "LC3",
+        "MLKL",
+        "BCL-2",
+        "Caspase-9"
+      ],
+      "answer": 1,
+      "explanation": "Activated RIPK3 phosphorylates MLKL, which oligomerizes and damages the plasma membrane."
+    }
+  },
+  {
+    "page": 328,
+    "title": "Why Necroptosis Is Inflammatory",
+    "explain": "Because necroptotic cells rupture, they release damage-associated molecular patterns, or DAMPs. T cells, dendritic cells, and macrophages can detect these signals and produce inflammatory mediators and cytokines.",
+    "mustKnow": [
+      "Necroptotic cells release DAMPs.",
+      "Immune cells detect DAMPs.",
+      "DAMP detection promotes inflammatory mediators and cytokines."
+    ],
+    "terms": [
+      {
+        "term": "DAMP",
+        "meaning": "A damage-associated molecular pattern released or exposed by injured cells."
+      },
+      {
+        "term": "Dendritic cell",
+        "meaning": "An immune cell specialized in sensing danger and presenting antigens."
+      },
+      {
+        "term": "Inflammatory mediator",
+        "meaning": "A molecule that initiates or strengthens inflammation."
+      }
+    ],
+    "diagramGuide": [
+      "The left cell releases intracellular DAMPs after lytic death; the right immune cell detects DAMPs through receptors such as TLRs/RAGE and activates inflammatory signaling including NF-kB/STAT pathways."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Why does the diagram predict stronger inflammation after necroptosis than after orderly apoptotic-body clearance?",
+      "options": [
+        "Lytic rupture releases DAMPs that activate immune receptors",
+        "Caspase-3 prevents all cytokine signaling",
+        "The nucleus produces bacterial LPS",
+        "Phosphatidylserine blocks phagocytosis"
+      ],
+      "answer": 0,
+      "explanation": "Necroptotic rupture releases intracellular DAMPs that stimulate immune cells and inflammatory mediators."
+    }
+  },
+  {
+    "page": 329,
+    "title": "Lysosomal Degradation in Autophagy",
+    "explain": "Lysosomes contain enzymes that degrade proteins, nucleic acids, carbohydrates, and lipids. Their acidic lumen activates these enzymes. Cathepsins L, B, and D are abundant lysosomal proteases.",
+    "mustKnow": [
+      "Lysosomes contain several classes of degradative enzymes.",
+      "Low lysosomal pH activates enzyme function.",
+      "Cathepsins L, B, and D are abundant lysosomal proteases."
+    ],
+    "terms": [
+      {
+        "term": "Lysosome",
+        "meaning": "An acidic organelle containing degradative enzymes."
+      },
+      {
+        "term": "Cathepsin",
+        "meaning": "A lysosomal protease."
+      },
+      {
+        "term": "Protease",
+        "meaning": "An enzyme that cleaves proteins."
+      }
+    ],
+    "diagramGuide": [
+      "Follow autophagy left to right: initiation, phagophore expansion around cargo, closed autophagosome, lysosome fusion, autolysosome degradation, and recycling.",
+      "LC3 is shown on the autophagic membrane; acidic lysosomes contain cathepsins and other hydrolases."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which step converts a cargo-containing autophagosome into a degradative compartment?",
+      "options": [
+        "Binding of Fas ligand",
+        "Activation of TLR4",
+        "Release of cytochrome c",
+        "Fusion with a lysosome"
+      ],
+      "answer": 3,
+      "explanation": "Lysosome fusion creates an autolysosome where acidic hydrolases degrade cargo."
+    }
+  },
+  {
+    "page": 330,
+    "title": "Ferroptosis and Lipid Peroxidation",
+    "explain": "Ferroptosis is driven by iron-dependent oxidation of polyunsaturated phospholipids, producing membrane-disrupting lipid peroxides. GPX4 and glutathione, FSP1 and coenzyme Q, and DHFR-linked BH4 act as protective systems. Some therapy-resistant cancer cells remain sensitive to ferroptosis induction.",
+    "mustKnow": [
+      "Ferroptosis involves iron-dependent phospholipid peroxidation.",
+      "Lipid peroxide accumulation disrupts membranes.",
+      "GPX4 is a major protective enzyme.",
+      "Some therapy-resistant cancer cells are sensitive to ferroptosis."
+    ],
+    "terms": [
+      {
+        "term": "Ferroptosis",
+        "meaning": "Regulated cell death caused by iron-dependent lipid-peroxide accumulation."
+      },
+      {
+        "term": "Lipid peroxidation",
+        "meaning": "Oxidative damage to membrane lipids."
+      },
+      {
+        "term": "GPX4",
+        "meaning": "A glutathione peroxidase that reduces phospholipid hydroperoxides."
+      },
+      {
+        "term": "PUFA",
+        "meaning": "A polyunsaturated fatty acid that can be incorporated into oxidation-prone phospholipids."
+      }
+    ],
+    "diagramGuide": [
+      "The left branch builds PUFA-containing phospholipids through ACSL4/LPCAT3; iron and LOX promote lipid peroxidation and membrane damage.",
+      "Protective branches include GPX4/glutathione, FSP1/CoQ, and DHFR/BH4 systems that suppress phospholipid peroxide accumulation."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Loss of which defense would most directly permit phospholipid hydroperoxides to accumulate in the central ferroptosis pathway?",
+      "options": [
+        "Caspase-8-FLIP complex",
+        "LC3-autophagosome system",
+        "GPX4-glutathione system",
+        "Fas-FADD complex"
+      ],
+      "answer": 2,
+      "explanation": "GPX4 uses glutathione to reduce phospholipid hydroperoxides and suppress ferroptosis."
+    }
+  }
+]

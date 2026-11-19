@@ -1,0 +1,1078 @@
+[
+  {
+    "page": 251,
+    "title": "Induced pluripotent stem cells: the Yamanaka factors",
+    "explain": "Yamanaka reprogrammed differentiated mouse fibroblasts into stem-cell-like cells by delivering selected transcription-factor genes with retroviral vectors. The minimum four-factor combination was Oct3/4, Sox2, c-Myc and Klf4, often abbreviated OSKM.",
+    "mustKnow": [
+      "iPSCs are differentiated cells reprogrammed back to a pluripotent state.",
+      "The four Yamanaka factors are Oct3/4, Sox2, c-Myc and Klf4.",
+      "The starting cells shown are mouse embryonic fibroblasts."
+    ],
+    "terms": [
+      {"term": "iPSC", "meaning": "Induced pluripotent stem cell made by reprogramming a differentiated cell."},
+      {"term": "OSKM", "meaning": "Oct3/4, Sox2, Klf4 and c-Myc."},
+      {"term": "Retroviral vector", "meaning": "A modified virus used here to deliver reprogramming genes into cells."},
+      {"term": "Pluripotent", "meaning": "Able to produce nearly every cell type of the body."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which set contains all four Yamanaka reprogramming factors?",
+      "options": ["Oct3/4, Sox2, c-Myc, Klf4", "Oct3/4, Pax6, Mitf, Klf4", "Sox2, Chx10, Rx, c-Myc", "Pax6, Otx2, Klf4, Mitf"],
+      "answer": 0,
+      "explanation": "The minimum reprogramming combination is Oct3/4, Sox2, c-Myc and Klf4 (OSKM)."
+    }
+  },
+  {
+    "page": 252,
+    "title": "How the four reprogramming factors were identified",
+    "explain": "The graphs show a stepwise elimination experiment. Researchers began with 24 candidate factors, removed factors one at a time, narrowed the active set to 10, and then tested smaller combinations. Loss of colony formation identified factors required for reprogramming, leading to the four-factor OSKM set.",
+    "mustKnow": [
+      "Candidate factors were narrowed by systematic removal and colony-count assays.",
+      "A sharp fall in colonies after removing a factor indicates that factor is important.",
+      "Four factors were sufficient; two- or three-factor combinations were much less effective."
+    ],
+    "terms": [
+      {"term": "Colony assay", "meaning": "A test that counts groups of successfully reprogrammed, proliferating cells."},
+      {"term": "Candidate factor", "meaning": "A gene tested for a possible role in reprogramming."},
+      {"term": "Factor elimination", "meaning": "Removing one factor from a mixture to test whether it is required."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "In a factor-elimination experiment, what does a major loss of colonies after one factor is removed suggest?",
+      "options": ["The factor is important for reprogramming", "The factor blocks pluripotency", "The cells have a normal karyotype", "The vector contains no genes"],
+      "answer": 0,
+      "explanation": "If removing one factor sharply reduces colony formation, that factor contributes strongly to successful reprogramming."
+    }
+  },
+  {
+    "page": 253,
+    "title": "Tests used to validate iPSCs",
+    "explain": "A useful iPSC line should retain a normal chromosome set and show pluripotency. A normal karyotype checks chromosome number and structure. Teratoma formation after transplantation is a classic functional test because a teratoma can contain tissues derived from multiple germ layers.",
+    "mustKnow": [
+      "Karyotyping checks chromosome number and large structural abnormalities.",
+      "Teratoma formation is evidence that candidate iPSCs can form diverse tissue types.",
+      "Genetic stability and pluripotency are separate properties and both must be checked."
+    ],
+    "terms": [
+      {"term": "Karyotype", "meaning": "An ordered display of a cell's chromosomes."},
+      {"term": "Teratoma", "meaning": "A tumor containing several tissue types, used experimentally as a pluripotency test."},
+      {"term": "Germ layers", "meaning": "Ectoderm, mesoderm and endoderm, which generate the body's tissues."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which observation most directly provides functional evidence of pluripotency?",
+      "options": ["Teratoma containing several tissue types", "A normal cell membrane", "Rapid bacterial growth", "Loss of all chromosomes"],
+      "answer": 0,
+      "explanation": "Formation of multiple tissue types in a teratoma demonstrates broad differentiation potential."
+    }
+  },
+  {
+    "page": 254,
+    "title": "Why iPSCs changed biomedical research",
+    "explain": "iPSCs avoid many ethical issues associated with obtaining embryonic stem cells and can be made from a particular patient. They enable patient-specific disease models, drug screening on relevant differentiated cells, and possible gene correction followed by replacement of diseased tissue.",
+    "mustKnow": [
+      "iPSCs provide an alternative to embryonic stem cells.",
+      "Patient-derived iPSCs can model that patient's disease.",
+      "Directed differentiation produces target cells for drug testing.",
+      "CRISPR plus iPSCs offers a possible route to gene correction and cell replacement."
+    ],
+    "terms": [
+      {"term": "Disease model", "meaning": "A laboratory system that reproduces important features of a disease."},
+      {"term": "Directed differentiation", "meaning": "Guiding stem cells toward a chosen mature cell type."},
+      {"term": "Gene correction", "meaning": "Repairing a disease-causing DNA sequence."},
+      {"term": "Tissue engineering", "meaning": "Combining cells and materials to build or restore tissue."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Why are patient-derived iPSCs especially useful for drug screening?",
+      "options": ["They can be differentiated into disease-relevant cells with the patient's genotype", "They contain no DNA", "They are always immune cells", "They eliminate the need for any laboratory testing"],
+      "answer": 0,
+      "explanation": "Patient-derived iPSCs preserve the patient's genetic background and can be converted into the cell type affected by disease."
+    }
+  },
+  {
+    "page": 255,
+    "title": "Starting optic-cup development from embryonic stem cells",
+    "explain": "Mouse embryonic stem cells were grown as a three-dimensional embryoid body under conditions that favor retinal development. Matrix proteins supplied structural support, while Activin promoted the retinal-field gene Rx. GFP made Rx-positive regions visible as spherical outgrowths.",
+    "mustKnow": [
+      "Activin was used to induce Rx expression.",
+      "Rx-positive cells were visualized by GFP.",
+      "The culture produced spherical evaginations that begin optic-cup morphogenesis."
+    ],
+    "terms": [
+      {"term": "Embryoid body", "meaning": "A three-dimensional aggregate of pluripotent stem cells that can begin organized differentiation."},
+      {"term": "Rx/Rax", "meaning": "A transcription factor important in early eye and retinal development."},
+      {"term": "GFP", "meaning": "Green fluorescent protein used as a visible reporter of gene expression."},
+      {"term": "Matrigel", "meaning": "A protein-rich matrix that supports three-dimensional cell growth."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "In this experiment, GFP-positive regions identify cells expressing which early eye-development gene?",
+      "options": ["Rx/Rax", "Klf4", "c-Myc", "TLR4"],
+      "answer": 0,
+      "explanation": "The reporter marks Rx-positive cells, allowing early retinal tissue to be tracked."
+    }
+  },
+  {
+    "page": 256,
+    "title": "Self-organization into an optic cup",
+    "explain": "The Rx-positive vesicles change shape over time without being manually sculpted. By about day 9, the initially spherical retinal tissue bends inward and develops the characteristic cup-like architecture of the early eye.",
+    "mustKnow": [
+      "Rx-positive spherical vesicles develop into optic cups.",
+      "The characteristic cup shape appears at approximately day 9.",
+      "The experiment demonstrates self-organizing morphogenesis in a 3D culture."
+    ],
+    "terms": [
+      {"term": "Morphogenesis", "meaning": "The biological process that generates tissue shape and structure."},
+      {"term": "Evagination", "meaning": "Outward bulging of a tissue layer."},
+      {"term": "Invagination", "meaning": "Inward folding of a tissue layer."}
+    ],
+    "interaction": {
+      "type": "tap",
+      "label": "Key sequence: Rx-positive spherical vesicle → tissue bending/invagination → optic cup by about day 9."
+    }
+  },
+  {
+    "page": 257,
+    "title": "Neural retina and pigment epithelium separate",
+    "explain": "Different parts of the optic vesicle acquire different marker profiles. The invaginating distal layer expresses neural-retina markers such as Chx10 together with Rx and Pax6. The proximal outer layer expresses markers including Mitf and Otx2 and later becomes pigmented, resembling retinal pigment epithelium.",
+    "mustKnow": [
+      "Distal invaginated tissue becomes neural retina.",
+      "The outer proximal epithelium becomes retinal pigment epithelium (RPE).",
+      "Chx10 marks neural-retina progenitors; Mitf and Otx2 support RPE identity.",
+      "Pigmentation of the outer layer is visible by about day 12."
+    ],
+    "terms": [
+      {"term": "Chx10", "meaning": "A marker associated with neural-retina progenitor cells."},
+      {"term": "RPE", "meaning": "Retinal pigment epithelium, the pigmented support layer outside the neural retina."},
+      {"term": "Mitf", "meaning": "A transcription factor associated here with RPE development."},
+      {"term": "Pax6", "meaning": "A transcription factor with a central role in eye development."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which marker is most directly associated on this slide with the neural-retina layer?",
+      "options": ["Chx10", "Klf4", "TLR4", "Perforin"],
+      "answer": 0,
+      "explanation": "The distal invaginated neural-retina tissue expresses Chx10 along with Rx and Pax6."
+    }
+  },
+  {
+    "page": 258,
+    "title": "Reference for apoptosis",
+    "explain": "This is a reference slide rather than new examinable content. It points to Gerald Karp's Cell and Molecular Biology for additional detail on apoptosis.",
+    "mustKnow": [
+      "The cited topic is apoptosis.",
+      "The cited textbook author is Gerald Karp."
+    ],
+    "terms": [
+      {"term": "Apoptosis", "meaning": "A regulated program of cell death."}
+    ],
+    "interaction": {
+      "type": "tap",
+      "label": "Reference fact: Gerald Karp, Cell and Molecular Biology, is cited for apoptosis."
+    }
+  },
+  {
+    "page": 259,
+    "title": "Host–pathogen interaction",
+    "explain": "This lecture introduces how host defenses detect and eliminate infectious agents and how pathogens enter, attach, evade immunity and damage the host.",
+    "mustKnow": [
+      "Host–pathogen interaction includes both immune defense and microbial disease mechanisms."
+    ],
+    "terms": [
+      {"term": "Host", "meaning": "The organism in or on which another organism lives."},
+      {"term": "Pathogen", "meaning": "A microbe capable of causing disease."}
+    ],
+    "interaction": {
+      "type": "tap",
+      "label": "Core frame: host defense acts against infection; pathogens use entry, attachment, invasion and immune-evasion mechanisms."
+    }
+  },
+  {
+    "page": 260,
+    "title": "Where blood cells form",
+    "explain": "Blood-cell production is called hematopoiesis. In adults, it occurs mainly in bone marrow. Lymphocytes also mature or become activated in lymphoid organs such as the thymus, lymph nodes, spleen and tonsils.",
+    "mustKnow": [
+      "Adult blood cells are produced mainly in bone marrow.",
+      "The thymus is important for T-cell maturation.",
+      "The spleen and lymph nodes are lymphoid organs, not the primary source of all blood cells."
+    ],
+    "terms": [
+      {"term": "Hematopoiesis", "meaning": "Formation of blood cells from stem and progenitor cells."},
+      {"term": "Bone marrow", "meaning": "Soft tissue inside bones and the main adult site of blood-cell production."},
+      {"term": "Lymphoid organ", "meaning": "An organ where immune cells develop, reside or respond to antigens."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What is the main site of blood-cell formation in an adult?",
+      "options": ["Bone marrow", "Skin", "Stomach", "Kidney tubules"],
+      "answer": 0,
+      "explanation": "Adult hematopoiesis occurs predominantly in bone marrow."
+    }
+  },
+  {
+    "page": 261,
+    "title": "The blood-cell lineage tree",
+    "explain": "A multipotent hematopoietic stem cell branches into common myeloid and common lymphoid progenitors. The myeloid branch produces erythrocytes, platelets, mast cells, granulocytes and monocytes/macrophages. The lymphoid branch produces B cells, T cells and natural killer cells.",
+    "mustKnow": [
+      "All blood-cell lineages begin from hematopoietic stem cells.",
+      "Neutrophils, monocytes and macrophages belong to the myeloid branch.",
+      "B cells, T cells and NK cells belong to the lymphoid branch.",
+      "Monocytes can differentiate into macrophages."
+    ],
+    "terms": [
+      {"term": "Progenitor", "meaning": "A partially specialized precursor that produces a restricted set of cell types."},
+      {"term": "Myeloid lineage", "meaning": "Branch producing red cells, platelets, granulocytes, monocytes and several other cells."},
+      {"term": "Lymphoid lineage", "meaning": "Branch producing B cells, T cells and NK cells."},
+      {"term": "Megakaryocyte", "meaning": "Large marrow cell that releases platelets."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which cell is derived from the common lymphoid progenitor?",
+      "options": ["Natural killer cell", "Neutrophil", "Erythrocyte", "Megakaryocyte"],
+      "answer": 0,
+      "explanation": "NK cells share the lymphoid branch with B and T lymphocytes."
+    }
+  },
+  {
+    "page": 262,
+    "title": "The immune system is distributed",
+    "explain": "The immune system is a functional network rather than one anatomically isolated organ system. It combines barriers, antimicrobial secretions, circulating white blood cells, bone marrow, liver-made complement, lymphatic organs and immune cells permanently resident in tissues.",
+    "mustKnow": [
+      "Skin and mucous membranes are physical barriers.",
+      "The liver produces many complement proteins.",
+      "Bone marrow produces immune-cell precursors.",
+      "Many tissues contain resident immune cells."
+    ],
+    "terms": [
+      {"term": "Complement", "meaning": "A group of blood proteins that helps tag, inflame and destroy microbes."},
+      {"term": "Resident immune cell", "meaning": "An immune cell that normally lives within a tissue."},
+      {"term": "Mucous membrane", "meaning": "Moist epithelial lining that protects body passages exposed to the environment."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which organ produces many circulating complement proteins?",
+      "options": ["Liver", "Thymus", "Skin", "Bladder"],
+      "answer": 0,
+      "explanation": "The liver synthesizes many of the complement proteins found in blood."
+    }
+  },
+  {
+    "page": 263,
+    "title": "Blood and lymph transport immune cells",
+    "explain": "Blood rapidly carries immune cells and soluble proteins around the body. Fluid leaving blood capillaries becomes tissue fluid; much of it enters lymphatic vessels as lymph. Lymph passes through lymph nodes and eventually returns to the bloodstream.",
+    "mustKnow": [
+      "Blood and lymph form linked transport routes for immune surveillance.",
+      "Lymph is derived from interstitial fluid.",
+      "Lymph nodes filter lymph and organize immune-cell encounters."
+    ],
+    "terms": [
+      {"term": "Lymph", "meaning": "Interstitial fluid after it enters lymphatic vessels."},
+      {"term": "Lymph node", "meaning": "A filtering organ where lymph-borne material meets immune cells."},
+      {"term": "Interstitial fluid", "meaning": "Fluid surrounding cells within tissues."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What does tissue fluid become after entering a lymphatic vessel?",
+      "options": ["Lymph", "Plasma membrane", "Bone marrow", "Mucus"],
+      "answer": 0,
+      "explanation": "Interstitial or tissue fluid is called lymph once it enters lymphatic vessels."
+    }
+  },
+  {
+    "page": 264,
+    "title": "Two interacting arms of immunity",
+    "explain": "Innate immunity provides rapid, broad defense, while adaptive immunity generates highly specific responses. They are presented as first and second lines of defense, but they cooperate continuously rather than acting as isolated systems.",
+    "mustKnow": [
+      "Innate immunity is rapid and nonspecific.",
+      "Adaptive immunity is antigen-specific.",
+      "Innate and adaptive immunity interact."
+    ],
+    "terms": [
+      {"term": "Innate immunity", "meaning": "Immediate defense using pre-existing barriers, cells and molecules."},
+      {"term": "Adaptive immunity", "meaning": "Antigen-specific defense mediated mainly by B and T lymphocytes."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which arm of immunity is antigen-specific?",
+      "options": ["Adaptive immunity", "Innate immunity only", "Mechanical flushing", "Normal flora"],
+      "answer": 0,
+      "explanation": "Adaptive responses target particular antigens through B- and T-cell receptors."
+    }
+  },
+  {
+    "page": 265,
+    "title": "Innate versus adaptive immunity",
+    "explain": "Innate responses begin with little or no delay, recognize broad microbial patterns and do not generate classical antigen-specific memory. Adaptive responses have a slower first response because matching lymphocytes must activate and expand, but they are specific and form memory cells.",
+    "mustKnow": [
+      "Innate: no major time lag, broad recognition, no classical antigen-specific memory.",
+      "Adaptive: initial lag, antigen specificity and memory.",
+      "Memory makes later adaptive responses faster and stronger."
+    ],
+    "terms": [
+      {"term": "Antigen", "meaning": "A molecule specifically recognized by an antibody or lymphocyte receptor."},
+      {"term": "Immunological memory", "meaning": "Enhanced response after previous exposure to the same antigen."},
+      {"term": "Time lag", "meaning": "Delay before a measurable immune response develops."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which combination correctly describes adaptive immunity?",
+      "options": ["Antigen-specific, initial lag, memory", "Nonspecific, no lag, no memory", "Mechanical only, no cells, no proteins", "Restricted to skin, tears and saliva"],
+      "answer": 0,
+      "explanation": "Specificity, an initial activation delay and memory are defining features of adaptive immunity."
+    }
+  },
+  {
+    "page": 266,
+    "title": "Map of a typical immune response",
+    "explain": "External innate defenses try to prevent entry. If microbes enter, internal innate mechanisms respond rapidly through phagocytes, antimicrobial proteins, inflammation, complement and NK cells. Adaptive immunity adds antibody-mediated humoral responses and cytotoxic cell-mediated responses.",
+    "mustKnow": [
+      "External innate defenses include skin, mucous membranes and secretions.",
+      "Internal innate defenses include phagocytes, inflammation, complement and NK cells.",
+      "Humoral adaptive immunity uses antibodies.",
+      "Cell-mediated adaptive immunity uses cytotoxic lymphocytes."
+    ],
+    "terms": [
+      {"term": "Humoral response", "meaning": "Antibody-based adaptive defense in body fluids."},
+      {"term": "Cell-mediated response", "meaning": "Adaptive defense carried out mainly by T cells."},
+      {"term": "Phagocyte", "meaning": "A cell that engulfs particles or microbes."},
+      {"term": "Inflammation", "meaning": "A local protective response that recruits cells and molecules to injury or infection."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which component belongs to adaptive humoral immunity?",
+      "options": ["Antibodies", "Skin", "Neutrophils", "Stomach acid"],
+      "answer": 0,
+      "explanation": "Humoral adaptive immunity is mediated by antibodies produced by B-cell-derived plasma cells."
+    }
+  },
+  {
+    "page": 267,
+    "title": "External innate defenses",
+    "explain": "External defenses are the body's boundary-level protections. They reduce the chance that microbes cross epithelial surfaces and enter internal tissues.",
+    "mustKnow": [
+      "External innate defenses act before microbes enter tissues.",
+      "They include mechanical, chemical and biological barriers."
+    ],
+    "terms": [
+      {"term": "Barrier defense", "meaning": "A physical, chemical or biological feature that blocks microbial entry."},
+      {"term": "Epithelium", "meaning": "A sheet of cells covering surfaces and lining cavities."}
+    ],
+    "interaction": {
+      "type": "tap",
+      "label": "External innate defense has three categories: mechanical barriers, chemical barriers and protective normal flora."
+    }
+  },
+  {
+    "page": 268,
+    "title": "Mechanical barriers",
+    "explain": "Mechanical defenses physically block or remove microbes. Intact skin is a hard-to-cross surface. Saliva, tears and urine flush organisms away, while cilia move mucus and trapped particles out of the respiratory tract.",
+    "mustKnow": [
+      "Skin blocks entry.",
+      "Saliva, tears and urine remove microbes by flushing.",
+      "The mucociliary escalator clears inhaled material from airways."
+    ],
+    "terms": [
+      {"term": "Mucociliary escalator", "meaning": "Coordinated ciliary movement that carries mucus and trapped particles toward the throat."},
+      {"term": "Cilia", "meaning": "Motile hair-like cell projections that move material across a surface."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which defense removes inhaled microbes by moving mucus upward in the airways?",
+      "options": ["Mucociliary escalator", "Antibody class switching", "Teratoma formation", "Karyotyping"],
+      "answer": 0,
+      "explanation": "Airway cilia propel microbe-containing mucus toward the throat for removal."
+    }
+  },
+  {
+    "page": 269,
+    "title": "Chemical barriers",
+    "explain": "Chemical defenses create conditions that damage or inhibit microbes. Sweat contains antimicrobial peptides, tears and saliva contain lysozyme, and stomach hydrochloric acid provides a very low pH that kills many swallowed organisms.",
+    "mustKnow": [
+      "Lysozyme is present in tears and saliva.",
+      "Stomach HCl is a low-pH antimicrobial barrier.",
+      "Sweat contains antimicrobial peptides."
+    ],
+    "terms": [
+      {"term": "Lysozyme", "meaning": "An enzyme that breaks bonds in bacterial peptidoglycan cell walls."},
+      {"term": "Antimicrobial peptide", "meaning": "A short peptide that inhibits or kills microbes, often by damaging membranes."},
+      {"term": "pH", "meaning": "A scale of acidity or alkalinity; low pH is acidic."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which antimicrobial enzyme is found in tears and saliva?",
+      "options": ["Lysozyme", "Perforin", "Klf4", "Fibronectin"],
+      "answer": 0,
+      "explanation": "Lysozyme helps damage bacterial cell walls at exposed surfaces."
+    }
+  },
+  {
+    "page": 270,
+    "title": "Normal flora as a biological barrier",
+    "explain": "Normal flora are the resident microbes that usually coexist with the host. They hinder pathogens by occupying attachment sites, consuming nutrients and sometimes producing inhibitory substances. This competition is called microbial antagonism or colonization resistance.",
+    "mustKnow": [
+      "Normal flora compete with pathogens for nutrients and space.",
+      "This protective competition is called antagonism or colonization resistance.",
+      "Normal flora are part of external innate defense."
+    ],
+    "terms": [
+      {"term": "Normal flora", "meaning": "Microorganisms that normally live on or in the body without causing disease."},
+      {"term": "Colonization resistance", "meaning": "Protection created when resident microbes prevent pathogen establishment."},
+      {"term": "Antagonism", "meaning": "One organism suppressing another through competition or inhibitory products."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "How can normal flora protect against pathogens?",
+      "options": ["By competing for nutrients and attachment space", "By removing all host cells", "By producing red blood cells", "By converting T cells into bacteria"],
+      "answer": 0,
+      "explanation": "Resident microbes occupy ecological niches that might otherwise be taken by pathogens."
+    }
+  },
+  {
+    "page": 271,
+    "title": "From barriers to internal defense",
+    "explain": "This repeated overview emphasizes the transition: barriers act first; if a pathogen breaches them, internal innate defenses respond, followed by antigen-specific adaptive responses.",
+    "mustKnow": [
+      "Defense proceeds from external barriers to internal innate mechanisms and adaptive immunity.",
+      "Complement and inflammation are innate; antibodies and cytotoxic lymphocytes are adaptive."
+    ],
+    "terms": [
+      {"term": "Breach", "meaning": "Successful crossing of a protective barrier by a pathogen."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "After a microbe crosses an epithelial barrier, which response is normally available immediately?",
+      "options": ["Internal innate defense", "A new memory response before recognition", "Teratoma formation", "Stem-cell reprogramming"],
+      "answer": 0,
+      "explanation": "Phagocytes, complement and inflammation provide rapid internal innate defense."
+    }
+  },
+  {
+    "page": 272,
+    "title": "Internal innate defenses",
+    "explain": "Once microbes enter tissues or blood, internal defenses detect, contain and eliminate them. Major components include soluble blood proteins and innate immune cells.",
+    "mustKnow": [
+      "Internal innate defenses act after barrier penetration.",
+      "They include soluble proteins, phagocytes, inflammatory mechanisms and NK cells."
+    ],
+    "terms": [
+      {"term": "Internal defense", "meaning": "Immune mechanisms acting within tissues, blood or lymph after microbial entry."}
+    ],
+    "interaction": {
+      "type": "tap",
+      "label": "Internal innate defense begins after entry and uses blood proteins plus innate immune cells."
+    }
+  },
+  {
+    "page": 273,
+    "title": "Immune components in blood",
+    "explain": "Blood contains cellular and soluble defense components. White blood cells are cellular. Complement proteins, coagulation proteins and cytokines are extracellular molecules that can tag microbes, control inflammation, form clots and coordinate cell behavior.",
+    "mustKnow": [
+      "WBCs are cellular blood components.",
+      "Complement, coagulation proteins and cytokines act extracellularly.",
+      "Cytokines are communication signals between cells."
+    ],
+    "terms": [
+      {"term": "Cytokine", "meaning": "A secreted signaling protein that changes the behavior of immune or other cells."},
+      {"term": "Coagulation", "meaning": "The clot-forming process that limits bleeding and can help contain infection."},
+      {"term": "Extracellular", "meaning": "Located or acting outside cells."},
+      {"term": "WBC", "meaning": "White blood cell, also called a leukocyte."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which blood component is a soluble signaling molecule rather than a cell?",
+      "options": ["Cytokine", "Neutrophil", "Monocyte", "Lymphocyte"],
+      "answer": 0,
+      "explanation": "Cytokines are secreted proteins; neutrophils, monocytes and lymphocytes are cells."
+    }
+  },
+  {
+    "page": 274,
+    "title": "Major white blood cell types",
+    "explain": "White blood cells have distinct jobs. Macrophages engulf microbes and present antigens; B cells make antibodies after becoming plasma cells; T cells coordinate responses or kill infected cells; NK cells kill abnormal cells without antigen-specific receptors; mast cells release inflammatory mediators.",
+    "mustKnow": [
+      "B and T lymphocytes are central to adaptive immunity.",
+      "NK cells and macrophages contribute strongly to innate immunity.",
+      "Mast cells promote inflammation."
+    ],
+    "terms": [
+      {"term": "B lymphocyte", "meaning": "Adaptive immune cell that can differentiate into an antibody-secreting plasma cell."},
+      {"term": "T lymphocyte", "meaning": "Adaptive immune cell involved in coordination or direct killing."},
+      {"term": "Mast cell", "meaning": "Tissue immune cell that releases inflammatory mediators from granules."},
+      {"term": "Macrophage", "meaning": "Large tissue phagocyte with microbe-killing and antigen-presenting functions."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which white blood cell can differentiate into an antibody-secreting plasma cell?",
+      "options": ["B lymphocyte", "Neutrophil", "Natural killer cell", "Mast cell"],
+      "answer": 0,
+      "explanation": "Activated B cells can become plasma cells that secrete antibodies."
+    }
+  },
+  {
+    "page": 275,
+    "title": "Neutrophils: rapid first responders",
+    "explain": "Neutrophils are the most abundant circulating white blood cells and highly efficient phagocytes. They rapidly leave blood and accumulate at infection sites, making them major early-response cells of innate immunity.",
+    "mustKnow": [
+      "Neutrophils make up roughly 50–60% of circulating WBCs.",
+      "They are efficient phagocytes.",
+      "They arrive early at sites of infection."
+    ],
+    "terms": [
+      {"term": "Neutrophil", "meaning": "Abundant short-lived granulocyte specialized for rapid antimicrobial defense."},
+      {"term": "First responder", "meaning": "A cell recruited very early during infection or injury."},
+      {"term": "Granulocyte", "meaning": "A white blood cell containing prominent cytoplasmic granules."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which statement best describes neutrophils?",
+      "options": ["Abundant circulating phagocytes that arrive early at infection", "Antibody molecules made by the liver", "Cells that form the skin barrier", "Stem cells that generate optic cups"],
+      "answer": 0,
+      "explanation": "Neutrophils are abundant innate phagocytes and major early responders."
+    }
+  },
+  {
+    "page": 276,
+    "title": "Chemotaxis guides neutrophils",
+    "explain": "Neutrophils locate infection by chemotaxis: they detect soluble attractant molecules and move up the concentration gradient toward the source.",
+    "mustKnow": [
+      "Chemotaxis is directed movement along a chemical gradient.",
+      "Neutrophils move toward higher concentrations of attractant signals."
+    ],
+    "terms": [
+      {"term": "Chemotaxis", "meaning": "Directed cell movement in response to a chemical concentration gradient."},
+      {"term": "Chemoattractant", "meaning": "A molecule that attracts motile cells."},
+      {"term": "Concentration gradient", "meaning": "A spatial change from lower to higher concentration."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "During positive chemotaxis, a neutrophil moves in which direction?",
+      "options": ["Toward a higher chemoattractant concentration", "Randomly with no signal", "Toward lower oxygen only", "Out of the body through skin"],
+      "answer": 0,
+      "explanation": "Positive chemotaxis moves a cell up an attractant gradient toward the source."
+    }
+  },
+  {
+    "page": 277,
+    "title": "Neutrophil chemotaxis in motion",
+    "explain": "The linked demonstration visualizes a neutrophil changing shape and crawling toward a chemical source. Receptor sensing at the front polarizes the cell so that protrusion and movement are directed rather than random.",
+    "mustKnow": [
+      "Chemotaxis requires sensing plus polarized cell movement.",
+      "The leading edge faces the chemoattractant source."
+    ],
+    "terms": [
+      {"term": "Cell polarity", "meaning": "An asymmetric front–rear organization that gives a migrating cell direction."},
+      {"term": "Leading edge", "meaning": "The forward, protruding side of a moving cell."}
+    ],
+    "interaction": {
+      "type": "tap",
+      "label": "Video fact: neutrophils polarize and crawl with their leading edge directed toward the chemoattractant source."
+    }
+  },
+  {
+    "page": 278,
+    "title": "Phagocytosis",
+    "explain": "Phagocytosis is cellular eating. A phagocyte recognizes and surrounds a microbe, encloses it inside a membrane-bound compartment and then digests it using antimicrobial molecules and enzymes.",
+    "mustKnow": [
+      "Phagocytosis means engulfment of a particle or microbe by a cell.",
+      "Neutrophils are professional phagocytes.",
+      "Engulfment is followed by intracellular killing and digestion."
+    ],
+    "terms": [
+      {"term": "Phagocytosis", "meaning": "Engulfment of a large particle or microbe into a cell."},
+      {"term": "Phagocyte", "meaning": "A cell specialized to engulf particles or microbes."},
+      {"term": "Engulfment", "meaning": "Extension of the cell membrane around a target to internalize it."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What happens during phagocytosis?",
+      "options": ["A cell engulfs a microbe or particle", "An antibody becomes a chromosome", "A red cell makes a T-cell receptor", "A capsule forms bone marrow"],
+      "answer": 0,
+      "explanation": "Phagocytosis is the cellular uptake of large particles such as bacteria."
+    }
+  },
+  {
+    "page": 279,
+    "title": "Neutrophils engulf bacteria",
+    "explain": "The linked microscopy shows a motile neutrophil chasing and engulfing bacteria. It combines the two processes just introduced: chemotaxis brings the cell to its target, then phagocytosis internalizes the target.",
+    "mustKnow": [
+      "Chemotaxis precedes contact with the bacterium.",
+      "Phagocytosis begins after recognition and contact."
+    ],
+    "terms": [
+      {"term": "Recognition", "meaning": "Binding of a target directly or through molecules coating its surface."}
+    ],
+    "interaction": {
+      "type": "tap",
+      "label": "Observed sequence: directed movement toward bacteria → contact → membrane engulfment."
+    }
+  },
+  {
+    "page": 280,
+    "title": "The phagocytosis pathway",
+    "explain": "After chemotaxis and attachment, the neutrophil surrounds the microbe and encloses it in a phagosome. Lysosomes or antimicrobial granules fuse with the phagosome to make a phagolysosome. Enzymes digest the microbe, and indigestible residue is later discharged.",
+    "mustKnow": [
+      "Engulfment forms a phagosome.",
+      "Phagosome–lysosome fusion forms a phagolysosome.",
+      "Microbial digestion occurs in the phagolysosome.",
+      "Residual waste can be expelled."
+    ],
+    "terms": [
+      {"term": "Phagosome", "meaning": "Membrane-bound vesicle containing an engulfed particle."},
+      {"term": "Lysosome", "meaning": "Enzyme-rich acidic organelle that degrades material."},
+      {"term": "Phagolysosome", "meaning": "Digestive compartment formed by fusion of a phagosome with lysosomes."},
+      {"term": "Pseudopod", "meaning": "Temporary cell extension used to surround a target."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What is produced when a phagosome fuses with a lysosome?",
+      "options": ["Phagolysosome", "Karyotype", "Antibody", "Lymph node"],
+      "answer": 0,
+      "explanation": "The fused digestive compartment is called a phagolysosome."
+    }
+  },
+  {
+    "page": 281,
+    "title": "What neutrophil granules contain",
+    "explain": "Neutrophil granules store concentrated antimicrobial cargo. Their contents include digestive enzymes that break microbial structures and other proteins that kill or inhibit microbes. Fusion delivers this cargo into the phagocytic compartment.",
+    "mustKnow": [
+      "Granules contain digestive enzymes and antimicrobial proteins.",
+      "Granule contents help kill and digest engulfed bacteria.",
+      "Storage in granules permits rapid deployment."
+    ],
+    "terms": [
+      {"term": "Granule", "meaning": "Intracellular storage compartment containing ready-made antimicrobial molecules."},
+      {"term": "Digestive enzyme", "meaning": "A protein that chemically breaks large biological molecules into smaller products."},
+      {"term": "Degranulation", "meaning": "Release of stored granule contents."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What is the principal function of neutrophil granule contents?",
+      "options": ["Kill and digest microbes", "Copy host chromosomes", "Produce platelets", "Make the skin waterproof"],
+      "answer": 0,
+      "explanation": "Granules deliver digestive enzymes and antimicrobial proteins to microbial targets."
+    }
+  },
+  {
+    "page": 282,
+    "title": "Neutrophils also signal",
+    "explain": "Neutrophils do more than ingest microbes. They release mediators that promote inflammation and influence other immune cells, helping connect the immediate innate response with later adaptive immunity.",
+    "mustKnow": [
+      "Neutrophils can trigger or amplify inflammation.",
+      "Neutrophil signals can affect adaptive immune responses.",
+      "Neutrophils are not only microbe-eating cells."
+    ],
+    "terms": [
+      {"term": "Inflammatory mediator", "meaning": "A released molecule that promotes vascular or cellular features of inflammation."},
+      {"term": "Immune crosstalk", "meaning": "Communication between different immune cells or immune-system branches."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Besides phagocytosis, what role of neutrophils is emphasized here?",
+      "options": ["Triggering inflammation and influencing adaptive immunity", "Making red blood cells", "Forming epithelial barriers", "Producing stomach acid"],
+      "answer": 0,
+      "explanation": "Neutrophils release signals that shape inflammation and communicate with adaptive immunity."
+    }
+  },
+  {
+    "page": 283,
+    "title": "Neutrophil extracellular traps",
+    "explain": "Neutrophils can release web-like neutrophil extracellular traps, or NETs. These structures contain decondensed DNA associated with antimicrobial proteins, allowing them to trap microbes outside cells and concentrate toxic molecules around them.",
+    "mustKnow": [
+      "NET stands for neutrophil extracellular trap.",
+      "NETs are DNA-rich extracellular webs.",
+      "NETs trap microbes and expose them to antimicrobial proteins."
+    ],
+    "terms": [
+      {"term": "NET", "meaning": "Neutrophil extracellular trap made largely of DNA and antimicrobial proteins."},
+      {"term": "NETosis", "meaning": "A process by which a neutrophil releases an extracellular trap."},
+      {"term": "Decondensed DNA", "meaning": "DNA loosened from its compact chromatin organization."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What forms the scaffold of a neutrophil extracellular trap?",
+      "options": ["Decondensed DNA", "Cellulose", "Bone mineral", "Antibody RNA"],
+      "answer": 0,
+      "explanation": "NETs are web-like structures built primarily from expelled, decondensed DNA decorated with antimicrobial proteins."
+    }
+  },
+  {
+    "page": 284,
+    "title": "Monocytes become tissue macrophages",
+    "explain": "Monocytes are circulating white blood cells that make up roughly 2–10% of WBCs. After leaving blood and entering tissues, they can differentiate into macrophages with tissue-adapted forms in organs such as lung, liver, brain, bone and intestine.",
+    "mustKnow": [
+      "Monocytes circulate in blood.",
+      "Monocytes migrate into tissues and become macrophages.",
+      "Different tissues contain specialized macrophage populations."
+    ],
+    "terms": [
+      {"term": "Monocyte", "meaning": "Circulating myeloid white blood cell that can differentiate into macrophages."},
+      {"term": "Differentiation", "meaning": "Acquisition of a more specialized cell identity and function."},
+      {"term": "Tissue macrophage", "meaning": "A macrophage residing and functioning within a particular organ."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What can a monocyte become after entering a tissue?",
+      "options": ["Macrophage", "Erythrocyte", "Platelet", "Bacterium"],
+      "answer": 0,
+      "explanation": "Tissue entry can drive monocyte differentiation into a macrophage."
+    }
+  },
+  {
+    "page": 285,
+    "title": "Macrophages: big eaters and antigen presenters",
+    "explain": "Macrophages are long-lived tissue phagocytes. They engulf microbes and debris and can display microbial peptide fragments to T cells. This antigen-presentation function helps connect innate detection to adaptive activation.",
+    "mustKnow": [
+      "Macrophages phagocytose microbes in tissues.",
+      "Macrophages can present antigens to T cells.",
+      "Neutrophils normally circulate in blood, whereas macrophages reside in tissues."
+    ],
+    "terms": [
+      {"term": "Antigen presentation", "meaning": "Display of peptide fragments on cell-surface MHC molecules for recognition by T cells."},
+      {"term": "MHC", "meaning": "Cell-surface proteins that hold peptide fragments for T-cell inspection."},
+      {"term": "Tissue phagocyte", "meaning": "A particle-engulfing immune cell located within tissue."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which macrophage function directly helps activate adaptive T-cell responses?",
+      "options": ["Antigen presentation", "Producing stomach HCl", "Making platelets", "Forming the epidermis"],
+      "answer": 0,
+      "explanation": "Macrophages display microbial peptides to T cells through antigen presentation."
+    }
+  },
+  {
+    "page": 286,
+    "title": "Natural killer cells",
+    "explain": "Natural killer cells are innate lymphocytes, not B or T cells. They survey host cells and kill cells altered by viral infection, some intracellular infections or cancer. Their response does not require the same antigen-specific priming used by adaptive cytotoxic T cells.",
+    "mustKnow": [
+      "NK cells are part of innate immunity.",
+      "NK cells are lymphoid cells but are neither B nor T lymphocytes.",
+      "They kill infected and cancerous host cells."
+    ],
+    "terms": [
+      {"term": "Natural killer cell", "meaning": "Innate lymphocyte that kills stressed, infected or transformed host cells."},
+      {"term": "Intracellular pathogen", "meaning": "A pathogen that lives or replicates within host cells."},
+      {"term": "Transformed cell", "meaning": "A cell with cancer-like abnormal growth properties."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which target is most characteristic of NK-cell activity?",
+      "options": ["A virus-infected host cell", "A free glucose molecule", "A platelet in a normal clot", "A normal skin barrier"],
+      "answer": 0,
+      "explanation": "NK cells specialize in eliminating abnormal host cells, including virus-infected and cancer cells."
+    }
+  },
+  {
+    "page": 287,
+    "title": "Missing-self recognition by NK cells",
+    "explain": "Healthy cells display surface molecules, especially MHC class I, that provide inhibitory 'do not kill' signals to NK cells. Infected or cancerous cells may lose these molecules. Loss of inhibitory signaling shifts the balance toward NK-cell killing; this is called missing-self recognition.",
+    "mustKnow": [
+      "Normal MHC class I helps inhibit NK-cell killing.",
+      "Reduced or missing MHC class I can mark an abnormal cell.",
+      "NK decisions reflect a balance of activating and inhibitory signals."
+    ],
+    "terms": [
+      {"term": "Missing self", "meaning": "NK-cell recognition of abnormally low self MHC class I on a target cell."},
+      {"term": "MHC class I", "meaning": "A surface molecule on most nucleated cells that can deliver an inhibitory signal to NK cells."},
+      {"term": "Inhibitory receptor", "meaning": "A receptor whose engagement reduces cell activation."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "A host cell with greatly reduced MHC class I is more likely to be killed by which cell?",
+      "options": ["Natural killer cell", "Erythrocyte", "Platelet", "Fibroblast"],
+      "answer": 0,
+      "explanation": "Loss of normal MHC class I removes an important inhibitory signal to NK cells."
+    }
+  },
+  {
+    "page": 288,
+    "title": "How NK cells kill targets",
+    "explain": "After recognizing an abnormal target, an NK cell releases cytotoxic granules at the contact site. Perforin helps create membrane pores or supports granzyme entry; granzymes are proteases that activate apoptosis. Killing the infected host cell also removes the pathogen's intracellular niche.",
+    "mustKnow": [
+      "NK cells release cytotoxic granules.",
+      "Perforin promotes granzyme access to the target cell.",
+      "Granzymes trigger apoptotic death.",
+      "The host target cell, not only the microbe, is eliminated."
+    ],
+    "terms": [
+      {"term": "Perforin", "meaning": "Pore-forming cytotoxic protein released by NK cells and cytotoxic T cells."},
+      {"term": "Granzyme", "meaning": "Cytotoxic protease that enters a target and activates cell-death pathways."},
+      {"term": "Cytotoxic granule", "meaning": "Secretory vesicle containing cell-killing proteins."},
+      {"term": "Apoptosis", "meaning": "Controlled cell death triggered here in the abnormal target cell."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which NK-cell molecule is a protease that activates death pathways inside the target?",
+      "options": ["Granzyme", "Lysozyme", "Fibronectin", "Klf4"],
+      "answer": 0,
+      "explanation": "Granzymes are proteases delivered into target cells; perforin facilitates their entry."
+    }
+  },
+  {
+    "page": 289,
+    "title": "NK-cell killing demonstration",
+    "explain": "The linked material illustrates contact-dependent cytotoxicity. An NK cell forms a focused junction with a selected target, directs granules toward that junction and triggers target-cell death while limiting damage to nearby cells.",
+    "mustKnow": [
+      "Cytotoxic granules are released directionally at the immune-cell–target junction.",
+      "Focused secretion helps protect neighboring cells."
+    ],
+    "terms": [
+      {"term": "Immune synapse", "meaning": "Organized contact zone between an immune cell and its target."},
+      {"term": "Directed secretion", "meaning": "Release of molecules toward one selected target rather than in all directions."}
+    ],
+    "interaction": {
+      "type": "tap",
+      "label": "Video fact: NK cells aim cytotoxic granules at an immune synapse with the selected target."
+    }
+  },
+  {
+    "page": 290,
+    "title": "Cytotoxic lymphocyte mechanism",
+    "explain": "This video resource reinforces the sequence of target recognition, stable contact, polarized granule release and apoptotic target death. The essential molecular pair is perforin plus granzymes.",
+    "mustKnow": [
+      "Target recognition precedes granule release.",
+      "Perforin and granzymes execute cytotoxic killing.",
+      "The target typically dies by apoptosis."
+    ],
+    "terms": [
+      {"term": "Cytotoxic lymphocyte", "meaning": "An NK cell or cytotoxic T cell capable of killing another cell."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What is the correct order in granule-mediated cytotoxicity?",
+      "options": ["Target recognition → directed granule release → apoptosis", "Apoptosis → target recognition → blood formation", "Granule release → stem-cell formation → adherence", "Karyotyping → chemotaxis → antibody secretion"],
+      "answer": 0,
+      "explanation": "The killer first selects and contacts the target, then releases granules that trigger apoptosis."
+    }
+  },
+  {
+    "page": 291,
+    "title": "Cytotoxic T cells",
+    "explain": "The linked cytotoxic T-cell example uses a killing mechanism similar to NK cells but target selection differs. Cytotoxic T cells belong to adaptive immunity and recognize a specific antigen peptide displayed on MHC class I before releasing perforin and granzymes.",
+    "mustKnow": [
+      "Cytotoxic T cells are adaptive immune cells.",
+      "They recognize specific peptide–MHC class I complexes.",
+      "They can kill through perforin and granzymes."
+    ],
+    "terms": [
+      {"term": "Cytotoxic T cell", "meaning": "Adaptive T lymphocyte that kills cells displaying its specific antigen on MHC class I."},
+      {"term": "Peptide–MHC complex", "meaning": "A peptide fragment held by an MHC molecule for T-cell recognition."},
+      {"term": "T-cell receptor", "meaning": "Antigen-specific receptor used by a T cell to inspect peptide–MHC."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What makes cytotoxic T-cell target recognition antigen-specific?",
+      "options": ["Its T-cell receptor binds a particular peptide–MHC complex", "It lacks all receptors", "It recognizes every cell equally", "It detects only stomach acid"],
+      "answer": 0,
+      "explanation": "Each cytotoxic T-cell clone has a receptor with specificity for a particular peptide–MHC complex."
+    }
+  },
+  {
+    "page": 292,
+    "title": "Overall mechanism of microbial pathogenicity",
+    "explain": "Disease depends on a sequence of successful events: enough microbes reach a portal of entry, adhere, penetrate or evade defenses, damage host cells and eventually leave through a portal of exit. Virulence factors are microbial features that increase success at one or more steps.",
+    "mustKnow": [
+      "Virulence is a pathogen's capacity to harm a host.",
+      "Pathogenicity involves entry, adherence, defense evasion, damage and exit.",
+      "The number of invading microbes can affect whether disease develops.",
+      "Virulence factors convert a microbe into a more effective pathogen."
+    ],
+    "terms": [
+      {"term": "Virulence", "meaning": "Degree or capacity of a pathogen to cause harm."},
+      {"term": "Virulence factor", "meaning": "A microbial structure or product that promotes colonization, invasion, evasion or damage."},
+      {"term": "Portal of entry", "meaning": "Route by which a pathogen enters the host."},
+      {"term": "Portal of exit", "meaning": "Route by which a pathogen leaves the host for transmission."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which definition best matches a virulence factor?",
+      "options": ["A microbial feature that increases the ability to cause disease", "Any host chromosome", "A normal red blood cell", "A nutrient required by every organism"],
+      "answer": 0,
+      "explanation": "Virulence factors help a microbe adhere, invade, evade immunity, obtain nutrients or damage the host."
+    }
+  },
+  {
+    "page": 293,
+    "title": "Steps in bacterial pathogenesis",
+    "explain": "The diagram organizes bacterial disease into exposure, adhesion, invasion, colonization with immune evasion, toxin action and tissue damage. Not every bacterium uses every step, but successful disease generally requires persistence at the host site and enough damage to disturb normal function.",
+    "mustKnow": [
+      "Exposure is followed by attachment or adhesion.",
+      "Invasion and colonization allow persistence and spread.",
+      "Immune evasion helps bacteria survive in the host.",
+      "Toxins and direct microbial effects produce tissue damage and disease."
+    ],
+    "terms": [
+      {"term": "Colonization", "meaning": "Establishment and multiplication of microbes at a host site."},
+      {"term": "Invasion", "meaning": "Entry into host tissues or cells beyond the initial surface."},
+      {"term": "Immune evasion", "meaning": "Avoidance, suppression or resistance of host immune defenses."},
+      {"term": "Toxin", "meaning": "A microbial product that directly damages cells or disrupts physiology."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which event most directly allows bacteria to remain and multiply at a host site?",
+      "options": ["Colonization", "Karyotyping", "Hematopoiesis", "Optic-cup invagination"],
+      "answer": 0,
+      "explanation": "Colonization is establishment and growth of the organism at the host site."
+    }
+  },
+  {
+    "page": 294,
+    "title": "Adherence requires a microbial ligand and host receptor",
+    "explain": "Adherence is often essential because microbes must resist being washed away before they can colonize. Attachment depends on complementary binding: a microbial surface ligand, often called an adhesin, binds a receptor on the host cell.",
+    "mustKnow": [
+      "Adherence is microbial attachment to host cells.",
+      "A microbial ligand binds a host receptor.",
+      "Attachment commonly precedes colonization and infection."
+    ],
+    "terms": [
+      {"term": "Adherence", "meaning": "Attachment of a microorganism to a host surface or cell."},
+      {"term": "Adhesin", "meaning": "A microbial surface molecule that mediates attachment."},
+      {"term": "Ligand", "meaning": "A molecule that binds specifically to a receptor."},
+      {"term": "Receptor", "meaning": "A host component recognized and bound by a microbial ligand."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "During bacterial adherence, which pair binds directly?",
+      "options": ["Microbial adhesin and host receptor", "Host ribosome and platelet", "Antibody and chromosome", "Neutrophil and karyotype"],
+      "answer": 0,
+      "explanation": "Specific binding between a microbial adhesin and a host receptor anchors the bacterium."
+    }
+  },
+  {
+    "page": 295,
+    "title": "M protein in Group A Streptococcus",
+    "explain": "Group A Streptococcus uses surface M protein in adherence and immune evasion. M protein helps interactions with fibronectin, promoting attachment and invasion. It also recruits host proteins such as fibrinogen, albumin and plasminogen, forming a cloak that hides bacterial epitopes and changes antibody access.",
+    "mustKnow": [
+      "M protein is a virulence factor of Group A Streptococcus.",
+      "Fibronectin binding promotes attachment and invasion.",
+      "A host-protein cloak can hide bacterial epitopes from antibodies.",
+      "M protein contributes to both adherence and immune evasion."
+    ],
+    "terms": [
+      {"term": "M protein", "meaning": "Major surface virulence protein of Group A Streptococcus."},
+      {"term": "Fibronectin", "meaning": "A host extracellular-matrix protein that bacteria can exploit for attachment."},
+      {"term": "Epitope", "meaning": "The specific part of an antigen recognized by an antibody or receptor."},
+      {"term": "Host-protein cloak", "meaning": "Layer of recruited host proteins that masks a pathogen's surface."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "How does the M-protein host cloak aid Group A Streptococcus?",
+      "options": ["It reduces antibody access to bacterial epitopes", "It converts bacteria into red blood cells", "It makes stomach acid neutral", "It produces host chromosomes"],
+      "answer": 0,
+      "explanation": "Recruiting host proteins masks bacterial surface epitopes and supports immune evasion."
+    }
+  },
+  {
+    "page": 296,
+    "title": "Why adherence matters",
+    "explain": "Attachment lets microbes remain at a favorable site long enough to colonize and cause disease. Because adhesin–receptor binding is selective, it can determine which host species or tissue a pathogen infects. Blocking adherence is therefore a possible treatment strategy.",
+    "mustKnow": [
+      "Adherence supports colonization and disease.",
+      "Receptor availability contributes to host and tissue specificity.",
+      "Adhesins or their receptor interactions can be drug targets."
+    ],
+    "terms": [
+      {"term": "Host specificity", "meaning": "Restriction of a pathogen to particular host species."},
+      {"term": "Tissue tropism", "meaning": "Preference of a pathogen for particular tissues or cell types."},
+      {"term": "Drug target", "meaning": "A molecule or interaction whose inhibition can reduce disease."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Why can adherence determine tissue tropism?",
+      "options": ["Only tissues with the matching host receptor support efficient attachment", "Every tissue has identical receptors", "Adherence destroys all microbial ligands", "Tropism depends only on blood-cell color"],
+      "answer": 0,
+      "explanation": "A pathogen attaches efficiently only where host cells display receptors compatible with its adhesins."
+    }
+  },
+  {
+    "page": 297,
+    "title": "Bacterial capsules",
+    "explain": "A capsule is an organized outer layer, usually made of polysaccharide, located outside the bacterial cell wall. It can promote attachment and protect bacteria from host defenses. Encapsulated pathogens listed here include Streptococcus pneumoniae, Haemophilus influenzae and Bacillus anthracis.",
+    "mustKnow": [
+      "A capsule lies outside the bacterial cell wall.",
+      "Most bacterial capsules are polysaccharide-rich.",
+      "Capsules can aid attachment and immune evasion.",
+      "S. pneumoniae, H. influenzae and B. anthracis are examples shown."
+    ],
+    "terms": [
+      {"term": "Capsule", "meaning": "Organized protective layer external to a bacterial cell wall."},
+      {"term": "Polysaccharide", "meaning": "A long carbohydrate polymer; a common capsule material."},
+      {"term": "Encapsulated bacterium", "meaning": "A bacterium surrounded by a distinct capsule."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Where is a bacterial capsule located?",
+      "options": ["Outside the cell wall", "Inside the bacterial chromosome", "Inside the host nucleus", "Only within a lysosome"],
+      "answer": 0,
+      "explanation": "The capsule forms an outer layer external to the bacterial cell wall."
+    }
+  },
+  {
+    "page": 298,
+    "title": "Capsules can mask PAMP recognition",
+    "explain": "Innate immune cells use pattern-recognition receptors such as Toll-like receptors to detect conserved pathogen-associated molecular patterns. TLR4 recognizes bacterial lipopolysaccharide. A capsule can cover underlying microbial patterns, reducing receptor access and weakening early immune activation.",
+    "mustKnow": [
+      "PAMPs are conserved microbial features recognized by innate immunity.",
+      "TLRs are pattern-recognition receptors.",
+      "TLR4 recognizes bacterial LPS.",
+      "A capsule may mask PAMPs and reduce recognition."
+    ],
+    "terms": [
+      {"term": "PAMP", "meaning": "Pathogen-associated molecular pattern: a conserved microbial structure sensed by innate immunity."},
+      {"term": "TLR", "meaning": "Toll-like receptor, a family of pattern-recognition receptors."},
+      {"term": "TLR4", "meaning": "A receptor best known for detecting bacterial lipopolysaccharide."},
+      {"term": "LPS", "meaning": "Lipopolysaccharide, a major outer-membrane component of Gram-negative bacteria."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which microbial molecule is recognized by TLR4?",
+      "options": ["Lipopolysaccharide", "Host fibronectin", "Perforin", "Oct3/4"],
+      "answer": 0,
+      "explanation": "TLR4 is the classic innate receptor associated with detection of bacterial LPS."
+    }
+  },
+  {
+    "page": 299,
+    "title": "Capsules inhibit phagocytosis",
+    "explain": "Phagocytes ingest bacteria more efficiently when the microbial surface is directly recognizable or coated with opsonins. A capsule can hide binding targets and prevent close receptor contact, making attachment and engulfment less efficient.",
+    "mustKnow": [
+      "Capsules can reduce phagocyte binding to bacteria.",
+      "Reduced binding leads to reduced engulfment.",
+      "Opsonization can improve phagocytosis of encapsulated bacteria."
+    ],
+    "terms": [
+      {"term": "Opsonization", "meaning": "Coating a target with molecules that make it easier for phagocytes to bind and ingest."},
+      {"term": "Opsonin", "meaning": "A molecule, such as certain antibodies or complement fragments, that promotes phagocytosis."},
+      {"term": "Antiphagocytic", "meaning": "Able to resist or inhibit engulfment by phagocytes."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "How does a capsule commonly reduce phagocytosis?",
+      "options": ["By obstructing receptor binding and engulfment", "By turning neutrophils into bacteria", "By creating T-cell receptors", "By increasing host-cell karyotypes"],
+      "answer": 0,
+      "explanation": "The capsule physically and chemically masks the bacterial surface, reducing effective phagocyte attachment."
+    }
+  },
+  {
+    "page": 300,
+    "title": "Capsules can support survival after engulfment",
+    "explain": "Some capsules protect bacteria even after they enter a phagocyte. The capsule can reduce access or effectiveness of lysosomal enzymes and other antimicrobial factors, allowing the bacterium to resist digestion inside the phagolysosomal pathway.",
+    "mustKnow": [
+      "Some encapsulated bacteria resist intracellular digestion.",
+      "Capsules may reduce damage by lysosomal enzymes.",
+      "Engulfment does not guarantee microbial killing."
+    ],
+    "terms": [
+      {"term": "Intracellular survival", "meaning": "Persistence of a microbe inside a host cell despite antimicrobial mechanisms."},
+      {"term": "Lysosomal enzyme", "meaning": "An acidic-compartment enzyme that degrades biological material."},
+      {"term": "Phagocyte evasion", "meaning": "A microbial strategy that prevents engulfment, killing or digestion by phagocytes."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which statement correctly distinguishes engulfment from killing?",
+      "options": ["A bacterium may be engulfed yet survive if it resists phagolysosomal digestion", "Every engulfed bacterium is instantly destroyed", "Only antibodies perform phagocytosis", "Lysosomes produce bacterial capsules"],
+      "answer": 0,
+      "explanation": "Some microbial defenses, including capsules, allow survival after uptake by resisting intracellular antimicrobial mechanisms."
+    }
+  }
+]

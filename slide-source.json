@@ -1,0 +1,2366 @@
+[
+  {
+    "page": 1,
+    "lecture": "Bioenergetics",
+    "slideInLecture": 1,
+    "rawText": "Bioenergetics\nhttps://www.slideshare.net/Hamidicup/bioenergetics-104311079"
+  },
+  {
+    "page": 2,
+    "lecture": "Bioenergetics",
+    "slideInLecture": 2,
+    "rawText": "https://slideplayer.com/slide/7832537/"
+  },
+  {
+    "page": 3,
+    "lecture": "Bioenergetics",
+    "slideInLecture": 3,
+    "rawText": "3) Polymerize monomeric precursors into macromolecules; proteins, nucleic acids and polysaccharides\n4) Synthesize and degrade biomolecules required for specialized cellular functions, such as membrane lipids, intracellular messengers and pigments\nMetabolism\nPlants\nHumans\nMetabolism\nis a highly coordinated cellular activity in which many multienzyme systems (metabolic pathways) cooperate to\n1) Obtain chemical energy by capturing solar energy or degrading energy rich nutrient from the environment\n2) Convert nutrient molecules into the cell’s own characteristic molecules, including precursors of macromolecules"
+  },
+  {
+    "page": 4,
+    "lecture": "Bioenergetics",
+    "slideInLecture": 4,
+    "rawText": "All living organisms also require a source of nitrogen for the synthesis of amino acids, nucleic acids etc.\nIn metabolic processes, there is loss of useful energy (free energy)and an inevitable increase in the amount of unusable energy (heat and entropy)."
+  },
+  {
+    "page": 5,
+    "lecture": "Bioenergetics",
+    "slideInLecture": 5,
+    "rawText": "Metabolism\nThe sum of all the chemical transformations taking place in a cell or organism, occurs through a series of enzyme-catalyzed reactions that constitutes metabolic pathways"
+  },
+  {
+    "page": 6,
+    "lecture": "Bioenergetics",
+    "slideInLecture": 6,
+    "rawText": "In general,\ncatabolic pathways are convergent\nand\nanabolic pathways are divergent\nThere are separate sets of enzymes catalyzing the anabolic and catabolic pathways (prevents waste of energy)\nSome metabolic pathways are linear, and some are branched, yielding multiple useful end products from a single precursor or converting several starting materials into a single product."
+  },
+  {
+    "page": 7,
+    "lecture": "Bioenergetics",
+    "slideInLecture": 7,
+    "rawText": ""
+  },
+  {
+    "page": 8,
+    "lecture": "Bioenergetics",
+    "slideInLecture": 8,
+    "rawText": "Michaelis\n–\nMenten\nequation\n. Here, V\nmax\nrepresents the maximum rate achieved by the system, happening at saturating substrate concentration for a given enzyme concentration.\nThe\nvalue of the\nMichaelis\nconstant  K\nM\nis numerically equal to the substrate concentration at which the reaction rate is half of\nV\nmax"
+  },
+  {
+    "page": 9,
+    "lecture": "Bioenergetics",
+    "slideInLecture": 9,
+    "rawText": ""
+  },
+  {
+    "page": 10,
+    "lecture": "Bioenergetics",
+    "slideInLecture": 10,
+    "rawText": ""
+  },
+  {
+    "page": 11,
+    "lecture": "Bioenergetics",
+    "slideInLecture": 11,
+    "rawText": ""
+  },
+  {
+    "page": 12,
+    "lecture": "Bioenergetics",
+    "slideInLecture": 12,
+    "rawText": "Key convention: For the convenience of calculations, biochemists define a standard state different from that used in chemistry and physics: in the biochemical standard state, [H\n+\n] is 10\n-7\nM (pH 7), and [H\n2\nO] is 55.5 M. For reactions that involve Mg\n2+\nconc. is taken as 1M\nWhen the reaction is not at equilibrium there is a force driving the\nreaction to equilibrium. This force is\nG"
+  },
+  {
+    "page": 13,
+    "lecture": "Bioenergetics",
+    "slideInLecture": 13,
+    "rawText": ""
+  },
+  {
+    "page": 14,
+    "lecture": "Bioenergetics",
+    "slideInLecture": 14,
+    "rawText": ""
+  },
+  {
+    "page": 15,
+    "lecture": "Bioenergetics",
+    "slideInLecture": 15,
+    "rawText": "The standard free energy change for a reaction is dependent on the equilibrium constant"
+  },
+  {
+    "page": 16,
+    "lecture": "Bioenergetics",
+    "slideInLecture": 16,
+    "rawText": "1Kcal=4.184KJ"
+  },
+  {
+    "page": 17,
+    "lecture": "Bioenergetics",
+    "slideInLecture": 17,
+    "rawText": ""
+  },
+  {
+    "page": 18,
+    "lecture": "Bioenergetics",
+    "slideInLecture": 18,
+    "rawText": ""
+  },
+  {
+    "page": 19,
+    "lecture": "Bioenergetics",
+    "slideInLecture": 19,
+    "rawText": ""
+  },
+  {
+    "page": 20,
+    "lecture": "Bioenergetics",
+    "slideInLecture": 20,
+    "rawText": ""
+  },
+  {
+    "page": 21,
+    "lecture": "Bioenergetics",
+    "slideInLecture": 21,
+    "rawText": ""
+  },
+  {
+    "page": 22,
+    "lecture": "Bioenergetics",
+    "slideInLecture": 22,
+    "rawText": "Summary\n1. All chemical reactions are influenced by two forces: the tendency to achieve the most stable bonding state (enthalpy, H) and the tendency to achieve the highest degree of randomness, (entropy, S). The net driving force is\nG, the free energy change, which represents the net effect of these two factors.\n2. The standard transformed free energy change, G\n’0\n, is a physical constant that is characteristic for a given reaction and can be calculated from the equilibrium constants of the reaction G\n’0\n= -\nRT\nln\nK\n‘\neq\n3. The actual free energy change, G, is a variable that depends on G\n’0\nand on the concentration of reactants and products, G = G\n’0\n+\nRT\nln ([products]/[reactants])."
+  },
+  {
+    "page": 23,
+    "lecture": "Bioenergetics",
+    "slideInLecture": 23,
+    "rawText": "Summary (\nContd\n)\n4. When\n\nG is large and negative, the reaction tends to go in the forward direction; when\n\nG is large and positive, the reaction tend to go in the reverse direction; and when\n\nG=0, the system is at equilibrium.\n5. The\nG\nof a reaction is independent of the pathway by which the reaction occurs.\nG\nchanges are additive; the net chemical reaction that results from successive reactions sharing a common intermediate has an overall\nG\nthat is the sum of the\nG\nvalues for the individual reactions"
+  },
+  {
+    "page": 24,
+    "lecture": "Bioenergetics",
+    "slideInLecture": 24,
+    "rawText": ""
+  },
+  {
+    "page": 25,
+    "lecture": "Bioenergetics",
+    "slideInLecture": 25,
+    "rawText": ""
+  },
+  {
+    "page": 26,
+    "lecture": "Bioenergetics",
+    "slideInLecture": 26,
+    "rawText": ""
+  },
+  {
+    "page": 27,
+    "lecture": "Bioenergetics",
+    "slideInLecture": 27,
+    "rawText": ""
+  },
+  {
+    "page": 28,
+    "lecture": "Bioenergetics",
+    "slideInLecture": 28,
+    "rawText": ""
+  },
+  {
+    "page": 29,
+    "lecture": "Bioenergetics",
+    "slideInLecture": 29,
+    "rawText": ""
+  },
+  {
+    "page": 30,
+    "lecture": "Bioenergetics",
+    "slideInLecture": 30,
+    "rawText": "The free-energy change for ATP hydrolysis is −30.5 kJ/\nmol\nunder standard conditions, but the actual free energy of hydrolysis (ΔG) of ATP in living cells is very different\nThe cellular concentrations of ATP, ADP, and Pi are not identical and are much lower than the 1.0 M of standard conditions."
+  },
+  {
+    "page": 31,
+    "lecture": "Bioenergetics",
+    "slideInLecture": 31,
+    "rawText": "Furthermore, Mg2+ in the cytosol binds to ATP and ADP\nFor most enzymatic reactions that involve ATP as phosphoryl group donor, the true substrate is MgATP2+.\nThe relevant ΔG′° is therefore that for MgATP2+ hydrolysis"
+  },
+  {
+    "page": 32,
+    "lecture": "Bioenergetics",
+    "slideInLecture": 32,
+    "rawText": ""
+  },
+  {
+    "page": 33,
+    "lecture": "Bioenergetics",
+    "slideInLecture": 33,
+    "rawText": ""
+  },
+  {
+    "page": 34,
+    "lecture": "Bioenergetics",
+    "slideInLecture": 34,
+    "rawText": ""
+  },
+  {
+    "page": 35,
+    "lecture": "Bioenergetics",
+    "slideInLecture": 35,
+    "rawText": ""
+  },
+  {
+    "page": 36,
+    "lecture": "Bioenergetics",
+    "slideInLecture": 36,
+    "rawText": "ATP Provides Energy by Group Transfers, Not by Simple Hydrolysis\nSome processes do involve direct hydrolysis of ATP (or GTP).\nProvide the energy to cycle some proteins between two conformations, producing mechanical motion. Ex. muscle contraction and in the movement of enzymes along DNA or of ribosomes along mRNA.\nThe energy-dependent reactions catalyzed by helicases,\nRecA\nprotein, and some topoisomerases.\nThe\nATPases\ninvolved in DNA replication and other processes use ATP hydrolysis to cycle associated proteins between active and inactive forms."
+  },
+  {
+    "page": 37,
+    "lecture": "Bioenergetics",
+    "slideInLecture": 37,
+    "rawText": "Ranking of biological phosphate compounds by standard free energies of hydrolysis."
+  },
+  {
+    "page": 38,
+    "lecture": "Bioenergetics",
+    "slideInLecture": 38,
+    "rawText": ""
+  },
+  {
+    "page": 39,
+    "lecture": "Bioenergetics",
+    "slideInLecture": 39,
+    "rawText": "In the firefly, ATP is used in a set of reactions that convert chemical energy into light energy.\nIn the 1950s, William McElroy isolated the principal biochemical components: luciferin, a complex carboxylic acid, and luciferase, an enzyme.\nThe generation of a light flash requires activation of luciferin by an enzymatic reaction involving pyrophosphate cleavage of ATP to form\nluciferyl\nadenylate."
+  },
+  {
+    "page": 40,
+    "lecture": "Bioenergetics",
+    "slideInLecture": 40,
+    "rawText": "In the presence of molecular oxygen and luciferase, the luciferin undergoes a multistep oxidative decarboxylation to\noxyluciferin\n. This process is accompanied by emission of light.\nThe color of the light flash differs from one firefly species to another and seems to be determined by differences in the structure of the luciferase.\nLuciferin is regenerated from\noxyluciferin\nin a subsequent series of reactions."
+  },
+  {
+    "page": 41,
+    "lecture": "Gene Expression and Regulation",
+    "slideInLecture": 1,
+    "rawText": "Gene Expression and Regulation\nFrom the gene to the operon: regulation of gene expression"
+  },
+  {
+    "page": 42,
+    "lecture": "Gene Expression and Regulation",
+    "slideInLecture": 2,
+    "rawText": "Contents\n1. Gene\n2. Gene Expression\na) Replication\nb) Transcription\nc) Translation\n3. Regulation of Gene Expression\n4. Types of Gene Regulation\na) Positive regulation\nb) Negative regulation\n5. Types of Genes\na) Constitutive genes\nb) Inducible genes\n6. Regulation of Gene Expression in Prokaryotes\nOperon\nLac operon\n7. References\n2"
+  },
+  {
+    "page": 43,
+    "lecture": "Gene Expression and Regulation",
+    "slideInLecture": 3,
+    "rawText": "1. Gene\nGene is a small piece of genetic material written in a code called DNA.\nGene is passed from parents to child.\nGenes determine the child’s characteristics, like hair, eye and skin color, height and whether the child will have an inherited disease.\n3"
+  },
+  {
+    "page": 44,
+    "lecture": "Gene Expression and Regulation",
+    "slideInLecture": 4,
+    "rawText": "Gene Expression\nGene expression refers to a multistep process that results in production of the structural and functional unit of the cell, called\nprotein\n.\nThe multistep process is also called the\nCentral Dogma\n.\nCentral Dogma is the flow of information from DNA to RNA and then to protein.\nSequential\nflow\nof\nresidue-\nby-residue\ninformation\nstored in\nthe\ngenetic\nrepository\n(DNA/Chromosomes)\nof\nliving\nsystem.\nThe\ntransfer\nof\ninformation\nfrom\nnucleic\nacid\nto\nnucleic\nacid,\nor\nfrom\nnucleic\nacid\nto\nprotein\nmay\nbe\npossible,\nbut\ntransfer\nfrom\nprotein\nto\nprotein,\nor\nfrom protein\nto\nnucleic\nacid\nis\nimpossible.\n4"
+  },
+  {
+    "page": 45,
+    "lecture": "Gene Expression and Regulation",
+    "slideInLecture": 5,
+    "rawText": "a) Replication (DNA Synthesis)\nThe duplication or synthesis of DNA is called replication.\nIt occurs in the S-phase of the cell cycle.\nReplication occurs in the same way throughout the body, but transcription differs from cell to cell.\nReplication is\nsemi-conservative\n: the mechanism of DNA replication leads to a daughter molecule with one old strand and one new strand.\n5"
+  },
+  {
+    "page": 46,
+    "lecture": "Gene Expression and Regulation",
+    "slideInLecture": 6,
+    "rawText": "Replicating fork\n6"
+  },
+  {
+    "page": 47,
+    "lecture": "Gene Expression and Regulation",
+    "slideInLecture": 7,
+    "rawText": "https://www.youtube.com/watch?v=TNKWgcFPHqw\nhttps://www.youtube.com/watch?v=0Ha9nppnwOc"
+  },
+  {
+    "page": 48,
+    "lecture": "Gene Expression and Regulation",
+    "slideInLecture": 8,
+    "rawText": "8\nLocation:\nCytoplasm in prokaryotes, Nucleus in Eukaryotes\nProcess:\nConversion of DNA information into RNA molecules\nEnzyme:\nRNA polymerase carries out the polymerization/ mRNA synthesis process\nSteps 1- Initiation:\nbinding of RNA polymerase at promoter site with associated transcription factors and enzymes (Helicase) and opening of double stranded DNA; i.e. transcription bubble formation.\nSteps 2\n- Escape from promoter site.\nSteps 3\n-\nElongation:\nInsertion of complementary bases and lengthening of RNA chain.\nSteps 4\n- Termination: RNA synthesis stops and synthesized RNA molecule releases in the cytoplasm.\nb) Transcription"
+  },
+  {
+    "page": 49,
+    "lecture": "Gene Expression and Regulation",
+    "slideInLecture": 9,
+    "rawText": "9\nmRNA synthesized on noncoding strand also known\nas antisense or template strand\n. The other strand is called sense strand or coding strand and has the same base sequence as mRNA except in place of uracil it has thymine base."
+  },
+  {
+    "page": 50,
+    "lecture": "Gene Expression and Regulation",
+    "slideInLecture": 10,
+    "rawText": "10\nProcessing of RNA\nIn Eukaryotes\nmessenger RNA (mRNA) synthesized in precursor form; i.e., pre-mRNA.\nThe pre-mRNA: interspersed coding part (exons) + Non-coding sequences (introns).\nRequires splicing and removal of non-coding segments to form mature mRNA (RNA processing)."
+  },
+  {
+    "page": 51,
+    "lecture": "Gene Expression and Regulation",
+    "slideInLecture": 11,
+    "rawText": "https://www.youtube.com/watch?v=7Hk9jct2ozY&t=201s"
+  },
+  {
+    "page": 52,
+    "lecture": "Gene Expression and Regulation",
+    "slideInLecture": 12,
+    "rawText": "c) Translation (Protein Biosynthesis)\nProtein biosynthesis is called translation.\nIt occurs on ribosomes (free / cytosolic).\nmRNA is translated in the 5′ to 3′ direction.\nProtein is synthesised from the amino terminus (N-terminal)\nto the carboxy terminus (C-terminal).\n12"
+  },
+  {
+    "page": 53,
+    "lecture": "Gene Expression and Regulation",
+    "slideInLecture": 13,
+    "rawText": "13\nAmino\nacid-\n1\nAmino\nAcid-\n2\nRibosome:\nmacromolecular machine where peptide synthesis happens\ntRNA (Transfer RNA):\ncarries the amino acids to ribosome-mRNA complex\nLocation:\ncytoplasm of cell\nComponents:\nmRNA:\nprovides the genetic information needed to be translated."
+  },
+  {
+    "page": 54,
+    "lecture": "Gene Expression and Regulation",
+    "slideInLecture": 14,
+    "rawText": "From gene to protein: overview\nTranscription\n(Nucleus)\nSynthesis of RNA from DNA by RNA polymerase enzyme.\nDNA → RNA\nRNA Processing\nRNA becomes mature RNA.\nRNA → mRNA\nTranslation\n(Cytoplasm)\nmRNA → Protein\nProtein Folding and Transport\nFolding: chaperone enzymes help form the 3-D structure of the protein.\nTransport: proteins go to the endoplasmic reticulum, then via the Golgi apparatus.\n14"
+  },
+  {
+    "page": 55,
+    "lecture": "Gene Expression and Regulation",
+    "slideInLecture": 15,
+    "rawText": "3. Regulation of Gene Expression\nRegulation of gene expression is essential for metabolic functions, growth and development, and differentiation of tissues.\nThe rate of expression of prokaryotic (bacterial) genes is controlled mainly at the level of transcription (mRNA synthesis).\nEukaryotes, however, have a much larger and more complex genome than prokaryotes hence more complex regulatory mechanism.\n15"
+  },
+  {
+    "page": 56,
+    "lecture": "Gene Expression and Regulation",
+    "slideInLecture": 16,
+    "rawText": "Overview: where is gene expression regulated?\nGene regulation\nIn prokaryotes\nIn eukaryotes\nRegulation occurs mainly at the transcription initiation level\nTranscription and translation occur simultaneously (co-translation) because there is no compartmentalisation\nAt transcription level\nAt post-transcription level\nProcessing level\nTransport level (nucleus → cytosol)\nTranslation level"
+  },
+  {
+    "page": 57,
+    "lecture": "Gene Expression and Regulation",
+    "slideInLecture": 17,
+    "rawText": "4. Types of Gene Regulation\na) Positive regulation\nb) Negative regulation\nGene expression is increased by a regulatory element.\nThe element or molecule mediating positive regulation is called an activator or inducer.\nGene expression is decreased by a regulatory element.\nThe element or molecule mediating negative regulation called a repressor or inhibitor.\n17"
+  },
+  {
+    "page": 58,
+    "lecture": "Gene Expression and Regulation",
+    "slideInLecture": 18,
+    "rawText": "6. Operons\nIn prokaryotes, genes involved in a metabolic pathway are often arranged in a linear fashion, called an\noperon\n.\nAn operon is a functioning unit of DNA containing a cluster of genes under the control of a single promoter.\nTranscription is the main site of regulation of gene expression.\nOperons occur in prokaryotes but not in eukaryotes. For example: Lac operon: regulation of lactose metabolism, Ara operon: regulation of arabinose metabolism and Gal operon: regulation of galactose metabolism.\nPromoter\nGene 1\nGene 2\nGene 3\nOperon\n18\nOperator"
+  },
+  {
+    "page": 59,
+    "lecture": "Gene Expression and Regulation",
+    "slideInLecture": 19,
+    "rawText": "Bacteria\nuptake lactose when other, better sugars – like glucose – are unavailable.\nThe\nlac\noperon is an\noperon\n, or group of genes with a single promoter (transcribed as a single mRNA).\nThe genes in the operon encode proteins that allow the bacteria to use lactose as an energy source.\nLac Operon / Lactose Operon"
+  },
+  {
+    "page": 60,
+    "lecture": "Gene Expression and Regulation",
+    "slideInLecture": 20,
+    "rawText": ""
+  },
+  {
+    "page": 61,
+    "lecture": "Gene Expression and Regulation",
+    "slideInLecture": 21,
+    "rawText": "The\nlac\noperon of\nE. coli\ncontains genes involved in lactose metabolism. It's expressed only when lactose is present and glucose is absent.\nTwo regulators turn the operon \"\noff\n\" and \"\non\n\" in response to lactose and glucose levels: the\nlac\nrepressor and catabolite activator protein (CAP).\nThe\nlac\nrepressor\nacts as a lactose sensor. It normally blocks transcription of the operon, but stops acting as a repressor when lactose is present. The\nlac\nrepressor senses lactose indirectly, through its isomer\nallolactose\n.\nCatabolite activator protein\n(\nCAP\n) acts as a glucose sensor. It activates transcription of the operon, but only when glucose levels are low. CAP senses glucose indirectly, through the \"hunger signal\" molecule\ncAMP\n.\nLac Operon / Lactose Operon"
+  },
+  {
+    "page": 62,
+    "lecture": "Gene Expression and Regulation",
+    "slideInLecture": 22,
+    "rawText": "Structure of the\nlac\noperon\nThe\nlac\noperon contains three genes:\nlacZ\n,\nlacY\n, and\nlacA\n. These genes are transcribed as a single mRNA, under control of one promoter.\nIn addition- the\nlac\noperon also contains a number of regulatory DNA sequences.\nThese are regions of DNA to which particular regulatory proteins can bind, controlling transcription of the operon.\nLac Z\n- β-galactosidase- Lactose (Disaccharide)- Glucose/galactose\nLac Y\n- Lactose permease-transmembrane pump\nLac A\n- transacetylase"
+  },
+  {
+    "page": 63,
+    "lecture": "Gene Expression and Regulation",
+    "slideInLecture": 23,
+    "rawText": "The\npromoter\nis the binding site for RNA polymerase, the enzyme that performs transcription.\nThe\noperator\nis a negative regulatory site bound by the\nlac\nrepressor\nprotein. The operator overlaps with the promoter, and when the\nlac\nrepressor is bound, RNA polymerase cannot bind to the promoter and start transcription.\nThe\nCAP binding site\nis a positive regulatory site that is bound by catabolite activator protein (CAP). When CAP is bound to this site, it promotes transcription by helping RNA polymerase bind to the promoter."
+  },
+  {
+    "page": 64,
+    "lecture": "Gene Expression and Regulation",
+    "slideInLecture": 24,
+    "rawText": "The\nlac\nrepressor\nThe\nlac\nrepressor is a protein that represses (inhibits) transcription of the\nlac\noperon\n. It does this by binding to the operator, which partially overlaps with the promoter. When bound, the\nlac\nrepressor gets in RNA polymerase's way and keeps it from transcribing the operon.\nWhen lactose is not available, the\nlac\nrepressor binds tightly to the operator, preventing transcription by RNA polymerase. However, when lactose is present, the\nlac\nrepressor loses its ability to bind DNA. It floats off the operator, clearing the way for RNA polymerase to transcribe the operon."
+  },
+  {
+    "page": 65,
+    "lecture": "Gene Expression and Regulation",
+    "slideInLecture": 25,
+    "rawText": "Allolactose is an example of an\ninducer\n, a small molecule that triggers expression of a gene or operon.\nThe\nlac\noperon is considered an\ninducible operon\nbecause it is usually turned off (repressed), but can be turned on in the presence of the inducer allolactose."
+  },
+  {
+    "page": 66,
+    "lecture": "Gene Expression and Regulation",
+    "slideInLecture": 26,
+    "rawText": "Catabolite activator protein (CAP)\nRNA polymerase alone does not bind very well to the\nlac\noperon promoter. It might make a few transcripts, but it won't do much more unless it gets extra help from\ncatabolite activator protein\n(\nCAP\n).\nCAP binds to a region of DNA just before the\nlac\noperon promoter and helps RNA polymerase attach to the promoter, driving high levels of transcription.\nWhere Does CAP come From??\nLike the\nlac\nrepressor, CAP is encoded by a regulatory gene found on the bacterial chromosome. The gene for CAP is not part of (or anywhere near) the\nlac\noperon.\nThe CAP gene is\nconstitutively, or constantly, expressed\n. This means CAP protein is always available in the cell to bind cAMP and \"report\" glucose levels to the\nlac\noperon and other target genes and operons."
+  },
+  {
+    "page": 67,
+    "lecture": "Gene Expression and Regulation",
+    "slideInLecture": 27,
+    "rawText": "CAP isn't always active (able to bind DNA). Instead, it's regulated by a small molecule called\ncyclic AMP\n(\ncAMP\n). cAMP is a \"hunger signal\" made by\nE. coli\nwhen glucose levels are low.\ncAMP binds to CAP\n, changing its shape and making it able to bind DNA and promote transcription. Without cAMP, CAP cannot bind DNA and is inactive."
+  },
+  {
+    "page": 68,
+    "lecture": "Gene Expression and Regulation",
+    "slideInLecture": 28,
+    "rawText": "CAP is only active when glucose levels are low (cAMP levels are high).\nThis strategy ensures that bacteria only turn on the\nlac\noperon and start using lactose after they have used up all of the preferred energy source (glucose).\nSo, when does the\nlac\noperon\nreally\nturn on?- Two Conditions\n1. Glucose must be unavailable:\nWhen glucose is unavailable, cAMP binds to CAP, making CAP able to bind DNA. Bound CAP helps RNA polymerase attach to the\nlac\noperon promoter.\n2.\nLactose must be available\n:\nIf lactose is available, the\nlac\nrepressor will be released from the operator (by binding of allolactose). This allows RNA polymerase to move forward on the DNA and transcribe the operon.\nThese\ntwo events in combination\n– the binding of the activator and the release of the repressor – allow RNA polymerase to bind strongly to the promoter and give it a clear path for transcription."
+  },
+  {
+    "page": 69,
+    "lecture": "Gene Expression and Regulation",
+    "slideInLecture": 29,
+    "rawText": "No transcription.\nT\nhe\nlac\nrepressor remains bound to the operator and prevents transcription by RNA polymerase.\nAlso, cAMP levels are low because glucose levels are high, so CAP is inactive and cannot bind DNA.\nLow-level transcription.\nThe\nlac\nrepressor is released from the operator because the inducer (allolactose) is present.\ncAMP levels, however, are low because glucose is present.\nThus, CAP remains inactive and cannot bind to DNA, so transcription only occurs at a low, leaky level."
+  },
+  {
+    "page": 70,
+    "lecture": "Gene Expression and Regulation",
+    "slideInLecture": 30,
+    "rawText": "No transcription of the\nlac\noperon occurs.\ncAMP levels are high because glucose levels are low, so CAP is active and will be bound to the DNA.\nHowever, the\nlac\nrepressor will also be bound to the operator (due to the absence of allolactose), acting as a roadblock to RNA polymerase and preventing transcription.\nStrong transcription of the\nlac\noperon occurs.\nThe\nlac\nrepressor is released from the operator because the inducer (allolactose) is present.\ncAMP levels are high because glucose is absent, so CAP is active and bound to the DNA.\nCAP helps RNA polymerase bind to the promoter, permitting high levels of transcription."
+  },
+  {
+    "page": 71,
+    "lecture": "Gene Expression and Regulation",
+    "slideInLecture": 31,
+    "rawText": "Glucose\nLactose\nCAP binds\nRepressor binds\nLevel of transcription\n+\n-\n-\n+\nNo transcription\n+\n+\n-\n-\nLow-level transcription\n-\n-\n+\n+\nNo transcription\n-\n+\n+\n-\nStrong transcription"
+  },
+  {
+    "page": 72,
+    "lecture": "Gene Expression and Regulation",
+    "slideInLecture": 32,
+    "rawText": "32"
+  },
+  {
+    "page": 73,
+    "lecture": "Gene Expression and Regulation",
+    "slideInLecture": 33,
+    "rawText": "33\nTrp Operon: Mechanism of Gene Activation"
+  },
+  {
+    "page": 74,
+    "lecture": "Gene Expression and Regulation",
+    "slideInLecture": 34,
+    "rawText": "Regulatory proteins and operon types\nInducible operon (Lac)\nRepressible operon (Trp)\nDefault state\nGenes OFF; inducer makes them ON\nGenes ON; co-repressor makes them OFF\nRepressor is made as\nActive form\nInactive form\nActivator is\nInactive\nActive form\nSmall molecule\nInducer (lactose) binds repressor\nCo-repressor (Trp) binds repressor\nType of regulation\nNegative (repressor)\nNegative (repressor)\nHousekeeping (constitutive) genes need no regulation, e.g. glycolysis genes. Regulatory (luxury) genes require regulation."
+  },
+  {
+    "page": 75,
+    "lecture": "Gene Expression and Regulation",
+    "slideInLecture": 35,
+    "rawText": "7. References\nHarper’s Illustrated Biochemistry, 30th edition, The McGraw-Hill Companies, Page No. 371–431\nLippincott Williams & Wilkins | Wolters Kluwer, 4th edition, Page No. 437\nEssentials of Biochemistry by Pankaja Naik, 2nd edition, Jaypee Brothers Medical Publishers, Page No. 355–356\nBiochemistry by U. Satyanarayana, 4th edition, Elsevier Publication, Page No. 566–567\nhttps://www.topperlearning.com/doubts-solutions/what-is-lac-operon-in-briefly-zimbkvgg\n35"
+  },
+  {
+    "page": 76,
+    "lecture": "Genetic Engineering Applications 1",
+    "slideInLecture": 1,
+    "rawText": "GENETIC\nENGINEERING\nAND ITS APPLICATIONS\nProf. Bishwajit Kundu\nKSBS, IIT Delhi\nPromoter\nGene of Interest\nTerminator\nSelectable Marker\nOrigin of replication\nRecombinant\nDNA\n1"
+  },
+  {
+    "page": 77,
+    "lecture": "Genetic Engineering Applications 1",
+    "slideInLecture": 2,
+    "rawText": "History of GMO Development\n1973:\ncreated first genetically modified bacteria\n1974:\ncreated GM mice\n1982:\nfirst commercial development of GMOs (insulin-producing bacteria)\n1994:\nbegan to sell genetically modified food\n2003:\nbegan to sell GMOs as pets (\nGlofish\n)\n2"
+  },
+  {
+    "page": 78,
+    "lecture": "Genetic Engineering Applications 1",
+    "slideInLecture": 3,
+    "rawText": "Central Dogma of Molecular Biology\nGenetic information flows from DNA to RNA to protein.\n3"
+  },
+  {
+    "page": 79,
+    "lecture": "Genetic Engineering Applications 1",
+    "slideInLecture": 4,
+    "rawText": "What is Genetic Engineering\nGenetic engineering\nis the deliberate modification of an organism’s genetic material using molecular biology techniques.\nInvolves\nisolation, modification and transfer\nof DNA.\nAllows a specific\ngene of interest\nto be introduced into a suitable\nhost\n.\nThe introduced gene may be\nreplicated\nand/or\nexpressed\nin the host.\nForms the basis of\nrecombinant DNA technology\n.\nUsed extensively in\nresearch, medicine, agriculture and industry\n.\nGene of interest\nVector\n(e.g. plasmid)\nRecombinant DNA\nHost cell\n(e.g.\nE. coli\n)\nDesired product\n(e.g. recombinant\nprotein)\n4"
+  },
+  {
+    "page": 80,
+    "lecture": "Genetic Engineering Applications 1",
+    "slideInLecture": 5,
+    "rawText": "Basic Principle of Genetic Engineering\nGenetic engineering involves the isolation of a gene of interest, its insertion into a suitable vector, transfer into a host cell and expression to obtain the desired product.\n1. Gene of Interest Isolation\nIsolate the desired gene from a source organism (genomic DNA or cDNA).\nAmplify if required\n(e.g. by PCR).\n2. Cutting of DNA\nGene and vector are cut using the same restriction enzyme(s) to generate compatible ends.\n3. Ligation\nRecombinant plasmid\nInsert is joined to the vector using DNA ligase to form recombinant DNA.\n4. Introduction into host cell\nRecombinant vector is introduced into a suitable host cell (e.g. bacteria, yeast, plant or animal cells).\n5. Selection and Screening\nGrowth on selective media (e.g. antibiotic)\nCells are selected using a selectable marker.\nPositive clones are screened and verified.\n6. Expression and product formation\nThe introduced gene is expressed in the host cell.\nThe desired product is produced, can be purification for downstream applications.\n(With same restriction sites)\n5"
+  },
+  {
+    "page": 81,
+    "lecture": "Genetic Engineering Applications 1",
+    "slideInLecture": 6,
+    "rawText": "Key Terminology in Genetic Engineering\nGene of interest\nDNA sequence selected for cloning, modification or expression.\n2. Vector\nDNA molecule used to carry foreign DNA into a host cell.\n3. Recombinant DNA\nDNA\nformed by joining sequences from different sources.\n4. Host cell\nCell\nin which recombinant DNA is introduced and maintained.\n5.\nTransformation\nIntroduction of foreign or recombinant DNA into a host cell.\n6. Clone\nGenetically identical population derived from a single progenitor cell.\n7. Selectable marker\nGene that allows cells containing the vector to be selected.\n6"
+  },
+  {
+    "page": 82,
+    "lecture": "Genetic Engineering Applications 1",
+    "slideInLecture": 7,
+    "rawText": "Restriction Enzymes\nRestriction enzymes (restriction endonucleases) are bacterial enzymes that recognize specific DNA sequences and cut DNA at or near those sites.\nFound naturally in bacteria as part of a\ndefense system\nagainst foreign DNA such as bacteriophages.\nEach enzyme recognizes a specific short DNA sequence, usually\n4–8 base pairs\nlong.\nMany recognition sequences are\npalindromic\n.\nIn genetic engineering, the same enzyme can be used to cut both the\nvector and the gene of interest\n.\n2. How restriction enzymes cut DNA\n3. Recognition sequence\nSequence reads the same in the\n5′ → 3′ direction\non both strands (palindromic).\n1. Key features\n4. Why are they useful?\nGenerate\ndefined DNA fragments\n.\nCreate\ncompatible ends\nfor ligation.\nEssential for\nrecombinant DNA cloning\n.\n7"
+  },
+  {
+    "page": 83,
+    "lecture": "Genetic Engineering Applications 1",
+    "slideInLecture": 8,
+    "rawText": "Different restriction enzymes recognize different DNA sequences and may generate\nsticky ends\nor\nblunt ends\n.\nCommon Restriction Enzymes and the Ends They Generate\nCommon examples\nSticky ends\nBlunt ends\nThe\nsame restriction enzyme\nis used to cut both the\nvector and the insert\n.\nCompatible ends\nhelp the DNA fragments join during ligation.\nChoice of enzyme depends on the\nrecognition site\npresent in the DNA and vector.\n8"
+  },
+  {
+    "page": 84,
+    "lecture": "Genetic Engineering Applications 1",
+    "slideInLecture": 9,
+    "rawText": "DNA Ligase: Function and Role in Genetic Engineering\nDNA ligase joins DNA fragments by sealing the sugar-phosphate backbone and is essential for recombinant DNA cloning.\nDNA ligase is an\nenzyme\nthat joins DNA fragments.\nIt forms a covalent\nphosphodiester bond\nbetween adjacent\n3′-OH\nand\n5′-phosphate\nends.\nIt\nseals nicks\nin DNA (single-stranded breaks).\nIt functions in DNA\nreplication\nand\nrepair\n, and is widely used in\ngenetic engineering\n.\nWhat does it do in cloning?\nWhat is DNA ligase?\nSticky-end ligation vs blunt-end ligation\nComplementary overhangs base-pair first, aligning the fragments.\nLigation is\neasier and more efficient\n.\nNo overhangs; ends are directly joined by DNA ligase.\nLigation is possible but\nless efficient\n.\nKey Points\nDNA ligase joins the\ninsert and vector\nby forming phosphodiester bonds.\nIt is commonly used after\nrestriction digestion\nto generate recombinant DNA molecules.\nDNA ligase is\nessential\nfor constructing recombinant DNA in genetic engineering.\nSealing a nick in DNA\n9"
+  },
+  {
+    "page": 85,
+    "lecture": "Genetic Engineering Applications 1",
+    "slideInLecture": 10,
+    "rawText": "DNA Ligase: Mechanism and Cloning Application\nIn recombinant DNA work, T4 DNA ligase is commonly used to join compatible DNA ends in an ATP-dependent reaction.\nMechanism of T4 DNA ligase :\nT4 DNA ligase binds to compatible DNA ends or a nick in duplex DNA.\nLigase reacts with ATP to form a covalent ligase–AMP intermediate and release pyrophosphate (\nPPi\n).\nAMP is transferred from ligase to the 5′-phosphate at the DNA end, activating the phosphate (DNA–AMP).\nThe adjacent 3′-OH attacks the activated\n5′-phosphate, forming a phosphodiester bond.\n10"
+  },
+  {
+    "page": 86,
+    "lecture": "Genetic Engineering Applications 1",
+    "slideInLecture": 11,
+    "rawText": "DNA Ligase: Mechanism and Cloning Application\nDNA ligase requires\nproper DNA ends\n(either compatible cohesive ends or blunt ends).\nATP is required\nfor T4 DNA ligase (to form the ligase–AMP intermediate).\nLigation converts separate DNA fragments into a\nstable recombinant molecule\n.\nSticky ends usually ligate\nmore efficiently\nthan blunt ends because complementary base pairing holds the fragments together, increasing the effective concentration for ligation.\n11"
+  },
+  {
+    "page": 87,
+    "lecture": "Genetic Engineering Applications 1",
+    "slideInLecture": 12,
+    "rawText": "PCR: Principle and Components\nIt is an in\nviro\ntechnique used to amplify a specific DNA sequence.\nPCR stands for\nPolymerse\nChain Reaction.\nIt selectively\namplifies\na target DNA region.\nIt produces\nmillions of copies\nfrom a small amount of starting DNA.\nIt depends on repeated temperature changes in a\nthermal cycler\n.\nEssential Components of PCR :\n12"
+  },
+  {
+    "page": 88,
+    "lecture": "Genetic Engineering Applications 1",
+    "slideInLecture": 13,
+    "rawText": "Principle of PCR :\nPCR: Principle and Components\nGene amplification\n— to obtain millions of copies of a specific DNA sequence.\nCloning\n— to generate DNA fragments for recombinant DNA work.\nDiagnostics\n— to detect the presence of pathogenic DNA/RNA (e.g. bacteria, viruses).\nMutation analysis\n— to detect genetic variations (e.g. SNPs, mutations).\nSequencing/template preparation\n— to generate sufficient DNA for DNA sequencing or other downstream applications.\nWhy is PCR useful?\n13"
+  },
+  {
+    "page": 89,
+    "lecture": "Genetic Engineering Applications 1",
+    "slideInLecture": 14,
+    "rawText": "PCR: Steps and Amplification Cycle\nPCR amplifies DNA through repeated cycles of denaturation, annealing and extension.\nExponential Amplification :\nIdeal yield after\nn\ncycles is approximately\n2ⁿ copies\nof the target region.\n14"
+  },
+  {
+    "page": 90,
+    "lecture": "Genetic Engineering Applications 1",
+    "slideInLecture": 15,
+    "rawText": "Agarose Gel Electrophoresis\nAgarose gel electrophoresis separates DNA fragments on the basis of size.\nDNA has a\nnegatively charged phosphate backbone\n.\nIn an electric field, DNA migrates toward the\npositive electrode (anode)\n.\nAgarose gel acts as a\nmolecular sieve\n.\nSmaller DNA fragments move\nfaster and farther\nthan larger fragments.\nPrinciple :\nHow Separation occurs?\nWells\nLarger fragments (near wells)\nSmaller fragments (migrate further)\nMigration distance is\ninversely related to fragment size\n.\nAnalysis of\nPCR products\nChecking\nrestriction digestion\nresults\nVerification of\ncloned DNA fragments / insert size\nAssessing\nDNA quality and approximate size\nApplications\n15"
+  },
+  {
+    "page": 91,
+    "lecture": "Genetic Engineering Applications 1",
+    "slideInLecture": 16,
+    "rawText": "DNA Sequencing (Sanger Method)\nDNA is synthesized in a reaction containing normal nucleotides\n(\ndNTPs\n)\nand a small amount of\nchain-terminating nucleotides (\nddNTPs\n)\n.\nddNTPs\nlack a\n3′-OH group\n, so when a\nddNTP\nis incorporated,\nDNA synthesis stops\n.\nThis generates a mixture of DNA fragments of\ndifferent lengths\n, each ending with A, T, G or C.\nPrinciple :\nConfirming cloned sequences (vector/insert)\nIdentifying mutations\nGene identification and annotation\nVerifying PCR products\nGeneral genetic analysis\nApplications :\nhttps://www.youtube.com/watch?v=wUAYwr6zPkY\n16"
+  },
+  {
+    "page": 92,
+    "lecture": "Genetic Engineering Applications 1",
+    "slideInLecture": 17,
+    "rawText": "CRISPR-Cas9: What It Is and Why It Matters\nWhat is CRISPR-Cas9?\nA genome editing tool derived from a\nnatural bacterial\ndefence\nsystem\nagainst viruses.\nUses a\nguide RNA (gRNA)\nto direct the Cas9 nuclease to a specific DNA sequence.\nIntroduces a\ndouble-strand break (DSB)\nat the target site.\nWhy is it important?\nAllows precise,\ntargeted modification\nof genes.\nEasier and faster\nthan traditional gene targeting methods.\nCan be used to\nknock out, insert or correct genes\n.\nWidely used in\nbasic research, functional genomics, crop improvement and gene therapy\n.\nHas transformed biological research and biotechnology in the last decade.\n17"
+  },
+  {
+    "page": 93,
+    "lecture": "Genetic Engineering Applications 1",
+    "slideInLecture": 18,
+    "rawText": "CRISPR-Cas9: Mechanism of Gene Editing\n18"
+  },
+  {
+    "page": 94,
+    "lecture": "Genetic Engineering Applications 1",
+    "slideInLecture": 19,
+    "rawText": "Vectors in Genetic Engineering\nVectors are DNA molecules used to carry a\ngene of interest into a host cell for replication and/or expression\n.\nWhat is a vector?\nA vector is a DNA molecule that\ncarries foreign DNA into a host cell\n.\nIt acts as a\nvehicle\nin genetic engineering.\nOnce inside the host, the inserted DNA can be\nreplicated\nand sometimes\nexpressed\n.\nWhy are vectors needed?\nCarry the gene of interest into a host cell.\nHelp the inserted DNA replicate inside the host.\nAllow selection and maintenance of recombinant cells.\nIn some cases allow expression of the inserted gene.\nCommon types of vectors :\nGeneral features of a useful vector :\nOrigin of replication (\nori\n)\n— allows replication in the host cell.\nSelectable marker\n— helps in selection and maintenance of recombinant cells.\nSite for insertion of foreign DNA (MCS/cloning site)\n— allows insertion of the gene of interest.\nAbility to enter a suitable host cell\n— must be able to be taken up by the host.\nThe choice of vector depends on the\nsize of the insert and the application\n.\n19"
+  },
+  {
+    "page": 95,
+    "lecture": "Genetic Engineering Applications 2",
+    "slideInLecture": 1,
+    "rawText": "Cloning Vectors: Features and Plasmid Vectors\nCloning vectors are DNA molecules that\ncarry a foreign gene into a host cell and allow its replication\n.\nThey are designed for\ngene cloning\n, not necessarily for expression (though some can also express).\nUsually have a\nmultiple cloning site (MCS)\nwhere the gene of interest can be inserted.\n1. Origin of replication (\nori\n)\nAllows autonomous replication in the host cell.\nDetermines the copy number of the vector.\n2. Selectable marker\nGives survival advantage to cells with the vector.\nCommonly antibiotic resistance genes (e.g. Ampᴿ, Kanᴿ, Tetᴿ).\n3. Multiple cloning site (MCS)\nContains several unique restriction enzyme sites.\nAllows insertion of foreign DNA.\n4. Small size and high copy number\nEasier to manipulate and isolate.\nMore copies per cell → higher yield of recombinant DNA.\n5. Easy introduction into host cells\nShould be efficiently taken up by the host (e.g. transformation).\nKey Features of a Good Cloning Vector (Typical Plasmid) :\nCommon plasmid vectors\npBR322\n— Ampᴿ, Tetᴿ (early cloning vector)\npUC\nseries\n— high copy number, lacZα (blue-white screening)\n1"
+  },
+  {
+    "page": 96,
+    "lecture": "Genetic Engineering Applications 2",
+    "slideInLecture": 2,
+    "rawText": "Expression Vectors\nDNA vectors designed to\nexpress the cloned gene\nin a host cell.\nContain\nregulatory elements\nfor transcription and translation.\nUsed to produce\nrecombinant proteins\nin bacteria, yeast or mammalian cells.\nHow an Expression Vector Works (e.g.\npET\n) :\npET\nExpression System (\nE. coli\n):\nCloning vs Expression Vector :\n2"
+  },
+  {
+    "page": 97,
+    "lecture": "Genetic Engineering Applications 2",
+    "slideInLecture": 3,
+    "rawText": "Selectable Markers and Reporter Genes\nSelectable markers and reported genes are added to the vectors to help identify cells that carry the recombinant DNA\nSelection tells us which cells carry the vector and reporters help us identify or monitor them.\n3"
+  },
+  {
+    "page": 98,
+    "lecture": "Genetic Engineering Applications 2",
+    "slideInLecture": 4,
+    "rawText": "Host Systems for Recombinant Gene Expression\nA host system is an organism or cell line used to\nintroduce, maintain and express a recombinant vector\n.\nDifferent hosts are used depending on the\ntype of protein and the purpose of the study\nCommon Host Systems :\n4"
+  },
+  {
+    "page": 99,
+    "lecture": "Genetic Engineering Applications 2",
+    "slideInLecture": 5,
+    "rawText": "Recombinant DNA Workflow\n5"
+  },
+  {
+    "page": 100,
+    "lecture": "Genetic Engineering Applications 2",
+    "slideInLecture": 6,
+    "rawText": "1. Isolation of the Gene of Interest\nIsolation of a gene of interest means obtaining the\nspecific DNA sequence\nfrom a source to use it for cloning.\nSources of the gene\nGenomic DNA\nFrom cells/tissues\nContains genes with introns and regulatory regions.\ncDNA\nFrom mRNA\nReverse transcription\nIntrons removed (coding sequence only)\ncDNA is preferred for expressing eukaryotic genes in bacteria because bacteria cannot remove introns.\nIdentify the target gene\nObtain the\ngene sequence\nfrom databases (e.g. NCBI).\nDesign\ngene-specific primers\nto amplify the gene.\n6"
+  },
+  {
+    "page": 101,
+    "lecture": "Genetic Engineering Applications 2",
+    "slideInLecture": 7,
+    "rawText": "1. Isolation of the Gene of Interest\nPCR amplification\nAmplify the target gene using the designed primers.\nObtain\nmultiple copies\nof the gene fragment.\nPurification of PCR product\nRemove primers, nucleotides and other components.\nPurify the amplified DNA using a gel or PCR purification kit.\nFinal product\nA purified DNA fragment of the gene of interest, ready for cloning into a vector.\n7"
+  },
+  {
+    "page": 102,
+    "lecture": "Genetic Engineering Applications 3",
+    "slideInLecture": 1,
+    "rawText": "2. Transformation: Introduction of Recombinant DNA into Host Cells\nPlasmid vector carrying gene of interest.\nContains origin of replication, selectable marker (e.g. Ampᴿ) and regulatory elements.\nUsed to introduce DNA into host cells.\n1. Recombinant      Plasmid\n2. Competent cells\nBacterial cell membrane is a barrier to DNA entry.\nCells are made competent (chemically or by other methods), which increases membrane permeability and allows DNA to enter.\n3. Mix plasmid with competent cells\n4. Introduce DNA into cells (Transformation methods)\nRecombinant plasmid DNA is mixed with competent cells on ice (usually 5–30 min).\nDNA associates with the bacterial cell surface.\nNo entry into the cell yet.\nHeat shock (common)\nRapid temperature change (37°C → 42°C, 30–60 sec) creates transient pores in the membrane.\nDNA enters the cell.\nCells are then kept on ice (2–5 min) to reseal the membrane.\nA high-voltage pulse creates transient pores in the membrane.\nDNA enters the cell due to the electric field.\nHigh transformation efficiency.\nElectroporation (alternative)\nShort electric pulse\n(1–2.5 kV)\n5. Recovery\nCells are now ready for selection on appropriate selective medium.\n1"
+  },
+  {
+    "page": 103,
+    "lecture": "Genetic Engineering Applications 3",
+    "slideInLecture": 2,
+    "rawText": "3. Selection and Screening of Transformants\n1. Antibiotic Selection\nThe plasmid vector contains an antibiotic resistance gene (e.g. ampicillin resistance ;\nAmp\nR\n).\n2. Screening for recombinants\nSelection\nonly ensures the presence of plasmids.\nScreening\nhelps to identify colonies that\nlikely contains the recombinant plasmid\n(inserted gene)\nPositive colonies (usually white) are further confirmed using molecular methods (e.g. colony PCR, Restriction digestion, DNA sequencing)\n2"
+  },
+  {
+    "page": 104,
+    "lecture": "Genetic Engineering Applications 3",
+    "slideInLecture": 3,
+    "rawText": "4. Confirmation of Recombinant Clones\n1. Colony PCR\n2. Restriction Digestion\n3. DNA Sequencing\nProvides exact nucleotide sequence of the insert.\nConfirms the correct gene present\nAlso confirms the orientation\n3"
+  },
+  {
+    "page": 105,
+    "lecture": "Genetic Engineering Applications 3",
+    "slideInLecture": 4,
+    "rawText": "5. From Recombinant Plasmid to Gene Expression\nThe host cell transcribes the gene into\nmRNA\n.\nmRNA is translated into\nprotein\n.\nExpression can be controlled using an\ninducible promoter\n(e.g. lac/IPTG, T7).\n1. Recombinant plasmid in a host cell\n2. Induction of gene expression\n3. From DNA to protein\n4"
+  },
+  {
+    "page": 106,
+    "lecture": "Genetic Engineering Applications 3",
+    "slideInLecture": 5,
+    "rawText": "6.\nRegulation and Induction of Gene Expression\n1. Promoter controls gene expression\nPromoter determines\nwhen, where and how much the gene is transcribed\n.\n2. Inducible promoter (lac system example)\n3. T7 expression system (commonly used in E. coli)\nKey points\nExpression is regulated by\npromoters\n.\nInducers like\nIPTG\nswitch on gene expression.\nCommon systems:\nlac, T7,\nara\n,\netc.\nAllows\ncontrolled and high-level expression\nof recombinant protein\nWithout Inducer\nWith Inducer\n5"
+  },
+  {
+    "page": 107,
+    "lecture": "Genetic Engineering Applications 3",
+    "slideInLecture": 6,
+    "rawText": "7. Recombinant Protein Production : Overall Workflow\n1. Transform recombinant plasmid\n2. Grow culture\n3. Induce expression\n4. Harvest cells\n5. Cell lysis\n6. Purify recombinant protein\n7. Recombinant protein\n6"
+  },
+  {
+    "page": 108,
+    "lecture": "Genetic Engineering Applications 3",
+    "slideInLecture": 7,
+    "rawText": "8. Purification of Recombinant Protein\n1. Cell lysate (after lysis)\nMixture of many host cell proteins and the His-tagged recombinant protein.\n2. Binding to Ni-NTA resin\nHis-tagged protein binds specifically to\nNi²\n⁺\non the resin\n.\n3. Washing (low imidazole)\nNon-specifically bound proteins are removed by washing with\nlow concentration of imidazole\n.\n4. Elution (high imidazole)\nHigh concentration of imidazole competes with His-tag and elutes the recombinant protein.\n5. Purified recombinant protein\nAffinity chromatography\n(\nHis-tag/Ni-NTA\n)\nallows selective purification of the recombinant protein from the complex cell lysate.\nThe eluted fractions are\nanalysed\n(e.g. by\nSDS-PAGE\n) to check purity and molecular weight.\n7"
+  },
+  {
+    "page": 109,
+    "lecture": "Genetic Engineering Applications 3",
+    "slideInLecture": 8,
+    "rawText": "SDS-PAGE Analysis of Recombinant Protein\n1. Sample preparation\n2. Separation in polyacrylamide gel\n3. Staining and visualization\nRepresentative\nSDS-PAGE gel image\nKey points\nSDS-PAGE separates proteins based on their\nmolecular weight (size)\n.\nSDS denatures proteins and gives them a\nuniform negative charge\n, so separation depends mainly on size.\nSmaller proteins migrate faster and appear lower in the gel.\nA prominent band at the expected molecular weight indicates the\npresence and purity\nof the recombinant protein.\nSamples\n8"
+  },
+  {
+    "page": 110,
+    "lecture": "Genetic Engineering Applications 3",
+    "slideInLecture": 9,
+    "rawText": "Applications of Genetic Engineering: Overview\n1. Medicine and Healthcare\n2. Agriculture and Food Production\n3. Industrial Biotechnology\n4. Environment and Sustainability\n9"
+  },
+  {
+    "page": 111,
+    "lecture": "Genetic Engineering Applications 3",
+    "slideInLecture": 10,
+    "rawText": "Recombinant Human Insulin : Classic Case Study\n1. Human insulin gene\n2. Recombinant vector\n3. Expression in E. coli\n4. Purification\n&\nprocessing\n5. Therapeutic insulin\nInsulin DNA → Clone into vector → Express in\nE. coli\n→ Purify and process → Recombinant insulin\n10"
+  },
+  {
+    "page": 112,
+    "lecture": "Genetic Engineering Applications 3",
+    "slideInLecture": 11,
+    "rawText": "Other Recombinant Therapeutic Proteins\nHuman growth hormone (hGH)\n2. Erythropoietin (EPO)\nRecombinant hGH\nTreatment of growth hormone deficiency\nImproves growth and development\nRecombinant EPO\nTreatment of anemia (e.g. in chronic kidney disease)\nStimulates red blood cell production\n3. Interferons (e.g. IFN-α, IFN-β)\nRecombinant interferon\nAntiviral therapy (e.g. hepatitis B/C)\nUsed in some cancers (e.g. melanoma)\n4. Clotting factors (e.g. Factor VIII, IX)\nRecombinant Factor VIII\nTreatment of hemophilia A (Factor VIII) and hemophilia B (Factor IX)\nSafer alternative to plasma-derived products\n11"
+  },
+  {
+    "page": 113,
+    "lecture": "Genetic Engineering Applications 3",
+    "slideInLecture": 12,
+    "rawText": "Recombinant Vaccines\nBasic Principle\nHow it works\nTypes of recombinant vaccines\nSubunit vaccines\nVirus-like particle (VLP) vaccines\nRecombinant vector vaccines\nHepatitis B vaccine\nFirst recombinant vaccine (approved in 1986).\nBased on hepatitis B surface antigen (HBsAg).\nProduced in yeast (non-infectious).\nInduces protective immunity against hepatitis B virus (HBV).\n12"
+  },
+  {
+    "page": 114,
+    "lecture": "Genetic Engineering Applications 3",
+    "slideInLecture": 13,
+    "rawText": "Monoclonal Antibodies and Engineered Biologics\nWhat are monoclonal antibodies (\nmAbs\n)?\nProduction using genetic engineering\nWhy are mammalian cells required?\nApplications of therapeutic monoclonal antibodies\n13\nHuman Epidermal Growth Factor Receptor 2\nRespiratory syncytial virus (RSV)"
+  },
+  {
+    "page": 115,
+    "lecture": "Genetic Engineering Applications 3",
+    "slideInLecture": 14,
+    "rawText": "Gene Therapy: Basic Concept\nWhat is gene therapy?\nIntroduction of functional genetic material\ninto a person’s cells to treat or prevent disease.\nGoal of gene therapy :\nTo restore normal cell function and alleviate disease\nReplace a defective gene\nAdd a functional gene\nSilence a harmful gene\nTypes of gene therapy\nMain strategies\nGene replacement\nDefective gene → functional gene\nintroduced\nGene addition\nAdd a new gene to provide a useful function\nGene silencing\nReduce or stop expression of a\nharmful gene (e.g. siRNA, antisense)\nGene editing (e.g. CRISPR)\nCorrect a mutation at the DNA level\n14"
+  },
+  {
+    "page": 116,
+    "lecture": "Genetic Engineering Applications 3",
+    "slideInLecture": 15,
+    "rawText": "Gene Therapy: Examples and Current Applications\n1. SMA - in vivo gene addition\n2. Sickle cell disease\nex vivo gene editing\n3. CAR-T therapy\nengineered immune cells\nGene therapy can\nadd, replace or edit genes to treat disease\n.\n15\nSpinal muscular atrophy\nSurvival Motor Neuron 1\nchimeric antigen receptor T cells\nFetal\nHemoglobin\nReactivation:\nEditing genomic regions such as the\nBCL11A\nenhancer silences the repressor of\nfetal\nhemoglobin\n(HbF), prompting red blood cells to produce high levels of HbF which prevents sickling."
+  },
+  {
+    "page": 117,
+    "lecture": "Genetic Engineering Applications 3",
+    "slideInLecture": 16,
+    "rawText": "Genetic Engineering in Agriculture\nGenetic engineering is used to develop crop plants with desirable traits for\nhigher yield, better nutrition and tolerance to biotic and abiotic stresses.\nHow it works\nImportant traits developed\nPest resistance\n— e.g. insect-resistant crops\nDisease resistance\n— e.g. viral, bacterial and fungal diseases\nTolerance to abiotic stress\n— e.g. drought, salinity, heat and cold\nImproved nutritional content\n— e.g. vitamins, essential amino acids, minerals\nHigher yield and improved quality\n— e.g. larger size, better shelf life, modified composition\nBenefits and significance\nIncreased food production\nImproved nutrition\nReduced use of chemical inputs\nHelps in sustainable agriculture\nBetter tolerance to environmental stresses\n16"
+  },
+  {
+    "page": 118,
+    "lecture": "Genetic Engineering Applications 3",
+    "slideInLecture": 17,
+    "rawText": "BT Crops : Case Study\nBt\ncrops are genetically engineered plants that express\ninsecticidal proteins (Cry toxins)\nfrom the\nbacterium\nBacillus thuringiensis\n, providing resistance against specific insect pests.\nGene and protein\nMode of action\nExamples\nBenefits\nEffective control of target insect pests\nReduced use of chemical insecticides\nHigher yield and better quality\nEnvironmentally safer (reduces chemical residues)\nEconomic benefits to farmers\nLimitations and concerns\nDevelopment of insect resistance (need for resistance management)\nPossible effects on non-target organisms\nGene flow to wild relatives\nRegulatory and biosafety concerns\nBt\ncrops demonstrate how a single gene from a microorganism can be used to develop pest-resistant plants, improving productivity and reducing environmental impact\n17"
+  },
+  {
+    "page": 119,
+    "lecture": "Genetic Engineering Applications 3",
+    "slideInLecture": 18,
+    "rawText": "Golden Rice: Nutritional Engineering Case Study\nHow is it engineered?\n1. Genes introduced into rice endosperm\n2. Carotenoid pathway activated\n3. Beta-carotene accumulates in rice grain\n4. Golden/yellow rice grain produced\nGolden rice is genetically engineered rice that produces\nbeta-carotene (provitamin A)\nin the endosperm to help combat vitamin A deficiency.\nHelps address\nvitamin A deficiency\nRice is a\nstaple food\nAims to\nimprove nutrition\nImportance\nImproved provitamin A content\nPotential public-health benefit\nExample of nutritional biofortification\nChallenges / concerns\nAcceptance and awareness\nRegulatory approval\nDistribution and access\nGolden rice is an example of\nnutritional engineering to improve the micronutrient value of a major food crop\n.\n18"
+  },
+  {
+    "page": 120,
+    "lecture": "Genetic Engineering Applications 3",
+    "slideInLecture": 19,
+    "rawText": "1. Herbicide tolerance\nSensitive plant dies\nTransgenic plant survives\n2. Disease resistance\nDisease-susceptible plant\nTransgenic plant resistant to pathogens\n3. Improved nutritional quality\nNormal crop\nEnhanced levels of vitamins, minerals or essential amino acids\nOther Applications in Crop Improvement\n4. Abiotic stress tolerance\nSensitive plant shows poor growth\nTransgenic plant tolerates drought, heat, cold or salinity\n5. Delayed ripening and extended shelf life\nNormal ripening (soft fruit)\nDelayed ripening (longer shelf life)\n6. Improved yield and quality traits\nConventional crop\nTransgenic crop with higher yield and better quality\n19"
+  },
+  {
+    "page": 121,
+    "lecture": "Genetic Engineering Applications 3",
+    "slideInLecture": 20,
+    "rawText": "Industrial Applications of Genetic Engineering\nGenetic engineering enables efficient production of valuable products for\nmedicine, food and industry\n.\nFood biotechnology\nExamples: recombinant chymosin, lactase.\n2. Industrial enzymes\nExamples: amylase, protease, lipase.\n3. Bio-based chemicals\nExamples: amino acids, vitamins, organic acids.\n4. Biofuels and bioproducts\nExamples: ethanol, bioplastics.\nWhy it matters\nHigh yield\nConsistent quality\nScalable production\nReduced cost\n20"
+  },
+  {
+    "page": 122,
+    "lecture": "Genetic Engineering Applications 3",
+    "slideInLecture": 21,
+    "rawText": "Environmental Applications\n1. Bioremediation\n2. Wastewater treatment\n3. Biosensors\n4. Sustainable bioprocesses\n21"
+  },
+  {
+    "page": 123,
+    "lecture": "Genetic Engineering Applications 3",
+    "slideInLecture": 22,
+    "rawText": "Genetic Engineering\nGenetically modified peach and apple trees grown in a lab: 2004 Scott Bauer, USDA ARS,\nWikimedia Commons\nhttp://commons.wikimedia.org/wiki/File:Apfe-auf-Naehrboden.jpg\nWheat seeds treated with bacteria to make them immune to a fungal disease: 2001 Jack\nDykinga\n, USDS,\nWikimedia Commons http://commons.wikimedia.org/wiki/File:Bacteria_used_to_make_wheat_seeds_nearly_immune_to_wheat_take-all.jpg\n22"
+  },
+  {
+    "page": 124,
+    "lecture": "Genetic Engineering Applications 3",
+    "slideInLecture": 23,
+    "rawText": "What is the difference between\nthe mice in these two groups?\nThe mouse on the right is genetically modified so that a gene affecting hair growth has been “knocked out.” The mouse on the left is a normal mouse.\nWikimedia Commons http://commons.wikimedia.org/wiki/File:Knockout_Mice5006-300.jpg\nThe middle mouse is normal, and the other two are genetically modified to express enhanced green fluorescent protein.\nWikimedia Commons http://commons.wikimedia.org/wiki/File:GFP_Mice_01.jpg\n23"
+  },
+  {
+    "page": 125,
+    "lecture": "Genetic Engineering Applications 3",
+    "slideInLecture": 24,
+    "rawText": "GMO Bacteria\nBacteria are the most common GMOs because their simple structure permits easy manipulation of their DNA.\nOne of the most interesting uses for genetically modified bacteria is the\nproduction of hydrocarbons (plastics and fuels)\nusually only found in fossil fuels.\nCyanobacteria\nhave been modified to produce plastic (polyethylene) and fuel (butanol) as byproducts of photosynthesis\nE. Coli\nbacteria have been modified to produce diesel fuel\n24"
+  },
+  {
+    "page": 126,
+    "lecture": "Genetic Engineering Applications 3",
+    "slideInLecture": 25,
+    "rawText": "Engineering Plants\nHow might genetic engineering modify plants to solve everyday problems?\n(Consider world hunger, weather problems, insecticide pollution…)\n25"
+  },
+  {
+    "page": 127,
+    "lecture": "Genetic Engineering Applications 3",
+    "slideInLecture": 26,
+    "rawText": "Genetically Modified Crops\nGMO crop production in the US (2010):\n93% of soybeans\n93% of cotton\n86% of corn\n95% of sugar beets\nExample:\nOne common modified crop is\nBt\n-corn.\nA gene from the\nBt\nbacteria is added so the corn produces a protein that is poisonous to certain insects but not humans.\n26"
+  },
+  {
+    "page": 128,
+    "lecture": "Genetic Engineering Applications 3",
+    "slideInLecture": 27,
+    "rawText": "Banana Vaccines\nModified virus injected in sapling tree causes the bananas to contain virus proteins\nVenomous Cabbage\nS\ncorpion\ngenes added to the cabbage prevent insects from eating it\n27"
+  },
+  {
+    "page": 129,
+    "lecture": "Genetic Engineering Applications 3",
+    "slideInLecture": 28,
+    "rawText": "Other Reasons to Genetically Modify Crops\nInsect resistant\nHerbicide resistant\nDrought/freeze resistant\nDisease resistant\nHigher yield\nFaster growth\nImproved nutrition\nLonger shelf life\nGolden rice was designed to biosynthesize beta-carotene, a precursor of vitamin A, as a fortified food\n28"
+  },
+  {
+    "page": 130,
+    "lecture": "Genetic Engineering Applications 3",
+    "slideInLecture": 29,
+    "rawText": "Engineering Animals\nCould genetic engineering be used to modify any animals to solve problems?\n29"
+  },
+  {
+    "page": 131,
+    "lecture": "Genetic Engineering Applications 3",
+    "slideInLecture": 30,
+    "rawText": "Bioluminescent Animals\nUses:\nProtein tracking\nDisease detection using bioluminescent imaging (BLI) to identify different types of cells\nNovelty pets\n(\nGlofish\nare available now)\nImage sources:\nUpper left-a fungus displaying bioluminescence: 2009, Ylem, Wikimedia Commons\nhttp://commons.wikimedia.org/wiki/File:PanellusStipticusAug12_2009.jpg\nUpper right-common house mouse: 2004 NIH, Wikimedia Commons http://commons.wikimedia.org/wiki/File:House_mouse.jpg\nLower-2 mice expressing enhanced green fluorescent protein: 2012 Ingrid Moen et al., Wikimedia Commons http://commons.wikimedia.org/wiki/File:GFP_Mice_01.jpg\n30"
+  },
+  {
+    "page": 132,
+    "lecture": "Genetic Engineering Applications 3",
+    "slideInLecture": 31,
+    "rawText": "Fast-Growing Salmon\nGenes from two other fish cause this salmon to continually produce growth hormones\nLess Smelly Cows\nModifying bacteria responsible for methane production in cattle results in 25% less-flatulent cows\n31"
+  },
+  {
+    "page": 133,
+    "lecture": "Genetic Engineering Applications 3",
+    "slideInLecture": 32,
+    "rawText": "Could Spiderman Be Real?\nWeb-Producing Goats\nSpider genes in goats enable the production of spider silk in goat milk\n?\n32"
+  },
+  {
+    "page": 134,
+    "lecture": "Genetic Engineering Applications 3",
+    "slideInLecture": 33,
+    "rawText": "GMO Concerns\nWhat are some concerns regarding genetically modified foods and animals?\nRisk to human health; unsafe to eat\nHarm to the environment and wildlife\nIncreased pesticide and herbicide use\nFarmers’ health\nSeed and pollen drift\nCreation of herbicide-resistant super weeds\nWhat about genetic engineering in humans?\nNearly 50 countries around the world, including Australia, Japan and all of the countries in the European Union, have enacted significant restrictions or full bans on the production and sale of genetically modified organism food products, and 64 countries now have GMO labeling requirements.\n33"
+  },
+  {
+    "page": 135,
+    "lecture": "Genetic Engineering Applications 3",
+    "slideInLecture": 34,
+    "rawText": "Biosafety, Ethical and Regulatory Issues\nThe use of genetic engineering brings important benefits, but also raises safety, ethical, environmental and regulatory concerns.\nBiosafety\nPossible unintended effects of genetic modifications.\nOff-target changes.\nRisks associated with laboratory use, large-scale production and environmental release\nEthical issues\nGermline editing and heritable changes.\nInformed consent.\nFairness and equitable access to technologies.\nConcerns about misuse (e.g. enhancement).\nEnvironmental concerns\nGene flow to wild relatives (e.g. in GM crops).\nEffects on non-target organisms.\nPotential impact on ecosystems and biodiversity.\nRegulation\nRisk assessment and safety testing before use.\nApproval by regulatory authorities (e.g. GMO regulations).\nMonitoring after release or commercialization.\nGenetic engineering offers major benefits, but its applications must be evaluated for safety, ethics and societal impact\n34"
+  },
+  {
+    "page": 136,
+    "lecture": "Genetic Engineering Applications 3",
+    "slideInLecture": 35,
+    "rawText": "Advantages and Challenges of Genetic Engineering\nAdvantages\nPrecise modification of genes and genetic traits.\nProduction of useful recombinant products (e.g. proteins, enzymes, vaccines).\nImproved crops with desirable traits (e.g. higher yield, stress resistance).\nPotential treatment of genetic diseases through gene therapy.\nLimitations / Challenges\nOff-target or unintended effects.\nDifficult delivery of genetic material in some applications (e.g. in humans or plants).\nHigh development and production cost.\nRegulatory and ethical concerns.\nLong-term effects on health and environment may require continued monitoring.\nGenetic engineering is powerful, but successful application depends on accuracy, safety, cost and responsible use.\n35"
+  },
+  {
+    "page": 137,
+    "lecture": "Genetic Engineering Applications 3",
+    "slideInLecture": 36,
+    "rawText": "Future Perspectives in Genetic Engineering\n1. More precise genome editing\nBase and prime editing.\nImproved CRISPR systems.\n2. Personalized medicine\nTherapies based on individual genetics.\nTargeted treatment of diseases.\n3. Synthetic biology & engineered cells\nNew biological systems and circuits.\nEngineered cells for therapeutic and industrial uses.\n4. Sustainable biotechnology\nEngineered organisms for greener chemicals, fuels and materials.\nImproved agricultural traits for a sustainable future.\nFuture advances aim to make genetic engineering more precise, safer and useful across medicine, agriculture and industry.\n36"
+  },
+  {
+    "page": 138,
+    "lecture": "Biological Motors",
+    "slideInLecture": 1,
+    "rawText": "BIOLOGICAL MOTORS\nSBL100\n2026-27, Semester I\nProf. Anita Roy\nKusuma School of Biological Sciences"
+  },
+  {
+    "page": 139,
+    "lecture": "Biological Motors",
+    "slideInLecture": 2,
+    "rawText": "WHAT IS A MOTOR ?\n• In 1829, Michael Faraday devised the first MOTOR. \n• MOTORS as we know today were first designed by Nicola Tesla \n(induction motor). These convert electrical energy into mechanical \nenergy. \n• However, we may consider a motor to be a device that converts \nchemical energy  into mechanical energy as well."
+  },
+  {
+    "page": 140,
+    "lecture": "Biological Motors",
+    "slideInLecture": 3,
+    "rawText": "CHEMICAL EQUILIBRIUM\n• The laws of thermodynamics govern \nchemical equilibria and determine the \nenergetically favorable direction of all \nchemical reactions. \n• Many of the reactions that must take \nplace within cells are energetically \nunfavorable and are therefore able to \nproceed only at the cost of additional \nenergy input.\n• Consequently, cells must constantly \nexpend energy derived from the \nenvironment. The generation and \nutilization of metabolic energy is thus \nfundamental to all of cell biology."
+  },
+  {
+    "page": 141,
+    "lecture": "Biological Motors",
+    "slideInLecture": 4,
+    "rawText": "• A hallmark of all living things is order, manifested in both structure and \ndynamical processes. \n• Such order is not possible at equilibrium, where the second law of \nthermodynamics requires a maximum of disorder, so living things \nmust fundamentally be out of equilibrium.\n• Specifically, cells are characterized by out-of-equilibrium chemical \nconcentrations and inhomogeneous spatial distributions of charge \nand molecular species – (imagine proton pumps to keep lysosomal \npH acidic)\n• These nonequilibrium conditions are largely created and maintained \nby molecular machines, i.e., macromolecular complexes that \ninterconvert or transduce different stores (reservoirs) of \nnonequilibrium free energy."
+  },
+  {
+    "page": 142,
+    "lecture": "Biological Motors",
+    "slideInLecture": 5,
+    "rawText": "• MOTORS as seen in devices around us are macroscopic, made of \nrigid objects, do not have a stringent temperature requirement and do \nnot need any appropriate environment. \n• However, MOLECULAR MOTORS are different – \no they function at molecular levels (scale of nm), \no require aqueous environment (low Reynold’s number), \no encounter Brownian motion of surrounding media, stochastic, \no have a rigid temperature and pH requirement, \no are governed by non-covalent interactions \no rely on molecular dynamics (or motion within the molecular motor).\nWHAT MAKES BIOLOGICAL MOTORS UNIQUE?"
+  },
+  {
+    "page": 143,
+    "lecture": "Biological Motors",
+    "slideInLecture": 6,
+    "rawText": "What is a molecular engine/motor?\nComplexes of biological macromolecules\nUses one type of energy to convert it into directed \nmotion (mechanical energy)/\nother functions\nSource of energy: High energy phosphate bond of ATP \n(ATP              ADP +Pi)\nChemical (Bond) energy to Mechanical Energy"
+  },
+  {
+    "page": 144,
+    "lecture": "Biological Motors",
+    "slideInLecture": 7,
+    "rawText": "TWO FUNDAMENTAL PRINCIPLES OF \nMOLECULAR MOTORS IN NATURE\n1. Energy from  ATP/GTP. \nATP                                                      ADP + Pi \nATPase\nATP synthase\n∆G = −7.3 kcal/mol"
+  },
+  {
+    "page": 145,
+    "lecture": "Biological Motors",
+    "slideInLecture": 8,
+    "rawText": "2.  Protein conformational changes\nProtein conformational changes driven by high energy molecules \nATP or GTP: \nLet us consider a protein that binds to ATP/ADP . The 3D protein \nconformation changes with respect to the binding of ATP or ADP. \nFor simplicity, let us consider two arbitrary conformations of the \nprotein – State A and State B.\n• Binding to ATP (State A), ATP hydrolysis leaving behind a ADP \nbound to the protein (State B), ADP for ATP (State A).\n• Protein bound by ADP and Pi  (State B) and subsequent ADP-\nATP exchange action giving rise to protein bound by ATP (State \nA)."
+  },
+  {
+    "page": 146,
+    "lecture": "Biological Motors",
+    "slideInLecture": 9,
+    "rawText": "HOW DIFFERENT ARE THE ACTIVE (ATP/GTP-\nbound) AND INACTIVE (ADP/GDP-bound) \nCONFORMATIONS?\nhttps://youtu.be/6ZRIOSRBMt8"
+  },
+  {
+    "page": 147,
+    "lecture": "Biological Motors",
+    "slideInLecture": 10,
+    "rawText": "Categories of biological engines/motors:\nPolymerisation Motors\nCytoskeletal Motors\nRotary Motors\nNucleic acid Motors"
+  },
+  {
+    "page": 148,
+    "lecture": "Biological Motors",
+    "slideInLecture": 11,
+    "rawText": "Dynamic 3-dimensional structure that fills the cytoplasm\nFunctions - cell protection, cell shape, cell motility (migration), cytokinesis, \nintracellular transport, cell division and the organization of organelles\nMicrofilaments (Actin)\nIntermediate filaments\nMicrotubules (Tubulin)\nCYTOSKELETON"
+  },
+  {
+    "page": 149,
+    "lecture": "Biological Motors",
+    "slideInLecture": 12,
+    "rawText": "THE MUSCLE FIBER AND STRIATIONS"
+  },
+  {
+    "page": 150,
+    "lecture": "Biological Motors",
+    "slideInLecture": 13,
+    "rawText": "https://youtu.be/VVgXDW_8O4U"
+  },
+  {
+    "page": 151,
+    "lecture": "Biological Motors",
+    "slideInLecture": 14,
+    "rawText": ""
+  },
+  {
+    "page": 152,
+    "lecture": "Biological Motors",
+    "slideInLecture": 15,
+    "rawText": "Highly conserved through evolution, binds to ATP or ADP\nTwo forms: G-actin: globular monomeric actin; F-actin: filamentous \npolymeric actin\nActin cytoskeleton is dynamic (microfilaments grow and shrink)\nG-actin polymerizes to F-actin, ATP influences polymerization rate. Actin \nfilaments consist of repeating subunits of actin monomers in a right-\nhanded double helical structure\nThe individual units or G-actin (globular actin) are 43 kD in size, and \nhave a diameter of approximately 5 nm.\nActin binding proteins, calcium ions play major role in \npolymerization/depolymerization\nTHE ACTIN"
+  },
+  {
+    "page": 153,
+    "lecture": "Biological Motors",
+    "slideInLecture": 16,
+    "rawText": ""
+  },
+  {
+    "page": 154,
+    "lecture": "Biological Motors",
+    "slideInLecture": 17,
+    "rawText": ""
+  },
+  {
+    "page": 155,
+    "lecture": "Biological Motors",
+    "slideInLecture": 18,
+    "rawText": "ACTIN POLYMERIZATION"
+  },
+  {
+    "page": 156,
+    "lecture": "Biological Motors",
+    "slideInLecture": 19,
+    "rawText": ""
+  },
+  {
+    "page": 157,
+    "lecture": "Biological Motors",
+    "slideInLecture": 20,
+    "rawText": ""
+  },
+  {
+    "page": 158,
+    "lecture": "Biological Motors",
+    "slideInLecture": 21,
+    "rawText": ""
+  },
+  {
+    "page": 159,
+    "lecture": "Biological Motors",
+    "slideInLecture": 22,
+    "rawText": "Myosin structure\nTwo heavy chains, two essential light chains, and two \nregulatory light chains\nHeavy chain has head domain, neck region, and tail domain.\nHead domain contains actin-binding site and ATP-binding site\nTail domain is a dimeric coiled-coil"
+  },
+  {
+    "page": 160,
+    "lecture": "Biological Motors",
+    "slideInLecture": 23,
+    "rawText": "https://youtu.be/oHDRIwRZRVI\nFor a brief understanding of the events, please look at the video \nlink below:"
+  },
+  {
+    "page": 161,
+    "lecture": "Biological Motors",
+    "slideInLecture": 24,
+    "rawText": ""
+  },
+  {
+    "page": 162,
+    "lecture": "Biological Motors",
+    "slideInLecture": 25,
+    "rawText": "Arthur Ashkin: Father of the optical tweezers\nIn 1985, Arthur observed that a single tightly focused laser beam can trap a \ndielectric sphere in all three spatial dimensions simultaneously using radiation \npressure. – a single-beam gradient force radiation pressure particle trap"
+  },
+  {
+    "page": 163,
+    "lecture": "Biological Motors",
+    "slideInLecture": 26,
+    "rawText": "• A laser beam is focused to a spot in the specimen \nplane.\n• This creates a gaussian intensity profile of laser i.e, \nthe light at the center of the beam is brighter than \nthe light at the edges.\n• When this light interacts with a bead, the light rays \nare bent according the laws of reflection and \nrefraction. Scattering of light from the beads is \nobserved.\n• The scattering force is proportional to the \noptical intensity.\nBasic principles of an optical trap"
+  },
+  {
+    "page": 164,
+    "lecture": "Biological Motors",
+    "slideInLecture": 27,
+    "rawText": "• Light carries momentum that is proportional \nto its energy and in the direction of \npropagation. \n• Any change in the direction of light, by \nreflection or refraction, will result in a change \nof the momentum of the light.\n•  If an object bends the light, changing its \nmomentum, conservation of momentum \nrequires that the object must undergo an \nequal and opposite momentum change. \n• This gives rise to a force acting on the object."
+  },
+  {
+    "page": 165,
+    "lecture": "Biological Motors",
+    "slideInLecture": 28,
+    "rawText": "• Optical Tweezers use light to manipulate microscopic objects as small as a single \natom. \n• The radiation pressure from a focused laser beam is able to trap small particles. \n• The sum of the forces from the laser-bead system can be split into two components: \nthe scattering force, pointing in the direction of the incident light), and the gradient \nforce, arising from the gradient of the Gaussian intensity profile and pointing \nin xy plane towards the center of the beam. The gradient force is a restoring force \nthat pulls the bead into the center.\n• If some external object, like a molecular motor, were to pull the bead away from the \ncenter of the trap, a restoring force would be imparted to the bead and thus to the \nmotor.\n• In the biological sciences, these instruments have been used to apply forces in the \npN-range and to measure displacements in the nm range of objects ranging in size \nfrom 10 nm to over 100 mm.\nPRINCIPLES OF OPTICAL TRAPPING"
+  },
+  {
+    "page": 166,
+    "lecture": "Biological Motors",
+    "slideInLecture": 29,
+    "rawText": ""
+  },
+  {
+    "page": 167,
+    "lecture": "Biological Motors",
+    "slideInLecture": 30,
+    "rawText": "Optical tweezers/trapping"
+  },
+  {
+    "page": 168,
+    "lecture": "Biological Motors",
+    "slideInLecture": 31,
+    "rawText": "• An actin filament is suspended between two optically trapped beads, tensed, and then \nlowered onto a pedestal bead that is sparsely coated with myosin. \n• The myosin motor can then bind to the actin, displacing the beads. \n• From these displacements, it is possible to extract information about the myosin \nworking stroke, attachment lifetime, and magnitude of force generation. \nTHE DUAL BEAM OPTICAL TRAP"
+  },
+  {
+    "page": 169,
+    "lecture": "Biological Motors",
+    "slideInLecture": 32,
+    "rawText": "• The firm attachment of silica beads to a microscope coverslip provides a docking \nplatforms for heavy meromyosin molecules at a density that was insufficient to \nsupport continuous movement of actin filaments. \n• An actin filament with a bead attached near each end was caught and held in mid-\nsolution with two optical traps. \n• The actin filament was pulled taut by moving the second bead until the force on the \nactin filament was ~2 pN, and it was then brought close to the surface of the \ncoverslip so that it could interact with one or a few HMM molecules on the silica \nbead support. \n• When the actin filament was brought in contact with a sparsely coated surface on the \nsilica bead support, the trapped bead attached to the actin filament showed rapid \ntransient movements in the direction along the actin filament. \n• The brightfield image of one of the beads was projected onto a quadrant photodiode \ndetector for high resolution position detection. \nTHE EXPERIMENTAL SET\n-\nUP"
+  },
+  {
+    "page": 170,
+    "lecture": "Biological Motors",
+    "slideInLecture": 33,
+    "rawText": "• Upper trace shows movement of trapped bead in the direction of actin filament. \nLower trace shows movement of bead perpendicular to filament.\n• Notice the distance traversed by the bead is close to 11 nm at both low and high ATP \nconcentrations."
+  },
+  {
+    "page": 171,
+    "lecture": "Biological Motors",
+    "slideInLecture": 34,
+    "rawText": "DISTRIBUTION OF DISPLACEMENTS"
+  },
+  {
+    "page": 172,
+    "lecture": "Biological Motors",
+    "slideInLecture": 35,
+    "rawText": "DISTRIBUTION OF FORCE GENERATED BY \nSINGLE MYOSIN MOTOR"
+  },
+  {
+    "page": 173,
+    "lecture": "Biological Motors",
+    "slideInLecture": 36,
+    "rawText": ""
+  },
+  {
+    "page": 174,
+    "lecture": "Biological Motors",
+    "slideInLecture": 37,
+    "rawText": ""
+  },
+  {
+    "page": 175,
+    "lecture": "Biological Motors",
+    "slideInLecture": 38,
+    "rawText": "BACTERIAL FLAGELLA\nhttps://www.youtube.com/watch?v=B7PMf7bBczQ"
+  },
+  {
+    "page": 176,
+    "lecture": "Biological Motors",
+    "slideInLecture": 39,
+    "rawText": "REFERENCE TEXT BOOK\nMolecular Biology of the Cell, 5th Edition. Bruce Alberts,"
+  },
+  {
+    "page": 177,
+    "lecture": "Cellular Signaling",
+    "slideInLecture": 1,
+    "rawText": "SBL -100L\nCeLLULAR SIGNALING\n2026-27 SemESTER I\n1\nAnita Roy\nSchool of Biological Sciences, \nIndian Institute of Technology Delhi"
+  },
+  {
+    "page": 178,
+    "lecture": "Cellular Signaling",
+    "slideInLecture": 2,
+    "rawText": "HOW WE PERCEIVE OUR ENVIRONMENT"
+  },
+  {
+    "page": 179,
+    "lecture": "Cellular Signaling",
+    "slideInLecture": 3,
+    "rawText": "WHAT IS SIGNALING AND WHY DO WE NEED IT?\n• Cells must be able to perceive changes in their environment and respond to it. \n• Cells can receive multiple signals. The information received must be processed to produce a unified action plan."
+  },
+  {
+    "page": 180,
+    "lecture": "Cellular Signaling",
+    "slideInLecture": 4,
+    "rawText": "• Signals can act over long or short range.\n• Each cell responds to a limited set of signals, depending on its history and its \ncurrent state.\n• A cell’s response to a signal can be fast or slow. \n• Some hormones cross the plasma membrane and bind to intracellular receptors.\n• Cell-surface receptors relay extracellular signals via intracellular signaling \npathways \nFEATURES OF CELLULAR SIGNALING"
+  },
+  {
+    "page": 181,
+    "lecture": "Cellular Signaling",
+    "slideInLecture": 5,
+    "rawText": "SIGNALS\n1. Amino acids and amino acid derivatives. Examples include glutamate, glycine, acetylcholine, epinephrine, \ndopamine, and thyroid hormone. These molecules act as neurotransmitters and hormones.\n2. Gases, such as NO and CO.\n3. Steroids, which are derived from cholesterol. Steroid hormones regulate sexual differentiation, pregnancy, \ncarbohydrate metabolism, and excretion of sodium and potassium ions. \n4. A wide variety of polypeptides and proteins. Some of these are present as transmembrane proteins on the \nsurface of an interacting cell. Others are part of, or associate with, the extracellular matrix. Finally, a large number of \nproteins are excreted into the extracellular environment where they are involved in regulating processes such as cell \ndivision, differentiation, the immune response, or cell death and cell survival.\n5. B- and T-cell receptors that are involved in the response to foreign antigens, bind to these antigens and elicit \nimmunogenic response."
+  },
+  {
+    "page": 182,
+    "lecture": "Cellular Signaling",
+    "slideInLecture": 6,
+    "rawText": "TYPES OF SIGNALING\nAUTOCRINE\n• Cell that is producing the messenger also expresses receptors on its surface \nthat can respond to that messenger.\n• Example: Cancer cells produce messages that helps sustain their growth. \nPARACRINE\n• Messenger molecules travel only short distances through the extracellular \nspace to cells that are near the cell that is generating the message. \n• Paracrine messenger molecules are usually limited in their ability to travel \naround the body because they are inherently unstable, or they are degraded \nby enzymes, or they bind to the extracellular matrix.\n• Example: PDGF of platelet derived growth factor released from platelets at \nthe site of wound helps in repair."
+  },
+  {
+    "page": 183,
+    "lecture": "Cellular Signaling",
+    "slideInLecture": 7,
+    "rawText": "TYPES OF SIGNALING\nJUXTACRINE\n• A direct cell to cell contact dependent signaling \n• Signaling is initiated by binding of surface bound messenger on the signaling \ncell to the receptor on the target cell. \n• Example: Cell adhesion molecules such as integrins and cadherins regulate \n“CONTACT INHIBITION”\n• CONTACT INHIBITION is a process whereby cells stop division/growth when \nthey are in close contact which effectively signals that there is no free \nsurface for them to grow.\nENDOCRINE\n• Messenger molecules reach their target cells via passage through the \nbloodstream. \n• Endocrine messengers are also called hormones, and they typically act on\ntarget cells located at distant sites in the body.\n• Example: Insulin secreted by beta-cells of Pancreas stimulates glucose \nuptake in liver cells."
+  },
+  {
+    "page": 184,
+    "lecture": "Cellular Signaling",
+    "slideInLecture": 8,
+    "rawText": ""
+  },
+  {
+    "page": 185,
+    "lecture": "Cellular Signaling",
+    "slideInLecture": 9,
+    "rawText": ""
+  },
+  {
+    "page": 186,
+    "lecture": "Cellular Signaling",
+    "slideInLecture": 10,
+    "rawText": "SENSOR INFORMATION PROCESSING RESPONSE/ACTION\nCELLULAR SIGNALING COMPONENTS\nFEATURES OF CELL SIGNALING\nSPECIFICITY\nCascade\nAmplification\nFeedback\nIntegration"
+  },
+  {
+    "page": 187,
+    "lecture": "Cellular Signaling",
+    "slideInLecture": 11,
+    "rawText": ""
+  },
+  {
+    "page": 188,
+    "lecture": "Cellular Signaling",
+    "slideInLecture": 12,
+    "rawText": "SENSORS: THE NUCLEAR RECEPTORS\nINTRACELLULAR OR NUCLEAR RECPTORS: Activation of a gene by a steroid hormone, such as the\nglucocorticoid cortisol. The hormone enters the cell from the extracellular fluid (step 1), diffusing through the lipid bilayer \n(step 2) and into the cytoplasm, where it binds to a glucocorticoid receptor (step 3), changing its conformation and causing \nit to translocate into the nucleus, where it activates transcription of target DNA; leading to synthesis of specific proteins."
+  },
+  {
+    "page": 189,
+    "lecture": "Cellular Signaling",
+    "slideInLecture": 13,
+    "rawText": "SENSORS: THE MEMBARANE RECEPTORS\n1. G protein-coupled receptors (GPCRs)\n2. Receptor tyrosine kinase\n3. Ion channels"
+  },
+  {
+    "page": 190,
+    "lecture": "Cellular Signaling",
+    "slideInLecture": 14,
+    "rawText": "G-protein coupled receptors (GPCRs)"
+  },
+  {
+    "page": 191,
+    "lecture": "Cellular Signaling",
+    "slideInLecture": 15,
+    "rawText": "• G protein-coupled receptors (GPCRs) are a huge family of receptors \nthat contain seven transmembrane helices. These receptors \ntranslate the binding of extracellular signaling molecules into the \nactivation of GTP-binding proteins.\n• G-protein coupled receptors, including those that bind epinephrine \nand glucagon, contain seven membrane-spanning helices.\n• When bound to their ligand, the receptor interacts with a trimeric \nG-protein. These receptors translate the binding of extracellular \nsignaling molecules into the activation of GTP-binding proteins.\n•  This activates an effector, such as adenylyl cyclase. \n \nGPCRs recognizing the ligand"
+  },
+  {
+    "page": 192,
+    "lecture": "Cellular Signaling",
+    "slideInLecture": 16,
+    "rawText": ""
+  },
+  {
+    "page": 193,
+    "lecture": "Cellular Signaling",
+    "slideInLecture": 17,
+    "rawText": "Amplification\nCessation of \namplification\nSignal \nattenuation"
+  },
+  {
+    "page": 194,
+    "lecture": "Cellular Signaling",
+    "slideInLecture": 18,
+    "rawText": "• In step 1, the ligand binds to the receptor, altering its conformation and increasing its affinity for the G protein to which it \nbinds. \n• In step 2, the G subunit releases its GDP , which is replaced by GTP . \n• In step 3, the G subunit dissociates from the G complex and binds to an effector (in this case adenylyl cyclase), activating the \neffector. The G alpha may also bind to an effector (not shown), such as an ion channel or an enzyme. \n• In step 4, activated adenylyl cyclase produces cAMP . \n• In step 5, the GTPase activity of G hydrolyzes the bound GTP , deactivating G. \n• In step 6, G reassociates with G, reforming the trimeric G protein, and the effector ceases its activity. \n• In step 7, the receptor has been phosphorylated by a GRK and in step 8 the phosphorylated receptor has been bound by an \narrestin molecule, which inhibits the ligand-bound receptor from activating additional G proteins."
+  },
+  {
+    "page": 195,
+    "lecture": "Cellular Signaling",
+    "slideInLecture": 19,
+    "rawText": ""
+  },
+  {
+    "page": 196,
+    "lecture": "Cellular Signaling",
+    "slideInLecture": 20,
+    "rawText": "Second messenger cAMP amplifies the signal\nThe photographs shows a sensory nerve cell from the sea hare Aplysia. The concentration of free cAMP is indicated by the color: blue represents a low cAMP concentration, yellow an \nintermediate concentration, and red a high concentration. The left image shows the intracellular cAMP level in the unstimulated neuron, and the next three images show the effects of \nstimulation by the neurotransmitter serotonin (5-hydroxytryptamine) at the times indicated. \n• Cyclic AMP is a second messenger that is capable of diffusing to other sites within the cell. The synthesis of cyclic AMP follows \nthe binding of a first messenger—a hormone or other ligand—to a receptor at the outer surface of the cell. \n• Whereas the first messenger binds exclusively to a single receptor species, the second messenger often\nstimulates a variety of cellular activities. \n• As a result, second messengers enable cells to mount a large-scale, coordinated response following stimulation by a single \nextracellular ligand."
+  },
+  {
+    "page": 197,
+    "lecture": "Cellular Signaling",
+    "slideInLecture": 21,
+    "rawText": "CASCADE"
+  },
+  {
+    "page": 198,
+    "lecture": "Cellular Signaling",
+    "slideInLecture": 22,
+    "rawText": "• Signaling of most GPCRs via G proteins is terminated by the phosphorylation of active receptor by specific kinases (GPCR \nkinases, or GRKs) and subsequent binding of arrestin proteins, that selectively recognize active phosphorylated receptors.\n• Competition between G proteins and arrestins: both engage the same inter-helical cavity on the cytoplasmic side of the \nrecptor, so that the binding of one precludes the binding of another.\n \n• Bound G proteins readily dissociate from the receptor in the presence of GTP , whereas arrestins do not. \nSIGNAL ATTENUATION"
+  },
+  {
+    "page": 199,
+    "lecture": "Cell Death and Cell Division",
+    "slideInLecture": 1,
+    "rawText": "SBL -100\nCELL SURVIVAL AND CELL DEATH\n2026-27 SemESTER I\n1\nAnita Roy\nSchool of Biological Sciences, \nIndian Institute of Technology \nDelhi"
+  },
+  {
+    "page": 200,
+    "lecture": "Cell Death and Cell Division",
+    "slideInLecture": 2,
+    "rawText": "APOPTOSIS"
+  },
+  {
+    "page": 201,
+    "lecture": "Cell Death and Cell Division",
+    "slideInLecture": 3,
+    "rawText": "Apoptosis, or programmed cell death, is a normal occurrence in which an orchestrated sequence of events leads to the death\nof a cell. \nFeatures of apoptosis:\n1. It is an orderly process \n2. Characterized by the overall shrinkage in volume of the cell and its nucleus\n3. Apoptotic cells lose their adhesion to neighboring cells\n4. Apoptotic cells form blebs at the cell surface"
+  },
+  {
+    "page": 202,
+    "lecture": "Cell Death and Cell Division",
+    "slideInLecture": 4,
+    "rawText": "5. Dissection of the chromatin into small fragments is observed\n6. Finally, rapid engulfment of the “corpse” or the apopotic cell by phagocytosis."
+  },
+  {
+    "page": 203,
+    "lecture": "Cell Death and Cell Division",
+    "slideInLecture": 5,
+    "rawText": ""
+  },
+  {
+    "page": 204,
+    "lecture": "Cell Death and Cell Division",
+    "slideInLecture": 6,
+    "rawText": "PHAGOCYTOSIS OF APOPTOTIC CELLS\n• Apoptotic bodies consist of cytoplasm with tightly packed organelles with or without a nuclear fragment. \n• The organelle integrity is still maintained, and all of this is enclosed within an intact plasma membrane. \n• These bodies are subsequently phagocytosed by macrophages and degraded within phagolysosomes.\n• There is essentially no inflammatory reaction associated with the process of apoptosis nor with the removal of apoptotic cells \nbecause: \n (1) apoptotic cells do not release their cellular constituents into the surrounding interstitial tissue; \n (2) they are quickly phagocytosed by surrounding cells thus likely preventing secondary necrosis; and,\n (3) the engulfing cells do not produce anti-inflammatory cytokines"
+  },
+  {
+    "page": 205,
+    "lecture": "Cell Death and Cell Division",
+    "slideInLecture": 7,
+    "rawText": "https://www.youtube.com/watch?v=-vmtK-bAC5E"
+  },
+  {
+    "page": 206,
+    "lecture": "Cell Death and Cell Division",
+    "slideInLecture": 8,
+    "rawText": "https://www.youtube.com/watch?v=DR80Huxp4y8"
+  },
+  {
+    "page": 207,
+    "lecture": "Cell Death and Cell Division",
+    "slideInLecture": 9,
+    "rawText": ""
+  },
+  {
+    "page": 208,
+    "lecture": "Cell Death and Cell Division",
+    "slideInLecture": 10,
+    "rawText": "• The extrinsic (receptor-mediated) pathway of apoptosis.\nWhen TNF binds to a TNF receptor (TNFR1), the activated receptor binds \ntwo different cytoplasmic adaptor proteins (TRADD and FADD) and \nprocaspase-8 to form a multiprotein complex at the inner surface of\nthe plasma membrane.\n• Once assembled in the complex, the two procaspase molecules cleave one\nanother to generate an active caspase-8 molecule containing four \npolypeptide segments. \n• Caspase-8 is an initiator complex that activates downstream (executioner) \ncaspases that carry out the death sentence."
+  },
+  {
+    "page": 209,
+    "lecture": "Cell Death and Cell Division",
+    "slideInLecture": 11,
+    "rawText": "• Anti-apoptotic proteins are BCL-2 itself, BCL-XL, MCL-1, BCL-w and A1. \n• Proapoptotic proteins are BAX, BAK and BOK.\n• ‘BH3-only members’ (i.e., BID, BIM, NOXA and BAD) operate as essential apoptosis inducers.\n• BCL-2 family may be viewed as an apoptotic switch, where BAX and BAK act as gatekeepers of MOMP – mitochondrial outer \nmembrane permeability pore.\n• Apoptosis signals trigger the translocation of BAX from the cytosol to the mitochondria, where it assembles into higher-order \nhomo-oligomers that form a pore that permeabilize the mitochondrial outer membrane.\n• BAX and BAK activation and oligomerization is engaged by upstream BH3-only proteins and antagonized by anti-apoptotic \nBCL-2 family members\n• The balance between anti- and proapoptotic proteins determines the survival or death of a cell"
+  },
+  {
+    "page": 210,
+    "lecture": "Cell Death and Cell Division",
+    "slideInLecture": 12,
+    "rawText": "• The intrinsic (mitochondria-mediated) pathway of apoptosis. Various \ntypes of cellular stress cause proapoptotic members of the Bcl-2 family of \nproteins, such as Bax, to become inserted into the outer mitochondrial \nmembrane. \n• Insertion of these proteins leads to the release of cytochrome c molecules \nfrom the intermembrane space of the mitochondria.\n• Once in the cytosol, the cytochrome c molecules form a multi-subunit \ncomplex with a cytosolic protein called Apaf-1 and procaspase-9 \nmolecules. \n• Procaspase-9 molecules are apparently activated to their full proteolytic \ncapacity as the result of a conformational change induced by association \nwith Apaf-1.\n• Caspase-9 molecules cleave and activate executioner caspases, which\ncarry out the apoptotic response."
+  },
+  {
+    "page": 211,
+    "lecture": "Cell Death and Cell Division",
+    "slideInLecture": 13,
+    "rawText": "• Human vascular anticoagulant annexin V is a phospholipid-binding protein that has a high affinity for the anionic \nphospholipid phosphatidylserine (PS). \n• In normal healthy cells, PS is located on the cytoplasmic surface of the plasma membrane. However, during \napoptosis, the plasma membrane undergoes structural changes that include translocation of PS from the inner to \nthe outer leaflet (extracellular side) of the plasma membrane. \n• In apoptotic cells, the translocated phosphatidylserine on the outer surface of the cell marks acts as an “eat me” \nsignal for macrophages\nHOW DO WE DETECT APOPTOTIC CELLS?\n1. DETECTING CHANGES IN PLASMA MEMBRANE"
+  },
+  {
+    "page": 212,
+    "lecture": "Cell Death and Cell Division",
+    "slideInLecture": 14,
+    "rawText": "2. DETECTING CHANGES IN MITOCHONDRIAL MEMBRANE PERMEABILITY\nCytochrome c that resides in the inter membrane space of mitochondria is released when the outer membrane is \ncompromised by the formation of BAX/BAK pores. Cytochrome c is stained in the cells below in green. Notice the diffused \nlocalization of cytochrome c in the cells of the right that have been treated with staurosporine to induce apoptosis."
+  },
+  {
+    "page": 213,
+    "lecture": "Cell Death and Cell Division",
+    "slideInLecture": 15,
+    "rawText": "https://www.youtube.com/watch?v=DDqDmsQwfLU"
+  },
+  {
+    "page": 214,
+    "lecture": "Cell Death and Cell Division",
+    "slideInLecture": 16,
+    "rawText": "• The cell cycle is the ordered sequence of events a eukaryotic cell goes through to grow and divide into two identical \ndaughter cells. It consists of Interphase (G₁, S, and G₂) and the Mitotic (M) phase.\n• Mitosis is the process of cell division where a single somatic parent cell divides to produce two genetically identical \ndiploid daughter cells\n• All cellular cycles of growth and division include a time of synthesis called “interphase” during which DNA is replicated, \nand all other cellular constituents are made in sufficient quantities to supply the needs of two cells. During mitosis, \nthese materials are rearranged, so after “cytokinesis” each daughter cell will be fully endowed to grow and divide again\n• During interphase (G1, S, G2), the cell accomplishes sufficient biosynthesis to become two. In mitosis (M), cell parts are \nreorganized so the mitotic spindle can achieve the equipartition of the chromosomes and centrosomes, leaving the \ndistribution of more numerous components, such as ribosomes, to the laws relating to large numbers and the process \nof cytokinesis (C), in which the cell itself divides into two daughters.\nHOW DO CELLS DIVIDE? MITOSIS"
+  },
+  {
+    "page": 215,
+    "lecture": "Cell Death and Cell Division",
+    "slideInLecture": 17,
+    "rawText": "• Growth and development: Increases cell number from a single zygote to a multi-celled organism.\n• Cell replacement and repair: Replaces damaged, worn-out, or dead cells (such as skin and gut lining cells).\n• Asexual reproduction: Enables single-celled and some multicellular organisms to reproduce identical offspring. For \nexample yeast.\nPURPOSE OF CELL DIVISION OR MITOSIS\nPropidium Iodide is used to stain the DNA"
+  },
+  {
+    "page": 216,
+    "lecture": "Cell Death and Cell Division",
+    "slideInLecture": 18,
+    "rawText": "Interphase (approx. 90% of the cycle)\nThe cell grows, carries out normal functions, and copies its DNA in \npreparation for division. It is divided into three sub-phases:\n• G₁ Phase: The cell grows rapidly, builds proteins, and duplicates \norganelles including centrioles (important for giving rise to \nspindles).\n• S Phase (Synthesis): The cell replicates its nuclear DNA so that \neach chromosome has two sister chromatids.\n• G₂ Phase: The cell makes final protein and energy preparations \nto enter division.\n• G₀ Phase (Quiescence): Cells that temporarily or permanently \nstop dividing (such as mature neurons or heart cells) exit the \ncycle into this resting state."
+  },
+  {
+    "page": 217,
+    "lecture": "Cell Death and Cell Division",
+    "slideInLecture": 19,
+    "rawText": "• During the first gap phase, G1, cells have only the chromosome \nthey were given at the previous cell division; each \ndecondensed chromosome is a single linear double stranded \nDNA.\n•  This phase is followed by a period of chromosome replication \nin S phase, and then a further gap phase, G2, in which the \nnewly replicated DNA - sister chromatids are held together by \ncohesins. \nWHAT HAPPENS TO THE DNA DURING CELL DIVISION\nhttps://www.youtube.com/shorts/uTrgqzOsH_Y?feature=share"
+  },
+  {
+    "page": 218,
+    "lecture": "Cell Death and Cell Division",
+    "slideInLecture": 20,
+    "rawText": "• During mitosis, the condensed sister chromatids are \nseparated in a process highly dependent on interactions \nbetween microtubules (MTs) and chromosomal \nkinetochores. (C–F) Immunofluorescence images of \nmitotic cells, sourced from the mammalian rat kangaroo \nPtK1 strain. In prophase (C), the chromosomes (blue) \ncondense inside a still-patent nucleus while MTs (green) \norganize in the cytoplasm. In prometaphase (D), the \nspindle MTs (red) gain access to the chromosomes (blue) \nand attach to the kinetochores (yellow) that will \nsubsequently govern most chromosome motions. By \nmetaphase (E), the chromosomes are quite accurately \naligned on the spindle midplane. During anaphase (F), \nthey segregate, moving toward opposite poles of the \nspindle, and the spindle itself elongates."
+  },
+  {
+    "page": 219,
+    "lecture": "Cell Death and Cell Division",
+    "slideInLecture": 21,
+    "rawText": "https://www.youtube.com/shorts/FPtFXNmhI_g"
+  },
+  {
+    "page": 220,
+    "lecture": "Cell Death and Cell Division",
+    "slideInLecture": 22,
+    "rawText": "Prophase\n• The chromosomes condense into X-shaped structures that can be \neasily seen under a microscope.\n• Each chromosome is composed of two sister chromatids, containing \nidentical genetic information.\n• The chromosomes pair up so that both copies of chromosome 1 are \ntogether, both copies of chromosome 2 are together, and so on.\n• Prophase compaction decreases the length and increases the \nthickness of each chromosome, individualizing the strands of DNA into \nvisible units. \n• As compaction occurs, transcription shuts down, in part because \ntranscription factors become displaced\n• At the end of prophase the membrane around the nucleus in the cell \ndissolves away releasing the chromosomes.\n• The mitotic spindle, consisting of the microtubules and other proteins, \nextends across the cell between the centrioles as they move to \nopposite poles of the cell."
+  },
+  {
+    "page": 221,
+    "lecture": "Cell Death and Cell Division",
+    "slideInLecture": 23,
+    "rawText": "Metaphase\n• The chromosomes line up neatly end-to-end along the \ncentre (equator) of the cell.\n• The centrioles are now at opposite poles of the cell with \nthe mitotic spindle fibres extending from them.\n• The mitotic spindle fibres attach to each of the sister \nchromatids. The spindle fibers are mircotubules.\n• The most important parts of a chromosome for spindle \nattachment are its structures known as kinetochores, \none on each chromatid. These structures are built from \nmany proteins. In human cells, approximately 100 \ndifferent polypeptides assemble into multiple protein \ncomplexes that, in turn, assemble on specialized chromatin.\n• Kinetochores also bind to motors called dynein that \nphysically carry the chromosomes on the spindle – like an \nengine (dynein) pulling a train (chromosome) on railtracks \n(spindle)."
+  },
+  {
+    "page": 222,
+    "lecture": "Cell Death and Cell Division",
+    "slideInLecture": 24,
+    "rawText": "https://www.youtube.com/watch?v=IvJrDsRuWxQ"
+  },
+  {
+    "page": 223,
+    "lecture": "Cell Death and Cell Division",
+    "slideInLecture": 25,
+    "rawText": "Anaphase\n• The sister chromatids are then pulled apart by the \nmitotic spindle which pulls one chromatid to one pole \nand the other chromatid to the opposite pole.\nTelophase\n• At each pole of the cell a full set of chromosomes gather \ntogether.\n• A membrane forms around each set of chromosomes to \ncreate two new nuclei.\n• The single cell then pinches in the middle to form two \nseparate daughter cells each containing a full set of \nchromosomes within a nucleus. This process is known \nas cytokinesis."
+  },
+  {
+    "page": 224,
+    "lecture": "Cell Death and Cell Division",
+    "slideInLecture": 26,
+    "rawText": "https://www.youtube.com/watch?v=nlMVeW594F4"
+  },
+  {
+    "page": 225,
+    "lecture": "Cell Death and Cell Division",
+    "slideInLecture": 27,
+    "rawText": ""
+  },
+  {
+    "page": 226,
+    "lecture": "Cell Death and Cell Division",
+    "slideInLecture": 28,
+    "rawText": ""
+  },
+  {
+    "page": 227,
+    "lecture": "Cell Death and Cell Division",
+    "slideInLecture": 29,
+    "rawText": "Retinoblastoma or RB1 Protein \nCell Cycle Regulation: It controls the G1-to-S phase checkpoint in the cell division cycle. When active \n(hypophosphorylated), pRb binds to and inactivates E2F transcription factors, preventing cells from dividing prematurely.\nIf both copies of the RB1 gene are mutated or deleted, functional pRb is lost. The control over cell cycle and division is lost.\nRetinoblastoma (Eye Cancer): In the retina, this loss causes immature retinal cells to proliferate uncontrollably, forming a \nmalignant tumor known as retinoblastoma. \nOther Cancers: Because the gene acts systemically, its malfunction or loss also increases the risk of other malignancies, \nsuch as osteosarcoma and soft-tissue sarcomas"
+  },
+  {
+    "page": 228,
+    "lecture": "Cell Death and Cell Division",
+    "slideInLecture": 30,
+    "rawText": "REFERENCE TEXTBOOK\nFor details on apoptosis: Cell and Molecular Biology, Gerald Karp"
+  },
+  {
+    "page": 229,
+    "lecture": "Stem Cells and Differentiation",
+    "slideInLecture": 1,
+    "rawText": "SBL -100\nSTEM CELLS, DIFFERENTIATION \nAND APOPTOSIS\n2026-27 SemESTER I\n1\nAnita Roy\nSchool of Biological Sciences, \nIndian Institute of Technology Delhi"
+  },
+  {
+    "page": 230,
+    "lecture": "Stem Cells and Differentiation",
+    "slideInLecture": 2,
+    "rawText": ""
+  },
+  {
+    "page": 231,
+    "lecture": "Stem Cells and Differentiation",
+    "slideInLecture": 3,
+    "rawText": "JOURNEY BEFORE WE ARE BORN\nhttps://www.youtube.com/watch?v=SEejivHRIbE"
+  },
+  {
+    "page": 232,
+    "lecture": "Stem Cells and Differentiation",
+    "slideInLecture": 4,
+    "rawText": "BEATING CARDIMYOCYTES IN CULTURE DISH\nhttps://www.youtube.com/watch?v=WLtJTywFpoI"
+  },
+  {
+    "page": 233,
+    "lecture": "Stem Cells and Differentiation",
+    "slideInLecture": 5,
+    "rawText": "How does a complex organism such as a human develop from a single \nfertilized egg?\n• Throughout development and adulthood, the process of cellular differentiation leads \ncells to assume their final morphology and physiology. \n•Differentiation is the process by which unspecialized cells become specialized to carry \nout distinct functions. \n•For example, nerve cells (conduction), muscle cells (contraction/force generation), \nand red blood cells (O2 transportation) all arise from a single zygote."
+  },
+  {
+    "page": 234,
+    "lecture": "Stem Cells and Differentiation",
+    "slideInLecture": 6,
+    "rawText": "Fate of a cell describes what it will become in the course of normal development of \nthe organism from the fertilized egg.  \nDevelopmental potential, or potency, of a cell describes the range of different cell \ntypes it CAN become. As development proceeds, the developmental potential of \nindividual cells decreases until their fate is determined.\nDetermination of different cell fates involves progressive restrictions in their \ndevelopmental potentials. When a cell “chooses” a particular fate, it is said to be \ndetermined, although it still \"looks\" just like its undetermined neighbors. \nDifferentiation follows determination, as the cell elaborates a cell-specific \ndevelopmental program. Differentiation results in the presence of cell types that have \nclear-cut identities, such as muscle cells, nerve cells, and skin cells.\nCOMMON TERMS TO BE USED IN THIS COURSE AND THEIR MEANING"
+  },
+  {
+    "page": 235,
+    "lecture": "Stem Cells and Differentiation",
+    "slideInLecture": 7,
+    "rawText": "A stem cell is an unspecialized cell that can divide as needed and can, under specific  \nconditions, differentiate into specialized cells. Stem cells are divided into several \ncategories according to their potential to differentiate.\nTotipotent stem cells have the potential to differentiate into any cell of the organism.  \nExample: the first embryonic cells that arise from the division of the zygote.\nPluripotent stem cell is one that has the potential to differentiate into any type of \nhuman tissue but cannot support the full development of an organism The embryonic \ncells that develop from totipotent stem cells and are precursors to the fundamental \ntissue layers of the embryo are classified as pluripotent. Example: Haematopoietic \nstem cell.\nMultipotent stem cell has the potential to differentiate into different types of cells \nwithin a given cell lineage or small number of lineages. Example: Common myeloid \nprogenitor cell\nOligopotent stem cell is limited to becoming one of a few different cell types. Example: \nGranulocyte-monocyte progenitor\nUnipotent cell is fully specialized and can only reproduce to generate more of its own \nspecific cell type. Example: Macrophage"
+  },
+  {
+    "page": 236,
+    "lecture": "Stem Cells and Differentiation",
+    "slideInLecture": 8,
+    "rawText": "Clonality and Clonal expansion"
+  },
+  {
+    "page": 237,
+    "lecture": "Stem Cells and Differentiation",
+    "slideInLecture": 9,
+    "rawText": "Totipotent\nDIFFERENTIATION"
+  },
+  {
+    "page": 238,
+    "lecture": "Stem Cells and Differentiation",
+    "slideInLecture": 10,
+    "rawText": "Differentiation results from differential gene expression: By expressing different \nsubsets of genes, two cells contain different subsets of proteins.\nWHAT CAUSES THE DIFFERENTIATED CELL TO BEHAVE DIFFERENTLY \nFROM ITS PARENT PROGENITOR /STEM CELL"
+  },
+  {
+    "page": 239,
+    "lecture": "Stem Cells and Differentiation",
+    "slideInLecture": 11,
+    "rawText": "EARLY EMBRYONIC DEVELOPMENT : BLASTULATION"
+  },
+  {
+    "page": 240,
+    "lecture": "Stem Cells and Differentiation",
+    "slideInLecture": 12,
+    "rawText": "THE INNER CELL MASS AND EMBRYONIC STEM CELLS\nhttps://www.youtube.com/watch?v=SIODoHiFcrs"
+  },
+  {
+    "page": 241,
+    "lecture": "Stem Cells and Differentiation",
+    "slideInLecture": 13,
+    "rawText": "EARLY EMBRYONIC DEVELOPMENT : GASTRULATION"
+  },
+  {
+    "page": 242,
+    "lecture": "Stem Cells and Differentiation",
+    "slideInLecture": 14,
+    "rawText": "https://www.youtube.com/watch?v=rSIurckMtfU"
+  },
+  {
+    "page": 243,
+    "lecture": "Stem Cells and Differentiation",
+    "slideInLecture": 15,
+    "rawText": "But can cells retain their behaviour when not implanted back into another \nembryo? (Like spreading of cells on blastocoeal roof)"
+  },
+  {
+    "page": 244,
+    "lecture": "Stem Cells and Differentiation",
+    "slideInLecture": 16,
+    "rawText": "1. All animals, except perhaps sponges, form two or threegerm layers. \n2. The germ layers develop early in embryonic life, through the process of gastrulation. \nDuring gastrulation, a hollow cluster of cells called a blastula reorganizes into two \nprimary germ layers: an inner layer, calledendoderm, and an outer layer, \ncalled ectoderm (in diploblasts) and three layers in other organisms including \nmammals.\n3. Diploblastic organisms have only the two primary germ layers; these organisms \ncharacteristically have multiple symmetrical body axes (radial symmetry), as is true \nof jellyfish, sea anemones, and the rest of the phylum Cnidaria. \n4. All other animals are triploblastic, as endoderm and ectoderm interact to produce \na third germ layer, calledmesoderm. Together, the threegerm layers will give rise \nto every organ in the body, from skin and hair to the digestive tract.\n5. Endoderm :  digestive tract , liver and pancreas\n6. Mesoderm : kidneys, cartilage,  bone, spleen, circulatory and lymphatic system\n7. Ectoderm : Nail, hair, dermis, brain, spinal cord,  retina\nThe Germ layers"
+  },
+  {
+    "page": 245,
+    "lecture": "Stem Cells and Differentiation",
+    "slideInLecture": 17,
+    "rawText": "Till and McCulloch experiment, 1961\nWhole body irradiated mice\nBone marrow cells (various dilutions)Intravenous injection\n1. Direct correlation between the number of injected marrow cells and percentage surviving \nmice.\n2. Hypothesize that this property does not depend upon differentiated cells. Rather some \nunknown cell types are involved which have a near constant proportion in the marrow."
+  },
+  {
+    "page": 246,
+    "lecture": "Stem Cells and Differentiation",
+    "slideInLecture": 18,
+    "rawText": "Mauro and the muscle satellite cell, 1961\nTEM observation of Frog muscle\nConclusion from their experiment about the satellite cell (sp):\n1. Either  satellite cell (sp) is a precursor to muscle cell (mp).\n2. Or, it is a remnant of embryonic development."
+  },
+  {
+    "page": 247,
+    "lecture": "Stem Cells and Differentiation",
+    "slideInLecture": 19,
+    "rawText": "PROPERTIES OF A STEM CELL\n1. Stem cells do not have a limited proliferation potential. \n2. Stem cells have the capacity to produce more of themselves (self-renew).\n3. Stem cells can differentiate to the cells of the tissue/body.  For example, embryonic stem cells (ESCs) can \nproduce all the cells of the body whereas haematopoietic stem cells produce all the cells of the hematopoietic \nsystem (blood).\n4. Adult stem cells reside in various tissues in our body. For example, stem cells reside in skin produce cells of the \nskin. \n5. Stem cells are quiescent (do not divide and have low metabolic activity)."
+  },
+  {
+    "page": 248,
+    "lecture": "Stem Cells and Differentiation",
+    "slideInLecture": 20,
+    "rawText": ""
+  },
+  {
+    "page": 249,
+    "lecture": "Stem Cells and Differentiation",
+    "slideInLecture": 21,
+    "rawText": "John Gurdon’s SOMATIC CELL NUCLEAR TRANSFER EXPERIMENT\nSource of differentiated cells:\nNuclei from intestinal epitheilial \ncells of feeding tadpoles \n(endoderm)\nSource of control cells:\nNuclei from Xenopus blastula cells\nTransplanted into:\nEnucleated Xenopus egg (ovum)\n1.5% (10 out of 726) of all transplants using nucleus from differentiated intestinal epithelium \ngave rise to normal tadpoles. \nMarker to track donor nuclei:\nA heterozygous mutation giving rise \nto one nucleolus instead of two."
+  },
+  {
+    "page": 250,
+    "lecture": "Stem Cells and Differentiation",
+    "slideInLecture": 22,
+    "rawText": "Dolly the sheep , 1997"
+  },
+  {
+    "page": 251,
+    "lecture": "Stem Cells and Differentiation",
+    "slideInLecture": 23,
+    "rawText": "Shinya Yamanaka’s iNDUCED PLURIPOTENT STEM CELL (iPSC) \nSource:\nMOUSE EMBRYONIC FIBROBLASTS; \nThese are differentiated cells\nRetroviral vector mediated infecton:\n24 candidate genes used to search for factors \nthat can produce stem cell – like features\nMinimum gene combination required for pluripotency: Oct3/4, Sox2, c-myc, Klf4"
+  },
+  {
+    "page": 252,
+    "lecture": "Stem Cells and Differentiation",
+    "slideInLecture": 24,
+    "rawText": ""
+  },
+  {
+    "page": 253,
+    "lecture": "Stem Cells and Differentiation",
+    "slideInLecture": 25,
+    "rawText": "Normal Karyotype and teratoma formation"
+  },
+  {
+    "page": 254,
+    "lecture": "Stem Cells and Differentiation",
+    "slideInLecture": 26,
+    "rawText": "How iPSCs changed the way we look at health-care?\n•  Ethical concerns with ESCs – therefore iPSCs are a good alternative.\n•Patient specific study of disease and therapeutics is now possible\n•Large scale drug screening directly on the target cells through directed \ndifferentiation of iPSCs derived from patient cells.\n• A ready disease model for diseases which could not be modeled in \nmice.\n• Combined with CRISPR/Cas9 system, we can envision gene correction \nand replacement of disease causing cells with healthy cells .\n• Combined with directed differentiation and tissue engineering, in \nfuture, we may produce tissue/cells in the lab for transplant."
+  },
+  {
+    "page": 255,
+    "lecture": "Stem Cells and Differentiation",
+    "slideInLecture": 27,
+    "rawText": "Mouse ESCs were differentiated in low serum media with matrigel or matrix \nproteins (laminin + entactin). Activin was used to induce the expression of Rx \n(Rax –  Retina and Anterior Neural Fold homeobox) gene. Rx+ cells appear \nGFP+. Stages of optic cup morphogenesis is indicated in the scheme above. \nBelow – Embroid body with two Rx+ spherical evagination."
+  },
+  {
+    "page": 256,
+    "lecture": "Stem Cells and Differentiation",
+    "slideInLecture": 28,
+    "rawText": "Optic cup morphogenesis in an embroid body\nDevelopment of Rx+ spherical vesicles that ultimately give rise to the \ncharacteristic cup shape (optic cup) at day 9."
+  },
+  {
+    "page": 257,
+    "lecture": "Stem Cells and Differentiation",
+    "slideInLecture": 29,
+    "rawText": "Optic cup morphogenesis in an embroid body\nDistal portion of the spherical vesicle invaginated and expressed neural retina \nmarkers such as Chx10 in addition to Rx and Pax6. The proximal epithelium, \nnow forming the outer shell, expressed Pax6, Mitf, Coup-TF2 (also called \nNr2f2), Otx2 and connexin 43, and a low level of Rx, reminiscent of the marker \nprofile of retinal pigment epithelium (RPE) progenitors. This outer portion \nsubsequently became pigmented (on the right  indicated with circle – Day 12)."
+  },
+  {
+    "page": 258,
+    "lecture": "Stem Cells and Differentiation",
+    "slideInLecture": 30,
+    "rawText": "REFERENCE TEXTBOOK\nFor details on apoptosis: Cell and Molecular Biology, Gerald Karp"
+  },
+  {
+    "page": 259,
+    "lecture": "Host Pathogen Interaction",
+    "slideInLecture": 1,
+    "rawText": "SBL -100\nHOSt-PATHOGEN INTERACTION\n2026-27 SemESTER I\n1\nAnita Roy\nSchool of Biological Sciences, \nIndian Institute of Technology \nDelhi"
+  },
+  {
+    "page": 260,
+    "lecture": "Host Pathogen Interaction",
+    "slideInLecture": 2,
+    "rawText": "WHERE DO BLOOD CELLS FORM?"
+  },
+  {
+    "page": 261,
+    "lecture": "Host Pathogen Interaction",
+    "slideInLecture": 3,
+    "rawText": ""
+  },
+  {
+    "page": 262,
+    "lecture": "Host Pathogen Interaction",
+    "slideInLecture": 4,
+    "rawText": "The immune system\nA functional system – NOT an organ system:\nComplex system – includes\n• Skin – physical barrier\n• Lining of mucus membranes – physical barrier\n• Secretions – tears, mucus etc - antimicrobial\n• Blood cells and vasculature – WBCs\n• Bone marrow\n• Liver – makes complement proteins\n• Lymphatic system and lymphoid organs\n• Most tissues – have resident immune cells"
+  },
+  {
+    "page": 263,
+    "lecture": "Host Pathogen Interaction",
+    "slideInLecture": 5,
+    "rawText": "Blood and Lymph – arms of the immune cell \nsupply apparatus \nhttps://www.scienceabc.com/pure-sciences/difference-between-blood-and-\nlymph.html\nhttps://socratic.org/questions/what-are-the-differences-and-similarities-of-the-cardiovascular-system-\nand-the-l"
+  },
+  {
+    "page": 264,
+    "lecture": "Host Pathogen Interaction",
+    "slideInLecture": 6,
+    "rawText": "Overview of the Immune System\nImmune System\nInnate\n(Nonspecific)\n1o line of defense\nAdaptive\n(Specific)\n2o line of defense\nInteractions between the two systems are inevitable"
+  },
+  {
+    "page": 265,
+    "lecture": "Host Pathogen Interaction",
+    "slideInLecture": 7,
+    "rawText": "Innate immunity  vs  Adaptive Immunity\nNo memory \n•  No time lag\n• Not antigen specific\n• A lag period\n• Antigen specific\n• Development of \nmemory\nInnate Immunity\n(first line of defense) \nAdaptive Immunity\n(second line of defense)"
+  },
+  {
+    "page": 266,
+    "lecture": "Host Pathogen Interaction",
+    "slideInLecture": 8,
+    "rawText": "A typical immune response\nINNATE IMMUNITY \nRapid responses to a \nbroad range of microbes\nACQUIRED IMMUNITY\nSlower responses to \nspecific microbes\nExternal defenses Internal defenses\nSkin\nMucous membranes\nSecretions\nPhagocytic cells\nAntimicrobial proteins\nInflammatory response\nNatural killer cells\nHumoral response\n(antibodies)\nCell-mediated response\n(cytotoxic \nlymphocytes)\nInvading\nmicrobes\n(pathogens) Complement"
+  },
+  {
+    "page": 267,
+    "lecture": "Host Pathogen Interaction",
+    "slideInLecture": 9,
+    "rawText": "Innate immune system \nExternal defences\nLet us see how they breach the wall !!"
+  },
+  {
+    "page": 268,
+    "lecture": "Host Pathogen Interaction",
+    "slideInLecture": 10,
+    "rawText": "Anatomical Barriers - Mechanical Factors\n• Skin\n• Flushing action of \n   saliva, tears, urine\n•  Mucociliary \nescalator"
+  },
+  {
+    "page": 269,
+    "lecture": "Host Pathogen Interaction",
+    "slideInLecture": 11,
+    "rawText": "Anatomical Barriers – Chemical \nfactors\nAntimicrobial \nPeptides in sweat Enzymes  Lysozyme in tears \n/saliva\npH\nHCl in stomach"
+  },
+  {
+    "page": 270,
+    "lecture": "Host Pathogen Interaction",
+    "slideInLecture": 12,
+    "rawText": "Anatomical Barriers – Biological factors\nNormal flora \nMicrobes in many parts of the body \nNormal flora – competes with pathogens\nfor nutrients and space (Antagonism)\nNormal flora – > 105 species of bacteria"
+  },
+  {
+    "page": 271,
+    "lecture": "Host Pathogen Interaction",
+    "slideInLecture": 13,
+    "rawText": "A typical immune response\nINNATE IMMUNITY \nRapid responses to a \nbroad range of microbes\nACQUIRED IMMUNITY\nSlower responses to \nspecific microbes\nExternal defenses Internal defenses\nSkin\nMucous membranes\nSecretions\nPhagocytic cells\nAntimicrobial proteins\nInflammatory response\nNatural killer cells\nHumoral response\n(antibodies)\nCell-mediated response\n(cytotoxic \nlymphocytes)\nInvading\nmicrobes\n(pathogens) Complement"
+  },
+  {
+    "page": 272,
+    "lecture": "Host Pathogen Interaction",
+    "slideInLecture": 14,
+    "rawText": "Innate immune system \nInternal defences\nLet us see how they can enter!!"
+  },
+  {
+    "page": 273,
+    "lecture": "Host Pathogen Interaction",
+    "slideInLecture": 15,
+    "rawText": "Innate immune system: components of Blood\nComplement proteins\nCoagulation proteins\nCytokines\nWBCs\nExtracellular"
+  },
+  {
+    "page": 274,
+    "lecture": "Host Pathogen Interaction",
+    "slideInLecture": 16,
+    "rawText": "White blood cells (WBCs)\nMacrophages\nB-lymphocytes\nT-lymphocytes\nNatural killer(NK) cells\nMast cells"
+  },
+  {
+    "page": 275,
+    "lecture": "Host Pathogen Interaction",
+    "slideInLecture": 17,
+    "rawText": "Neutrophils in innate immune \nresponse\n• Most abundant WBCs (~50-60%)\n• Efficient phagocytes\n• Most important cells of the innate immune system\n• Rushes to site of infection → Primary response \ncells"
+  },
+  {
+    "page": 276,
+    "lecture": "Host Pathogen Interaction",
+    "slideInLecture": 18,
+    "rawText": "How do neutrophils find microbes ?\nChemotaxis"
+  },
+  {
+    "page": 277,
+    "lecture": "Host Pathogen Interaction",
+    "slideInLecture": 19,
+    "rawText": "Neutrophil chemotaxis\nhttps://www.youtube.com/watch?v=ZUUfdP87Ssg"
+  },
+  {
+    "page": 278,
+    "lecture": "Host Pathogen Interaction",
+    "slideInLecture": 20,
+    "rawText": "Phagocytosis\n• Phago = to eat\n• Cyte = cell\n• WBCs (eg. Neutrophils) – find, eat and digest microbes !"
+  },
+  {
+    "page": 279,
+    "lecture": "Host Pathogen Interaction",
+    "slideInLecture": 21,
+    "rawText": "Neutrophils eating bacteria\nhttps://youtu.be/I_xh-bkiv_c"
+  },
+  {
+    "page": 280,
+    "lecture": "Host Pathogen Interaction",
+    "slideInLecture": 22,
+    "rawText": "How do neutrophils eat and digest microbes \n?\nGranule\ns"
+  },
+  {
+    "page": 281,
+    "lecture": "Host Pathogen Interaction",
+    "slideInLecture": 23,
+    "rawText": "What’s in the granules ?\nDigestive enzymes– digests \nbacterial cell wall; other \nantimicrobial proteins"
+  },
+  {
+    "page": 282,
+    "lecture": "Host Pathogen Interaction",
+    "slideInLecture": 24,
+    "rawText": "Additional roles of neutrophils\nTriggers inflammatory response\nAdaptive Immunity"
+  },
+  {
+    "page": 283,
+    "lecture": "Host Pathogen Interaction",
+    "slideInLecture": 25,
+    "rawText": "More recent findings on neutrophils\nhttps://immunology.sciencemag.org/content/3/30/eaat4579?rss=1\nneutrophil extracellular trap (NET)"
+  },
+  {
+    "page": 284,
+    "lecture": "Host Pathogen Interaction",
+    "slideInLecture": 26,
+    "rawText": "Monocytes\n• Monocytes (~2-10% of WBCs)\n• Migrate into the tissues and \nbecome Macrophages\nLung Bone\nLiver Brain Intestine"
+  },
+  {
+    "page": 285,
+    "lecture": "Host Pathogen Interaction",
+    "slideInLecture": 27,
+    "rawText": "Macrophages\n• “Big eaters”\n• Phagocytosis of microbes in tissue\n     (neutrophils are present only in blood normally)\n• Antigen presentation"
+  },
+  {
+    "page": 286,
+    "lecture": "Host Pathogen Interaction",
+    "slideInLecture": 28,
+    "rawText": "Natural killer cells\n• Not B-lymphocytes / T-\nlymphocytes\n• Important part of the innate \nimmune system\n• Kill virus /bacteria infected \ncells (Intracellular pathogens)\n• Kills cancer cells"
+  },
+  {
+    "page": 287,
+    "lecture": "Host Pathogen Interaction",
+    "slideInLecture": 29,
+    "rawText": "How do NK cells choose cells to kill ?\nUninfected cell / Normal \ncell\nMicrobe infected cell / cancer \ncell\nSome cell surface proteins are missing"
+  },
+  {
+    "page": 288,
+    "lecture": "Host Pathogen Interaction",
+    "slideInLecture": 30,
+    "rawText": "How does the killer kill ?\nKills both host cells and microbes\nRelease of granules with perforins and proteases"
+  },
+  {
+    "page": 289,
+    "lecture": "Host Pathogen Interaction",
+    "slideInLecture": 31,
+    "rawText": "https://www.youtube.com/watch?v=GXECgTLGLtI"
+  },
+  {
+    "page": 290,
+    "lecture": "Host Pathogen Interaction",
+    "slideInLecture": 32,
+    "rawText": "https://www.youtube.com/watch?v=_VhcZTGv0CU\n Upto 4:32"
+  },
+  {
+    "page": 291,
+    "lecture": "Host Pathogen Interaction",
+    "slideInLecture": 33,
+    "rawText": "https://www.youtube.com/watch?v=rDEduT62Awc"
+  },
+  {
+    "page": 292,
+    "lecture": "Host Pathogen Interaction",
+    "slideInLecture": 34,
+    "rawText": "Portals of entry\nPenetration or \nevasion of\n host defenses \nDamage\nto host \ncells\nPortals of exit\nNumber of \ninvading \nmicrobes\nAdherence\nVirulence factors\nMicrobial mechanism of pathogenicity\nVirulence: The capacity of a pathogen to harm the host\nMicrobe+virulence factors = pathogen"
+  },
+  {
+    "page": 293,
+    "lecture": "Host Pathogen Interaction",
+    "slideInLecture": 35,
+    "rawText": "Steps in bacterial pathogenesis\nImmune evasion\nhttps://en.wikipedia.org/wiki/Infection"
+  },
+  {
+    "page": 294,
+    "lecture": "Host Pathogen Interaction",
+    "slideInLecture": 36,
+    "rawText": "(1) Adherence\n• Adherence (attachment) is often an essential step in bacterial pathogenesis or \ninfection, required for colonizing a new host \n• Adhesion - Process by which microorganisms attach themselves to host cells.\n• Requires the participation of two factors: a receptor (a host cell component) and \nan ligand (a mirobial component)"
+  },
+  {
+    "page": 295,
+    "lecture": "Host Pathogen Interaction",
+    "slideInLecture": 37,
+    "rawText": "Adherence examples\nM protein: Group A Streptococcus (GAS) \nAdherence and Invasion: Binding to fibronectin helps the bacteria attach to and invade host epithelial and endothelial \ncells\nHost-Protein Cloak: M protein recruits a layer of host proteins (including fibronectin, fibrinogen, albumin, and \nplasminogen) to form a dynamic surface cloak that alters antibody accessibility and hides bacterial epitopes"
+  },
+  {
+    "page": 296,
+    "lecture": "Host Pathogen Interaction",
+    "slideInLecture": 38,
+    "rawText": "Why is adherence important ?\n• Ability to colonize and cause \ndisease\n• Ability to adhere determines the \nhost specificity\n• Potential drug target"
+  },
+  {
+    "page": 297,
+    "lecture": "Host Pathogen Interaction",
+    "slideInLecture": 39,
+    "rawText": "(3) Bacterial capsule\n• Some bacteria have a \npolysaccharide layer \noutside the cell wall called \ncapsule\n• Helps in attachment\n• Helps evade host defences \n ▪Streptococcus pneumoniae\n▪Haemophilus influenzae\n▪Bacillus anthracis"
+  },
+  {
+    "page": 298,
+    "lecture": "Host Pathogen Interaction",
+    "slideInLecture": 40,
+    "rawText": "Capsules allow escape of TLR recognition\n(TLR)\nNo immune response\nPathogen Associated Molecular Patterns (PAMPs) are sensed by immune cells\nUsing pattern receptors (e.g. Toll like receptors…TLR4 binds bacterial \nLipopolysaccharide"
+  },
+  {
+    "page": 299,
+    "lecture": "Host Pathogen Interaction",
+    "slideInLecture": 41,
+    "rawText": "Capsules inhibits phagocytosis"
+  },
+  {
+    "page": 300,
+    "lecture": "Host Pathogen Interaction",
+    "slideInLecture": 42,
+    "rawText": "Capsule allows survival inside phagocytes\nCapsule may help resist digestion by lysosomal \nenzymes"
+  },
+  {
+    "page": 301,
+    "lecture": "Host Pathogen Interaction",
+    "slideInLecture": 43,
+    "rawText": "(2)Formation of bacterial biofilms\nQuorum sensing: ability to sense population density and alter gene expression"
+  },
+  {
+    "page": 302,
+    "lecture": "Host Pathogen Interaction",
+    "slideInLecture": 44,
+    "rawText": "Mucus barrier breach is necessary to get cell access in many cases\nhttps://science.sciencemag.org/content/336/6086/1238"
+  },
+  {
+    "page": 303,
+    "lecture": "Host Pathogen Interaction",
+    "slideInLecture": 45,
+    "rawText": "Bacterial enzymes\n(a) Coagulase and kinase\n(b) Hyaluronidase and collagenase\n(c) IgA protease\nhttps://www.histology.leeds.ac.uk/tissue_types/connective/connective_fibres.php"
+  },
+  {
+    "page": 304,
+    "lecture": "Host Pathogen Interaction",
+    "slideInLecture": 46,
+    "rawText": "(b) Hyaluronidase and collagenase\nDigestion of \nconnective \ntissues and \nInvasion of tissues\nHyaluronidase:  is present in Staphylococcus aureus  (Skin infections)\nand Streptococcus  pyogenes (Sore throat)\nCollagenase:  is present in Clostridium perfringens (gas gangrene)"
+  },
+  {
+    "page": 305,
+    "lecture": "Host Pathogen Interaction",
+    "slideInLecture": 47,
+    "rawText": "(a) Coagulase and kinase\n✓   Inhibits phagocytosis \n✓    Immune response – no access\n✓   Antibiotics not effective\nEg. Staphylococcus aureus – skin \ninfections\nStrains that do not produce coagulase are not \npathogenic\nStreptokinase – used in clinics to dissolve clots during heart \nattacks"
+  },
+  {
+    "page": 306,
+    "lecture": "Host Pathogen Interaction",
+    "slideInLecture": 48,
+    "rawText": "Bacterial cell wall \n• Outer layer\n• Peptidoglycan (sugars \nand amino acids)\n• The cell wall may carry \nsome surface proteins"
+  },
+  {
+    "page": 307,
+    "lecture": "Host Pathogen Interaction",
+    "slideInLecture": 49,
+    "rawText": "Mycolic acid in cell wall helps resist lysosomal \ndigestion\nMycolic acid in the cell wall resists digestion by lysosomal \nenzymes\nMycolic acid \nin the cell \nwall \nEg. Mycobacterium tuberculosis , Mycobacterium leprae"
+  },
+  {
+    "page": 308,
+    "lecture": "Host Pathogen Interaction",
+    "slideInLecture": 50,
+    "rawText": "Host Membrane ruffling- cell invasion\nInvasins : proteins expressed on the cell surface of various pathogens that alter \nactin filaments of host cell cytoskeleton, allowing microbes to enter cells."
+  },
+  {
+    "page": 309,
+    "lecture": "Host Pathogen Interaction",
+    "slideInLecture": 51,
+    "rawText": "Bacterial toxins\n• Toxins - Poisonous substances produced by microorganisms\n• Toxigenicity - The ability to produce toxins.\n• Toxemia refers to the presence of toxins in the blood."
+  },
+  {
+    "page": 310,
+    "lecture": "Host Pathogen Interaction",
+    "slideInLecture": 52,
+    "rawText": "Examples of exotoxins: Diptheria toxin\nDiphtheria; nasopharyx is \naffected\nToxin A inhibits protein \nsynthesis in the host cell – \nleads to host cell death\n• A-B Polypeptide: A single 62 kDa polypeptide chain split \ninto two main functional fragments.\n• Endocytosis: The toxin enters the host cell through \nreceptor-mediated endocytosis.\n• Translocation: Acidification of the endosome causes a \nstructural shift, pushing Fragment A across the \nmembrane into the cytoplasm.\n• Translation Inhibition: Fragment A catalyzes the ADP-\nribosylation of eukaryotic elongation factor 2 (eEF-2) on \nits diphthamide residue, halting protein translation and \nkilling the cell"
+  },
+  {
+    "page": 311,
+    "lecture": "Host Pathogen Interaction",
+    "slideInLecture": 53,
+    "rawText": "Examples of exotoxins: Cholera toxin\n• Vibrio cholerae – diarrhoea\n• Toxin A – increased cAMP – which controls the efflux of \nH2O and ions from cells\n• Increased secretion of water and ions into the intestine \ncausing  diarrhoea\nAB5 Holotoxin: Composed of one active A subunit and five receptor-binding B subunits\nInternalization: The B pentamer binds GM1 receptors, triggering endocytosis\nTranslocation: The active A1 fragment separates and moves into the cell cytosol\ncAMP Surge and fluid loss: A1 permanently locks the Gsα regulatory protein in an active, GTP-bound state. Constantly \nactivated adenylate cyclase produces massive amounts of cyclic AMP (cAMP) leading to opening of ion channels and \nmassive efflux of H2O, Cl-, HCO3-, K+"
+  },
+  {
+    "page": 312,
+    "lecture": "Host Pathogen Interaction",
+    "slideInLecture": 54,
+    "rawText": "• G protein-coupled receptors (GPCRs) are a huge family of receptors \nthat contain seven transmembrane helices. These receptors \ntranslate the binding of extracellular signaling molecules into the \nactivation of GTP-binding proteins.\n• G-protein coupled receptors, including those that bind epinephrine \nand glucagon, contain seven membrane-spanning helices.\n• When bound to their ligand, the receptor interacts with a trimeric \nG-protein. These receptors translate the binding of extracellular \nsignaling molecules into the activation of GTP-binding proteins.\n•  This activates an effector, such as adenylyl cyclase. \n \nGPCRs recognizing the ligand"
+  },
+  {
+    "page": 313,
+    "lecture": "Host Pathogen Interaction",
+    "slideInLecture": 55,
+    "rawText": "Amplificatio\nn\nCessation of \namplification\nSignal \nattenuation"
+  },
+  {
+    "page": 314,
+    "lecture": "Host Pathogen Interaction",
+    "slideInLecture": 56,
+    "rawText": "Endotoxin\n• Gram negative bacterial cell wall have lipid A (lipopolysaccharide -LPS) – \nendotoxin\n• Important for pathogenesis"
+  },
+  {
+    "page": 315,
+    "lecture": "Host Pathogen Interaction",
+    "slideInLecture": 57,
+    "rawText": "How are endotoxins released ? \n• Complement-mediated \nlysis of bacteria\n• Phagocytic digestion of \nbacterial cells\n• Antibiotics usage"
+  },
+  {
+    "page": 316,
+    "lecture": "Host Pathogen Interaction",
+    "slideInLecture": 58,
+    "rawText": "What does an endotoxin do ?\nENDOTOXI\nN\nInflammatio\nn\nSecretion of \nCytokines\nFever\nBlood brain \nbarrier"
+  },
+  {
+    "page": 317,
+    "lecture": "Host Pathogen Interaction",
+    "slideInLecture": 59,
+    "rawText": "Endotoxin are pyrogens\nKilling of bacteria by some sterilization methods may not necessarily eliminate endotoxins\nEndotoxins are heat stable"
+  },
+  {
+    "page": 318,
+    "lecture": "Cell Death Pathways",
+    "slideInLecture": 1,
+    "rawText": "SBL100: Introductory Biology for \nEngineers\nLecture-31\nCell Death Pathways\nSantanu Mondal\nKusuma School of Biological Sciences"
+  },
+  {
+    "page": 319,
+    "lecture": "Cell Death Pathways",
+    "slideInLecture": 2,
+    "rawText": "Programmed Cell Death – Why It Is Required?\nMedComm 2024, \n5, e70024"
+  },
+  {
+    "page": 320,
+    "lecture": "Cell Death Pathways",
+    "slideInLecture": 3,
+    "rawText": "Apoptosis\n• Morphological Characteristics\n         Cell Shrinkage\n         Chromatin Condensation\n         Nuclear Fragmentation \n         Membrane Blebbing\n         Apoptotic Bodies\n         Phagocytosis\n• Biochemical Characteristics\n         Caspase Activation\n         DNA Fragmentation\n         Phosphatidylserine Inversion"
+  },
+  {
+    "page": 321,
+    "lecture": "Cell Death Pathways",
+    "slideInLecture": 4,
+    "rawText": "Caspases: Mediators of Apoptosis \nInitiator Caspases\nExecutioner Caspases\nCaspase-8\nCaspase-9\nCaspase-3\nCaspase-6\nCaspase-7\n© Molecular Biology of The Cell"
+  },
+  {
+    "page": 322,
+    "lecture": "Cell Death Pathways",
+    "slideInLecture": 5,
+    "rawText": "Caspases: Mediators of Apoptosis \n• The cleavage of certain proteins that regulate the actin cytoskeleton results in the actin polymerization in the cell \ncortex that is responsible for the surface blebbing in apoptosis.\n• The cleavage of two phospholipid transfer proteins in the plasma membrane results in the exposure of \nphosphatidylserine on the surface of apoptotic cells.\n© Molecular Biology of The Cell\n© The Cell: A Molecular Approach. Cooper GM."
+  },
+  {
+    "page": 323,
+    "lecture": "Cell Death Pathways",
+    "slideInLecture": 6,
+    "rawText": "Intrinsic Apoptosis Pathway\n©Abbvie"
+  },
+  {
+    "page": 324,
+    "lecture": "Cell Death Pathways",
+    "slideInLecture": 7,
+    "rawText": "Trends in Biochemical Sciences 2014, 39 (3), 101 \nB-Cell Lymphoma-2 (BCL-2) Proteins\n• 3 classes of Proapoptotic (activators, effectors and derepressor/sensitizer) and 1 class of anti-apoptotic members.\n• Effectors and anti-apoptotic members have four BCL-2 homology (BH) domains (BH1-4), while activators and \ndepressors/sensitizers have only BH3 domain."
+  },
+  {
+    "page": 325,
+    "lecture": "Cell Death Pathways",
+    "slideInLecture": 8,
+    "rawText": "Extrinsic Pathway of Apoptosis\n© Molecular Biology of The Cell"
+  },
+  {
+    "page": 326,
+    "lecture": "Cell Death Pathways",
+    "slideInLecture": 9,
+    "rawText": "Necroptosis\n• Necroptosis is now defined as a caspase-independent, lytic and inflammatory cell death pathway. It is typically \nactivated when apoptosis is inhibited — often owing to the absence or inhibition of caspase-8.\n• The cell undergoing necroptosis shows plasma membrane rupture and permeabilization, compared to the intact \nplasma membrane with blebbing in the apoptotic cell (red arrowheads). \n• The necroptotic cell exhibits cytoplasm swelling and vacuolization, which are absent in the apoptotic cell (green \narrowheads). \n• The necroptotic cell has swelled mitochondria, in contrast to those in the apoptotic cells (yellow arrowheads). \n• The necroptotic cell also lacks condensed and fragmented nuclei seen in the apoptotic cell (blue arrowheads).\nBiochim. Biophys. Acta. \n2016, 1865, 228."
+  },
+  {
+    "page": 327,
+    "lecture": "Cell Death Pathways",
+    "slideInLecture": 10,
+    "rawText": "Necroptosis\n• Extrinsic necroptosis is \ntriggered by the activation of \nspecific cell-surface death \nreceptors (such as TNFR1), which \nare defined by an intracellular \ndeath domain, or by pattern-\nrecognition receptors such as \nTLR3 and TLR4.\n• Intrinsic necroptosis is initiated \nintracellularly through ZBP1-\ndependent recognition of Z-NAs.\nTrends in Cancer 2022, 8, 21-27"
+  },
+  {
+    "page": 328,
+    "lecture": "Cell Death Pathways",
+    "slideInLecture": 11,
+    "rawText": "Necroptosis Triggers Inflammatory Response\n• Necroptosis is associated with the release of various DAMPs by \ndying cells. \n• DAMPs may be detected by various immune cells such as T cells, \nDCs and macrophages. \n• Detection of DAMPs is associated with the expression and \nrelease of a wide range of inflammatory mediators and cytokines. \nNat. Rev. Mol. Cell Biol. 2026, 27, 763."
+  },
+  {
+    "page": 329,
+    "lecture": "Cell Death Pathways",
+    "slideInLecture": 12,
+    "rawText": "Autophagy\n• Lysosome contains multiple types of degradative enzymes, like proteases, nucleases, polysaccharide-, and lipid-degrading \nenzymes. Enzymatic activity is turned on by low pH in the lumen of the lysosomes.\n• Cathepsins are serine/cysteine/aspartic proteases. Cathepsins L, B, and D are abundant (~1 mM) in lysosomes."
+  },
+  {
+    "page": 330,
+    "lecture": "Cell Death Pathways",
+    "slideInLecture": 13,
+    "rawText": "Ferroptosis\nStockwell and coworkers, Cell 2012, 149, 1060; Cell 2022, 185, 2401; Cell Chem. Biol. 2020, 27, 365.\nPUFA: Polyunsaturated fatty acid; ACSL: Long chain fatty acid CoA Ligase; LPCAT: Lysophosphatidylcholine acyltransferase; PL: Phospholipid; TF: \nTransferrin; TFRC1: Transferrin receptor; LOX: Lipoxygenase; GPX: Glutathione peroxidase; GR: Glutathione reductase; FSP: Ferroptosis suppressor \nprotein; DHFR: Dihydrofolate reductase.\nSeveral therapy-resistant cancer cells are sensitive to Ferroptosis induction!"
+  },
+  {
+    "page": 331,
+    "lecture": "Cancer Biology 1",
+    "slideInLecture": 1,
+    "rawText": "SBL100: Introductory Biology for \nEngineers\nLecture-32\nCancer Biology\nSantanu Mondal\nKusuma School of Biological Sciences"
+  },
+  {
+    "page": 332,
+    "lecture": "Cancer Biology 1",
+    "slideInLecture": 2,
+    "rawText": "Cancer\n• Hippocrates described several kinds of cancer, referring to them by the term ‘karkinos’ , the Greek word for 'crab' \nor 'crayfish' , as well as carcinoma.\n• This comes from the appearance of the cut surface of a solid malignant tumour, with the veins stretched on all \nsides as the legs and claws of a crab.\n© Science News"
+  },
+  {
+    "page": 333,
+    "lecture": "Cancer Biology 1",
+    "slideInLecture": 3,
+    "rawText": "Cancer Incidence and Mortality\n© Molecular Biology of The Cell"
+  },
+  {
+    "page": 334,
+    "lecture": "Cancer Biology 1",
+    "slideInLecture": 4,
+    "rawText": "Cancer Cells: How are They Different?\n• Proliferation: Cancer cells receive continuous signals to divide even when \ngrowth factors are absent, often due to mutated or overactive receptors, \nleading to unregulated growth.\n• Invasion: Cancer cells actively penetrate through the extracellular matrix \n(ECM) and basement membranes to move into surrounding tissues.\n• Metastasis: Cancer cells spread from their original site (the primary tumor) to \nother nearby or distant parts of the body."
+  },
+  {
+    "page": 335,
+    "lecture": "Cancer Biology 1",
+    "slideInLecture": 5,
+    "rawText": "Cancer Cells: How are They Different?"
+  },
+  {
+    "page": 336,
+    "lecture": "Cancer Biology 1",
+    "slideInLecture": 6,
+    "rawText": "Tumor Microenvironment\n• Stroma is defined as the nonmalignant cells, including fibroblasts, immune cells, endothelial cells, and various other cell \ntypes found in the supportive tissue surrounding tumors.\n• Activation of fibroblasts into carcinoma-associated fibroblasts (CAFs) and remodeling of the extracellular matrix (ECM) are \nimportant in cancer progression.\n• CAFs interact with cancer cells by secreting a variety of ECM components, which influence cancer cell growth, invasion, \ninflammation, and angiogenesis."
+  },
+  {
+    "page": 337,
+    "lecture": "Cancer Biology 1",
+    "slideInLecture": 7,
+    "rawText": "Hypoxia in Tumor Microenvironment"
+  },
+  {
+    "page": 338,
+    "lecture": "Cancer Biology 1",
+    "slideInLecture": 8,
+    "rawText": "Aerobic and Anaerobic Respiration"
+  },
+  {
+    "page": 339,
+    "lecture": "Cancer Biology 1",
+    "slideInLecture": 9,
+    "rawText": "Metabolic Reprogaming in Cancer: The Warburg Effect\n• Pyruvate-Lactate conversion utilizes NADH cofactor to regenerate NAD+ that can be used for glucose-pyruvate \nconversion."
+  },
+  {
+    "page": 340,
+    "lecture": "Cancer Biology 1",
+    "slideInLecture": 10,
+    "rawText": "Immune Evasion by Tumors\nInt. J. Mol. Sci. 2021, 22, \n13311"
+  },
+  {
+    "page": 341,
+    "lecture": "Cancer Biology 1",
+    "slideInLecture": 11,
+    "rawText": "PD-1:PD-L1 Interaction in Cancer Immunotherapy\nCancers 2020, 12(7), 1826"
+  },
+  {
+    "page": 342,
+    "lecture": "Cancer Biology 2 and Drug Development",
+    "slideInLecture": 1,
+    "rawText": "SBL100: Introductory Biology for \nEngineers\nLecture-33\nCancer Biology\nDrug Development\nSantanu Mondal\nKusuma School of Biological Sciences"
+  },
+  {
+    "page": 343,
+    "lecture": "Cancer Biology 2 and Drug Development",
+    "slideInLecture": 2,
+    "rawText": "Transformation of Healthy Cells into Cancer Cells\n• Development of cancer is linked to mutagenesis. Typical carcinogens are \nchemical carcinogens (which cause simple changes in the nucleotide \nsequence), radiation, such as x-rays (which cause chromosome breaks and \ntranslocations) or ultraviolet (UV) light (which causes specific DNA base \nalterations).\n• Development of a cancer typically requires that a substantial number of \nindependent, rare genetic and epigenetic accidents occur in the lineage that \nemanates from a single cell."
+  },
+  {
+    "page": 344,
+    "lecture": "Cancer Biology 2 and Drug Development",
+    "slideInLecture": 3,
+    "rawText": "(Proto)Oncogene and Tumor Suppressor Gene"
+  },
+  {
+    "page": 345,
+    "lecture": "Cancer Biology 2 and Drug Development",
+    "slideInLecture": 4,
+    "rawText": "(Proto)Oncogene\nEpidermal growth factor receptor (EGFR)\n• Binding of EGF to the receptor’s extracellular domain leads to \nphosphorylation of the intracellular domain, which activates \nsignaling. \n• Truncation of the extracellular domain leads to hyper-\nphosphorylation and inappropriate activation. Other types of \nactivating mutations are observed in different cancers.\nRAS GTPases (HRAS, NRAS, KRAS)"
+  },
+  {
+    "page": 346,
+    "lecture": "Cancer Biology 2 and Drug Development",
+    "slideInLecture": 5,
+    "rawText": "p53 – A Tumor Supressor Transcription Factor\nRed balls - cancer mutant\nBlue balls - anticancer \nmutant \n• DNA damage induces p53 expression that halts cell cycle until the damage is repaired.\n• P53 arrests the cell cycle by upregulating p21, which inactivates CDK/cyclin.\n• Most of the cancer cells cause mutations in p53 to make it inactive as a transcription factor."
+  },
+  {
+    "page": 347,
+    "lecture": "Cancer Biology 2 and Drug Development",
+    "slideInLecture": 6,
+    "rawText": "MDM2 and MDMX – Negative Regulators of p53"
+  },
+  {
+    "page": 348,
+    "lecture": "Cancer Biology 2 and Drug Development",
+    "slideInLecture": 7,
+    "rawText": "MDM2 and MDMX – Negative Regulators of p53"
+  },
+  {
+    "page": 349,
+    "lecture": "Cancer Biology 2 and Drug Development",
+    "slideInLecture": 8,
+    "rawText": "Oral Drugs\n• 5-10% of API\n• ~90% of fillers, lubricants, \nglidants, and compounds which \nensure easy disintegration, \ndisaggregation, and dissolution of \nthe tablet in the stomach or the \nintestine.\n• Hard-shelled capsules: \nContain dry, powdered \ningredients or miniature pellets.\n• Soft-shelled capsules: Used for \noils and API dissolved or \nsuspended in oil."
+  },
+  {
+    "page": 350,
+    "lecture": "Cancer Biology 2 and Drug Development",
+    "slideInLecture": 9,
+    "rawText": "Drug Absorption\nEur. J. Pharm. Biopharm. 2017, 112, 234-248"
+  },
+  {
+    "page": 351,
+    "lecture": "Cancer Biology 2 and Drug Development",
+    "slideInLecture": 10,
+    "rawText": "Drug Administration Routes\n• Occular: Eye drops, contact lens (sustained release)\n• Otic: Ear drops - antibiotics, anesthetics etc.\n• IV: Intravenous – protein drugs, vaccines; avoid break down by \nproteases, denaturation at acidic pH.\n• IM: Intramuscular – Fast absorption due to numerous blood \nvessels in muscles; upper, arm, hip thigh etc.\n• SC: Subcutaneous (below the dermis/epidermis). Insulin, \nmonoclonal antibodies etc. – difficult to be absorbed from intestine.\n• Inhalation: Drugs against pulmonary disorders (e.g., COPD), \ndirectly absorbed by lung mucous membrane.\n• Topical: local administration – lotions, creams etc.\n• Transdermal patch: Medicated adhesive patch – controlled \ndelivery of drugs through skin/bloodstream (Nicotine patch).  \n• Sublingual: Under the tongue, absorption by mucous membrane \nand directly enters venous circulation (cardiovascular drugs).\n• Epidural: Injection into spine (local anesthetic agents, diagnostic \nimaging agents etc.\n• Rectal: Through anus, absorption by rectal blood vessels; given \nto patients with digestive track motility problem."
+  },
+  {
+    "page": 352,
+    "lecture": "Cancer Biology 2 and Drug Development",
+    "slideInLecture": 11,
+    "rawText": "ADME Properties"
+  },
+  {
+    "page": 353,
+    "lecture": "Drug Development 1",
+    "slideInLecture": 1,
+    "rawText": "SBL100: Introductory Biology for \nEngineers\nLecture-34\nDrug Development\nSantanu Mondal\nKusuma School of Biological Sciences"
+  },
+  {
+    "page": 354,
+    "lecture": "Drug Development 1",
+    "slideInLecture": 2,
+    "rawText": "ADME Properties"
+  },
+  {
+    "page": 355,
+    "lecture": "Drug Development 1",
+    "slideInLecture": 3,
+    "rawText": "Plasma Concentration\nTime\nPharmacokinetics\n• Cmax is the maximum plasma concentration the drug achieves and tmax is the time at which the Cmax is observed.\n• t1/2 is the half-life of a drug.\n• AUC represents the total drug exposure across time. Dosages are determined to have an optimum AUC."
+  },
+  {
+    "page": 356,
+    "lecture": "Drug Development 1",
+    "slideInLecture": 4,
+    "rawText": "Drug Metabolism\nPharmaceutics 2023, 112, 234-248\n• Lipophilic molecules are converted to hydrophilic ones.\no Hydroxylation\no Epoxidation (followed by hydroxylation)\no Nitro- and Azo-reduction\no Oxidative deamination\no Hydrolysis (Ester, amide etc.)\no Dealkylation\no Nitrogen and sulphur oxidation\no Dehalogenation\n• Conjugation of extremely hydrophilic \nendogenous substrates, facilitating \nexcretion through bile, urine  \no Glucuronidation\no Sulphonation\no Amino acid conjugation\no Glutathionylation\no Methylation\no Acetylation"
+  },
+  {
+    "page": 357,
+    "lecture": "Drug Development 1",
+    "slideInLecture": 5,
+    "rawText": "Paracetamol Metabolism\nGlutathione (GSH)"
+  },
+  {
+    "page": 358,
+    "lecture": "Drug Development 1",
+    "slideInLecture": 6,
+    "rawText": "Phase III Metabolism of Glutathione Conjugates\n• Mercapturic acid pathway: Degradation of glutathione conjugates by γ-glutamyl transpeptidase and \ncysteinyl glycinase to cysteine conjugates. Cysteine conjugates often undergo N-acetylation and are \nexcreted through urine.\n• Cysteine conjugate may further undergo degradation by β-lyase to form reactive thiols that cause \nnephrotoxicity."
+  },
+  {
+    "page": 359,
+    "lecture": "Drug Development 1",
+    "slideInLecture": 7,
+    "rawText": "Drug Development"
+  },
+  {
+    "page": 360,
+    "lecture": "Drug Development 1",
+    "slideInLecture": 8,
+    "rawText": "Drug Development\n10,000 drug \ncandidates\n1 drug \nmolecule"
+  },
+  {
+    "page": 361,
+    "lecture": "Drug Development 1",
+    "slideInLecture": 9,
+    "rawText": "Drug Development\n©Corden Pharma"
+  },
+  {
+    "page": 362,
+    "lecture": "Drug Development 2",
+    "slideInLecture": 1,
+    "rawText": "SBL100: Introductory Biology for \nEngineers\nLecture-35\nDrug Development\nSantanu Mondal\nKusuma School of Biological Sciences"
+  },
+  {
+    "page": 363,
+    "lecture": "Drug Development 2",
+    "slideInLecture": 2,
+    "rawText": "Biomolecules\nAmino acids"
+  },
+  {
+    "page": 364,
+    "lecture": "Drug Development 2",
+    "slideInLecture": 3,
+    "rawText": "Computational Approach for Drug Discovery"
+  },
+  {
+    "page": 365,
+    "lecture": "Drug Development 2",
+    "slideInLecture": 4,
+    "rawText": "High-throughput screening (HTS) is a key process used in drug \ndiscovery to identify hits from compound libraries that may become \nleads for medicinal chemistry optimization.\nHigh Throughput Screening for Drug Discovery"
+  },
+  {
+    "page": 366,
+    "lecture": "Drug Development 2",
+    "slideInLecture": 5,
+    "rawText": "Renin-Angiotensin-Aldosterone (RAAS) Pathway"
+  },
+  {
+    "page": 367,
+    "lecture": "Drug Development 2",
+    "slideInLecture": 6,
+    "rawText": "Angiotensins\nAngiotensin I"
+  },
+  {
+    "page": 368,
+    "lecture": "Drug Development 2",
+    "slideInLecture": 7,
+    "rawText": "Captopril – The First ACE Inhibitor\nTeprotide\n• Venom of Brazillian pit viper, Bothrops jararaca has hypotensive activity.\n• Teprotide, a nonapeptide originally isolated from pit viper’s venom inhibits ACE. \nSir John Vane\nNobel Prize in Medicine 1982\n• ER Squibb and Sons (now part of Bristol Myers Squibb) \nsynthesized analogs of snake venom peptide, Teprotide to \nfind leads against ACE.\n• Captopril is the first orally bioavailable ACE inhibitor.\n• Squibb filed for U.S. patent protection on the drug in\nFebruary 1976, which was granted in September 1977, and\ncaptopril was approved for medical use in 1980.\nCaptopril"
+  },
+  {
+    "page": 369,
+    "lecture": "Drug Development 2",
+    "slideInLecture": 8,
+    "rawText": "Interactions of Captopril with ACE \n• The coordination with Zn2+ is essential for activity.\n• The carboxylate is important because it forms ionic as well as H-bond interactions with ACE.\n• Both methyl and N-ring can be substituted with bigger hydrophobic groups."
+  },
+  {
+    "page": 370,
+    "lecture": "Drug Development 2",
+    "slideInLecture": 9,
+    "rawText": "SAR on ACE Inhibitors\n• The N-ring must contain carboxylic acid.\n• The N-ring should be large hydrophobic rings – improves potency \nand pharmacokinetic properties.\n• The thiol group exhibits better Zn2+-binding activity than carboxylate \nand phosphate.\n• Esterification of carboxylate and phosphate produces prodrugs.\n• n is usually 2 for activity.\n• X can be Me or (CH2)4NH2\nOOH\n Enalapril Enalaprilat\nLisinopril\n Quinapril\nFosinopril"
+  },
+  {
+    "page": 371,
+    "lecture": "Drug Development and Techniques",
+    "slideInLecture": 1,
+    "rawText": "SBL100: Introductory Biology for \nEngineers\nLecture-36\nDrug Development\nTechniques in Biochemistry and Biophysics\nSantanu Mondal\nKusuma School of Biological Sciences"
+  },
+  {
+    "page": 372,
+    "lecture": "Drug Development and Techniques",
+    "slideInLecture": 2,
+    "rawText": "Computational Approach for Drug Discovery"
+  },
+  {
+    "page": 373,
+    "lecture": "Drug Development and Techniques",
+    "slideInLecture": 3,
+    "rawText": "High-throughput screening (HTS) is a key process used in drug \ndiscovery to identify hits from compound libraries that may become \nleads for medicinal chemistry optimization.\nHigh Throughput Screening for Drug Discovery"
+  },
+  {
+    "page": 374,
+    "lecture": "Drug Development and Techniques",
+    "slideInLecture": 4,
+    "rawText": "Phenotypic Screening"
+  },
+  {
+    "page": 375,
+    "lecture": "Drug Development and Techniques",
+    "slideInLecture": 5,
+    "rawText": "Phenotypic Screening against RAS Mutation\n• Small GTPases – HRAS, KRAS and NRAS\n• Crucial for cell proliferation, growth and apoptosis.\n• Ras mutations lead to uncontrolled cell growth and division, leading to cancer.\n• Ras mutations (Ras oncogene) are found in ~30% of human cancers.\n• KRasG12C, KRasG12D, KRasQ61H, HRasM72C, HRasT35S\nHRas\nStockwell & Schreiber (Chem. Biol. 2008, 15, 234 & \nBMCL 2012, 22, 1822)\nHRasG12V, EC50: 25 nM\nHRasWT, EC50: 578 nM\nHRasG12V, EC50: 71 nM\nHRasWT, EC50: 272 nM"
+  },
+  {
+    "page": 376,
+    "lecture": "Drug Development and Techniques",
+    "slideInLecture": 6,
+    "rawText": "Ferroptosis\nStockwell and coworkers, Cell 2012, 149, 1060; Cell 2022, 185, 2401; Cell Chem. Biol. 2020, 27, 365.\nPUFA: Polyunsaturated fatty acid; ACSL: Long chain fatty acid CoA Ligase; LPCAT: Lysophosphatidylcholine acyltransferase; PL: Phospholipid; TF: \nTransferrin; TFRC1: Transferrin receptor; LOX: Lipoxygenase; GPX: Glutathione peroxidase; GR: Glutathione reductase; FSP: Ferroptosis suppressor \nprotein; DHFR: Dihydrofolate reductase.\nU46\nML162"
+  },
+  {
+    "page": 377,
+    "lecture": "Drug Development and Techniques",
+    "slideInLecture": 7,
+    "rawText": "Prodrugs - Rationale\n▪ Inactive drug derivatives that are converted into active drugs in the body.\n▪ Drugs often exhibit poor physicochemical and biological properties –  \n▪ Alter route of administration\n▪ Alter dosage form\n▪ Develop prodrugs to minimize undesirable properties."
+  },
+  {
+    "page": 378,
+    "lecture": "Drug Development and Techniques",
+    "slideInLecture": 8,
+    "rawText": "Prodrugs\nVariety of mechanisms by which prodrugs can be converted \ninto active drug:\no Enzymes – Phosphatase, Esterase, Peptidase\no Chemical activation – Hydrolysis, Decarboxylation, \nLight\no Mixture of both"
+  },
+  {
+    "page": 379,
+    "lecture": "Drug Development and Techniques",
+    "slideInLecture": 9,
+    "rawText": "Prodrugs – Masking Bad Taste"
+  },
+  {
+    "page": 380,
+    "lecture": "Drug Development and Techniques",
+    "slideInLecture": 10,
+    "rawText": "Thermal Shift Assay (TSA) \n• A thermal shift assay (TSA) measures changes in \nthe thermal denaturation temperature and hence \nstability of a protein under varying conditions such \nas buffer, pH, ionic strength, sequence mutation etc.\n• SYPRO Orange binds nonspecifically to \nhydrophobic surfaces. When the protein unfolds, the \nexposed hydrophobic surfaces bind the dye, \nresulting in an increase in fluorescence.\n• The stability curve and its midpoint value (melting \ntemperature, Tm) are obtained by gradually \nincreasing the temperature to unfold the protein.\n• As temperature rises, unfolded proteins undergo \naggregation that leads to dye dissociation and a \ndecrease in the fluorescence."
+  },
+  {
+    "page": 381,
+    "lecture": "Drug Development and Techniques",
+    "slideInLecture": 11,
+    "rawText": "Monitoring Protein Stability with TSA \nEffect of buffer pH on the stability of RecA, an ATP-dependent DNA damage repair protein"
+  },
+  {
+    "page": 382,
+    "lecture": "Drug Development and Techniques",
+    "slideInLecture": 12,
+    "rawText": "Monitoring Protein-Ligand Interaction with TSA \n• When a small-molecule ligand preferentially binds to the native form of a protein, the ligand stabilizes the \nprotein, and the Tm of the complex is higher than that of the unbound protein. \n• Proteins with stabilizing ligands exhibit positively shifted melt curves in comparison to proteins without bound \nligands."
+  },
+  {
+    "page": 383,
+    "lecture": "Techniques in Biochemistry and Biophysics",
+    "slideInLecture": 1,
+    "rawText": "SBL100: Introductory Biology for \nEngineers\nLecture-37\nTechniques in Biochemistry and Biophysics\nSantanu Mondal\nKusuma School of Biological Sciences"
+  },
+  {
+    "page": 384,
+    "lecture": "Techniques in Biochemistry and Biophysics",
+    "slideInLecture": 2,
+    "rawText": "Thermal Shift Assay (TSA) \n• A thermal shift assay (TSA) measures changes in \nthe thermal denaturation temperature and hence \nstability of a protein under varying conditions such \nas buffer, pH, ionic strength, sequence mutation etc.\n• SYPRO Orange binds nonspecifically to \nhydrophobic surfaces. When the protein unfolds, the \nexposed hydrophobic surfaces bind the dye, \nresulting in an increase in fluorescence.\n• The stability curve and its midpoint value (melting \ntemperature, Tm) are obtained by gradually \nincreasing the temperature to unfold the protein.\n• As temperature rises, unfolded proteins undergo \naggregation that leads to dye dissociation and a \ndecrease in the fluorescence."
+  },
+  {
+    "page": 385,
+    "lecture": "Techniques in Biochemistry and Biophysics",
+    "slideInLecture": 3,
+    "rawText": "Monitoring Protein-Ligand Interaction with TSA \n• When a small-molecule ligand preferentially binds to the native form of a protein, the ligand stabilizes the \nprotein, and the Tm of the complex is higher than that of the unbound protein. \n• Proteins with stabilizing ligands exhibit positively shifted melt curves in comparison to proteins without bound \nligands."
+  },
+  {
+    "page": 386,
+    "lecture": "Techniques in Biochemistry and Biophysics",
+    "slideInLecture": 4,
+    "rawText": "Isothermal Calorimeter\n• It consists of two cells which are enclosed in an \nadiabatic jacket. Protein is placed in the \nsample cell. Reference cell contains buffer and \nserves as a control.\n• Sensitive thermopile/thermocouple circuits are \nused to detect temperature differences \nbetween the reference cell and the sample cell.\n• Constant power supply (<1 mW) to the \nreference cell activates feedback power supply \nto a heater located on the sample cell.\n• Exothermic reaction decreases feedback \npower supply to sample cell, while endothermic \nreaction increases it.\n• Power needed to maintain the reference and \nthe sample cell at an identical temperature is \nplotted against time."
+  },
+  {
+    "page": 387,
+    "lecture": "Techniques in Biochemistry and Biophysics",
+    "slideInLecture": 5,
+    "rawText": "ITC Titration\nμcal/s\nTime (s)\nμcal/s\nTime (s)\n[Protein]>>[Ligand]\nAll ligands are \nbound to protein. \nHeat change is \nmore.\nSignal returns to \nbaseline before the \nnext injection\n• Heat is released, i.e., ΔH<0\n• Feedback power supply to the sample cells decreases to maintain temperature.\n• Once all the ligand is bound, i.e., equilibrium is reached, heat change returns to the baseline."
+  },
+  {
+    "page": 388,
+    "lecture": "Techniques in Biochemistry and Biophysics",
+    "slideInLecture": 6,
+    "rawText": "ITC Titration\nμcal/s\nTime (s)\nμcal/s\nTime (s)\n• As the reaction progresses, protein gradually become saturated with ligand. Heat change decreases.\n• When the protein becomes totally saturated, only heat of dilution is observed."
+  },
+  {
+    "page": 389,
+    "lecture": "Techniques in Biochemistry and Biophysics",
+    "slideInLecture": 7,
+    "rawText": "ITC Results\n• The left panel shows the heat trace of the thermostat over the time of the experiment with the individual \ninjections of ligand as peaks. \n• By integrating the area of the peaks and plotting them against the molar ratio of ligand and protein, one obtains \nthe points depicted in the right panel. \n• From the plateau, inflection point and slope at the inflection point, enthalpy, stoichiometry of the reaction and the \nbinding affinity is calculated.\nkcal/mol of ligand\nKa = 1/Kd"
+  },
+  {
+    "page": 390,
+    "lecture": "Techniques in Biochemistry and Biophysics",
+    "slideInLecture": 8,
+    "rawText": "Isothermal Calorimetry (ITC)\n• For accurate measurements of binding affinity, the curve of the \nthermogram must be sigmoidal. The profile of the curve is \ndetermined by the c-value that defines the sigmoidicity of the \nbinding isotherm.\nc = n [P] Ka\n• Dilution effects: heat released/absorbed when the ligand is \ntitrated into the buffer. Always perform a control experiment \nby titrating ligand into buffer and subtracting these values from \nthe binding experiment, prior to data analysis."
+  },
+  {
+    "page": 391,
+    "lecture": "Techniques in Biochemistry and Biophysics",
+    "slideInLecture": 9,
+    "rawText": "MDM2 and MDMX – Negative Regulators of p53"
+  },
+  {
+    "page": 392,
+    "lecture": "Techniques in Biochemistry and Biophysics",
+    "slideInLecture": 10,
+    "rawText": "Regulation of Apoptosis by Bcl-2 Proteins\n©Abbvie"
+  },
+  {
+    "page": 393,
+    "lecture": "Techniques in Biochemistry and Biophysics",
+    "slideInLecture": 11,
+    "rawText": "Fluorescence/Fӧrster Resonance Energy Transfer (FRET)\nE = FRET efficiency or quantum yield of \nenergy transfer transition\nr = distance between donor and acceptor\nR0 = Fӧrster radius (distance with 50% \ntransfer efficiency)\n• Donor fluorophore emits photon that is absorbed by the acceptor fluorophore. Higher the overlap between emission spectra of \ndonor and absorption spectra of acceptor higher the FRET efficiency.\n• FRET efficiency is highly distance dependent. Usually occurs within 10 nm distance between donor and acceptor."
+  },
+  {
+    "page": 394,
+    "lecture": "Techniques in Biochemistry and Biophysics",
+    "slideInLecture": 12,
+    "rawText": "FRET for Monitoring Protein-Protein Interaction\n• Cameleon enables monitoring the change in Ca2+ concentration in \nliving cells. It contains calmodulin ( CaM) and the CaM-binding module \nM13 sandwiched between CFP and YFP. \n• In the absence of Ca2+, no interaction between CaM and M13 – cyan \nfluorescence. \n• In the presence of Ca2+, CaM interacts with M13 - FRET - yellow \nfluorescence."
+  }
+]

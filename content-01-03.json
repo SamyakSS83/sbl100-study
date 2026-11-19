@@ -1,0 +1,452 @@
+[
+  {
+    "title": "Module 1: Bioenergetics and ATP",
+    "sourcePages": "Bioenergetics.pptx, slides 1-40",
+    "mission": "Build a working map of metabolism, free energy, enzyme kinetics, and ATP so you can predict reaction direction and recognize how cells couple energy.",
+    "primer": [
+      "Metabolism is the complete set of enzyme-catalyzed chemical reactions in a cell; catabolism breaks molecules down and releases usable energy, while anabolism uses energy to build cellular molecules.",
+      "Catabolic pathways usually converge from many nutrients toward fewer common products, while anabolic pathways usually diverge from a few precursors toward many products; separate enzymes help prevent wasteful cycling.",
+      "For an enzyme following Michaelis-Menten behavior, Vmax is the rate reached at saturating substrate, and Km is the substrate concentration at which the rate equals half of Vmax.",
+      "Free-energy change combines bonding stability and disorder: ΔG = ΔH - TΔS. A negative ΔG favors the forward direction, a positive ΔG favors the reverse direction, and ΔG = 0 means equilibrium.",
+      "The biochemical standard state uses pH 7 and treats water as 55.5 M. The transformed standard free-energy change is written ΔG°′ and relates to equilibrium by ΔG°′ = -RT ln K′eq.",
+      "Actual cellular reaction direction depends on both the standard value and concentrations: ΔG = ΔG°′ + RT ln([products]/[reactants]). ΔG values add when reactions are coupled through shared intermediates.",
+      "ATP hydrolysis has ΔG°′ about -30.5 kJ/mol, but its actual ΔG in a cell differs because ATP, ADP, phosphate, and Mg2+ concentrations are not at standard conditions.",
+      "ATP often powers work by transferring a phosphoryl or adenylyl group and changing a substrate or protein, rather than by releasing energy through isolated hydrolysis; examples include molecular motion, DNA-associated enzymes, and firefly light production."
+    ],
+    "recall": [
+      {
+        "q": "What is the difference between catabolism and anabolism?",
+        "a": "Catabolism degrades molecules and releases usable energy; anabolism consumes energy to synthesize cellular molecules."
+      },
+      {
+        "q": "Why do cells commonly use separate enzymes for opposing anabolic and catabolic pathways?",
+        "a": "Separate control prevents both directions from running strongly at once and wasting energy in a futile cycle."
+      },
+      {
+        "q": "What do Vmax and Km mean in Michaelis-Menten kinetics?",
+        "a": "Vmax is the maximum rate at saturating substrate, and Km is the substrate concentration at which the rate is half of Vmax."
+      },
+      {
+        "q": "What does the sign of ΔG tell you?",
+        "a": "Negative ΔG favors the forward reaction, positive ΔG favors the reverse reaction, and zero ΔG indicates equilibrium."
+      },
+      {
+        "q": "How are ΔG°′ and the equilibrium constant related?",
+        "a": "ΔG°′ = -RT ln K′eq; a larger equilibrium constant therefore corresponds to a more negative ΔG°′."
+      },
+      {
+        "q": "Why can the actual ΔG of a reaction differ from ΔG°′?",
+        "a": "Actual ΔG also depends on the current concentrations of products and reactants through RT ln([products]/[reactants])."
+      },
+      {
+        "q": "What happens to free-energy changes when reactions are coupled?",
+        "a": "Their ΔG values add, so a sufficiently favorable reaction can make the overall coupled process favorable."
+      },
+      {
+        "q": "What is the true ATP-containing substrate for many ATP-dependent enzymes in the cytosol?",
+        "a": "MgATP2+, because Mg2+ binds ATP and participates in the form recognized by many enzymes."
+      }
+    ],
+    "mcqs": [
+      {
+        "q": "Which statement best describes the usual organization of metabolic pathways?",
+        "options": [
+          "Catabolic pathways diverge and anabolic pathways converge",
+          "Both catabolic and anabolic pathways are always linear",
+          "Catabolic pathways converge and anabolic pathways diverge",
+          "The same enzyme must catalyze both directions of every pathway"
+        ],
+        "answer": 2,
+        "explanation": "Many nutrients feed into fewer catabolic products, while a smaller set of precursors supplies many anabolic products."
+      },
+      {
+        "q": "An enzyme-catalyzed reaction is running at half of Vmax. For a simple Michaelis-Menten enzyme, the substrate concentration equals:",
+        "options": [
+          "Km",
+          "Vmax",
+          "2Km",
+          "Zero"
+        ],
+        "answer": 0,
+        "explanation": "Km is defined numerically as the substrate concentration at which velocity is half of Vmax."
+      },
+      {
+        "q": "A reaction has a large negative ΔG under the current cellular conditions. What is the best conclusion?",
+        "options": [
+          "The system is at equilibrium",
+          "The reverse direction is favored",
+          "The forward direction is favored",
+          "The reaction cannot be enzyme-catalyzed"
+        ],
+        "answer": 2,
+        "explanation": "A negative actual ΔG supplies a thermodynamic driving force toward products."
+      },
+      {
+        "q": "Which condition defines equilibrium for a reaction?",
+        "options": [
+          "ΔG = 0",
+          "ΔG°′ must be negative",
+          "All reactant concentrations equal 1 M",
+          "The enzyme reaches Vmax"
+        ],
+        "answer": 0,
+        "explanation": "At equilibrium there is no net driving force, so the actual free-energy change is zero."
+      },
+      {
+        "q": "Which expression includes the effect of cellular reactant and product concentrations?",
+        "options": [
+          "ΔG = ΔH + TΔS",
+          "ΔG = ΔG°′ + RT ln([products]/[reactants])",
+          "ΔG°′ = RT/K′eq",
+          "Vmax = Km/2"
+        ],
+        "answer": 1,
+        "explanation": "The reaction quotient term adjusts the standard free energy for the concentrations that actually exist."
+      },
+      {
+        "q": "Reaction A has ΔG = +10 kJ/mol and a coupled reaction B has ΔG = -25 kJ/mol. What is the overall ΔG?",
+        "options": [
+          "+35 kJ/mol",
+          "+15 kJ/mol",
+          "-15 kJ/mol",
+          "-35 kJ/mol"
+        ],
+        "answer": 2,
+        "explanation": "Free-energy changes are additive: +10 + (-25) = -15 kJ/mol, so the coupled process is favorable."
+      },
+      {
+        "q": "Why is the actual free energy of ATP hydrolysis in a living cell not necessarily -30.5 kJ/mol?",
+        "options": [
+          "ATP cannot be hydrolyzed inside cells",
+          "Cellular ATP, ADP, and Pi concentrations differ from standard-state concentrations",
+          "Enzymes reverse the sign of ΔG",
+          "ATP hydrolysis does not involve water"
+        ],
+        "answer": 1,
+        "explanation": "The quoted value is a transformed standard value; actual ΔG depends on cellular concentrations and Mg2+ binding."
+      },
+      {
+        "q": "Which example best matches the slides' statement that ATP provides energy by group transfer?",
+        "options": [
+          "ATP remains unchanged while heating the cytosol",
+          "ATP transfers a group that drives a protein through different conformations",
+          "ATP removes all enzymes from a pathway",
+          "ATP changes ΔG°′ by changing temperature"
+        ],
+        "answer": 1,
+        "explanation": "Transferred groups can create activated intermediates or alter protein conformation, coupling ATP use to chemical or mechanical work."
+      }
+    ],
+    "traps": [
+      "Do not treat ΔG°′ as the same as actual ΔG; only actual ΔG includes the current concentration ratio.",
+      "A favorable negative ΔG predicts direction, not speed; an enzyme changes rate but does not change the reaction's ΔG.",
+      "Km is a substrate concentration at half Vmax, not the maximum rate itself.",
+      "ATP does not merely release free energy as heat; useful coupling commonly involves group transfer and MgATP2+."
+    ],
+    "checkpoint": [
+      "Without notes, write the three ΔG cases and the direction each predicts.",
+      "Explain in two sentences how a +ΔG reaction can proceed when coupled to ATP use.",
+      "Sketch a Michaelis-Menten curve and label Vmax, half Vmax, and Km."
+    ]
+  },
+  {
+    "title": "Module 2: Gene Expression and the Lac Operon",
+    "sourcePages": "Gene Expression and Regulation ppt.pptx, slides 1-35",
+    "mission": "Follow information from DNA to protein and use lactose and glucose levels to predict lac-operon transcription.",
+    "primer": [
+      "The central dogma describes residue-by-residue information flow from DNA to RNA to protein. Replication copies DNA, transcription makes RNA from DNA, and translation uses mRNA to make protein.",
+      "DNA replication occurs during S phase and is semiconservative, so each daughter DNA molecule contains one parental strand and one newly synthesized strand.",
+      "RNA polymerase binds a promoter, opens a transcription bubble, escapes the promoter, elongates the RNA, and terminates transcription. It reads the template or antisense strand.",
+      "The coding or sense DNA strand matches the mRNA sequence except that DNA has thymine where RNA has uracil. Eukaryotic pre-mRNA contains exons and introns, and splicing removes introns to produce mature mRNA.",
+      "Translation occurs on ribosomes in the cytoplasm. The ribosome reads mRNA 5′ to 3′, tRNAs deliver amino acids, and the protein grows from its N terminus toward its C terminus.",
+      "Prokaryotes regulate gene expression mainly at transcription initiation, and transcription can occur alongside translation because there is no nucleus. Eukaryotes can regulate transcription, RNA processing, RNA transport, and translation.",
+      "An operon is a prokaryotic cluster of genes transcribed from one promoter as a single mRNA. In the lac operon, lacZ encodes β-galactosidase, lacY encodes lactose permease, and lacA encodes transacetylase.",
+      "Strong lac-operon transcription requires lactose present and glucose absent: allolactose removes the repressor from the operator, while low glucose raises cAMP, activates CAP, and helps RNA polymerase bind."
+    ],
+    "recall": [
+      {
+        "q": "State the central dogma in one line.",
+        "a": "Genetic information normally flows from DNA to RNA to protein."
+      },
+      {
+        "q": "What does semiconservative DNA replication produce?",
+        "a": "Each daughter DNA molecule contains one old parental strand and one newly synthesized strand."
+      },
+      {
+        "q": "Which DNA strand serves as the template for mRNA, and how does the other strand compare with mRNA?",
+        "a": "RNA polymerase reads the template or antisense strand; the coding or sense strand has the mRNA sequence except T replaces U."
+      },
+      {
+        "q": "What processing converts eukaryotic pre-mRNA into mature mRNA in these slides?",
+        "a": "Splicing removes noncoding introns and joins the coding exons."
+      },
+      {
+        "q": "In which directions are mRNA read and protein synthesized?",
+        "a": "mRNA is read 5′ to 3′, and protein is synthesized from the N terminus to the C terminus."
+      },
+      {
+        "q": "What is an operon?",
+        "a": "A cluster of prokaryotic genes controlled by one promoter and transcribed together as a single mRNA."
+      },
+      {
+        "q": "What are the distinct jobs of the lac repressor and CAP?",
+        "a": "The repressor blocks transcription at the operator when lactose is absent; active CAP promotes RNA polymerase binding when glucose is low."
+      },
+      {
+        "q": "What exact nutrient condition gives strong lac-operon transcription?",
+        "a": "Lactose must be present and glucose must be absent."
+      }
+    ],
+    "mcqs": [
+      {
+        "q": "Which product is made directly by transcription?",
+        "options": [
+          "DNA",
+          "RNA",
+          "Protein",
+          "Lipid"
+        ],
+        "answer": 1,
+        "explanation": "RNA polymerase uses a DNA template to synthesize RNA."
+      },
+      {
+        "q": "Which statement about the coding DNA strand is correct?",
+        "options": [
+          "It is identical to mRNA, including uracil",
+          "It is complementary to mRNA at every base",
+          "It matches mRNA except that it contains thymine instead of uracil",
+          "It is removed during RNA splicing"
+        ],
+        "answer": 2,
+        "explanation": "The coding strand and mRNA carry the same base sequence when T in DNA is treated as U in RNA."
+      },
+      {
+        "q": "A newly made eukaryotic pre-mRNA contains:",
+        "options": [
+          "Only exons",
+          "Only introns",
+          "Exons and introns",
+          "Protein and RNA"
+        ],
+        "answer": 2,
+        "explanation": "Splicing removes introns from an exon-plus-intron precursor to form mature mRNA."
+      },
+      {
+        "q": "During translation, which pairing of directions is correct?",
+        "options": [
+          "mRNA 3′ to 5′; protein C terminus to N terminus",
+          "mRNA 5′ to 3′; protein N terminus to C terminus",
+          "mRNA 5′ to 3′; protein C terminus to N terminus",
+          "mRNA direction varies; protein always begins at the C terminus"
+        ],
+        "answer": 1,
+        "explanation": "The ribosome moves along mRNA 5′ to 3′ and adds residues to the C end of a chain that began at its N terminus."
+      },
+      {
+        "q": "Why can transcription and translation occur at the same time in prokaryotes?",
+        "options": [
+          "Prokaryotes have no DNA",
+          "Prokaryotes lack compartmentalization by a nucleus",
+          "Their ribosomes enter the nucleus",
+          "Their mRNA contains no bases"
+        ],
+        "answer": 1,
+        "explanation": "Without a nuclear barrier, ribosomes can begin translating an mRNA while RNA polymerase is still transcribing it."
+      },
+      {
+        "q": "Which lac-operon component is correctly matched with its product?",
+        "options": [
+          "lacZ: lactose permease",
+          "lacY: β-galactosidase",
+          "lacA: transacetylase",
+          "lacA: lac repressor"
+        ],
+        "answer": 2,
+        "explanation": "The slide assigns lacZ to β-galactosidase, lacY to permease, and lacA to transacetylase."
+      },
+      {
+        "q": "Lactose is present and glucose is also present. What level of lac-operon transcription is expected?",
+        "options": [
+          "Strong transcription because CAP is active",
+          "Low, leaky transcription because the repressor is released but CAP is inactive",
+          "No transcription because allolactose strengthens repressor binding",
+          "Strong transcription because cAMP is high"
+        ],
+        "answer": 1,
+        "explanation": "Allolactose removes the repressor, but high glucose keeps cAMP low and CAP inactive, so transcription remains low."
+      },
+      {
+        "q": "Glucose is absent, but lactose is also absent. What prevents lac-operon transcription?",
+        "options": [
+          "CAP cannot bind cAMP",
+          "RNA polymerase destroys the promoter",
+          "The lac repressor remains bound to the operator",
+          "lacZ removes CAP"
+        ],
+        "answer": 2,
+        "explanation": "Low glucose activates CAP, but without lactose there is no allolactose to remove the repressor, which remains a roadblock."
+      }
+    ],
+    "traps": [
+      "Replication copies DNA; transcription makes RNA; translation makes protein. Similar wording in options often hides a process swap.",
+      "The template strand is the antisense strand; the coding strand resembles mRNA except for T versus U.",
+      "Lactose removes negative control, but strong expression also needs low glucose to activate CAP through cAMP.",
+      "CAP is a positive regulator and the lac repressor is a negative regulator; both act at different DNA sites."
+    ],
+    "checkpoint": [
+      "Close the slides and draw DNA to RNA to protein, adding location, enzyme or machine, and direction.",
+      "Make a four-row lactose/glucose table and predict none, low, or strong transcription.",
+      "Recite lacZ, lacY, and lacA with one function each."
+    ]
+  },
+  {
+    "title": "Module 3: Genetic Engineering Toolkit",
+    "sourcePages": "genetic engg  applications 1.pptx, slides 1-19",
+    "mission": "Trace a gene from isolation to a verified recombinant clone and identify the tool responsible for each step.",
+    "primer": [
+      "Genetic engineering deliberately modifies genetic material by isolating, changing, and transferring DNA. A gene of interest can be placed in a vector, introduced into a host, replicated, and sometimes expressed as a product.",
+      "The core cloning workflow is gene isolation or PCR, cutting insert and vector with compatible restriction enzymes, ligation, transfer into a host, selection and screening, then expression or other downstream use.",
+      "Restriction endonucleases recognize specific short DNA sequences, often palindromic, and cut DNA to create sticky or blunt ends. Using the same enzyme on vector and insert can create compatible ends.",
+      "DNA ligase seals the sugar-phosphate backbone by forming a phosphodiester bond between a 3′-OH and a 5′-phosphate. T4 DNA ligase uses ATP, and sticky ends usually ligate more efficiently than blunt ends.",
+      "PCR amplifies a chosen DNA region through repeated denaturation, primer annealing, and extension. Ideal amplification after n cycles is approximately 2^n copies.",
+      "Agarose gel electrophoresis separates negatively charged DNA by size. DNA moves toward the positive electrode, and smaller fragments travel faster and farther through the gel.",
+      "Sanger sequencing mixes normal dNTPs with chain-terminating ddNTPs. A ddNTP lacks a 3′-OH, so its incorporation stops synthesis and produces fragments that reveal the sequence.",
+      "CRISPR-Cas9 uses a guide RNA to direct Cas9 to a target sequence and make a double-strand break. A useful vector typically contains an origin of replication, selectable marker, and cloning site, with expression elements added when protein production is required."
+    ],
+    "recall": [
+      {
+        "q": "Put the six basic genetic-engineering stages in order.",
+        "a": "Isolate or amplify the gene, cut gene and vector, ligate them, introduce the recombinant vector into a host, select and screen clones, then express or use the verified construct."
+      },
+      {
+        "q": "What is the difference between a vector and a host cell?",
+        "a": "A vector is the DNA carrier for the foreign sequence; the host cell receives and maintains or expresses that recombinant DNA."
+      },
+      {
+        "q": "Why are the same restriction enzymes often used on the insert and vector?",
+        "a": "They generate compatible DNA ends that can base-pair and be joined by ligase."
+      },
+      {
+        "q": "What chemical bond does DNA ligase form, and between which groups?",
+        "a": "It forms a phosphodiester bond between an adjacent 3′-OH and 5′-phosphate."
+      },
+      {
+        "q": "Name the three repeating PCR steps in order.",
+        "a": "Denaturation, annealing, and extension."
+      },
+      {
+        "q": "Why do smaller DNA fragments move farther in an agarose gel?",
+        "a": "The gel acts as a molecular sieve, so smaller fragments pass through its pores more easily."
+      },
+      {
+        "q": "Why does incorporation of a ddNTP terminate Sanger DNA synthesis?",
+        "a": "A ddNTP lacks the 3′-OH needed to form the next phosphodiester bond."
+      },
+      {
+        "q": "What are three general features expected in a useful cloning vector?",
+        "a": "An origin of replication, a selectable marker, and a site for insertion such as a multiple cloning site."
+      }
+    ],
+    "mcqs": [
+      {
+        "q": "Which sequence gives the correct basic order for making recombinant DNA in a host?",
+        "options": [
+          "Ligate, isolate gene, cut DNA, select host",
+          "Isolate gene, cut insert and vector, ligate, introduce into host",
+          "Introduce into host, cut vector, amplify gene, ligate",
+          "Select clones, remove vector, isolate gene, translate"
+        ],
+        "answer": 1,
+        "explanation": "The insert must first be obtained, compatible DNA ends created, and recombinant DNA assembled before host introduction."
+      },
+      {
+        "q": "What is the main role of a selectable marker in a vector?",
+        "options": [
+          "Cut the vector at a palindrome",
+          "Identify cells that contain the vector under selective conditions",
+          "Terminate every PCR cycle",
+          "Measure DNA fragment size directly"
+        ],
+        "answer": 1,
+        "explanation": "A selectable marker, often an antibiotic-resistance gene, allows vector-containing cells to survive or otherwise be selected."
+      },
+      {
+        "q": "A restriction enzyme is most accurately described as an enzyme that:",
+        "options": [
+          "Joins any two proteins",
+          "Recognizes a specific DNA sequence and cuts at or near it",
+          "Copies RNA into protein",
+          "Separates DNA fragments by size"
+        ],
+        "answer": 1,
+        "explanation": "Restriction endonucleases cut DNA at defined recognition sequences, many of which are palindromic."
+      },
+      {
+        "q": "Why is sticky-end ligation generally more efficient than blunt-end ligation?",
+        "options": [
+          "Sticky ends contain selectable markers",
+          "Complementary overhangs base-pair and hold fragments together",
+          "Blunt ends lack phosphate groups in every case",
+          "Sticky ends do not require DNA ligase"
+        ],
+        "answer": 1,
+        "explanation": "Base pairing between complementary overhangs aligns the fragments and raises their effective local concentration; ligase is still required."
+      },
+      {
+        "q": "Which event occurs during the annealing step of PCR?",
+        "options": [
+          "The two template strands separate",
+          "Primers bind complementary target sequences",
+          "DNA fragments separate in agarose",
+          "Cas9 creates a double-strand break"
+        ],
+        "answer": 1,
+        "explanation": "After heat separates the strands, cooling allows primers to hybridize to their complementary sites."
+      },
+      {
+        "q": "A DNA sample is placed in an agarose gel. In which direction does it migrate, and which fragments travel farther?",
+        "options": [
+          "Toward the negative electrode; larger fragments",
+          "Toward the positive electrode; smaller fragments",
+          "Toward the positive electrode; larger fragments",
+          "Toward the wells; all fragments equally"
+        ],
+        "answer": 1,
+        "explanation": "DNA has a negatively charged phosphate backbone, and smaller fragments move more easily through the agarose network."
+      },
+      {
+        "q": "Which property makes a ddNTP a chain terminator in Sanger sequencing?",
+        "options": [
+          "It has no nitrogenous base",
+          "It lacks a 3′-OH group",
+          "It contains an extra phosphate backbone",
+          "It cuts the template strand"
+        ],
+        "answer": 1,
+        "explanation": "Without a 3′-OH, the growing strand cannot form the next phosphodiester bond."
+      },
+      {
+        "q": "In CRISPR-Cas9 editing, what gives the system its target specificity?",
+        "options": [
+          "The agarose gel",
+          "The selectable marker alone",
+          "A guide RNA complementary to the target DNA",
+          "T4 DNA ligase"
+        ],
+        "answer": 2,
+        "explanation": "The guide RNA directs Cas9 to the matching DNA sequence, where Cas9 introduces a double-strand break."
+      }
+    ],
+    "traps": [
+      "Restriction enzymes cut DNA; DNA ligase joins DNA. Questions often swap these two roles.",
+      "Selection finds cells carrying the vector, while screening verifies which selected clones contain the desired insert.",
+      "DNA moves toward the positive electrode because its phosphate backbone is negative; smaller fragments migrate farther.",
+      "PCR amplifies DNA, Sanger sequencing reads DNA, and CRISPR-Cas9 edits a targeted DNA site."
+    ],
+    "checkpoint": [
+      "On blank paper, draw the cloning workflow and write one tool beside every step.",
+      "Explain sticky ends versus blunt ends and why one usually ligates more efficiently.",
+      "Compare PCR, gel electrophoresis, Sanger sequencing, and CRISPR-Cas9 in one sentence each."
+    ]
+  }
+]

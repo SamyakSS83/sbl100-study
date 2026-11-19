@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SBL100 Executive Summaries</title>
+<style>
+:root{color-scheme:light dark;--bg:#eef1ed;--panel:#fff;--ink:#15201a;--muted:#647069;--line:#cbd2cd;--accent:#176b48;--accent2:#dff1e7;--warn:#8a5a00;--warn2:#fff3d6;--blue:#1f4f8a;--blue2:#e3ecf8}
+@media(prefers-color-scheme:dark){:root{--bg:#0e1511;--panel:#18211c;--ink:#edf5ef;--muted:#a8b5ad;--line:#34443a;--accent:#77d6a3;--accent2:#203d2e;--warn:#ffcf70;--warn2:#3a2f14;--blue:#9cc3ff;--blue2:#1c2a3d}}
+*{box-sizing:border-box}html{scroll-padding-top:64px}body{margin:0;background:var(--bg);color:var(--ink);font:15.5px/1.55 ui-sans-serif,system-ui,-apple-system,sans-serif}
+a{color:var(--accent)}button{font:inherit;color:inherit}
+.top{position:sticky;top:0;z-index:5;padding:10px 16px;background:var(--panel);border-bottom:1px solid var(--line);display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+h1{font-size:17px;margin:0}.grow{flex:1}.meta{color:var(--muted);font-size:13px}
+.btn{border:1px solid var(--line);border-radius:9px;background:transparent;padding:7px 12px;cursor:pointer;text-decoration:none;color:var(--ink)}.btn:hover{border-color:var(--accent)}.btn.on{background:var(--accent2);border-color:var(--accent)}
+.layout{display:grid;grid-template-columns:280px 1fr;min-height:calc(100vh - 54px)}
+nav{position:sticky;top:54px;height:calc(100vh - 54px);overflow:auto;background:var(--panel);border-right:1px solid var(--line);padding:10px}
+.topic{display:block;width:100%;text-align:left;border:1px solid transparent;background:transparent;border-radius:9px;padding:8px 10px;cursor:pointer}
+.topic:hover{border-color:var(--line)}.topic.on{background:var(--accent2);border-color:var(--accent);font-weight:650}
+body.collapsed .layout{grid-template-columns:1fr}body.collapsed nav{display:none}
+main{padding:18px;max-width:1000px;width:100%;margin:0 auto}
+.sum{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:20px 24px;margin-bottom:22px}
+.sum>h2{margin:0;font-size:24px}.gist{font-size:17px;margin:8px 0 4px;color:var(--muted)}
+.links{display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 4px}
+.sec h3{font-size:17px;margin:20px 0 6px;padding-bottom:4px;border-bottom:1px solid var(--line);display:flex;gap:10px;align-items:baseline;flex-wrap:wrap}
+.sec h3 .meta{font-weight:400}
+ul{padding-left:20px;margin:0}li{margin:5px 0}
+.box{border-radius:11px;padding:12px 16px;margin-top:18px}.box h3{margin:0 0 6px;font-size:15px;border:0}
+.remember{background:var(--accent2)}.remember h3{color:var(--accent)}
+.traps{background:var(--warn2)}.traps h3{color:var(--warn)}
+.dist{background:var(--blue2)}.dist h3{color:var(--blue)}
+.dist table{width:100%;border-collapse:collapse}.dist td{padding:6px 8px;vertical-align:top;border-top:1px solid var(--line)}.dist tr:first-child td{border-top:0}.dist td:first-child{font-weight:650;width:34%}
+@media(max-width:900px){.layout{grid-template-columns:1fr}nav{display:none;position:fixed;inset:54px 0 0 0;height:auto;z-index:10}nav.open{display:block!important}main{padding:10px}.sum{padding:16px}.dist td:first-child{width:40%}}
+@media print{.top,nav{display:none}.layout{display:block}.sum{break-inside:auto;border:0}body{background:#fff;color:#000}}
+</style>
+</head>
+<body>
+<header class="top">
+  <button id="menuBtn" class="btn" title="Show/hide topics">☰ Topics</button>
+  <h1>SBL100 · Executive Summaries</h1>
+  <span id="where" class="meta"></span>
+  <span class="grow"></span>
+  <button id="allBtn" class="btn">Show all topics</button>
+  <a class="btn" href="slides.html">Slides</a>
+  <a class="btn" href="questions.html">Questions</a>
+  <a class="btn" href="index.html">Home</a>
+</header>
+<div class="layout">
+  <nav id="nav"></nav>
+  <main id="main"></main>
+</div>
+<script>
+const D=__DATA__;
+const KEY="sbl-summary-v1";
+const $=id=>document.getElementById(id);
+const esc=s=>String(s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+let cur=0,all=false;
+try{const s=JSON.parse(localStorage.getItem(KEY)||"{}");cur=Math.max(0,D.map(x=>x.topic).indexOf(s.topic));all=!!s.all}catch{}
+const h=new URLSearchParams(location.hash.slice(1));
+if(h.get("topic")){const i=D.map(x=>x.topic).indexOf(h.get("topic"));if(i>=0){cur=i;all=false}}
+const save=()=>{try{localStorage.setItem(KEY,JSON.stringify({topic:D[cur].topic,all}))}catch{}};
+const pageLinks=ps=>(ps||[]).length?`<span class="meta">slides ${ps.map(p=>`<a href="slides.html#page=${p}">${p}</a>`).join(", ")}</span>`:"";
+function card(t,i){
+  const enc=encodeURIComponent(t.topic);
+  return `<article class="sum" id="t${i}"><h2>${i+1}. ${esc(t.topic)}</h2><p class="gist">${esc(t.oneLiner)}</p>
+  <div class="links"><a class="btn" href="slides.html#topic=${enc}">Full slides</a><a class="btn" href="questions.html#topic=${enc}">Practice questions</a></div>
+  ${t.sections.map(s=>`<section class="sec"><h3>${esc(s.heading)} ${pageLinks(s.pages)}</h3><ul>${s.points.map(p=>`<li>${esc(p)}</li>`).join("")}</ul></section>`).join("")}
+  ${t.mustRemember?.length?`<div class="box remember"><h3>Must remember</h3><ul>${t.mustRemember.map(p=>`<li>${esc(p)}</li>`).join("")}</ul></div>`:""}
+  ${t.distinguish?.length?`<div class="box dist"><h3>Don't confuse</h3><table>${t.distinguish.map(d=>`<tr><td>${esc(d.pair)}</td><td>${esc(d.difference)}</td></tr>`).join("")}</table></div>`:""}
+  ${t.traps?.length?`<div class="box traps"><h3>Exam traps</h3><ul>${t.traps.map(p=>`<li>${esc(p)}</li>`).join("")}</ul></div>`:""}
+  </article>`;
+}
+function render(scrollTo){
+  $("nav").innerHTML=D.map((t,i)=>`<button class="topic${!all&&i===cur?" on":""}" data-i="${i}">${i+1}. ${esc(t.topic)}</button>`).join("");
+  $("nav").querySelectorAll(".topic").forEach(b=>b.onclick=()=>{const i=+b.dataset.i;$("nav").classList.remove("open");if(all){$("t"+i).scrollIntoView();return}cur=i;save();render()});
+  $("allBtn").textContent=all?"Show one topic":"Show all topics";$("allBtn").classList.toggle("on",all);
+  $("where").textContent=all?`All ${D.length} topics`:`Topic ${cur+1} of ${D.length}`;
+  if(all)$("main").innerHTML=D.map(card).join("");
+  else $("main").innerHTML=card(D[cur],cur)+`<div class="links" style="justify-content:space-between;margin-bottom:40px">${cur>0?`<button class="btn" id="prev">← ${esc(D[cur-1].topic)}</button>`:"<span></span>"}${cur<D.length-1?`<button class="btn" id="next">${esc(D[cur+1].topic)} →</button>`:""}</div>`;
+  if($("prev"))$("prev").onclick=()=>{cur--;save();render()};
+  if($("next"))$("next").onclick=()=>{cur++;save();render()};
+  if(scrollTo!=null&&$("t"+scrollTo))$("t"+scrollTo).scrollIntoView();else window.scrollTo(0,0);
+}
+$("allBtn").onclick=()=>{all=!all;save();render(all?cur:null)};
+$("menuBtn").onclick=()=>{if(matchMedia("(max-width:900px)").matches)$("nav").classList.toggle("open");else{const c=document.body.classList.toggle("collapsed");try{localStorage.setItem("sbl-nav-collapsed",c?"1":"")}catch{}}};
+try{if(localStorage.getItem("sbl-nav-collapsed"))document.body.classList.add("collapsed")}catch{}
+render();
+</script>
+</body>
+</html>

@@ -1,0 +1,449 @@
+[
+  {
+    "title": "Module 4: Genetic Engineering II - From DNA Insert to Real-World Application",
+    "sourcePages": "genetic engg and applicatins 2.pptx, slides 1-7; genetic engg applications 3.pptx, slides 1-36",
+    "mission": "Act as the engineer of a recombinant-DNA pipeline. By the end, you must be able to reconstruct the route from gene isolation to purified protein, choose the correct tool at each stage, and classify major medical, agricultural, industrial, and environmental applications without looking at the slides.",
+    "primer": [
+      "Draw eight empty boxes. Fill them from memory as you work: isolate gene, insert into vector, transform host, select, screen, confirm, express, purify. Keep correcting this pipeline until you can reproduce it in under 45 seconds.",
+      "Build a vector checklist: origin of replication for replication, selectable marker for survival-based selection, and multiple cloning site for DNA insertion. Add promoter and translation-control elements when the goal changes from cloning DNA to expressing protein.",
+      "Make one forced choice: genomic DNA or cDNA for expressing a human gene in E. coli. Choose cDNA because it comes from processed mRNA and lacks introns that bacteria cannot remove.",
+      "Keep four verbs separate. Transformation puts DNA into competent cells. Selection retains cells carrying a selectable marker. Screening identifies likely recombinant colonies. Confirmation tests the insert directly by colony PCR, restriction digestion, or sequencing.",
+      "Rehearse protein production as a physical process: induce expression, harvest cells, lyse them, bind a His-tagged protein to Ni-NTA, wash with low imidazole, elute with high imidazole, then inspect the result by SDS-PAGE.",
+      "Sort every application into a bucket before memorizing details: medicine, agriculture, industry, or environment. Then attach one anchor example to each bucket.",
+      "Use case anchors for MCQs: recombinant insulin is expressed and purified; hepatitis B vaccine uses recombinant HBsAg made in yeast; Bt crops express bacterial Cry toxin; Golden Rice accumulates beta-carotene in the endosperm; gene therapy can add, replace, silence, or edit genetic material."
+    ],
+    "recall": [
+      {
+        "q": "What three core features let a plasmid function as a cloning vector, and what does each do?",
+        "a": "An origin of replication permits autonomous replication and influences copy number. A selectable marker, often an antibiotic-resistance gene, allows cells carrying the vector to survive selection. A multiple cloning site contains unique restriction sites for insertion of foreign DNA."
+      },
+      {
+        "q": "How does an expression vector differ from a basic cloning vector?",
+        "a": "A cloning vector mainly carries and replicates inserted DNA. An expression vector also contains regulatory elements needed to transcribe and translate the inserted gene, allowing production of recombinant protein."
+      },
+      {
+        "q": "Why is cDNA usually preferred over genomic DNA when a eukaryotic gene will be expressed in bacteria?",
+        "a": "cDNA is copied from mature mRNA and therefore lacks introns. Bacteria generally cannot splice eukaryotic introns out of a genomic gene."
+      },
+      {
+        "q": "Distinguish transformation, selection, screening, and confirmation.",
+        "a": "Transformation introduces recombinant DNA into competent host cells. Selection identifies cells that received a vector by survival, such as growth on antibiotic. Screening distinguishes likely recombinant plasmids from empty vectors. Confirmation directly checks the insert using colony PCR, restriction digestion, or DNA sequencing."
+      },
+      {
+        "q": "What happens during heat-shock transformation and electroporation?",
+        "a": "In heat shock, plasmid and competent cells are mixed on ice, a brief temperature shift to about 42 degrees Celsius creates transient permeability, and cooling helps reseal the membrane. Electroporation uses a short high-voltage pulse to create transient pores and usually gives high transformation efficiency."
+      },
+      {
+        "q": "How does His-tag and Ni-NTA affinity purification work?",
+        "a": "The His-tagged protein binds nickel ions on the Ni-NTA resin. Low imidazole removes weak, nonspecific binders. High imidazole competes with the His tag and elutes the recombinant protein."
+      },
+      {
+        "q": "What information does SDS-PAGE provide after protein purification?",
+        "a": "SDS denatures proteins and gives them a broadly uniform negative charge, so the gel separates them mainly by molecular weight. Smaller proteins migrate farther. A strong band at the expected size supports the presence and purity of the recombinant protein."
+      },
+      {
+        "q": "Give one slide-based example each of genetic engineering in medicine, agriculture, industry, and the environment.",
+        "a": "Medicine: recombinant insulin, vaccines, monoclonal antibodies, or gene therapy. Agriculture: Bt crops or Golden Rice. Industry: recombinant chymosin, lactase, amylase, protease, lipase, biofuels, or bioplastics. Environment: bioremediation, wastewater treatment, biosensors, or sustainable bioprocesses."
+      }
+    ],
+    "mcqs": [
+      {
+        "q": "Which vector element most directly determines whether the plasmid can replicate autonomously inside the host?",
+        "options": [
+          "Origin of replication",
+          "Multiple cloning site",
+          "Reporter gene",
+          "His tag"
+        ],
+        "answer": "Origin of replication",
+        "explanation": "The origin of replication is recognized by the host replication machinery and also influences plasmid copy number."
+      },
+      {
+        "q": "A human protein must be produced in E. coli. Which starting material is usually the best source of its coding sequence?",
+        "options": [
+          "Human genomic DNA containing the complete gene",
+          "cDNA made from the mature human mRNA",
+          "The human chromosome carrying the gene",
+          "Unprocessed nuclear RNA"
+        ],
+        "answer": "cDNA made from the mature human mRNA",
+        "explanation": "Mature mRNA has already undergone intron removal. Its cDNA copy contains a continuous coding sequence that bacteria can translate."
+      },
+      {
+        "q": "Bacterial colonies grow on ampicillin, but some may contain empty plasmids. What has the antibiotic plate established?",
+        "options": [
+          "The colonies contain the correct insert in the correct orientation",
+          "The colonies contain a plasmid carrying ampicillin resistance",
+          "The inserted gene is being expressed at high level",
+          "The recombinant protein has the correct molecular weight"
+        ],
+        "answer": "The colonies contain a plasmid carrying ampicillin resistance",
+        "explanation": "Antibiotic selection establishes vector uptake, not successful insertion. Recombinants still require screening and confirmation."
+      },
+      {
+        "q": "Which method gives the most exact confirmation of both insert identity and nucleotide order?",
+        "options": [
+          "Antibiotic selection",
+          "Blue-white screening",
+          "DNA sequencing",
+          "Cell lysis"
+        ],
+        "answer": "DNA sequencing",
+        "explanation": "Sequencing reveals the exact nucleotide sequence and can confirm insert identity and orientation."
+      },
+      {
+        "q": "During Ni-NTA purification, why is a high concentration of imidazole used?",
+        "options": [
+          "To denature every host protein",
+          "To compete with the His tag and elute the target protein",
+          "To add a negative charge to the target protein",
+          "To cut the His tag away from the target protein"
+        ],
+        "answer": "To compete with the His tag and elute the target protein",
+        "explanation": "Histidines bind nickel on the resin. High imidazole competes for those interactions and releases the His-tagged protein."
+      },
+      {
+        "q": "Which statement about the recombinant hepatitis B vaccine matches the slides?",
+        "options": [
+          "It contains live hepatitis B virus grown in bacteria",
+          "It uses hepatitis B surface antigen produced in yeast",
+          "It consists of purified human antibodies against HBV",
+          "It edits liver cells so they cannot be infected"
+        ],
+        "answer": "It uses hepatitis B surface antigen produced in yeast",
+        "explanation": "The vaccine is a noninfectious recombinant vaccine based on HBsAg produced in yeast."
+      },
+      {
+        "q": "What is the engineered nutritional change in Golden Rice?",
+        "options": [
+          "Cry toxin accumulates in the leaves",
+          "Beta-carotene accumulates in the endosperm",
+          "Vitamin C accumulates in the roots",
+          "More starch is produced by bacterial fermentation"
+        ],
+        "answer": "Beta-carotene accumulates in the endosperm",
+        "explanation": "Golden Rice activates the carotenoid pathway in the grain endosperm, producing beta-carotene, a provitamin A precursor."
+      },
+      {
+        "q": "Editing the BCL11A enhancer in the sickle-cell example is intended to produce which result?",
+        "options": [
+          "Reactivation of fetal hemoglobin",
+          "Expression of bacterial Cry toxin",
+          "Increased insulin secretion",
+          "Removal of all red blood cells"
+        ],
+        "answer": "Reactivation of fetal hemoglobin",
+        "explanation": "Reducing BCL11A-mediated repression allows fetal hemoglobin production, which helps prevent sickling."
+      }
+    ],
+    "traps": [
+      "Selection is not screening: survival on antibiotic proves selectable-marker function, not the presence of the desired insert.",
+      "A cloning vector is not automatically an expression vector: protein production requires suitable transcriptional and translational control elements.",
+      "Low imidazole is used during washing, while high imidazole elutes the His-tagged protein.",
+      "Bt and Golden Rice solve different problems: Bt supplies insect resistance through Cry toxin, while Golden Rice supplies provitamin A through beta-carotene."
+    ],
+    "checkpoint": [
+      "Close the slides and draw the complete recombinant-protein workflow in under 60 seconds. Your chain must include transformation, selection, screening, confirmation, induction, lysis, purification, and SDS-PAGE.",
+      "Diagnose this result aloud: colonies grow on ampicillin, half are white, and one white colony gives the wrong PCR band. State what each observation does and does not prove.",
+      "On blank paper, make four columns labelled medicine, agriculture, industry, and environment. Place at least three slide examples into each column, then circle the five anchors: insulin, hepatitis B vaccine, Bt crop, Golden Rice, and bioremediation."
+    ]
+  },
+  {
+    "title": "Module 5: Biological Motors - Chemical Energy, Motion, and Measurement",
+    "sourcePages": "Biological Motors.pdf, pages 1-39",
+    "mission": "Build a mechanical model of a molecular motor. You must explain how ATP or GTP and protein conformational changes generate directed work, distinguish molecular motors from macroscopic motors, connect actin and myosin structure to movement, and interpret what an optical-tweezer experiment measures.",
+    "primer": [
+      "Start with the energy statement: a biological motor converts chemical bond energy into mechanical work or another directed function. Say this once before learning any names.",
+      "Run the two-state model with your hands. Make one hand shape for the ATP-bound state and another for the ADP-bound state. Alternate them while saying bind, hydrolyze, release, exchange.",
+      "Contrast scales: macroscopic motors use rigid parts, while molecular motors work at nanometer scale in water, at low Reynolds number, amid Brownian motion, and through noncovalent interactions and protein dynamics.",
+      "Sort the motor families named in the slides: polymerization motors, cytoskeletal motors, rotary motors, and nucleic-acid motors. Use actin-myosin as the cytoskeletal anchor and bacterial flagella as the rotary anchor.",
+      "Construct actin from units: G-actin is the globular monomer; F-actin is the filamentous polymer. ATP influences polymerization, while actin-binding proteins and calcium ions regulate assembly and disassembly.",
+      "Label a myosin sketch from memory: head, neck, and tail. Put the actin-binding and ATP-binding sites on the head, and mark the tail as a dimeric coiled-coil.",
+      "Turn the optical trap into a force diagram. Scattering force points with the incident beam. Gradient force pulls the bead toward the bright center of the Gaussian beam. A motor that moves the bead away from the center experiences a restoring force."
+    ],
+    "recall": [
+      {
+        "q": "What energy conversion defines a biological molecular motor in these slides?",
+        "a": "A molecular motor uses energy, commonly the chemical energy released by ATP or GTP hydrolysis, and converts it into directed mechanical motion or another cellular function."
+      },
+      {
+        "q": "Why must living cells continually use energy rather than remain at equilibrium?",
+        "a": "Cellular order, concentration differences, charge distributions, and organized motion are nonequilibrium states. Molecular machines create and maintain these states, so cells must continually obtain and use free energy."
+      },
+      {
+        "q": "Name the two fundamental principles of molecular motors emphasized in the slides.",
+        "a": "They use energy from ATP or GTP, and nucleotide binding and hydrolysis drive protein conformational changes."
+      },
+      {
+        "q": "What features make molecular motors different from familiar macroscopic motors?",
+        "a": "They operate at nanometer scale in an aqueous, low-Reynolds-number environment. They experience Brownian motion, depend on temperature and pH, rely on noncovalent interactions, and work through molecular conformational dynamics."
+      },
+      {
+        "q": "What are G-actin and F-actin?",
+        "a": "G-actin is the globular monomeric form. F-actin is the filamentous polymer made from repeating actin subunits arranged as a right-handed double helix."
+      },
+      {
+        "q": "What are the main structural parts of myosin described in the slides?",
+        "a": "Myosin contains two heavy chains, two essential light chains, and two regulatory light chains. Each heavy chain has a head, neck, and tail. The head contains actin- and ATP-binding sites, while the tail forms a dimeric coiled-coil."
+      },
+      {
+        "q": "How do gradient and scattering forces differ in an optical trap?",
+        "a": "Scattering force points in the direction of incident light and scales with optical intensity. Gradient force arises from the Gaussian intensity gradient and acts as a restoring force toward the beam center."
+      },
+      {
+        "q": "What did the dual-beam actin-myosin experiment measure?",
+        "a": "An actin filament held between two trapped beads interacted with sparse myosin on a pedestal bead. Bead displacement revealed the myosin working stroke, attachment lifetime, and force. The slide reports a displacement close to 11 nm at both low and high ATP, with the filament initially tensed to about 2 pN."
+      }
+    ],
+    "mcqs": [
+      {
+        "q": "Which statement best describes a molecular motor?",
+        "options": [
+          "A rigid structure that stores heat at equilibrium",
+          "A macromolecular complex that converts free energy into directed work",
+          "A membrane channel that permits passive diffusion only",
+          "A DNA sequence that controls transcription"
+        ],
+        "answer": "A macromolecular complex that converts free energy into directed work",
+        "explanation": "The slides define molecular motors as macromolecular complexes that transduce nonequilibrium free energy into directed motion or other functions."
+      },
+      {
+        "q": "Which environmental feature is especially relevant to a motor working at molecular scale in water?",
+        "options": [
+          "High Reynolds number and negligible viscosity",
+          "Low Reynolds number and strong Brownian motion",
+          "Complete absence of thermal motion",
+          "Motion governed mainly by gravity"
+        ],
+        "answer": "Low Reynolds number and strong Brownian motion",
+        "explanation": "At nanometer scale in an aqueous environment, viscous effects dominate and stochastic Brownian motion is unavoidable."
+      },
+      {
+        "q": "What directly links ATP hydrolysis to motor action?",
+        "options": [
+          "Permanent covalent attachment of ATP to the motor",
+          "A nucleotide-dependent change in protein conformation",
+          "Conversion of the protein into DNA",
+          "Elimination of all noncovalent interactions"
+        ],
+        "answer": "A nucleotide-dependent change in protein conformation",
+        "explanation": "ATP- and ADP-bound states favor different protein conformations. Cycling between them provides the structural changes needed for work."
+      },
+      {
+        "q": "Which pairing is correct?",
+        "options": [
+          "G-actin: filamentous polymer; F-actin: globular monomer",
+          "G-actin: globular monomer; F-actin: filamentous polymer",
+          "G-actin: myosin heavy chain; F-actin: myosin light chain",
+          "G-actin: optical bead; F-actin: laser beam"
+        ],
+        "answer": "G-actin: globular monomer; F-actin: filamentous polymer",
+        "explanation": "The letter G marks the globular monomeric form, while F marks filamentous polymerized actin."
+      },
+      {
+        "q": "Where are the actin-binding and ATP-binding sites located in myosin?",
+        "options": [
+          "Both are in the head domain",
+          "Both are in the coiled-coil tail",
+          "Actin binds the tail and ATP binds a light chain",
+          "Actin binds the neck and ATP binds the tail"
+        ],
+        "answer": "Both are in the head domain",
+        "explanation": "The myosin head is the motor domain and contains both the actin-binding site and ATP-binding site."
+      },
+      {
+        "q": "In a single-beam optical trap, which force pulls a displaced bead back toward the center of the beam?",
+        "options": [
+          "Gradient force",
+          "Scattering force",
+          "Gravitational force",
+          "Centrifugal force"
+        ],
+        "answer": "Gradient force",
+        "explanation": "The Gaussian beam is brightest at its center. The gradient force acts toward that center and supplies the restoring force."
+      },
+      {
+        "q": "Why can an optical trap be used to study a molecular motor?",
+        "options": [
+          "It chemically labels every ATP molecule",
+          "It converts the motor into a fluorescent protein",
+          "Bead displacement against a calibrated restoring force reveals nanometer motion and piconewton force",
+          "It stops Brownian motion completely"
+        ],
+        "answer": "Bead displacement against a calibrated restoring force reveals nanometer motion and piconewton force",
+        "explanation": "Optical tweezers manipulate small beads and allow measurements in the nanometer and piconewton ranges relevant to single motors."
+      },
+      {
+        "q": "What approximate displacement did the slide report for a myosin event at both low and high ATP concentrations?",
+        "options": [
+          "0.11 nm",
+          "1.1 nm",
+          "11 nm",
+          "1100 nm"
+        ],
+        "answer": "11 nm",
+        "explanation": "The experimental trace notes a displacement close to 11 nm at both ATP concentrations."
+      }
+    ],
+    "traps": [
+      "ATP is not merely fuel stored beside the motor. Binding, hydrolysis, product release, and nucleotide exchange change the motor's conformation.",
+      "G-actin and F-actin are two assembly states of actin, not two unrelated proteins.",
+      "Scattering force follows the beam direction; gradient force is the centering or restoring force.",
+      "The optical-tweezer readout is bead displacement, from which motor displacement, force, and attachment behavior can be inferred."
+    ],
+    "checkpoint": [
+      "Without notes, explain a molecular motor to an engineering student using the sequence energy source, conformational change, directed motion, and load. Keep the explanation under 45 seconds.",
+      "Sketch G-actin polymerizing into F-actin beside a myosin molecule. Label the myosin head, neck, tail, actin-binding site, and ATP-binding site.",
+      "Draw the dual-beam optical-trap setup and add force arrows. Your diagram must show two trapped beads, the tensed actin filament, sparse myosin on a pedestal bead, gradient restoring force, and the measured displacement."
+    ]
+  },
+  {
+    "title": "Module 6: Cellular Signaling - From Message to Response and Shutoff",
+    "sourcePages": "Cellular Sigaling.pdf, pages 1-22",
+    "mission": "Operate a cell-signaling control system. You must classify a signal by range, choose the correct receptor location, run the GPCR cycle in order, explain amplification through cAMP, and identify the mechanisms that terminate the signal.",
+    "primer": [
+      "Treat signaling as a control loop: sensor, information processing, and response. Add cascade, amplification, integration, feedback, and specificity around the processing stage.",
+      "Classify by distance and contact. Autocrine returns to the same cell, paracrine acts locally, juxtacrine requires direct surface contact, and endocrine travels through blood to distant targets.",
+      "Use the membrane test: lipid-soluble steroid hormones can cross the plasma membrane and bind intracellular receptors. Signals that cannot cross use cell-surface receptors and intracellular relay pathways.",
+      "Memorize the three surface-receptor classes named in the slides: G protein-coupled receptors, receptor tyrosine kinases, and ion channels.",
+      "Run the GPCR cycle with seven cards: ligand binds receptor, GDP leaves, GTP binds G alpha, G alpha activates an effector, adenylyl cyclase makes cAMP, GTP hydrolysis switches G alpha off, and the trimer reforms.",
+      "Explain amplification numerically without inventing numbers: one ligand-bound receptor can activate multiple downstream molecules, and diffusible cAMP can reach multiple intracellular targets.",
+      "Attach the brakes after the accelerator: G alpha hydrolyzes GTP, GRK phosphorylates the active receptor, and arrestin binds the phosphorylated receptor so it cannot keep activating G proteins."
+    ],
+    "recall": [
+      {
+        "q": "Why do cells need signaling systems?",
+        "a": "Cells must detect changes in their environment, receive and integrate multiple messages, and produce an appropriate response. The response can be rapid or slow depending on the signal and the state of the cell."
+      },
+      {
+        "q": "Distinguish autocrine, paracrine, juxtacrine, and endocrine signaling.",
+        "a": "Autocrine signaling acts back on the cell that secreted the messenger. Paracrine signaling acts over a short local distance. Juxtacrine signaling requires direct contact between a surface-bound messenger and a receptor on a neighboring cell. Endocrine signaling uses the bloodstream to reach distant targets."
+      },
+      {
+        "q": "Give the example paired with each signaling type in the slides.",
+        "a": "Autocrine: cancer cells release messages that sustain their own growth. Paracrine: platelet-derived growth factor acts near a wound. Juxtacrine: integrins and cadherins contribute to contact inhibition. Endocrine: pancreatic beta cells secrete insulin, which stimulates glucose uptake in liver cells."
+      },
+      {
+        "q": "How does a steroid hormone such as cortisol activate gene expression?",
+        "a": "The hormone diffuses through the lipid bilayer, binds an intracellular glucocorticoid receptor, changes the receptor's conformation, and promotes its movement into the nucleus, where the receptor activates transcription of target genes."
+      },
+      {
+        "q": "What structural feature characterizes GPCRs, and what protein do they activate?",
+        "a": "GPCRs contain seven transmembrane helices. Ligand binding allows the receptor to activate a trimeric GTP-binding protein."
+      },
+      {
+        "q": "Describe the activation sequence from ligand-bound GPCR to cAMP production.",
+        "a": "Ligand changes the receptor conformation and increases its interaction with the G protein. G alpha releases GDP and binds GTP, separates from the other G-protein subunits, and activates an effector such as adenylyl cyclase. Adenylyl cyclase then produces cAMP."
+      },
+      {
+        "q": "Why is cAMP called a second messenger, and how does it amplify signaling?",
+        "a": "The extracellular ligand is the first messenger, while cAMP is generated inside the cell after receptor activation. cAMP can diffuse to multiple intracellular targets, allowing one extracellular event to produce a broad, coordinated response."
+      },
+      {
+        "q": "How is GPCR signaling attenuated or terminated?",
+        "a": "G alpha hydrolyzes GTP to GDP and becomes inactive, then reassociates with the other G-protein subunits. GRKs phosphorylate active receptors, and arrestin binds the phosphorylated receptor, preventing further G-protein activation."
+      }
+    ],
+    "mcqs": [
+      {
+        "q": "A cell releases a growth signal and also carries the receptor for that same signal. Which mode is this?",
+        "options": [
+          "Autocrine",
+          "Paracrine",
+          "Juxtacrine",
+          "Endocrine"
+        ],
+        "answer": "Autocrine",
+        "explanation": "In autocrine signaling, the producing cell can respond to its own messenger."
+      },
+      {
+        "q": "Platelet-derived growth factor released at a wound acts mainly on nearby cells. Which mode is this?",
+        "options": [
+          "Autocrine",
+          "Paracrine",
+          "Juxtacrine",
+          "Endocrine"
+        ],
+        "answer": "Paracrine",
+        "explanation": "Paracrine messengers act locally and often have limited range because they are unstable, degraded, or retained by the extracellular matrix."
+      },
+      {
+        "q": "Which signaling mode requires a surface-bound messenger on one cell to bind a receptor on an adjacent cell?",
+        "options": [
+          "Autocrine",
+          "Paracrine",
+          "Juxtacrine",
+          "Endocrine"
+        ],
+        "answer": "Juxtacrine",
+        "explanation": "Juxtacrine signaling depends on direct cell-to-cell contact."
+      },
+      {
+        "q": "Why can cortisol use an intracellular receptor?",
+        "options": [
+          "It is a steroid that can diffuse through the lipid bilayer",
+          "It is carried through a GPCR pore",
+          "It is converted into cAMP outside the cell",
+          "It binds directly to ribosomes"
+        ],
+        "answer": "It is a steroid that can diffuse through the lipid bilayer",
+        "explanation": "Steroid hormones are lipid soluble, so they can cross the plasma membrane and bind cytoplasmic or nuclear receptors."
+      },
+      {
+        "q": "What happens immediately after activation of the G protein in the GPCR sequence shown?",
+        "options": [
+          "G alpha exchanges GDP for GTP",
+          "The receptor enters the nucleus and binds DNA",
+          "Arrestin removes cAMP from the cell",
+          "SDS gives the receptor a negative charge"
+        ],
+        "answer": "G alpha exchanges GDP for GTP",
+        "explanation": "Ligand-bound GPCR promotes GDP release from G alpha, allowing GTP binding and activation."
+      },
+      {
+        "q": "Which enzyme produces cAMP in the pathway shown?",
+        "options": [
+          "Adenylyl cyclase",
+          "GPCR kinase",
+          "GTPase",
+          "DNA polymerase"
+        ],
+        "answer": "Adenylyl cyclase",
+        "explanation": "Activated G alpha stimulates the effector adenylyl cyclase, which generates the second messenger cAMP."
+      },
+      {
+        "q": "Which event directly switches the activated G alpha subunit off?",
+        "options": [
+          "Hydrolysis of bound GTP to GDP",
+          "Exchange of GDP for GTP",
+          "Production of additional cAMP",
+          "Binding of cortisol to DNA"
+        ],
+        "answer": "Hydrolysis of bound GTP to GDP",
+        "explanation": "The intrinsic GTPase activity of G alpha hydrolyzes GTP, returning the subunit to its inactive GDP-bound state."
+      },
+      {
+        "q": "What is the main effect of GRK phosphorylation followed by arrestin binding?",
+        "options": [
+          "The receptor activates more G proteins",
+          "The receptor is prevented from activating additional G proteins",
+          "The receptor becomes a nuclear steroid receptor",
+          "The G protein permanently loses GDP"
+        ],
+        "answer": "The receptor is prevented from activating additional G proteins",
+        "explanation": "Arrestin selectively binds the active phosphorylated receptor and competes with G proteins for the receptor's cytoplasmic binding cavity."
+      }
+    ],
+    "traps": [
+      "Signaling types are classified by route and distance, not by the chemical identity of the messenger.",
+      "Endocrine means travel through the bloodstream to distant targets; paracrine means short-range local action.",
+      "The GPCR is the seven-transmembrane receptor, while the G protein is the separate trimeric nucleotide-binding switch.",
+      "cAMP amplifies the response, but GTP hydrolysis plus GRK and arrestin provide shutoff. Do not confuse activation with attenuation."
+    ],
+    "checkpoint": [
+      "For each scenario, answer in under three seconds: self-stimulating cancer cell, PDGF at a wound, cadherin contact between neighbors, and insulin carried in blood. The sequence should be autocrine, paracrine, juxtacrine, endocrine.",
+      "Close the slides and arrange these from first to last: cAMP production, ligand binding, GTP hydrolysis, GDP-GTP exchange, effector activation, trimer re-formation. Then insert GRK phosphorylation and arrestin binding as the receptor-level shutoff branch.",
+      "Teach the whole pathway aloud in 60 seconds using only these words as prompts: seven helices, trimeric G protein, GDP, GTP, adenylyl cyclase, cAMP, amplification, GTPase, GRK, arrestin."
+    ]
+  }
+]

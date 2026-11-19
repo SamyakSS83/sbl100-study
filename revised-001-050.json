@@ -1,0 +1,1840 @@
+[
+  {
+    "page": 1,
+    "title": "Bioenergetics",
+    "explain": "This lecture studies how cells obtain, transfer, and spend energy through chemical reactions.",
+    "mustKnow": [
+      "Bioenergetics connects cellular chemistry with energy flow."
+    ],
+    "terms": [
+      {
+        "term": "Bioenergetics",
+        "meaning": "Study of energy changes and transfers in living systems."
+      }
+    ],
+    "diagramGuide": [],
+    "interaction": {
+      "type": "tap",
+      "label": "Open the Bioenergetics lecture"
+    }
+  },
+  {
+    "page": 2,
+    "title": "Bioenergetics reference",
+    "explain": "This is a source-link slide and introduces no additional examinable concept.",
+    "mustKnow": [
+      "The lecture topic remains bioenergetics."
+    ],
+    "terms": [],
+    "diagramGuide": [],
+    "interaction": {
+      "type": "tap",
+      "label": "Source slide acknowledged"
+    }
+  },
+  {
+    "page": 3,
+    "title": "What metabolism accomplishes",
+    "explain": "Metabolism is the coordinated reaction network that captures energy, converts nutrients into cellular building blocks, joins small units into macromolecules, and makes or removes specialized molecules.",
+    "mustKnow": [
+      "Cells obtain energy from sunlight or energy-rich nutrients.",
+      "Nutrients are converted into cellular precursors.",
+      "Monomers are polymerized into proteins, nucleic acids, and polysaccharides.",
+      "Metabolism also handles lipids, messengers, and pigments."
+    ],
+    "terms": [
+      {
+        "term": "Precursor",
+        "meaning": "Starting molecule used to build another molecule."
+      },
+      {
+        "term": "Macromolecule",
+        "meaning": "Large cellular molecule built from smaller units."
+      }
+    ],
+    "diagramGuide": [
+      "The lower-left loop pairs photosynthetic autotrophs with heterotrophs: plants supply organic products and O₂; heterotrophs return CO₂.",
+      "Read the numbered text as four outputs of metabolism: obtain energy, make precursors, polymerize macromolecules, and make or degrade specialized biomolecules."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which sequence correctly matches the four metabolic functions numbered on the slide?",
+      "options": [
+        "Obtain energy → replicate DNA → translate proteins → excrete all lipids",
+        "Obtain energy → make cellular precursors → polymerize macromolecules → make/degrade specialized biomolecules",
+        "Make cellular precursors → obtain energy → degrade all macromolecules → store pigments",
+        "Polymerize macromolecules → obtain nitrogen → make ATP only → stop degradation"
+      ],
+      "answer": 1,
+      "explanation": "The slide numbers those four functions in that order."
+    }
+  },
+  {
+    "page": 4,
+    "title": "Nitrogen and unavoidable energy loss",
+    "explain": "Organisms need nitrogen to build amino acids and nucleic acids. During metabolism, not all energy remains useful: some becomes heat and entropy increases.",
+    "mustKnow": [
+      "Nitrogen is required for amino-acid and nucleic-acid synthesis.",
+      "Metabolic energy conversion loses some useful free energy as heat.",
+      "Entropy inevitably increases."
+    ],
+    "terms": [
+      {
+        "term": "Free energy",
+        "meaning": "Energy available to perform useful work."
+      },
+      {
+        "term": "Entropy",
+        "meaning": "Measure associated with energy dispersal or disorder."
+      }
+    ],
+    "diagramGuide": [
+      "The nitrogen-cycle arrows connect atmospheric N₂, ammonia (NH₄⁺), nitrite (NO₂⁻), nitrate (NO₃⁻), and amino acids.",
+      "Red arrows show microbial interconversion, including nitrogen fixation, nitrification, denitrification, and anammox; blue arrows connect inorganic nitrogen to plants, animals, and amino acids."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which conversion in the nitrogen-cycle diagram is labeled as nitrogen fixation?",
+      "options": [
+        "Atmospheric N₂ → NH₄⁺/ammonia",
+        "NH₄⁺/ammonia → NO₂⁻/nitrite",
+        "NO₂⁻/nitrite → NO₃⁻/nitrate",
+        "NO₃⁻/nitrate → atmospheric N₂"
+      ],
+      "answer": 0,
+      "explanation": "Nitrogen-fixing bacteria and archaea convert atmospheric N₂ to ammonia/ammonium."
+    }
+  },
+  {
+    "page": 5,
+    "title": "Definition of metabolism",
+    "explain": "Metabolism is the complete set of chemical transformations in a cell or organism. These transformations occur as ordered, enzyme-catalyzed metabolic pathways.",
+    "mustKnow": [
+      "Metabolism is the sum of all chemical transformations.",
+      "Metabolic pathways are series of enzyme-catalyzed reactions."
+    ],
+    "terms": [
+      {
+        "term": "Metabolic pathway",
+        "meaning": "Ordered series of enzyme-catalyzed reactions."
+      }
+    ],
+    "diagramGuide": [
+      "The blue upward arrow is anabolism: precursor molecules plus chemical energy form cell macromolecules.",
+      "The red downward arrow is catabolism: energy-containing nutrients become energy-depleted products while producing ATP and reduced electron carriers.",
+      "The center links the two directions through ATP/ADP and NAD(P)H/FADH₂ carrier pairs."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which carrier set is shown linking catabolism to anabolism in the central part of the diagram?",
+      "options": [
+        "AMP, DNA, RNA, and CoA",
+        "Glucose, glycogen, starch, and sucrose",
+        "CO₂, H₂O, NH₃, and O₂",
+        "ATP, NADH, NADPH, and FADH₂"
+      ],
+      "answer": 3,
+      "explanation": "The center lists ATP and reduced electron carriers NADH, NADPH, and FADH₂."
+    }
+  },
+  {
+    "page": 6,
+    "title": "Catabolic and anabolic pathway patterns",
+    "explain": "Catabolism usually funnels many starting molecules toward fewer products, so it is convergent. Anabolism starts from a smaller set of precursors and builds many products, so it is divergent. Separate enzymes prevent a futile back-and-forth cycle.",
+    "mustKnow": [
+      "Catabolic pathways are generally convergent.",
+      "Anabolic pathways are generally divergent.",
+      "Anabolism and catabolism use separate enzyme sets.",
+      "Pathways may be linear, branched, or cyclic."
+    ],
+    "terms": [
+      {
+        "term": "Catabolism",
+        "meaning": "Breakdown pathways that extract energy from nutrients."
+      },
+      {
+        "term": "Anabolism",
+        "meaning": "Biosynthetic pathways that use energy to make cellular molecules."
+      },
+      {
+        "term": "Convergent",
+        "meaning": "Several inputs lead toward a common product."
+      },
+      {
+        "term": "Divergent",
+        "meaning": "One precursor leads toward several products."
+      }
+    ],
+    "diagramGuide": [
+      "The left network funnels many carbohydrates and amino acids into acetyl-CoA: this is converging catabolism.",
+      "The right network branches from acetyl-CoA and other precursors to many products: this is diverging anabolism.",
+      "The circular route below is a cyclic pathway: intermediates regenerate while material enters or leaves."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which pathway pattern is paired correctly on the slide?",
+      "options": [
+        "Cyclic catabolism only; linear anabolism only",
+        "Branched catabolism only; cyclic anabolism only",
+        "Converging catabolism; diverging anabolism",
+        "Diverging catabolism; converging anabolism"
+      ],
+      "answer": 2,
+      "explanation": "The figure explicitly labels catabolism as converging and anabolism as diverging."
+    }
+  },
+  {
+    "page": 7,
+    "title": "Reciprocal regulation and compartmentation",
+    "explain": "Opposing anabolic and catabolic routes are controlled reciprocally, may follow different reaction sequences, and can occur in different cellular compartments. This prevents both directions from running strongly at once.",
+    "mustKnow": [
+      "Opposing pathways are reciprocally regulated.",
+      "Opposite pathways may use different reaction sequences.",
+      "Paired pathways can occur in different compartments."
+    ],
+    "terms": [
+      {
+        "term": "Reciprocal regulation",
+        "meaning": "Activation of one opposing pathway is coordinated with inhibition of the other."
+      },
+      {
+        "term": "Compartmentation",
+        "meaning": "Separation of processes into different cellular locations."
+      }
+    ],
+    "diagramGuide": [],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which paired pathways are given as the compartmentation example?",
+      "options": [
+        "Protein synthesis in mitochondria; protein degradation in Golgi",
+        "Fatty-acid synthesis in cytosol; fatty-acid degradation in mitochondria",
+        "Fatty-acid synthesis in mitochondria; fatty-acid degradation in cytosol",
+        "Glycolysis in nucleus; gluconeogenesis in lysosome"
+      ],
+      "answer": 1,
+      "explanation": "The slide uses cytosolic fatty-acid synthesis and mitochondrial fatty-acid degradation."
+    }
+  },
+  {
+    "page": 8,
+    "title": "Michaelis–Menten enzyme kinetics",
+    "explain": "As substrate concentration rises, reaction rate approaches a maximum because the enzyme becomes saturated. Vmax is that maximum rate; KM is the substrate concentration giving half of Vmax.",
+    "mustKnow": [
+      "Vmax is reached near saturating substrate concentration.",
+      "At substrate concentration KM, rate equals Vmax/2.",
+      "Vmax applies for a given enzyme concentration."
+    ],
+    "terms": [
+      {
+        "term": "Vmax",
+        "meaning": "Maximum reaction rate at enzyme saturation."
+      },
+      {
+        "term": "KM",
+        "meaning": "Substrate concentration at which rate is half Vmax."
+      },
+      {
+        "term": "Saturation",
+        "meaning": "Condition in which adding substrate produces little further rate increase."
+      }
+    ],
+    "diagramGuide": [
+      "The x-axis is substrate concentration and the y-axis is reaction rate.",
+      "The curve approaches Vmax asymptotically as enzyme becomes saturated.",
+      "Projecting from ½Vmax to the curve and then down to the x-axis identifies KM."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "On the Michaelis–Menten graph, the x-coordinate corresponding to ½Vmax is:",
+      "options": [
+        "KM",
+        "Vmax",
+        "kcat",
+        "ΔG"
+      ],
+      "answer": 0,
+      "explanation": "KM is the substrate concentration at which v = ½Vmax."
+    }
+  },
+  {
+    "page": 9,
+    "title": "Regulation of metabolism",
+    "explain": "The slide lists three ways metabolism is controlled: substrate availability, allosteric regulation, and hormonal regulation. Each changes whether an enzyme can efficiently run its reaction.",
+    "mustKnow": [
+      "Low substrate relative to KM limits reaction rate.",
+      "Allosteric molecules bind enzymes and alter activity.",
+      "Hormones can change enzyme synthesis or degradation."
+    ],
+    "terms": [
+      {
+        "term": "Allosteric regulation",
+        "meaning": "Control by a molecule binding away from the active site and changing enzyme activity."
+      },
+      {
+        "term": "Hormonal regulation",
+        "meaning": "Control of metabolism in response to hormones."
+      }
+    ],
+    "diagramGuide": [
+      "The small saturation curve reinforces that when substrate concentration is below KM, reaction rate is below half Vmax."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which mechanism changes enzyme abundance in response to an external signal such as a hormone or growth factor?",
+      "options": [
+        "Substrate availability",
+        "Competitive inhibition",
+        "Product diffusion",
+        "Hormonal regulation"
+      ],
+      "answer": 3,
+      "explanation": "The slide says hormonal regulation alters the synthesis or degradation rate of an enzyme."
+    }
+  },
+  {
+    "page": 10,
+    "title": "Thermodynamic quantities",
+    "explain": "ΔG combines the effects of enthalpy and entropy and predicts energetic favorability. Negative ΔG means energy release; positive ΔG means energy input is required. ΔH tracks heat change, while ΔS tracks entropy change.",
+    "mustKnow": [
+      "Negative ΔG describes an exergonic reaction.",
+      "Positive ΔG describes an endergonic reaction.",
+      "Negative ΔH releases heat; positive ΔH absorbs heat.",
+      "Positive ΔS means products are more disordered than reactants."
+    ],
+    "terms": [
+      {
+        "term": "ΔG",
+        "meaning": "Free-energy change of a reaction."
+      },
+      {
+        "term": "ΔH",
+        "meaning": "Enthalpy or heat change."
+      },
+      {
+        "term": "ΔS",
+        "meaning": "Entropy change."
+      },
+      {
+        "term": "Exergonic",
+        "meaning": "Energy-releasing reaction with negative ΔG."
+      }
+    ],
+    "diagramGuide": [],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which sign-description pairing is correct?",
+      "options": [
+        "ΔS > 0: products less disordered",
+        "ΔG < 0: endergonic",
+        "ΔH < 0: exothermic",
+        "ΔH < 0: endothermic"
+      ],
+      "answer": 2,
+      "explanation": "Negative ΔH denotes heat release and therefore an exothermic reaction."
+    }
+  },
+  {
+    "page": 11,
+    "title": "Relationship among ΔG, ΔH, and ΔS",
+    "explain": "The equation ΔG = ΔH − TΔS combines heat and entropy effects at temperature T. A reaction is favorable when ΔG is negative; heat release or increased entropy tends to make ΔG more negative.",
+    "mustKnow": [
+      "ΔG = ΔH − TΔS.",
+      "A negative ΔG indicates a favorable reaction.",
+      "Negative ΔH and positive ΔS favor a negative ΔG."
+    ],
+    "terms": [
+      {
+        "term": "Favorable reaction",
+        "meaning": "Reaction with negative free-energy change under the stated conditions."
+      },
+      {
+        "term": "T",
+        "meaning": "Absolute temperature used in the free-energy equation."
+      }
+    ],
+    "diagramGuide": [
+      "In ΔG = ΔH − TΔS, increasing positive ΔS makes the subtracted TΔS term larger and therefore makes ΔG more negative.",
+      "A negative ΔH also drives ΔG downward; either heat release or increased entropy can favor a reaction."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "According to ΔG = ΔH − TΔS, which combination most strongly favors a negative ΔG?",
+      "options": [
+        "ΔH zero and ΔS negative",
+        "ΔH negative and ΔS positive",
+        "ΔH positive and ΔS negative",
+        "ΔH positive and ΔS zero"
+      ],
+      "answer": 1,
+      "explanation": "Heat release and increased entropy both make ΔG more negative."
+    }
+  },
+  {
+    "page": 12,
+    "title": "Biochemical standard state and reaction quotient",
+    "explain": "For aA + bB ⇌ cC + dD, the equilibrium constant uses product concentrations over reactant concentrations, each raised to its coefficient. Biochemical standard conditions set pH 7 and treat water as 55.5 M; away from equilibrium, ΔG supplies the driving force.",
+    "mustKnow": [
+      "Keq = [C]^c[D]^d / [A]^a[B]^b.",
+      "Biochemical standard state uses [H+] = 10^-7 M, or pH 7.",
+      "Water is treated as 55.5 M.",
+      "When not at equilibrium, ΔG drives movement toward equilibrium."
+    ],
+    "terms": [
+      {
+        "term": "Equilibrium constant",
+        "meaning": "Concentration ratio describing a reaction at equilibrium."
+      },
+      {
+        "term": "Biochemical standard state",
+        "meaning": "Standard convention using pH 7 for biochemical reactions."
+      }
+    ],
+    "diagramGuide": [
+      "In the equilibrium expression, product concentrations are in the numerator and reactant concentrations are in the denominator; stoichiometric coefficients become exponents.",
+      "The double arrow means the reaction can proceed in either direction until equilibrium is reached."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What distinguishes the biochemical standard transformed state used for ΔG′°?",
+      "options": [
+        "pH 7 with [H₂O] treated as 55.5 M",
+        "pH 0 with [H₂O] treated as 1 M",
+        "pH 14 with [H₂O] omitted",
+        "pH 7 with every solute fixed at 55.5 M"
+      ],
+      "answer": 0,
+      "explanation": "The slide specifies [H⁺] = 10⁻⁷ M and water at 55.5 M."
+    }
+  },
+  {
+    "page": 13,
+    "title": "Exergonic reactions",
+    "explain": "An exergonic reaction releases free energy, has negative ΔG, and can perform work. It may occur spontaneously under the given conditions, although that does not say how fast it occurs.",
+    "mustKnow": [
+      "Exergonic reactions release energy.",
+      "Exergonic reactions have ΔG < 0.",
+      "They can perform work and include many catabolic reactions.",
+      "Exergonic does not mean instantaneous."
+    ],
+    "terms": [
+      {
+        "term": "Exergonic reaction",
+        "meaning": "Reaction with negative ΔG that releases free energy."
+      },
+      {
+        "term": "Spontaneous",
+        "meaning": "Thermodynamically able to proceed without net energy input under stated conditions."
+      }
+    ],
+    "diagramGuide": [
+      "The energy profile rises to an activation barrier and ends with products below reactants.",
+      "The vertical difference between reactant and product levels is negative ΔG; the downward final level represents net energy release."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "In the exergonic energy profile, how are product and reactant free energies related?",
+      "options": [
+        "Products are higher; ΔG < 0",
+        "Products are lower; ΔG > 0",
+        "Products are equal; ΔG > 0",
+        "Products are lower; ΔG < 0"
+      ],
+      "answer": 3,
+      "explanation": "The profile ends below the reactant level, giving negative ΔG."
+    }
+  },
+  {
+    "page": 14,
+    "title": "Endergonic reactions",
+    "explain": "An endergonic reaction requires energy input and has positive ΔG. Many anabolic reactions are endergonic. If the reaction is reversed, the reverse direction is exergonic.",
+    "mustKnow": [
+      "Endergonic reactions require energy input.",
+      "Endergonic reactions have ΔG > 0.",
+      "Many anabolic reactions are endergonic.",
+      "The reverse of an endergonic reaction is exergonic."
+    ],
+    "terms": [
+      {
+        "term": "Endergonic reaction",
+        "meaning": "Reaction with positive ΔG that requires free-energy input."
+      },
+      {
+        "term": "Anabolic reaction",
+        "meaning": "Reaction involved in building complex cellular molecules."
+      }
+    ],
+    "diagramGuide": [
+      "The profile ends with products above reactants, so ΔG is positive.",
+      "An energy input is required to move from the lower reactant level to the higher product level."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which statement identifies an endergonic reaction on the slide?",
+      "options": [
+        "It has ΔG < 0 and lower-energy products",
+        "It proceeds without coupling or energy input",
+        "It is non-spontaneous and requires free-energy input",
+        "It is spontaneous and releases free energy"
+      ],
+      "answer": 2,
+      "explanation": "Endergonic reactions have positive ΔG and require energy input."
+    }
+  },
+  {
+    "page": 15,
+    "title": "Standard free energy and equilibrium",
+    "explain": "Standard transformed free energy is linked to the equilibrium constant by ΔG°′ = −RT ln K′eq. A large equilibrium constant gives a negative ΔG°′ and favors products under standard biochemical conditions.",
+    "mustKnow": [
+      "ΔG°′ = −RT ln K′eq.",
+      "K′eq > 1 corresponds to negative ΔG°′.",
+      "K′eq = 1 corresponds to ΔG°′ = 0.",
+      "K′eq < 1 corresponds to positive ΔG°′."
+    ],
+    "terms": [
+      {
+        "term": "ΔG°′",
+        "meaning": "Standard transformed free-energy change at biochemical standard conditions."
+      },
+      {
+        "term": "K′eq",
+        "meaning": "Equilibrium constant using biochemical conventions."
+      }
+    ],
+    "diagramGuide": [
+      "The table links K′eq > 1 with negative ΔG′° and forward direction, K′eq = 1 with ΔG′° = 0, and K′eq < 1 with positive ΔG′° and reverse direction."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Starting with all components at 1 M, what is predicted when K′eq < 1?",
+      "options": [
+        "ΔG′° is negative and the reaction proceeds in reverse",
+        "ΔG′° is positive and the reaction proceeds in reverse",
+        "ΔG′° is negative and the reaction proceeds forward",
+        "ΔG′° is zero and the system is at equilibrium"
+      ],
+      "answer": 1,
+      "explanation": "The table pairs K′eq below 1 with positive ΔG′° and reverse direction."
+    }
+  },
+  {
+    "page": 16,
+    "title": "Energy-unit conversion",
+    "explain": "Biochemical energies may be written in kilocalories or kilojoules. Convert using 1 kcal = 4.184 kJ.",
+    "mustKnow": [
+      "1 kcal equals 4.184 kJ."
+    ],
+    "terms": [
+      {
+        "term": "kcal",
+        "meaning": "Kilocalorie, a unit of energy."
+      },
+      {
+        "term": "kJ",
+        "meaning": "Kilojoule, a unit of energy."
+      }
+    ],
+    "diagramGuide": [
+      "Moving K′eq by each tenfold step changes ΔG′° by about 5.7 kJ/mol at 25°C.",
+      "Values above 1 give negative ΔG′°; reciprocal values below 1 give equal positive magnitudes."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What ΔG′° value does the table associate with K′eq = 10³?",
+      "options": [
+        "−17.1 kJ/mol",
+        "−5.7 kJ/mol",
+        "+17.1 kJ/mol",
+        "+34.2 kJ/mol"
+      ],
+      "answer": 0,
+      "explanation": "The 10³ row gives −17.1 kJ/mol (−4.1 kcal/mol)."
+    }
+  },
+  {
+    "page": 17,
+    "title": "Calculating ΔG°′ from K′eq",
+    "explain": "For A ⇌ B with K′eq = 12, inserting the value into ΔG°′ = −RT ln K′eq gives about −6.15 kJ/mol. The negative sign means the standard-condition reaction favors B.",
+    "mustKnow": [
+      "A K′eq of 12 gives negative ΔG°′.",
+      "The shown result is approximately −6.15 kJ/mol.",
+      "Negative ΔG°′ favors the forward direction under standard conditions."
+    ],
+    "terms": [
+      {
+        "term": "R",
+        "meaning": "Gas constant used in thermodynamic equations."
+      },
+      {
+        "term": "ln",
+        "meaning": "Natural logarithm."
+      }
+    ],
+    "diagramGuide": [
+      "For A ⇌ B, K′eq is [B]/[A]. Substituting 12 into −RT ln K′eq gives approximately −6.16 kJ/mol."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "For A ⇌ B with K′eq = 12 at 298 K, the calculated ΔG′° is approximately:",
+      "options": [
+        "+6.16 kJ/mol",
+        "−30.5 kJ/mol",
+        "+12.0 kJ/mol",
+        "−6.16 kJ/mol"
+      ],
+      "answer": 3,
+      "explanation": "Substitution into −RT ln K′eq gives about −6.16 kJ/mol."
+    }
+  },
+  {
+    "page": 18,
+    "title": "Actual free-energy change",
+    "explain": "Actual ΔG depends on both the reaction's standard ΔG°′ and the current product-to-reactant concentration ratio. Changing concentrations can therefore change the direction favored inside a cell.",
+    "mustKnow": [
+      "ΔG = ΔG°′ + RT ln([C][D]/[A][B]) for the shown reaction.",
+      "ΔG varies with reactant and product concentrations.",
+      "ΔG°′ alone does not determine cellular direction."
+    ],
+    "terms": [
+      {
+        "term": "Reaction quotient",
+        "meaning": "Current product-to-reactant concentration ratio used before equilibrium."
+      }
+    ],
+    "diagramGuide": [
+      "The reaction quotient shown is [C][D]/[A][B]: raising products raises ΔG, whereas raising reactants lowers ΔG.",
+      "Actual ΔG equals the standard transformed value plus the concentration-dependent RT ln Q term."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "For A + B ⇌ C + D, which expression is the reaction quotient used on the slide?",
+      "options": [
+        "[A][C]/[B][D]",
+        "[B][C]/[A][D]",
+        "[C][D]/[A][B]",
+        "[A][B]/[C][D]"
+      ],
+      "answer": 2,
+      "explanation": "Products appear in the numerator and reactants in the denominator."
+    }
+  },
+  {
+    "page": 19,
+    "title": "Glycolysis as a reaction sequence",
+    "explain": "The diagram presents glycolysis as linked enzyme-catalyzed steps converting glucose toward pyruvate, with ATP used in early steps and energy captured later as ATP and NADH.",
+    "mustKnow": [
+      "Glycolysis is a multistep pathway.",
+      "ATP is consumed in early phosphorylation steps.",
+      "Later steps produce ATP and NADH.",
+      "The pathway proceeds from glucose toward pyruvate."
+    ],
+    "terms": [
+      {
+        "term": "Glycolysis",
+        "meaning": "Pathway that converts glucose through multiple steps toward pyruvate."
+      },
+      {
+        "term": "NADH",
+        "meaning": "Reduced electron-carrying form of NAD+."
+      },
+      {
+        "term": "Phosphorylation",
+        "meaning": "Addition or transfer of a phosphoryl group."
+      }
+    ],
+    "diagramGuide": [
+      "Follow glycolysis left-to-right across the upper row and then right-to-left across the lower row to pyruvate.",
+      "ATP is consumed at hexokinase and phosphofructokinase; NADH is formed at glyceraldehyde-3-phosphate dehydrogenase; ATP is produced at phosphoglycerate kinase and pyruvate kinase."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which glycolytic enzyme is shown producing NADH?",
+      "options": [
+        "Pyruvate kinase",
+        "Glyceraldehyde-3-phosphate dehydrogenase",
+        "Hexokinase",
+        "Phosphofructokinase"
+      ],
+      "answer": 1,
+      "explanation": "NAD⁺ + Pi is converted to NADH + H⁺ at the glyceraldehyde-3-phosphate dehydrogenase step."
+    }
+  },
+  {
+    "page": 20,
+    "title": "Free-energy changes are additive",
+    "explain": "For consecutive reactions A → B and B → C, the intermediate B cancels in the net equation. The overall free-energy change is the sum ΔG°′1 + ΔG°′2.",
+    "mustKnow": [
+      "Free-energy changes of successive reactions add.",
+      "A shared intermediate cancels from the net reaction.",
+      "The net reaction shown is A → C."
+    ],
+    "terms": [
+      {
+        "term": "Intermediate",
+        "meaning": "Molecule produced in one step and consumed in a later step."
+      },
+      {
+        "term": "Net reaction",
+        "meaning": "Overall reaction after canceling shared intermediates."
+      }
+    ],
+    "diagramGuide": [
+      "The two arrows A→B and B→C share intermediate B; cancellation of B gives the net reaction A→C.",
+      "The net ΔG′° is the arithmetic sum ΔG′°₁ + ΔG′°₂."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "For successive reactions A→B and B→C, the overall standard free-energy change is:",
+      "options": [
+        "ΔG′°₁ + ΔG′°₂",
+        "ΔG′°₁ − ΔG′°₂",
+        "ΔG′°₁ × ΔG′°₂",
+        "ΔG′°₁ / ΔG′°₂"
+      ],
+      "answer": 0,
+      "explanation": "Free-energy changes are additive when the reactions are summed."
+    }
+  },
+  {
+    "page": 21,
+    "title": "Coupling unfavorable and favorable reactions",
+    "explain": "An unfavorable glucose phosphorylation can proceed when coupled to favorable ATP hydrolysis through a shared intermediate. Adding +13.8 and −30.5 kJ/mol gives a negative overall ΔG°′ of −16.7 kJ/mol.",
+    "mustKnow": [
+      "Reaction coupling adds component ΔG values.",
+      "ATP hydrolysis can drive an endergonic reaction.",
+      "The shown coupled reaction has ΔG°′ = −16.7 kJ/mol.",
+      "A negative overall ΔG°′ makes the combined process favorable."
+    ],
+    "terms": [
+      {
+        "term": "Reaction coupling",
+        "meaning": "Linking an unfavorable reaction to a favorable one so the combined ΔG is negative."
+      },
+      {
+        "term": "Glucose 6-phosphate",
+        "meaning": "Phosphorylated glucose product in the shown coupled reaction."
+      }
+    ],
+    "diagramGuide": [
+      "The unfavorable phosphorylation of glucose (+13.8 kJ/mol) is added to favorable ATP hydrolysis (−30.5 kJ/mol).",
+      "Pi is the common intermediate and cancels, leaving ATP + glucose → ADP + glucose-6-phosphate with net −16.7 kJ/mol."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What is the net ΔG′° after coupling glucose phosphorylation to ATP hydrolysis?",
+      "options": [
+        "+16.7 kJ/mol",
+        "−30.5 kJ/mol",
+        "+13.8 kJ/mol",
+        "−16.7 kJ/mol"
+      ],
+      "answer": 3,
+      "explanation": "+13.8 plus −30.5 equals −16.7 kJ/mol."
+    }
+  },
+  {
+    "page": 22,
+    "title": "Free-energy summary I",
+    "explain": "ΔG is the net result of bonding stability, represented by enthalpy, and energy dispersal, represented by entropy. ΔG°′ is a reaction constant linked to equilibrium, while actual ΔG also includes current concentrations.",
+    "mustKnow": [
+      "ΔG reflects both enthalpy and entropy.",
+      "ΔG°′ can be calculated from K′eq.",
+      "Actual ΔG depends on ΔG°′ and concentrations."
+    ],
+    "terms": [
+      {
+        "term": "Enthalpy",
+        "meaning": "Thermodynamic quantity associated here with bonding and heat."
+      },
+      {
+        "term": "Standard transformed free energy",
+        "meaning": "Reaction-specific free-energy change under biochemical standard conditions."
+      }
+    ],
+    "diagramGuide": [],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which quantity is a reaction-specific physical constant calculable from K′eq?",
+      "options": [
+        "Reactant concentration",
+        "Product concentration",
+        "ΔG′°",
+        "ΔG"
+      ],
+      "answer": 2,
+      "explanation": "The summary identifies standard transformed ΔG′° as the constant related to K′eq."
+    }
+  },
+  {
+    "page": 23,
+    "title": "Free-energy summary II",
+    "explain": "Negative ΔG favors forward reaction, positive ΔG favors reverse reaction, and ΔG = 0 marks equilibrium. ΔG does not depend on the route taken, and stepwise ΔG values add.",
+    "mustKnow": [
+      "ΔG < 0 favors forward direction.",
+      "ΔG > 0 favors reverse direction.",
+      "ΔG = 0 at equilibrium.",
+      "ΔG is path-independent and additive."
+    ],
+    "terms": [
+      {
+        "term": "Path-independent",
+        "meaning": "Depends only on initial and final states, not the reaction route."
+      },
+      {
+        "term": "Equilibrium",
+        "meaning": "State at which ΔG equals zero and there is no net driving force."
+      }
+    ],
+    "diagramGuide": [],
+    "interaction": {
+      "type": "mcq",
+      "q": "What condition corresponds to equilibrium?",
+      "options": [
+        "ΔG′° must equal −30.5 kJ/mol",
+        "ΔG = 0",
+        "ΔG is large and negative",
+        "ΔG is large and positive"
+      ],
+      "answer": 1,
+      "explanation": "The slide states that the system is at equilibrium when ΔG equals zero."
+    }
+  },
+  {
+    "page": 24,
+    "title": "ATP as the cellular energy currency",
+    "explain": "ATP is the main energy currency used to drive metabolic and catabolic processes. Cells synthesize ATP, hydrolyze it to ADP and phosphate for work, and monitor the ATP-to-ADP balance as an energy-charge signal.",
+    "mustKnow": [
+      "ATP is the main metabolic energy currency.",
+      "ATP hydrolysis produces ADP and inorganic phosphate.",
+      "The ATP/ADP ratio reports cellular energy status.",
+      "Low ATP relative to ADP promotes ATP synthesis by oxidative phosphorylation."
+    ],
+    "terms": [
+      {
+        "term": "ATP",
+        "meaning": "Adenosine triphosphate, the major cellular energy-transfer molecule."
+      },
+      {
+        "term": "ADP",
+        "meaning": "Adenosine diphosphate, produced when ATP loses a phosphate."
+      },
+      {
+        "term": "Energy charge",
+        "meaning": "Cellular energy status reflected by adenine nucleotide ratios."
+      },
+      {
+        "term": "Oxidative phosphorylation",
+        "meaning": "Process that synthesizes ATP when cellular energy is low."
+      }
+    ],
+    "diagramGuide": [],
+    "interaction": {
+      "type": "mcq",
+      "q": "What does the slide call the cellular ratio of ATP to ADP concentrations?",
+      "options": [
+        "Energy charge",
+        "Redox potential",
+        "Equilibrium constant",
+        "Phosphorylation index"
+      ],
+      "answer": 0,
+      "explanation": "The ATP-to-ADP ratio is labeled the cell's energy charge."
+    }
+  },
+  {
+    "page": 25,
+    "title": "Sources and uses of free energy",
+    "explain": "Cells are isothermal systems that need a continuous free-energy source. Photosynthetic cells capture solar radiation, while heterotrophic cells obtain energy from nutrient molecules; both convert energy into ATP and other energy-rich compounds.",
+    "mustKnow": [
+      "Cells require a source of free energy.",
+      "Photosynthetic cells obtain energy from sunlight.",
+      "Heterotrophic cells obtain energy from nutrients.",
+      "Cells convert captured energy into ATP and other energy-rich compounds."
+    ],
+    "terms": [
+      {
+        "term": "Isothermal system",
+        "meaning": "System operating at approximately constant temperature."
+      },
+      {
+        "term": "Photosynthetic cell",
+        "meaning": "Cell that captures energy from solar radiation."
+      },
+      {
+        "term": "Heterotrophic cell",
+        "meaning": "Cell that obtains energy from nutrient molecules."
+      }
+    ],
+    "diagramGuide": [],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which pairing of cell type and free-energy source is correct?",
+      "options": [
+        "Photosynthetic cells—nutrient molecules only",
+        "Heterotrophic cells—absorbed solar radiation",
+        "Heterotrophic cells—atmospheric nitrogen",
+        "Photosynthetic cells—absorbed solar radiation"
+      ],
+      "answer": 3,
+      "explanation": "Photosynthetic cells use solar radiation; heterotrophic cells use nutrient molecules."
+    }
+  },
+  {
+    "page": 26,
+    "title": "Redox potential",
+    "explain": "Redox potential measures a compound's tendency to give or receive electrons. The slide relates it to the ratio of reducing and oxidizing forms and notes the NAD+/NADH pair as important in bioenergetics.",
+    "mustKnow": [
+      "Redox potential describes electron-donation or electron-acceptance tendency.",
+      "It depends on the ratio of reducing to oxidizing agent.",
+      "The NAD+/NADH ratio is metabolically important."
+    ],
+    "terms": [
+      {
+        "term": "Redox potential",
+        "meaning": "Quantitative measure of tendency to donate or accept electrons."
+      },
+      {
+        "term": "Reducing agent",
+        "meaning": "Electron donor."
+      },
+      {
+        "term": "Oxidizing agent",
+        "meaning": "Electron acceptor."
+      },
+      {
+        "term": "NAD+/NADH",
+        "meaning": "Oxidized/reduced forms of a biological electron carrier."
+      }
+    ],
+    "diagramGuide": [
+      "In the Nernst-style expression, the reducing-agent concentration is in the numerator and oxidizing-agent concentration in the denominator.",
+      "The slide uses the NAD⁺/NADH + H⁺ pair as the biologically relevant redox ratio."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which redox pair is specifically used on the slide to describe bioenergetic redox status?",
+      "options": [
+        "FAD / ATP + Pi",
+        "O₂ / CO₂ + H₂O",
+        "NAD⁺ / NADH + H⁺",
+        "ATP / AMP + PPi"
+      ],
+      "answer": 2,
+      "explanation": "The slide names the ratio of NAD⁺ to NADH + H⁺."
+    }
+  },
+  {
+    "page": 27,
+    "title": "High-energy compounds",
+    "explain": "High-energy compounds release substantial free energy on hydrolysis. The slide uses more than 7.0 kcal/mol as its cutoff and notes that many, but not all, contain phosphate groups.",
+    "mustKnow": [
+      "High-energy compounds release more than 7.0 kcal/mol on hydrolysis by the slide's definition.",
+      "Low-energy compounds release less than 7.0 kcal/mol.",
+      "Many high-energy compounds are high-energy phosphates.",
+      "Not every high-energy compound must be a phosphate."
+    ],
+    "terms": [
+      {
+        "term": "High-energy compound",
+        "meaning": "Compound whose hydrolysis releases a large amount of free energy."
+      },
+      {
+        "term": "Hydrolysis",
+        "meaning": "Bond cleavage involving water."
+      },
+      {
+        "term": "High-energy phosphate",
+        "meaning": "Phosphate-containing compound with high free energy of hydrolysis."
+      }
+    ],
+    "diagramGuide": [],
+    "interaction": {
+      "type": "mcq",
+      "q": "What threshold does the slide use for a high-energy compound at pH 7.0?",
+      "options": [
+        "Oxidation liberates at least 70 kJ/mol",
+        "Hydrolysis liberates at least 7 Cal/mol",
+        "Hydrolysis liberates less than 7 Cal/mol",
+        "Synthesis absorbs exactly 7 J/mol"
+      ],
+      "answer": 1,
+      "explanation": "The slide defines high-energy compounds using at least 7 Cal/mol on hydrolysis."
+    }
+  },
+  {
+    "page": 28,
+    "title": "Classes of high-energy compounds",
+    "explain": "The table groups high-energy molecules by bond type: acyl phosphates, enol phosphates, thiol esters, and guanidino phosphates. ATP and pyrophosphate appear among the acyl-phosphate examples.",
+    "mustKnow": [
+      "Acyl phosphates include ATP and pyrophosphate in the table.",
+      "Phosphoenolpyruvate is an enol phosphate.",
+      "Acetyl-CoA is a thiol ester.",
+      "Phosphocreatine is a guanidino phosphate."
+    ],
+    "terms": [
+      {
+        "term": "Acyl phosphate",
+        "meaning": "High-energy class containing a carbonyl-linked phosphate arrangement."
+      },
+      {
+        "term": "Enol phosphate",
+        "meaning": "High-energy phosphate class represented by phosphoenolpyruvate."
+      },
+      {
+        "term": "Thiol ester",
+        "meaning": "High-energy sulfur-containing ester represented by acetyl-CoA."
+      },
+      {
+        "term": "Guanidino phosphate",
+        "meaning": "High-energy phosphate class represented by phosphocreatine."
+      }
+    ],
+    "diagramGuide": [
+      "Read each row as class → characteristic bond → examples: pyrophosphates, acyl phosphates, enol phosphates, thioesters, and guanidino phosphates."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which class–example pairing is shown in the table?",
+      "options": [
+        "Enol phosphate—phosphoenolpyruvate",
+        "Acyl phosphate—phosphocreatine",
+        "Thioester—1,3-bisphosphoglycerate",
+        "Guanidino phosphate—acetyl-CoA"
+      ],
+      "answer": 0,
+      "explanation": "Phosphoenolpyruvate is the listed enol phosphate."
+    }
+  },
+  {
+    "page": 29,
+    "title": "ATP structure and cleavage",
+    "explain": "ATP contains adenine, ribose, and three phosphate groups. Removal of the terminal phosphate produces ADP + Pi, while pyrophosphate cleavage produces AMP + PPi; both reactions release energy.",
+    "mustKnow": [
+      "ATP contains adenine, ribose, and three phosphates.",
+      "ATP → ADP + Pi removes one terminal phosphate.",
+      "ATP → AMP + PPi cleaves off pyrophosphate.",
+      "Both cleavage modes release energy."
+    ],
+    "terms": [
+      {
+        "term": "Pi",
+        "meaning": "Inorganic phosphate."
+      },
+      {
+        "term": "PPi",
+        "meaning": "Inorganic pyrophosphate, two linked phosphate units."
+      },
+      {
+        "term": "AMP",
+        "meaning": "Adenosine monophosphate."
+      }
+    ],
+    "diagramGuide": [
+      "ATP consists of adenine attached to ribose at the ribose 1′ carbon, with three phosphates attached at the 5′ carbon.",
+      "The diagram labels the nitrogenous base, ribose sugar, and triphosphate chain as separate structural regions."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "At which ribose carbon are ATP's three phosphate groups attached?",
+      "options": [
+        "1′ carbon",
+        "2′ carbon",
+        "3′ carbon",
+        "5′ carbon"
+      ],
+      "answer": 3,
+      "explanation": "The slide places adenine at 1′ and the triphosphate group at 5′."
+    }
+  },
+  {
+    "page": 30,
+    "title": "Standard versus cellular ATP hydrolysis",
+    "explain": "ATP hydrolysis has ΔG°′ = −30.5 kJ/mol under standard conditions, but actual cellular ΔG differs because ATP, ADP, and Pi concentrations are unequal and far below 1 M.",
+    "mustKnow": [
+      "Standard ATP-hydrolysis ΔG°′ is −30.5 kJ/mol.",
+      "Actual cellular ΔG is not the same as ΔG°′.",
+      "Cellular ATP, ADP, and Pi concentrations are unequal.",
+      "Cellular concentrations are much lower than the 1 M standard."
+    ],
+    "terms": [
+      {
+        "term": "Standard conditions",
+        "meaning": "Reference conditions used to define ΔG°′."
+      },
+      {
+        "term": "Cellular ΔG",
+        "meaning": "Free-energy change calculated with actual intracellular conditions."
+      }
+    ],
+    "diagramGuide": [
+      "The table compares ATP, ADP, AMP, Pi, and phosphocreatine concentrations across cell types; these are millimolar values, not the 1 M standard state."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What is ATP hydrolysis ΔG′° under standard conditions on the slide?",
+      "options": [
+        "−16.7 kJ/mol",
+        "+30.5 kJ/mol",
+        "−30.5 kJ/mol",
+        "−51.8 kJ/mol"
+      ],
+      "answer": 2,
+      "explanation": "The standard transformed value shown is −30.5 kJ/mol."
+    }
+  },
+  {
+    "page": 31,
+    "title": "Mg2+ complexes with ATP and ADP",
+    "explain": "In the cytosol, Mg2+ binds ATP and ADP. For most enzymatic phosphoryl transfers, the true substrate is MgATP2+, so the relevant standard free energy is for hydrolysis of the magnesium complex.",
+    "mustKnow": [
+      "Cytosolic Mg2+ binds ATP and ADP.",
+      "MgATP2+ is the true substrate for most ATP-dependent phosphoryl transfers.",
+      "The relevant ΔG°′ is for MgATP2+ hydrolysis."
+    ],
+    "terms": [
+      {
+        "term": "MgATP2+",
+        "meaning": "Magnesium-bound ATP complex used by many enzymes."
+      },
+      {
+        "term": "Phosphoryl-group donor",
+        "meaning": "Molecule that transfers a phosphoryl group to another molecule."
+      }
+    ],
+    "diagramGuide": [
+      "Mg²⁺ is drawn chelating phosphate oxygens of ATP and ADP.",
+      "The labeled complexes are MgATP²⁻ and MgADP⁻; for phosphoryl transfer, MgATP²⁻ is the true enzymatic substrate."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "For most ATP-dependent phosphoryl-transfer enzymes, what is the true substrate?",
+      "options": [
+        "Free AMP²⁻",
+        "MgATP²⁻",
+        "Free ATP⁴⁻",
+        "MgADP⁻"
+      ],
+      "answer": 1,
+      "explanation": "The slide explicitly identifies MgATP²⁻ as the true substrate."
+    }
+  },
+  {
+    "page": 32,
+    "title": "Actual ATP-hydrolysis energy in an erythrocyte",
+    "explain": "Using erythrocyte ATP, ADP, and Pi concentrations in the ΔG equation gives approximately −51.82 kJ/mol, more negative than the standard −30.5 kJ/mol value.",
+    "mustKnow": [
+      "The calculation uses actual ATP, ADP, and Pi concentrations.",
+      "The shown erythrocyte result is about −51.82 kJ/mol.",
+      "Cellular ATP hydrolysis can release more free energy than the standard value."
+    ],
+    "terms": [
+      {
+        "term": "Erythrocyte",
+        "meaning": "Red blood cell."
+      },
+      {
+        "term": "Concentration correction",
+        "meaning": "RT ln term used to convert ΔG°′ to actual ΔG."
+      }
+    ],
+    "diagramGuide": [
+      "The calculation inserts erythrocyte [ATP], [ADP], and [Pi] into ΔG = ΔG′° + RT ln([ADP][Pi]/[ATP]).",
+      "The concentration term makes cellular ATP hydrolysis more favorable: the result is −51.8 kJ/mol rather than −30.5 kJ/mol."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Using human erythrocyte concentrations, what actual ΔG of ATP hydrolysis is calculated?",
+      "options": [
+        "−51.8 kJ/mol",
+        "−30.5 kJ/mol",
+        "−21.3 kJ/mol",
+        "+51.8 kJ/mol"
+      ],
+      "answer": 0,
+      "explanation": "The calculation ends at −51,820 J/mol, or −51.8 kJ/mol."
+    }
+  },
+  {
+    "page": 33,
+    "title": "ATP use and production in glycolysis",
+    "explain": "The pathway diagram marks ATP-consuming phosphorylation steps near the beginning and ATP-producing substrate-level phosphorylation steps later, alongside NADH formation.",
+    "mustKnow": [
+      "Glycolysis first invests ATP.",
+      "Later glycolytic steps generate ATP.",
+      "NAD+ is reduced to NADH during glycolysis.",
+      "Energy transfer occurs across a sequence of intermediates."
+    ],
+    "terms": [
+      {
+        "term": "Substrate-level phosphorylation",
+        "meaning": "Direct formation of ATP by transfer of phosphate from a metabolic intermediate to ADP."
+      },
+      {
+        "term": "Glycolytic intermediate",
+        "meaning": "Molecule formed and consumed between glucose and pathway end products."
+      }
+    ],
+    "diagramGuide": [
+      "The glycolysis map highlights the two ATP-investment reactions, the NADH-producing oxidation, and the two ATP-producing substrate-level phosphorylation reactions."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which two glycolytic enzymes are shown consuming ATP?",
+      "options": [
+        "Phosphoglycerate kinase and pyruvate kinase",
+        "Enolase and triose phosphate isomerase",
+        "Aldolase and phosphoglucose isomerase",
+        "Hexokinase and phosphofructokinase"
+      ],
+      "answer": 3,
+      "explanation": "ATP→ADP is marked at hexokinase and phosphofructokinase."
+    }
+  },
+  {
+    "page": 34,
+    "title": "1,3-Bisphosphoglycerate transfers phosphate to ADP",
+    "explain": "The diagram shows 1,3-bisphosphoglycerate donating a phosphate to ADP, forming ATP and 3-phosphoglycerate. Its hydrolysis is more favorable than ATP hydrolysis, enabling ATP formation.",
+    "mustKnow": [
+      "1,3-bisphosphoglycerate has high phosphoryl-transfer potential.",
+      "It transfers phosphate to ADP.",
+      "The products shown are ATP and 3-phosphoglycerate."
+    ],
+    "terms": [
+      {
+        "term": "1,3-Bisphosphoglycerate",
+        "meaning": "High-energy glycolytic intermediate that can phosphorylate ADP."
+      },
+      {
+        "term": "Phosphoryl-transfer potential",
+        "meaning": "Tendency of a molecule to donate a phosphoryl group."
+      }
+    ],
+    "diagramGuide": [
+      "Each panel explains a favorable hydrolysis product: 1,3-bisphosphoglycerate gains resonance stabilization, PEP forms pyruvate by tautomerization, and phosphocreatine products gain resonance stabilization."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which hydrolysis product relationship explains PEP's large negative ΔG′°?",
+      "options": [
+        "PEP is reduced directly to lactate",
+        "Phosphate converts pyruvate to oxaloacetate",
+        "Enol pyruvate tautomerizes to keto pyruvate",
+        "Pyruvate polymerizes to glycogen"
+      ],
+      "answer": 2,
+      "explanation": "The diagram shows hydrolysis followed by enol-to-keto tautomerization."
+    }
+  },
+  {
+    "page": 35,
+    "title": "Why phosphoenolpyruvate has high transfer potential",
+    "explain": "Phosphoenolpyruvate hydrolysis first forms an enol form of pyruvate, which then rearranges to the more stable keto form. This product stabilization makes hydrolysis strongly favorable.",
+    "mustKnow": [
+      "Phosphoenolpyruvate has high standard free energy of hydrolysis.",
+      "Hydrolysis forms enol pyruvate.",
+      "Enol pyruvate tautomerizes to stable keto pyruvate.",
+      "Product stabilization drives the reaction."
+    ],
+    "terms": [
+      {
+        "term": "Phosphoenolpyruvate",
+        "meaning": "High-energy glycolytic phosphate donor abbreviated PEP."
+      },
+      {
+        "term": "Tautomerization",
+        "meaning": "Rearrangement between structural forms, here enol and keto pyruvate."
+      },
+      {
+        "term": "Keto form",
+        "meaning": "More stable pyruvate form shown after rearrangement."
+      }
+    ],
+    "diagramGuide": [
+      "Acetyl-CoA hydrolysis first forms acetic acid and CoA-SH; ionization then gives resonance-stabilized acetate.",
+      "The table ranks PEP most negative, followed by 1,3-BPG, phosphocreatine, ADP→AMP+Pi, ATP→ADP+Pi, and lower-energy phosphate esters."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which compound has the most negative ΔG′° of hydrolysis in the displayed table?",
+      "options": [
+        "ATP → ADP + Pi",
+        "Phosphoenolpyruvate",
+        "1,3-bisphosphoglycerate",
+        "Phosphocreatine"
+      ],
+      "answer": 1,
+      "explanation": "PEP is listed at −61.9 kJ/mol, the most negative value shown."
+    }
+  },
+  {
+    "page": 36,
+    "title": "ATP powers work through transfers and conformational cycles",
+    "explain": "ATP commonly drives work by transferring chemical groups or by hydrolysis-linked changes in protein shape. These cycles power muscle motion and proteins moving along DNA, mRNA, or other tracks.",
+    "mustKnow": [
+      "ATP energy is often delivered by group transfer, not isolated hydrolysis.",
+      "ATP hydrolysis can switch proteins between conformations.",
+      "Such switching powers mechanical motion.",
+      "Helicases, RecA, topoisomerases, and replication ATPases are listed examples."
+    ],
+    "terms": [
+      {
+        "term": "Conformation",
+        "meaning": "Three-dimensional shape adopted by a protein."
+      },
+      {
+        "term": "ATPase",
+        "meaning": "Enzyme or protein activity that hydrolyzes ATP."
+      },
+      {
+        "term": "Helicase",
+        "meaning": "ATP-dependent protein involved in separating nucleic-acid strands."
+      }
+    ],
+    "diagramGuide": [
+      "The top drawing compresses glutamine synthesis into one arrow, but the lower drawing shows the actual two-step route.",
+      "ATP first forms enzyme-bound glutamyl phosphate; NH₃ then displaces phosphate to form glutamine."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What activated intermediate is formed before NH₃ attacks in glutamine synthesis?",
+      "options": [
+        "Enzyme-bound glutamyl phosphate",
+        "Enzyme-bound glutamyl adenylate",
+        "Free phosphocreatine",
+        "Free carbamoyl phosphate"
+      ],
+      "answer": 0,
+      "explanation": "ATP first phosphorylates glutamate to enzyme-bound glutamyl phosphate."
+    }
+  },
+  {
+    "page": 37,
+    "title": "Ranking phosphoryl-transfer potential",
+    "explain": "The graph ranks phosphate compounds by standard free energy of hydrolysis. Compounds above ATP, such as phosphoenolpyruvate, 1,3-bisphosphoglycerate, and phosphocreatine, can donate phosphate to ADP; ATP can donate to compounds below it.",
+    "mustKnow": [
+      "More negative hydrolysis ΔG°′ means higher phosphoryl-transfer potential.",
+      "PEP, 1,3-BPG, and phosphocreatine rank above ATP.",
+      "ATP occupies an intermediate transfer position.",
+      "Glucose 6-phosphate and glycerol phosphate rank below ATP."
+    ],
+    "terms": [
+      {
+        "term": "Phosphocreatine",
+        "meaning": "High-energy phosphate reserve capable of phosphorylating ADP."
+      },
+      {
+        "term": "Transfer potential",
+        "meaning": "Relative ability to donate a chemical group."
+      }
+    ],
+    "diagramGuide": [
+      "The y-axis is ΔG′° of hydrolysis in kJ/mol; more negative values are higher phosphoryl-transfer potential.",
+      "PEP, 1,3-BPG, and phosphocreatine lie above ATP; glucose-6-phosphate and glycerol phosphate lie below ATP.",
+      "Arrows toward ATP indicate high-energy donors can phosphorylate ADP; arrows from ATP toward lower compounds indicate ATP can phosphorylate those acceptors."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which compound lies below ATP in phosphoryl-transfer potential on the graph?",
+      "options": [
+        "Phosphoenolpyruvate",
+        "1,3-bisphosphoglycerate",
+        "Phosphocreatine",
+        "Glucose 6-phosphate"
+      ],
+      "answer": 3,
+      "explanation": "Glucose 6-phosphate has a less negative hydrolysis ΔG′° than ATP."
+    }
+  },
+  {
+    "page": 38,
+    "title": "Three group transfers from ATP",
+    "explain": "ATP can transfer different groups depending on which phosphorus atom is attacked: phosphoryl transfer yields ADP, pyrophosphoryl transfer yields AMP, and adenylyl transfer yields pyrophosphate.",
+    "mustKnow": [
+      "Phosphoryl transfer leaves ADP.",
+      "Pyrophosphoryl transfer leaves AMP.",
+      "Adenylyl transfer leaves PPi.",
+      "ATP is a donor of more than just terminal phosphate."
+    ],
+    "terms": [
+      {
+        "term": "Phosphoryl transfer",
+        "meaning": "Transfer of the terminal phosphate group from ATP."
+      },
+      {
+        "term": "Pyrophosphoryl transfer",
+        "meaning": "Transfer of a two-phosphate group from ATP."
+      },
+      {
+        "term": "Adenylyl transfer",
+        "meaning": "Transfer of the AMP portion of ATP."
+      }
+    ],
+    "diagramGuide": [
+      "Attack at ATP's γ phosphate transfers phosphoryl and leaves ADP; attack at β transfers pyrophosphoryl and leaves AMP; attack at α transfers adenylyl and releases PPi.",
+      "The three red attack arrows map directly to the three labeled products below."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Nucleophilic attack at ATP's α phosphate produces which transfer?",
+      "options": [
+        "Pyrophosphoryl transfer with AMP release",
+        "Phosphoryl transfer with AMP release",
+        "Adenylyl transfer with PPi release",
+        "Phosphoryl transfer with ADP release"
+      ],
+      "answer": 2,
+      "explanation": "The α position gives adenylyl transfer and PPi as the leaving group."
+    }
+  },
+  {
+    "page": 39,
+    "title": "ATP activates luciferin in fireflies",
+    "explain": "Firefly light production begins when luciferase uses ATP to activate luciferin. ATP is cleaved to form luciferyl adenylate, converting chemical energy into a form used by the light-producing reaction.",
+    "mustKnow": [
+      "Luciferin is the light-producing substrate.",
+      "Luciferase is the enzyme.",
+      "ATP activation forms luciferyl adenylate.",
+      "The pathway converts chemical energy into light energy."
+    ],
+    "terms": [
+      {
+        "term": "Luciferin",
+        "meaning": "Firefly substrate that participates in light production."
+      },
+      {
+        "term": "Luciferase",
+        "meaning": "Enzyme catalyzing firefly bioluminescence reactions."
+      },
+      {
+        "term": "Luciferyl adenylate",
+        "meaning": "ATP-activated luciferin intermediate."
+      },
+      {
+        "term": "Bioluminescence",
+        "meaning": "Light production by a living organism."
+      }
+    ],
+    "diagramGuide": [],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which ATP cleavage activates luciferin to luciferyl adenylate?",
+      "options": [
+        "ATP → ADP + PPi",
+        "ATP → AMP + PPi",
+        "ATP → ADP + Pi",
+        "ATP → adenosine + triphosphate"
+      ],
+      "answer": 1,
+      "explanation": "The slide states that pyrophosphate cleavage forms luciferyl adenylate."
+    }
+  },
+  {
+    "page": 40,
+    "title": "Oxidation produces firefly light",
+    "explain": "With oxygen and luciferase, activated luciferin undergoes oxidative decarboxylation to oxyluciferin and emits light. Luciferase structure influences light color, and luciferin is later regenerated.",
+    "mustKnow": [
+      "Molecular oxygen and luciferase are required in the shown light-producing step.",
+      "Luciferin is converted to oxyluciferin.",
+      "Light accompanies oxidative decarboxylation.",
+      "Species differences in luciferase structure affect light color."
+    ],
+    "terms": [
+      {
+        "term": "Oxyluciferin",
+        "meaning": "Oxidized product formed during firefly light emission."
+      },
+      {
+        "term": "Oxidative decarboxylation",
+        "meaning": "Oxidation coupled to removal of a carboxyl group as carbon dioxide."
+      }
+    ],
+    "diagramGuide": [
+      "The cycle starts with luciferin activation by ATP to luciferyl adenylate, releasing PPi.",
+      "Luciferase and O₂ convert the activated intermediate to oxyluciferin with light emission and release of CO₂ and AMP.",
+      "Regenerating reactions return oxyluciferin to luciferin."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which products accompany light emission during luciferin oxidation in the cycle?",
+      "options": [
+        "Oxyluciferin, CO₂, and AMP",
+        "Luciferyl adenylate, PPi, and ATP",
+        "Luciferin, O₂, and ADP",
+        "Oxyluciferin, Pi, and NADH"
+      ],
+      "answer": 0,
+      "explanation": "The figure shows formation of oxyluciferin with CO₂ and AMP release while light is emitted."
+    }
+  },
+  {
+    "page": 41,
+    "title": "Gene Expression and Regulation",
+    "explain": "This lecture follows information from genes to proteins and then examines how cells regulate that flow, especially through prokaryotic operons.",
+    "mustKnow": [
+      "The lecture moves from genes and expression to operon-based regulation."
+    ],
+    "terms": [
+      {
+        "term": "Gene expression",
+        "meaning": "Use of genetic information to produce a functional product."
+      },
+      {
+        "term": "Operon",
+        "meaning": "Cluster of prokaryotic genes controlled together."
+      }
+    ],
+    "diagramGuide": [],
+    "interaction": {
+      "type": "tap",
+      "label": "Open the Gene Expression and Regulation lecture"
+    }
+  },
+  {
+    "page": 42,
+    "title": "Lecture roadmap",
+    "explain": "The lecture covers genes, replication, transcription, translation, positive and negative regulation, constitutive and inducible genes, and prokaryotic operons including the lac operon.",
+    "mustKnow": [
+      "Expression topics include replication, transcription, and translation.",
+      "Regulation may be positive or negative.",
+      "Genes may be constitutive or inducible.",
+      "The lac operon is the main prokaryotic example."
+    ],
+    "terms": [
+      {
+        "term": "Constitutive gene",
+        "meaning": "Gene expressed continuously under the stated conditions."
+      },
+      {
+        "term": "Inducible gene",
+        "meaning": "Gene whose expression can be switched on by an inducing signal."
+      }
+    ],
+    "diagramGuide": [],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which prokaryotic example is specifically listed under regulation of gene expression?",
+      "options": [
+        "Michaelis–Menten system",
+        "Nitrogen cycle",
+        "Lac operon",
+        "TCA cycle"
+      ],
+      "answer": 2,
+      "explanation": "The contents list operons and specifically the lac operon."
+    }
+  },
+  {
+    "page": 43,
+    "title": "What is a gene?",
+    "explain": "A gene is a segment of genetic material encoded in DNA. Genes pass between generations and contribute to inherited characteristics and disease risk.",
+    "mustKnow": [
+      "A gene is a piece of genetic material encoded in DNA.",
+      "Genes are inherited from parents.",
+      "Genes contribute to characteristics and inherited disease."
+    ],
+    "terms": [
+      {
+        "term": "Gene",
+        "meaning": "Segment of DNA carrying genetic information."
+      },
+      {
+        "term": "Inherited",
+        "meaning": "Passed genetically from parent to offspring."
+      },
+      {
+        "term": "Chromosome",
+        "meaning": "DNA-containing structure that carries genes."
+      }
+    ],
+    "diagramGuide": [
+      "The nesting sequence is cell → nucleus → chromosome → DNA; the bracket marks a gene as a segment of DNA."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "In the diagram, which nesting order runs from largest structure to DNA segment?",
+      "options": [
+        "Gene → DNA → chromosome → nucleus → cell",
+        "Cell → nucleus → chromosome → DNA → gene",
+        "Cell → chromosome → nucleus → gene → DNA",
+        "Nucleus → cell → DNA → chromosome → gene"
+      ],
+      "answer": 1,
+      "explanation": "The illustration nests the gene within DNA, DNA within a chromosome, chromosome in the nucleus, and nucleus in the cell."
+    }
+  },
+  {
+    "page": 44,
+    "title": "Gene expression and the central dogma",
+    "explain": "Gene expression is the multistep use of genetic information to produce proteins. The central dogma summarizes residue-by-residue information flow as DNA → RNA → protein.",
+    "mustKnow": [
+      "Central information flow is DNA → RNA → protein.",
+      "DNA-to-DNA transfer occurs in replication.",
+      "DNA-to-RNA transfer occurs in transcription.",
+      "RNA-to-protein transfer occurs in translation."
+    ],
+    "terms": [
+      {
+        "term": "Central dogma",
+        "meaning": "Framework describing information flow from DNA to RNA to protein."
+      },
+      {
+        "term": "Replication",
+        "meaning": "Copying DNA into DNA."
+      },
+      {
+        "term": "Transcription",
+        "meaning": "Using DNA information to synthesize RNA."
+      },
+      {
+        "term": "Translation",
+        "meaning": "Using mRNA information to synthesize protein."
+      }
+    ],
+    "diagramGuide": [
+      "The central vertical arrows show DNA replication, DNA→RNA transcription, RNA→protein translation, and protein folding.",
+      "Side arrows add recognized information transfers such as reverse transcription and RNA-dependent RNA replication.",
+      "The diagram does not show information transfer from protein back to nucleic acid."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which information transfer is stated to be impossible?",
+      "options": [
+        "Protein → nucleic acid",
+        "DNA → RNA",
+        "RNA → protein",
+        "RNA → DNA"
+      ],
+      "answer": 0,
+      "explanation": "The slide permits nucleic-acid transfers and nucleic acid to protein, but not protein back to nucleic acid."
+    }
+  },
+  {
+    "page": 45,
+    "title": "DNA replication",
+    "explain": "Replication duplicates DNA during S phase. It is semiconservative: each daughter DNA molecule contains one parental strand and one newly synthesized strand.",
+    "mustKnow": [
+      "Replication is DNA synthesis or duplication.",
+      "Replication occurs in S phase.",
+      "Replication is semiconservative.",
+      "Each daughter DNA has one old and one new strand."
+    ],
+    "terms": [
+      {
+        "term": "S phase",
+        "meaning": "Cell-cycle phase in which DNA is replicated."
+      },
+      {
+        "term": "Semiconservative replication",
+        "meaning": "Replication producing DNA molecules with one parental and one new strand."
+      },
+      {
+        "term": "Daughter molecule",
+        "meaning": "New DNA molecule produced by replication."
+      }
+    ],
+    "diagramGuide": [],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which description defines semiconservative DNA replication?",
+      "options": [
+        "One daughter duplex contains both old strands and the other both new strands",
+        "Both daughter duplexes contain only newly synthesized strands",
+        "Parental DNA remains intact while an unrelated duplex is synthesized",
+        "Each daughter duplex contains one old strand and one new strand"
+      ],
+      "answer": 3,
+      "explanation": "Semiconservative replication preserves one parental strand in each daughter molecule."
+    }
+  },
+  {
+    "page": 46,
+    "title": "The replication fork",
+    "explain": "At the fork, helicase opens DNA. The leading strand is synthesized continuously toward fork movement, while the lagging strand is made discontinuously as Okazaki fragments from RNA primers.",
+    "mustKnow": [
+      "Helicase opens the parental DNA.",
+      "The leading strand is synthesized continuously.",
+      "The lagging strand forms Okazaki fragments.",
+      "RNA primers provide starts for DNA synthesis."
+    ],
+    "terms": [
+      {
+        "term": "Replication fork",
+        "meaning": "Y-shaped region where parental DNA opens and is copied."
+      },
+      {
+        "term": "Leading strand",
+        "meaning": "New strand synthesized continuously toward fork movement."
+      },
+      {
+        "term": "Lagging strand",
+        "meaning": "New strand synthesized discontinuously."
+      },
+      {
+        "term": "Okazaki fragment",
+        "meaning": "Short DNA segment made on the lagging strand."
+      }
+    ],
+    "diagramGuide": [
+      "The fork moves downward while helicase opens the parental duplex; topoisomerase acts ahead of helicase and SSB proteins coat separated strands.",
+      "The leading strand is synthesized continuously toward the fork; the lagging strand is synthesized discontinuously as Okazaki fragments away from the fork.",
+      "Every new DNA segment extends 5′→3′ from an RNA primer."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which replication-fork pairing is correct?",
+      "options": [
+        "Leading strand—3′→5′ synthesis; lagging strand—5′→3′ synthesis",
+        "Leading strand—requires no primer; lagging strand—requires no primer",
+        "Leading strand—continuous; lagging strand—Okazaki fragments",
+        "Leading strand—Okazaki fragments; lagging strand—continuous"
+      ],
+      "answer": 2,
+      "explanation": "The diagram labels continuous leading synthesis and discontinuous lagging synthesis as Okazaki fragments."
+    }
+  },
+  {
+    "page": 47,
+    "title": "Replication video references",
+    "explain": "This slide contains external video links intended to reinforce the DNA-replication mechanism.",
+    "mustKnow": [
+      "The referenced topic is DNA replication."
+    ],
+    "terms": [],
+    "diagramGuide": [],
+    "interaction": {
+      "type": "tap",
+      "label": "Video-reference slide acknowledged"
+    }
+  },
+  {
+    "page": 48,
+    "title": "Transcription: DNA to RNA",
+    "explain": "RNA polymerase converts DNA information into RNA. It binds a promoter, opens a transcription bubble, escapes the promoter, elongates RNA by complementary base addition, and terminates to release the RNA.",
+    "mustKnow": [
+      "Transcription occurs in prokaryotic cytoplasm and the eukaryotic nucleus.",
+      "RNA polymerase synthesizes RNA.",
+      "The four listed stages are initiation, promoter escape, elongation, and termination.",
+      "Initiation begins at a promoter."
+    ],
+    "terms": [
+      {
+        "term": "RNA polymerase",
+        "meaning": "Enzyme that synthesizes RNA from a DNA template."
+      },
+      {
+        "term": "Promoter",
+        "meaning": "DNA site where transcription machinery binds to begin transcription."
+      },
+      {
+        "term": "Transcription bubble",
+        "meaning": "Locally opened DNA region being transcribed."
+      },
+      {
+        "term": "Elongation",
+        "meaning": "Stage in which complementary nucleotides lengthen the RNA chain."
+      }
+    ],
+    "diagramGuide": [
+      "The upper gene diagram places promoter upstream, structural gene in the middle, and terminator downstream; template and coding strands run antiparallel.",
+      "In the transcription bubble, RNA polymerase moves along the template strand while the nascent RNA exits behind it.",
+      "Read the stated sequence as initiation → promoter escape → elongation → termination."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What is the sequence of transcription stages listed on the slide?",
+      "options": [
+        "Initiation → promoter escape → elongation → termination",
+        "Promoter escape → initiation → termination → elongation",
+        "Elongation → initiation → promoter escape → termination",
+        "Initiation → elongation → promoter escape → termination"
+      ],
+      "answer": 0,
+      "explanation": "The slide numbers those four stages in that order."
+    }
+  },
+  {
+    "page": 49,
+    "title": "Template and coding DNA strands",
+    "explain": "RNA is synthesized using the noncoding antisense strand as the template. The coding or sense strand matches the mRNA sequence except that DNA has thymine where RNA has uracil.",
+    "mustKnow": [
+      "The antisense/noncoding strand is the transcription template.",
+      "The sense/coding strand has the same sequence as mRNA except T replaces U.",
+      "mRNA is complementary to the template strand."
+    ],
+    "terms": [
+      {
+        "term": "Template strand",
+        "meaning": "DNA strand read by RNA polymerase; also called antisense or noncoding."
+      },
+      {
+        "term": "Coding strand",
+        "meaning": "DNA strand matching mRNA sequence except for T instead of U."
+      },
+      {
+        "term": "Uracil",
+        "meaning": "RNA base used in place of thymine."
+      }
+    ],
+    "diagramGuide": [
+      "The three panels show initiation at the promoter with sigma factor, elongation by RNA polymerase, and termination near the terminator with rho factor.",
+      "The RNA is complementary to the template/antisense strand and nearly matches the coding/sense strand except U replaces T."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "How does mRNA sequence compare with the coding (sense) strand?",
+      "options": [
+        "It is complementary and uses T instead of U",
+        "It is identical including T",
+        "It is unrelated because RNA polymerase reads the coding strand",
+        "It is the same except U replaces T"
+      ],
+      "answer": 3,
+      "explanation": "mRNA is complementary to the template strand and matches the coding strand except U replaces T."
+    }
+  },
+  {
+    "page": 50,
+    "title": "Eukaryotic RNA processing",
+    "explain": "Eukaryotic mRNA is first made as pre-mRNA containing coding exons and noncoding introns. RNA processing removes introns by splicing and joins exons to create mature mRNA.",
+    "mustKnow": [
+      "Eukaryotes initially produce pre-mRNA.",
+      "Exons are the coding segments shown.",
+      "Introns are noncoding segments.",
+      "Splicing removes introns to form mature mRNA."
+    ],
+    "terms": [
+      {
+        "term": "Pre-mRNA",
+        "meaning": "Initial eukaryotic RNA transcript before processing."
+      },
+      {
+        "term": "Exon",
+        "meaning": "Coding segment retained in mature mRNA."
+      },
+      {
+        "term": "Intron",
+        "meaning": "Noncoding segment removed during processing."
+      },
+      {
+        "term": "Splicing",
+        "meaning": "Removal of introns and joining of exons."
+      }
+    ],
+    "diagramGuide": [
+      "The top bar is pre-mRNA with cap, leader, alternating exons and introns, trailer, and poly(A) tail.",
+      "The lower bar is mature mRNA after introns are removed and exons joined; the protein-coding sequence remains between untranslated end regions."
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which sequences are removed when eukaryotic pre-mRNA becomes mature mRNA?",
+      "options": [
+        "The 5′ cap",
+        "The poly(A) tail",
+        "Introns",
+        "Exons"
+      ],
+      "answer": 2,
+      "explanation": "RNA splicing removes non-coding introns and joins exons."
+    }
+  }
+]

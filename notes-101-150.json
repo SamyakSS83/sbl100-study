@@ -1,0 +1,402 @@
+[
+  {
+    "page": 101,
+    "title": "Purifying the Gene After PCR",
+    "explain": "PCR makes many copies of the target gene. The amplified DNA is then purified to remove primers, free nucleotides, enzymes, and other reaction components. The result is a clean DNA fragment ready to be inserted into a vector.",
+    "mustKnow": ["PCR amplifies the target gene.", "Purification removes PCR reaction contaminants.", "The purified gene fragment is ready for cloning."],
+    "terms": [{"term": "PCR product", "meaning": "The DNA fragment amplified during PCR."}, {"term": "Purification", "meaning": "Separation of the desired DNA from unwanted reaction components."}, {"term": "Vector", "meaning": "A DNA carrier used to introduce a gene into a host."}],
+    "interaction": {"type": "mcq", "q": "What is the immediate purpose of purifying a PCR product?", "options": ["To translate it into protein", "To remove reaction components and obtain clean target DNA", "To make bacterial cells competent", "To select antibiotic-resistant colonies"], "answer": 1, "explanation": "Purification removes primers, nucleotides, enzymes, and other contaminants before cloning."}
+  },
+  {
+    "page": 102,
+    "title": "Transformation of Host Cells",
+    "explain": "Transformation introduces a recombinant plasmid into competent bacterial cells. In heat shock, a rapid rise to about 42°C briefly opens membrane pores; electroporation uses a high-voltage pulse. Cells then recover before being placed on selective medium.",
+    "mustKnow": ["Competence increases membrane permeability to DNA.", "Heat shock and electroporation create temporary membrane pores.", "Recovery occurs before antibiotic selection.", "The plasmid needs an origin of replication and selectable marker."],
+    "terms": [{"term": "Transformation", "meaning": "Introduction of external DNA into a host cell."}, {"term": "Competent cell", "meaning": "A cell treated so that it can take up DNA."}, {"term": "Heat shock", "meaning": "Rapid temperature change used to promote DNA entry."}, {"term": "Electroporation", "meaning": "An electric pulse used to create temporary membrane pores."}],
+    "interaction": {"type": "mcq", "q": "Which method uses a high-voltage pulse to introduce plasmid DNA?", "options": ["Heat shock", "Electroporation", "Restriction digestion", "SDS-PAGE"], "answer": 1, "explanation": "Electroporation creates transient pores with an electric field and usually gives high transformation efficiency."}
+  },
+  {
+    "page": 103,
+    "title": "Selection Versus Screening",
+    "explain": "Antibiotic selection identifies cells that received a plasmid carrying the resistance marker. It does not prove that the desired insert is present. Screening then identifies colonies likely to contain the recombinant plasmid, followed by molecular confirmation.",
+    "mustKnow": ["Selection detects plasmid-containing cells.", "Screening distinguishes likely recombinant colonies.", "A positive screened colony still needs confirmation.", "White colonies are commonly treated as likely recombinants in the shown scheme."],
+    "terms": [{"term": "Selection", "meaning": "Growth condition that allows cells with a selectable marker to survive."}, {"term": "Screening", "meaning": "Testing selected colonies for the desired recombinant plasmid."}, {"term": "Transformant", "meaning": "A cell that has taken up introduced DNA."}, {"term": "AmpR", "meaning": "Ampicillin-resistance marker carried by a plasmid."}],
+    "interaction": {"type": "mcq", "q": "What does antibiotic selection alone establish?", "options": ["The insert has the correct sequence", "The insert has the correct orientation", "The cell likely contains a resistance-bearing plasmid", "The recombinant protein is pure"], "answer": 2, "explanation": "Selection shows plasmid uptake; screening and confirmation are needed to establish the presence of the desired insert."}
+  },
+  {
+    "page": 104,
+    "title": "Confirming Recombinant Clones",
+    "explain": "Candidate colonies can be checked by colony PCR, restriction digestion, or DNA sequencing. Sequencing gives the exact nucleotide sequence and can confirm both the identity and orientation of the inserted gene.",
+    "mustKnow": ["Colony PCR checks for an insert directly from a colony.", "Restriction digestion checks fragment patterns.", "DNA sequencing gives exact base information and orientation."],
+    "terms": [{"term": "Colony PCR", "meaning": "PCR performed using cells from a colony to test for an insert."}, {"term": "Restriction digestion", "meaning": "Cutting DNA at specific sites to produce diagnostic fragments."}, {"term": "DNA sequencing", "meaning": "Determining the exact order of nucleotides."}, {"term": "Orientation", "meaning": "The direction in which an insert lies in the vector."}],
+    "interaction": {"type": "mcq", "q": "Which method provides the exact nucleotide sequence of an insert?", "options": ["Antibiotic selection", "DNA sequencing", "Heat shock", "Protein staining"], "answer": 1, "explanation": "Sequencing directly reads the insert and can verify its identity and orientation."}
+  },
+  {
+    "page": 105,
+    "title": "From Recombinant DNA to Protein",
+    "explain": "Inside the host, the inserted gene is transcribed into mRNA and the mRNA is translated into protein. An inducible promoter allows the experimenter to decide when expression begins.",
+    "mustKnow": ["DNA is transcribed into mRNA.", "mRNA is translated into protein.", "An inducible promoter provides control over expression."],
+    "terms": [{"term": "Transcription", "meaning": "Synthesis of RNA from a DNA template."}, {"term": "Translation", "meaning": "Synthesis of protein from an mRNA template."}, {"term": "Inducible promoter", "meaning": "A promoter activated by a chosen signal or inducer."}],
+    "interaction": {"type": "mcq", "q": "What is produced directly by transcription of the recombinant gene?", "options": ["Protein", "mRNA", "Plasmid", "ATP"], "answer": 1, "explanation": "Transcription makes mRNA; translation then uses that mRNA to make protein."}
+  },
+  {
+    "page": 106,
+    "title": "Controlling Recombinant Gene Expression",
+    "explain": "A promoter determines when, where, and how strongly a gene is transcribed. In inducible systems such as lac or T7, adding an inducer such as IPTG switches expression on, allowing controlled high-level protein production.",
+    "mustKnow": ["Promoters regulate transcription.", "IPTG can induce lac-based expression.", "lac, T7, and ara are common expression systems.", "Induction separates cell growth from strong protein production."],
+    "terms": [{"term": "Promoter", "meaning": "DNA region that controls initiation of transcription."}, {"term": "Inducer", "meaning": "A molecule that activates an inducible expression system."}, {"term": "IPTG", "meaning": "A commonly used inducer of lac-based expression."}, {"term": "T7 system", "meaning": "A high-expression system commonly used in E. coli."}],
+    "interaction": {"type": "mcq", "q": "In the lac expression system shown, what is the role of IPTG?", "options": ["It cuts the plasmid", "It induces gene expression", "It purifies the protein", "It stains an SDS-PAGE gel"], "answer": 1, "explanation": "IPTG acts as an inducer that switches on transcription in a lac-controlled system."}
+  },
+  {
+    "page": 107,
+    "title": "Recombinant Protein Workflow",
+    "explain": "The workflow proceeds in order: transform the plasmid, grow the culture, induce expression, harvest cells, lyse them, and purify the recombinant protein. Each step prepares the material for the next.",
+    "mustKnow": ["Transformation comes before culture growth.", "Expression is induced before harvesting.", "Cell lysis releases intracellular protein.", "Purification follows lysis."],
+    "terms": [{"term": "Induction", "meaning": "Activation of recombinant gene expression."}, {"term": "Harvest", "meaning": "Collection of cells from the culture."}, {"term": "Cell lysis", "meaning": "Breaking cells open to release their contents."}, {"term": "Purification", "meaning": "Isolation of the target protein from other cell components."}],
+    "interaction": {"type": "mcq", "q": "Which step immediately precedes purification in the displayed workflow?", "options": ["Transformation", "Cell lysis", "Induction", "Culture growth"], "answer": 1, "explanation": "Cells are lysed to release the recombinant protein before that protein can be purified."}
+  },
+  {
+    "page": 108,
+    "title": "His-Tag Purification with Ni-NTA",
+    "explain": "A His-tagged protein binds nickel ions on Ni-NTA resin. Low imidazole washes away weakly or nonspecifically bound proteins. High imidazole competes with the His tag and releases the target protein, which can then be checked by SDS-PAGE.",
+    "mustKnow": ["His tags bind Ni2+ on Ni-NTA resin.", "Low imidazole is used during washing.", "High imidazole elutes the target protein.", "SDS-PAGE checks purity and molecular weight."],
+    "terms": [{"term": "His tag", "meaning": "A short histidine sequence added to aid protein purification."}, {"term": "Ni-NTA resin", "meaning": "Nickel-containing affinity resin that binds His-tagged proteins."}, {"term": "Elution", "meaning": "Release of a bound molecule from a purification column."}, {"term": "Imidazole", "meaning": "A competitor used to wash or elute His-tagged protein."}],
+    "interaction": {"type": "mcq", "q": "What causes a His-tagged protein to elute from Ni-NTA resin?", "options": ["Low salt only", "High imidazole", "SDS staining", "Ampicillin"], "answer": 1, "explanation": "High imidazole competes with histidines for nickel binding and releases the His-tagged protein."}
+  },
+  {
+    "page": 109,
+    "title": "Reading an SDS-PAGE Gel",
+    "explain": "SDS denatures proteins and gives them a similar negative charge-to-mass relationship. The gel therefore separates proteins mainly by size: smaller proteins move faster and appear lower. A strong band at the expected size supports successful expression and purity.",
+    "mustKnow": ["SDS denatures proteins.", "Separation depends mainly on molecular weight.", "Smaller proteins migrate farther down the gel.", "A band at the expected size indicates the target protein may be present."],
+    "terms": [{"term": "SDS-PAGE", "meaning": "Gel electrophoresis used to separate denatured proteins mainly by size."}, {"term": "Molecular weight", "meaning": "Protein size, commonly estimated in kilodaltons."}, {"term": "Band", "meaning": "A visible group of proteins at a particular gel position."}, {"term": "Denaturation", "meaning": "Loss of a protein's folded structure."}],
+    "interaction": {"type": "mcq", "q": "Where do smaller proteins usually appear on an SDS-PAGE gel?", "options": ["Nearer the bottom", "Nearer the top", "Only in the loading well", "At the same position as all other proteins"], "answer": 0, "explanation": "Smaller denatured proteins move more rapidly through the gel matrix and migrate farther."}
+  },
+  {
+    "page": 110,
+    "title": "Major Uses of Genetic Engineering",
+    "explain": "The applications are grouped into four broad areas: medicine and healthcare, agriculture and food production, industrial biotechnology, and environmental sustainability.",
+    "mustKnow": ["Medicine is a major application area.", "Agriculture uses engineered traits.", "Industry uses engineered organisms to make products.", "Environmental uses include sustainable processes."],
+    "terms": [{"term": "Industrial biotechnology", "meaning": "Use of biological systems to manufacture useful products."}, {"term": "Sustainability", "meaning": "Meeting needs while reducing long-term environmental cost."}],
+    "interaction": {"type": "tap", "label": "Remember the four application groups: medicine, agriculture, industry, and environment."}
+  },
+  {
+    "page": 111,
+    "title": "Recombinant Human Insulin",
+    "explain": "The human insulin gene is cloned into a vector, expressed in E. coli, and the product is purified and processed to make therapeutic insulin. It is a classic example of recombinant protein production.",
+    "mustKnow": ["The insulin gene is human DNA.", "E. coli can serve as the expression host.", "The expressed product must be purified and processed.", "The final product is therapeutic insulin."],
+    "terms": [{"term": "Recombinant insulin", "meaning": "Human insulin produced using genetically engineered cells."}, {"term": "Expression host", "meaning": "The cell used to produce a recombinant product."}, {"term": "Processing", "meaning": "Steps that convert the expressed product into its usable form."}],
+    "interaction": {"type": "mcq", "q": "Which sequence best matches recombinant insulin production?", "options": ["Purify → clone → destroy DNA → inject bacteria", "Clone insulin DNA → express in E. coli → purify and process", "Translate insulin → remove vector → perform PCR", "Grow human tissue → add Bt toxin → purify"], "answer": 1, "explanation": "The slide's workflow is insulin DNA cloning, bacterial expression, and purification/processing."}
+  },
+  {
+    "page": 112,
+    "title": "Other Recombinant Therapeutic Proteins",
+    "explain": "Different recombinant proteins treat different conditions: growth hormone treats growth hormone deficiency, EPO stimulates red blood cell production in anemia, interferons have antiviral and some anticancer uses, and Factors VIII and IX treat hemophilia.",
+    "mustKnow": ["hGH treats growth hormone deficiency.", "EPO stimulates red blood cell production.", "Factor VIII treats hemophilia A; Factor IX treats hemophilia B.", "Interferons can be used in antiviral therapy and some cancers."],
+    "terms": [{"term": "hGH", "meaning": "Human growth hormone used to treat growth hormone deficiency."}, {"term": "EPO", "meaning": "Erythropoietin, which stimulates red blood cell production."}, {"term": "Interferon", "meaning": "A signaling protein used in some antiviral and cancer treatments."}, {"term": "Clotting factor", "meaning": "A blood protein required for normal coagulation."}],
+    "interaction": {"type": "mcq", "q": "Which recombinant protein is used to stimulate red blood cell production?", "options": ["EPO", "Factor VIII", "hGH", "Insulin"], "answer": 0, "explanation": "Erythropoietin stimulates red blood cell production and is used for some forms of anemia."}
+  },
+  {
+    "page": 113,
+    "title": "Recombinant Vaccines",
+    "explain": "Recombinant vaccines present selected pathogen material without using the complete infectious pathogen. Types shown include subunit, virus-like particle, and recombinant vector vaccines. The hepatitis B vaccine uses HBsAg produced in yeast.",
+    "mustKnow": ["Recombinant vaccine types include subunit, VLP, and vector vaccines.", "The hepatitis B vaccine is based on HBsAg.", "HBsAg is produced in yeast and is non-infectious.", "The recombinant hepatitis B vaccine was approved in 1986."],
+    "terms": [{"term": "Subunit vaccine", "meaning": "A vaccine containing selected pathogen components."}, {"term": "VLP", "meaning": "Virus-like particle that resembles a virus but lacks infectious genetic material."}, {"term": "HBsAg", "meaning": "Hepatitis B surface antigen used in the vaccine."}, {"term": "Recombinant vector vaccine", "meaning": "A vaccine using an engineered carrier to deliver antigen information."}],
+    "interaction": {"type": "mcq", "q": "What antigen is used in the recombinant hepatitis B vaccine?", "options": ["EPO", "HBsAg", "Factor VIII", "Cry toxin"], "answer": 1, "explanation": "The vaccine is based on hepatitis B surface antigen, HBsAg, produced in yeast."}
+  },
+  {
+    "page": 114,
+    "title": "Monoclonal Antibodies and Biologics",
+    "explain": "Monoclonal antibodies are engineered biologic molecules designed to bind specific targets. Their production commonly uses mammalian cells because complex antibody proteins require cellular processing and folding. The slide points to therapeutic applications involving targets such as HER2 and diseases such as RSV infection.",
+    "mustKnow": ["Monoclonal antibodies bind specific targets.", "They are produced using genetic engineering.", "Mammalian cells are commonly required for proper production of complex antibodies.", "Therapeutic antibodies have applications against disease-associated targets."],
+    "terms": [{"term": "Monoclonal antibody", "meaning": "A uniform antibody population directed against one target."}, {"term": "Biologic", "meaning": "A therapeutic product made using living systems."}, {"term": "HER2", "meaning": "Human epidermal growth factor receptor 2, a therapeutic target."}, {"term": "RSV", "meaning": "Respiratory syncytial virus."}],
+    "interaction": {"type": "mcq", "q": "Why are mammalian cells commonly used to produce therapeutic monoclonal antibodies?", "options": ["Antibodies are simple DNA molecules", "They support production and processing of complex antibody proteins", "They make antibiotic selection unnecessary", "They convert antibodies into plasmids"], "answer": 1, "explanation": "Complex antibodies need suitable folding and cellular processing, which mammalian expression systems provide."}
+  },
+  {
+    "page": 115,
+    "title": "Gene Therapy Strategies",
+    "explain": "Gene therapy introduces functional genetic material into a person's cells to restore function or reduce disease. It can replace a defective gene, add a useful gene, silence a harmful gene, or directly edit a mutation.",
+    "mustKnow": ["Gene replacement supplies a functional version of a defective gene.", "Gene addition provides a new useful function.", "Gene silencing reduces harmful expression.", "Gene editing corrects DNA at the mutation level."],
+    "terms": [{"term": "Gene therapy", "meaning": "Treatment based on changing or supplying genetic material in a patient's cells."}, {"term": "Gene silencing", "meaning": "Reduction or prevention of expression of a harmful gene."}, {"term": "siRNA", "meaning": "Small RNA that can reduce expression of a target gene."}, {"term": "CRISPR", "meaning": "A genome-editing system that can make targeted DNA changes."}],
+    "interaction": {"type": "mcq", "q": "Which strategy directly corrects a mutation in DNA?", "options": ["Gene editing", "Protein staining", "Antibiotic selection", "Affinity washing"], "answer": 0, "explanation": "Gene editing, including CRISPR-based approaches, changes the DNA sequence itself."}
+  },
+  {
+    "page": 116,
+    "title": "Examples of Gene Therapy",
+    "explain": "The slide contrasts three applications: in vivo gene addition for spinal muscular atrophy, ex vivo gene editing for sickle cell disease, and engineered immune cells in CAR-T therapy. Editing the BCL11A enhancer can restore fetal hemoglobin and reduce sickling.",
+    "mustKnow": ["SMA is shown as in vivo gene addition.", "Sickle cell treatment is shown as ex vivo gene editing.", "CAR-T therapy uses engineered immune cells.", "BCL11A enhancer editing can increase fetal hemoglobin."],
+    "terms": [{"term": "In vivo", "meaning": "Treatment performed directly inside the body."}, {"term": "Ex vivo", "meaning": "Cells are modified outside the body and then returned."}, {"term": "CAR-T", "meaning": "T cells engineered to express a chimeric antigen receptor."}, {"term": "BCL11A", "meaning": "A regulator whose enhancer can be edited to reactivate fetal hemoglobin."}],
+    "interaction": {"type": "mcq", "q": "Which example uses engineered immune cells?", "options": ["SMA gene addition", "CAR-T therapy", "Golden rice", "Bt crops"], "answer": 1, "explanation": "CAR-T therapy genetically engineers T cells to recognize selected targets."}
+  },
+  {
+    "page": 117,
+    "title": "Genetic Engineering in Agriculture",
+    "explain": "Crop genomes can be modified for pest and disease resistance, tolerance to drought or salinity, improved nutrition, higher yield, and better quality. The intended benefits include food production, reduced chemical inputs, and improved stress tolerance.",
+    "mustKnow": ["Biotic stress includes pests and pathogens.", "Abiotic stress includes drought, salinity, heat, and cold.", "Nutritional traits can increase vitamins, amino acids, or minerals.", "Crop engineering can target yield and shelf life."],
+    "terms": [{"term": "Biotic stress", "meaning": "Stress caused by living agents such as pests or pathogens."}, {"term": "Abiotic stress", "meaning": "Stress caused by nonliving factors such as drought or heat."}, {"term": "Trait", "meaning": "A measurable characteristic of an organism."}, {"term": "Sustainable agriculture", "meaning": "Food production designed for long-term resource and environmental viability."}],
+    "interaction": {"type": "mcq", "q": "Which is an abiotic stress?", "options": ["Fungal infection", "Insect feeding", "Drought", "Bacterial disease"], "answer": 2, "explanation": "Drought is a nonliving environmental condition, so it is an abiotic stress."}
+  },
+  {
+    "page": 118,
+    "title": "Bt Crops",
+    "explain": "Bt crops express Cry insecticidal proteins from Bacillus thuringiensis. These proteins protect against specific insect pests, potentially reducing chemical insecticide use. Concerns include insect resistance, non-target effects, gene flow, and biosafety.",
+    "mustKnow": ["Bt refers to Bacillus thuringiensis.", "Cry proteins provide insect resistance.", "The protection is directed against specific target pests.", "Resistance management is needed to slow evolution of resistant insects."],
+    "terms": [{"term": "Bt crop", "meaning": "A crop engineered to express an insecticidal Bt protein."}, {"term": "Cry toxin", "meaning": "An insecticidal protein produced by Bacillus thuringiensis."}, {"term": "Non-target organism", "meaning": "An organism not intended to be affected by the engineered trait."}, {"term": "Gene flow", "meaning": "Movement of genes between populations, such as through pollen."}],
+    "interaction": {"type": "mcq", "q": "What molecule gives Bt crops their insect-resistant property?", "options": ["HBsAg", "Cry protein", "EPO", "Imidazole"], "answer": 1, "explanation": "Bt crops express Cry insecticidal proteins derived from Bacillus thuringiensis."}
+  },
+  {
+    "page": 119,
+    "title": "Golden Rice",
+    "explain": "Golden rice is engineered so that its endosperm produces beta-carotene, a provitamin A compound. Introducing genes activates the carotenoid pathway in the grain, producing the golden color and aiming to reduce vitamin A deficiency.",
+    "mustKnow": ["Golden rice accumulates beta-carotene.", "Beta-carotene is provitamin A.", "Production occurs in the rice endosperm.", "This is nutritional biofortification."],
+    "terms": [{"term": "Beta-carotene", "meaning": "A carotenoid that the body can convert to vitamin A."}, {"term": "Endosperm", "meaning": "The nutrient-rich storage tissue of a seed."}, {"term": "Biofortification", "meaning": "Increasing the nutritional content of a food crop."}, {"term": "Carotenoid pathway", "meaning": "A biochemical pathway that produces carotenoid pigments."}],
+    "interaction": {"type": "mcq", "q": "Which nutrient precursor accumulates in Golden Rice?", "options": ["Beta-carotene", "Factor IX", "Methane", "Imidazole"], "answer": 0, "explanation": "Golden Rice endosperm accumulates beta-carotene, which is a precursor of vitamin A."}
+  },
+  {
+    "page": 120,
+    "title": "Crop Improvement Traits",
+    "explain": "The slide compares ordinary and engineered crops across six traits: herbicide tolerance, disease resistance, improved nutrition, abiotic-stress tolerance, delayed ripening, and improved yield or quality.",
+    "mustKnow": ["Herbicide-tolerant plants survive the relevant herbicide.", "Disease resistance targets pathogens.", "Delayed ripening can extend shelf life.", "Abiotic-stress tolerance can cover drought, heat, cold, or salinity."],
+    "terms": [{"term": "Herbicide tolerance", "meaning": "Ability of a crop to survive application of a herbicide."}, {"term": "Delayed ripening", "meaning": "Slower maturation that can extend storage life."}, {"term": "Nutritional quality", "meaning": "Content of useful nutrients such as vitamins or amino acids."}],
+    "interaction": {"type": "mcq", "q": "Which engineered trait most directly extends the storage life of fruit?", "options": ["Delayed ripening", "Herbicide tolerance", "Disease susceptibility", "Faster protein migration"], "answer": 0, "explanation": "Delayed ripening slows softening and can increase shelf life."}
+  },
+  {
+    "page": 121,
+    "title": "Industrial Genetic Engineering",
+    "explain": "Engineered organisms can manufacture food-processing proteins, industrial enzymes, bio-based chemicals, fuels, and materials. Examples include chymosin, lactase, amylase, protease, lipase, amino acids, vitamins, ethanol, and bioplastics.",
+    "mustKnow": ["Chymosin and lactase are food-biotechnology examples.", "Amylase, protease, and lipase are industrial enzymes.", "Ethanol and bioplastics are bioproducts.", "Advantages include yield, consistency, scalability, and lower cost."],
+    "terms": [{"term": "Chymosin", "meaning": "An enzyme used in cheese production."}, {"term": "Lactase", "meaning": "An enzyme that breaks down lactose."}, {"term": "Bioplastic", "meaning": "Plastic made partly or fully from biological resources."}, {"term": "Scalable", "meaning": "Capable of being expanded to larger production volumes."}],
+    "interaction": {"type": "mcq", "q": "Which is listed as an industrial enzyme?", "options": ["Amylase", "HBsAg", "BCL11A", "Factor VIII"], "answer": 0, "explanation": "Amylase, protease, and lipase are the industrial enzyme examples on the slide."}
+  },
+  {
+    "page": 122,
+    "title": "Environmental Applications",
+    "explain": "Environmental genetic engineering applications include bioremediation, wastewater treatment, biosensors, and sustainable bioprocesses. The shared aim is to use biological systems to detect, remove, or reduce environmental burdens.",
+    "mustKnow": ["Bioremediation uses organisms or biological activity to address pollutants.", "Wastewater treatment removes contaminants from water.", "Biosensors detect selected substances.", "Sustainable bioprocesses aim to reduce environmental cost."],
+    "terms": [{"term": "Bioremediation", "meaning": "Use of biological systems to remove or transform pollutants."}, {"term": "Biosensor", "meaning": "A device using a biological component to detect a target."}, {"term": "Bioprocess", "meaning": "A production or treatment process based on cells, enzymes, or other biological systems."}],
+    "interaction": {"type": "tap", "label": "Environmental uses: bioremediation, wastewater treatment, biosensors, and sustainable bioprocesses."}
+  },
+  {
+    "page": 123,
+    "title": "Engineered Plants and Disease Protection",
+    "explain": "The slide shows genetically modified peach and apple trees growing in laboratory culture and wheat seeds treated with bacteria to make them nearly immune to a fungal disease. Both images illustrate agricultural biotechnology.",
+    "mustKnow": ["Plant material can be grown under laboratory conditions.", "Biotechnology can be used to improve resistance to fungal disease.", "The examples involve fruit trees and wheat."],
+    "terms": [{"term": "Plant tissue culture", "meaning": "Growth of plant cells or tissues under controlled laboratory conditions."}, {"term": "Fungal disease", "meaning": "Plant disease caused by a fungus."}, {"term": "Disease resistance", "meaning": "Ability to prevent or limit disease caused by a pathogen."}],
+    "interaction": {"type": "mcq", "q": "What problem is the treated wheat example intended to address?", "options": ["Fungal disease", "Vitamin A deficiency", "Protein purification", "Blood clotting"], "answer": 0, "explanation": "The caption states that bacteria were used to make the wheat seeds nearly immune to a fungal disease."}
+  },
+  {
+    "page": 124,
+    "title": "Knockout and Fluorescent Mice",
+    "explain": "One comparison shows a normal mouse and a mouse in which a hair-growth gene was knocked out, producing a hairless phenotype. The other shows mice engineered to express enhanced green fluorescent protein, causing fluorescence.",
+    "mustKnow": ["A gene knockout disables a selected gene.", "Knocking out a hair-growth gene changes the mouse phenotype.", "GFP expression makes engineered mice fluorescent.", "Genetic modification can remove function or add expression."],
+    "terms": [{"term": "Gene knockout", "meaning": "Targeted disabling of a gene."}, {"term": "Phenotype", "meaning": "An observable characteristic produced by genotype and environment."}, {"term": "GFP", "meaning": "Green fluorescent protein used as a visible marker."}, {"term": "Expression", "meaning": "Use of gene information to produce an RNA or protein product."}],
+    "interaction": {"type": "mcq", "q": "Why is one mouse in the first image hairless?", "options": ["It expresses HBsAg", "A hair-growth gene was knocked out", "It was treated with imidazole", "It contains Bt toxin"], "answer": 1, "explanation": "The slide states that the hairless mouse has a knocked-out gene affecting hair growth."}
+  },
+  {
+    "page": 125,
+    "title": "Genetically Modified Bacteria",
+    "explain": "Bacteria are common GMOs because their DNA is relatively easy to manipulate. The slide gives engineered fuel and material examples: cyanobacteria producing polyethylene or butanol and E. coli producing diesel fuel.",
+    "mustKnow": ["Bacteria are widely used because they are comparatively easy to engineer.", "Engineered microbes can produce hydrocarbons.", "Cyanobacteria are shown producing plastic or butanol.", "E. coli is shown producing diesel fuel."],
+    "terms": [{"term": "GMO", "meaning": "An organism whose genetic material has been deliberately modified."}, {"term": "Cyanobacteria", "meaning": "Photosynthetic bacteria."}, {"term": "Hydrocarbon", "meaning": "A compound made only of hydrogen and carbon, common in fuels and plastics."}, {"term": "Butanol", "meaning": "An alcohol that can be used as a fuel."}],
+    "interaction": {"type": "mcq", "q": "Which engineered organism is listed as producing diesel fuel?", "options": ["E. coli", "Rice", "Goat", "Mouse"], "answer": 0, "explanation": "The slide identifies engineered E. coli as a producer of diesel fuel."}
+  },
+  {
+    "page": 126,
+    "title": "Why Engineer Plants?",
+    "explain": "This transition slide asks how plant engineering could address practical problems such as hunger, harsh weather, and insecticide pollution. It introduces the following crop examples rather than presenting a detailed mechanism.",
+    "mustKnow": ["Plant engineering can target food supply.", "It can target weather-related stress.", "It can reduce dependence on insecticides."],
+    "terms": [{"term": "Crop engineering", "meaning": "Genetic modification of crop plants to introduce useful traits."}, {"term": "Insecticide pollution", "meaning": "Environmental contamination caused by chemicals used to kill insects."}],
+    "interaction": {"type": "tap", "label": "Plant engineering targets food supply, environmental stress, and reduced insecticide use."}
+  },
+  {
+    "page": 127,
+    "title": "GM Crop Adoption and Bt Corn",
+    "explain": "The slide reports high US adoption percentages for GM soybean, cotton, corn, and sugar beet in 2010. Bt corn contains a bacterial gene that makes an insecticidal protein active against certain insects.",
+    "mustKnow": ["Bt corn carries a gene from Bt bacteria.", "The resulting protein is toxic to certain insects.", "The slide states that the protein is not poisonous to humans.", "The displayed adoption figures refer to the US in 2010."],
+    "terms": [{"term": "Bt corn", "meaning": "Corn engineered to produce a Bacillus thuringiensis insecticidal protein."}, {"term": "Adoption rate", "meaning": "The proportion of crop production using a technology or trait."}, {"term": "Specificity", "meaning": "Activity directed toward particular targets rather than all organisms."}],
+    "interaction": {"type": "mcq", "q": "What does the introduced Bt gene cause corn to produce?", "options": ["An insecticidal protein", "Human insulin", "Fetal hemoglobin", "Spider silk"], "answer": 0, "explanation": "The Bt gene makes the corn produce a protein that is poisonous to certain insect pests."}
+  },
+  {
+    "page": 128,
+    "title": "Edible Vaccines and Insect-Resistant Cabbage",
+    "explain": "Two proposed plant applications are shown. A modified virus introduced into a banana sapling causes bananas to contain viral proteins, while adding scorpion genes to cabbage is presented as a way to deter insect feeding.",
+    "mustKnow": ["The banana example aims to produce viral proteins in fruit.", "The cabbage example aims to prevent insect feeding.", "Both examples add a new biological function to a plant."],
+    "terms": [{"term": "Edible vaccine", "meaning": "A vaccine antigen produced in an edible plant tissue."}, {"term": "Viral protein", "meaning": "A protein encoded by a virus that can serve as an antigen."}, {"term": "Transgene", "meaning": "A gene introduced into an organism by genetic engineering."}],
+    "interaction": {"type": "mcq", "q": "In the banana example, what is intended to accumulate in the fruit?", "options": ["Virus proteins", "Diesel fuel", "Clotting factors", "Imidazole"], "answer": 0, "explanation": "The slide states that the modified banana plant produces fruit containing viral proteins."}
+  },
+  {
+    "page": 129,
+    "title": "Reasons to Modify Crops",
+    "explain": "Crop modification can aim for insect, herbicide, drought, freeze, or disease resistance; higher yield; faster growth; improved nutrition; or longer shelf life. Golden rice is repeated as an example of beta-carotene enrichment.",
+    "mustKnow": ["Resistance traits can target organisms, chemicals, or weather.", "Yield and growth rate can be modified.", "Nutrition and shelf life are also targets.", "Golden rice produces beta-carotene."],
+    "terms": [{"term": "Herbicide resistance", "meaning": "Ability to survive a herbicide that would kill a sensitive plant."}, {"term": "Shelf life", "meaning": "Time a product remains usable or acceptable during storage."}, {"term": "Fortified food", "meaning": "Food with increased nutritional value."}],
+    "interaction": {"type": "mcq", "q": "Golden rice was designed to synthesize which compound?", "options": ["Beta-carotene", "Methane", "GFP", "Lactase"], "answer": 0, "explanation": "Beta-carotene is a precursor of vitamin A and is the nutritional target in Golden Rice."}
+  },
+  {
+    "page": 130,
+    "title": "Engineering Animals",
+    "explain": "This transition slide introduces the idea that animals can be genetically modified to solve practical problems. The following slides provide examples involving imaging, growth, emissions, and material production.",
+    "mustKnow": ["Animals can be genetically engineered.", "Engineered traits can serve research or practical applications.", "The slide introduces examples rather than a specific mechanism."],
+    "terms": [{"term": "Transgenic animal", "meaning": "An animal carrying introduced genetic material."}, {"term": "Animal biotechnology", "meaning": "Use of biological engineering methods in animals."}],
+    "interaction": {"type": "tap", "label": "The next examples apply genetic engineering to animals for research, production, and practical traits."}
+  },
+  {
+    "page": 131,
+    "title": "Bioluminescent and Fluorescent Animals",
+    "explain": "Light-producing or fluorescent markers can be used for protein tracking and disease detection by imaging particular cells. The slide also notes novelty pets such as GloFish and shows mice expressing enhanced GFP.",
+    "mustKnow": ["Fluorescent markers can track proteins or cells.", "Bioluminescent imaging can help detect disease-related cells.", "GFP is a visible biological marker.", "GloFish are a novelty-pet application."],
+    "terms": [{"term": "Bioluminescence", "meaning": "Light production by a living system through a chemical reaction."}, {"term": "BLI", "meaning": "Bioluminescent imaging used to visualize labeled biological activity."}, {"term": "GFP", "meaning": "Green fluorescent protein used to label cells or proteins."}, {"term": "Protein tracking", "meaning": "Following the location or movement of a protein using a detectable marker."}],
+    "interaction": {"type": "mcq", "q": "Which application uses a light-emitting marker to locate selected cells?", "options": ["Bioluminescent imaging", "Antibiotic selection", "Ni-NTA washing", "Restriction digestion"], "answer": 0, "explanation": "BLI detects labeled cells or biological activity through emitted light."}
+  },
+  {
+    "page": 132,
+    "title": "Fast-Growing Salmon and Lower-Methane Cattle",
+    "explain": "The salmon example uses genes from two other fish to maintain growth-hormone production and accelerate growth. The cattle example proposes modifying methane-producing bacteria to reduce methane output by about 25%.",
+    "mustKnow": ["The salmon carries genes from two other fish.", "The engineered salmon continually produces growth hormone.", "The cattle example targets methane-producing bacteria.", "The stated reduction in methane is 25%."],
+    "terms": [{"term": "Growth hormone", "meaning": "A hormone that promotes body growth."}, {"term": "Methane", "meaning": "A greenhouse gas produced during microbial digestion in cattle."}, {"term": "Microbiome", "meaning": "The community of microorganisms living in a particular environment."}],
+    "interaction": {"type": "mcq", "q": "What is directly modified in the lower-methane cattle example?", "options": ["Methane-producing bacteria", "The cattle's hair-growth gene", "Rice endosperm", "A Ni-NTA column"], "answer": 0, "explanation": "The slide says that bacteria responsible for methane production are modified."}
+  },
+  {
+    "page": 133,
+    "title": "Spider-Silk-Producing Goats",
+    "explain": "The slide presents goats carrying spider genes so that spider-silk protein can be produced in goat milk. This uses an animal as a biological production system for a useful material.",
+    "mustKnow": ["Spider genes are introduced into goats.", "The target product is spider silk.", "The silk protein is produced in goat milk.", "The animal acts as a production host."],
+    "terms": [{"term": "Spider silk", "meaning": "A strong protein-based fiber naturally produced by spiders."}, {"term": "Production host", "meaning": "An organism used to manufacture a desired biological product."}, {"term": "Transgenic goat", "meaning": "A goat carrying an introduced gene."}],
+    "interaction": {"type": "mcq", "q": "Where is spider-silk protein produced in the example?", "options": ["Goat milk", "Rice grain", "Bacterial agar", "Human blood"], "answer": 0, "explanation": "The introduced spider genes direct production of spider-silk protein in goat milk."}
+  },
+  {
+    "page": 134,
+    "title": "Concerns About GMOs",
+    "explain": "The slide lists possible concerns involving food safety, environmental and wildlife harm, pesticide or herbicide use, farmer health, seed and pollen drift, and herbicide-resistant weeds. It also notes regulation, bans, and labeling requirements in many countries.",
+    "mustKnow": ["Health and environmental safety are major concern categories.", "Seed and pollen drift can move engineered genes.", "Herbicide-resistant weeds are a stated concern.", "Countries differ in restrictions and labeling rules."],
+    "terms": [{"term": "Pollen drift", "meaning": "Movement of pollen away from the intended crop area."}, {"term": "Superweed", "meaning": "Informal term for a weed with strong herbicide resistance."}, {"term": "GMO labeling", "meaning": "Identification of products containing genetically modified ingredients."}, {"term": "Risk assessment", "meaning": "Systematic evaluation of possible hazards and their likelihood."}],
+    "interaction": {"type": "mcq", "q": "Which process can move an engineered crop gene to another population?", "options": ["Pollen drift", "SDS denaturation", "Protein elution", "Cell lysis"], "answer": 0, "explanation": "Pollen can carry genes between plant populations, producing gene flow."}
+  },
+  {
+    "page": 135,
+    "title": "Biosafety, Ethics, and Regulation",
+    "explain": "Genetic engineering must be evaluated for unintended effects, off-target changes, laboratory and release risks, germline editing, consent, fairness, misuse, gene flow, and ecosystem effects. Regulation involves safety testing, approval, and monitoring.",
+    "mustKnow": ["Off-target changes are a biosafety issue.", "Germline editing creates heritable changes.", "Environmental review includes non-target organisms and biodiversity.", "Regulation includes pre-use testing and post-release monitoring."],
+    "terms": [{"term": "Off-target change", "meaning": "An unintended genetic alteration outside the intended site."}, {"term": "Germline editing", "meaning": "Editing reproductive-line DNA so a change can be inherited."}, {"term": "Informed consent", "meaning": "Voluntary agreement based on adequate understanding."}, {"term": "Post-release monitoring", "meaning": "Continued observation after environmental or commercial release."}],
+    "interaction": {"type": "mcq", "q": "Which type of editing can pass a genetic change to future generations?", "options": ["Germline editing", "SDS-PAGE", "Affinity purification", "Colony selection"], "answer": 0, "explanation": "Germline changes can enter eggs or sperm and therefore may be inherited."}
+  },
+  {
+    "page": 136,
+    "title": "Advantages and Challenges",
+    "explain": "Genetic engineering can precisely modify traits, produce recombinant products, improve crops, and support treatment of genetic disease. Its challenges include unintended effects, difficult delivery, cost, regulation, ethics, and uncertain long-term effects.",
+    "mustKnow": ["Precision and useful-product production are key advantages.", "Delivery of genetic material can be difficult.", "Development and production can be costly.", "Long-term health and environmental effects may require monitoring."],
+    "terms": [{"term": "Delivery", "meaning": "Getting genetic material into the required cells or tissues."}, {"term": "Unintended effect", "meaning": "A result that was not the goal of the modification."}, {"term": "Monitoring", "meaning": "Repeated observation to detect effects over time."}],
+    "interaction": {"type": "mcq", "q": "Which is identified as a challenge of genetic engineering?", "options": ["Difficult delivery of genetic material", "Guaranteed absence of off-target effects", "No development cost", "No need for regulation"], "answer": 0, "explanation": "Efficiently delivering genetic material remains difficult in several human and plant applications."}
+  },
+  {
+    "page": 137,
+    "title": "Future of Genetic Engineering",
+    "explain": "Future directions include more precise base and prime editing, improved CRISPR systems, personalized medicine, synthetic biology, engineered therapeutic cells, and organisms that make greener fuels, chemicals, and materials.",
+    "mustKnow": ["Base and prime editing aim for greater precision.", "Personalized medicine uses individual genetic information.", "Synthetic biology designs biological systems and circuits.", "Sustainable biotechnology targets greener products and crops."],
+    "terms": [{"term": "Base editing", "meaning": "Targeted conversion of one DNA base into another without a standard double-strand break."}, {"term": "Prime editing", "meaning": "A targeted editing method capable of writing selected DNA changes."}, {"term": "Personalized medicine", "meaning": "Treatment adapted to an individual's biological or genetic features."}, {"term": "Synthetic biology", "meaning": "Design and construction of new biological systems or functions."}],
+    "interaction": {"type": "mcq", "q": "Which future direction focuses on treatments based on individual genetics?", "options": ["Personalized medicine", "SDS-PAGE", "Wastewater treatment", "Antibiotic selection"], "answer": 0, "explanation": "Personalized medicine tailors therapy using an individual's genetic information."}
+  },
+  {
+    "page": 138,
+    "title": "Biological Motors",
+    "explain": "This title slide begins the lecture on biological motors. The topic is how molecular systems convert energy into directed motion or other cellular work.",
+    "mustKnow": ["The new lecture topic is biological motors.", "The course is SBL100.", "The lecture is presented by Prof. Anita Roy."],
+    "terms": [{"term": "Biological motor", "meaning": "A biological system that converts energy into motion or other work."}],
+    "interaction": {"type": "tap", "label": "New unit: biological motors convert energy into cellular work."}
+  },
+  {
+    "page": 139,
+    "title": "What Is a Motor?",
+    "explain": "A conventional motor converts electrical energy into mechanical energy. The lecture broadens the definition to include devices that convert chemical energy into mechanical energy, which is the relevant idea for molecular motors.",
+    "mustKnow": ["Conventional motors convert electrical to mechanical energy.", "Biological motors can convert chemical to mechanical energy.", "Faraday and Tesla are mentioned in the historical introduction."],
+    "terms": [{"term": "Mechanical energy", "meaning": "Energy associated with motion or force."}, {"term": "Chemical energy", "meaning": "Energy stored in chemical bonds and concentration differences."}, {"term": "Induction motor", "meaning": "An electric motor design associated on the slide with Nikola Tesla."}],
+    "interaction": {"type": "mcq", "q": "What energy conversion is central to biological molecular motors?", "options": ["Chemical to mechanical", "Mechanical to nuclear", "Light to genetic", "Thermal to antibiotic"], "answer": 0, "explanation": "Biological motors use chemical energy to generate directed motion or mechanical work."}
+  },
+  {
+    "page": 140,
+    "title": "Cells Need Continuous Energy Input",
+    "explain": "Thermodynamics determines whether reactions are energetically favorable. Many necessary cellular reactions are unfavorable on their own, so cells must supply additional energy obtained from the environment. Energy generation and use are therefore fundamental to cell biology.",
+    "mustKnow": ["Thermodynamics governs chemical equilibrium.", "Some required cellular reactions are energetically unfavorable.", "Unfavorable processes require energy input.", "Cells continually obtain and use metabolic energy."],
+    "terms": [{"term": "Chemical equilibrium", "meaning": "A state with no net change in reactant and product concentrations."}, {"term": "Energetically favorable", "meaning": "Able to proceed in the favored direction under the stated conditions."}, {"term": "Metabolic energy", "meaning": "Energy captured and used through cellular chemical reactions."}],
+    "interaction": {"type": "mcq", "q": "Why must cells continually expend energy?", "options": ["Many required reactions are energetically unfavorable", "All cellular reactions are already at equilibrium", "Proteins contain no chemical bonds", "Cells must eliminate all molecular motion"], "answer": 0, "explanation": "Energy input allows necessary unfavorable reactions and processes to proceed."}
+  },
+  {
+    "page": 141,
+    "title": "Life Operates Out of Equilibrium",
+    "explain": "Living cells maintain ordered structures, unequal chemical concentrations, and spatial charge differences. These conditions are not equilibrium states and require continuous energy use. Molecular machines create and maintain them by converting one store of free energy into another.",
+    "mustKnow": ["Living order requires a nonequilibrium state.", "Cells maintain concentration and charge differences.", "Proton pumps help maintain acidic lysosomal pH.", "Molecular machines transduce nonequilibrium free energy."],
+    "terms": [{"term": "Nonequilibrium", "meaning": "A state maintained away from thermodynamic equilibrium."}, {"term": "Free energy", "meaning": "Energy available to perform work under given conditions."}, {"term": "Proton pump", "meaning": "A protein that moves H+ across a membrane."}, {"term": "Energy transduction", "meaning": "Conversion of energy from one form or reservoir to another."}],
+    "interaction": {"type": "mcq", "q": "What maintains the acidic pH of lysosomes in the example?", "options": ["Proton pumps", "DNA sequencing", "Bt toxins", "Antibiotic markers"], "answer": 0, "explanation": "Proton pumps use energy to maintain a nonequilibrium H+ concentration across the lysosomal membrane."}
+  },
+  {
+    "page": 142,
+    "title": "Why Molecular Motors Are Different",
+    "explain": "Molecular motors work at nanometer scale in water, where viscosity, Brownian motion, and stochastic behavior matter. Their activity depends strongly on temperature and pH, relies on noncovalent interactions, and uses internal molecular dynamics rather than rigid macroscopic parts.",
+    "mustKnow": ["Molecular motors operate at nanometer scale.", "They work in aqueous, low-Reynolds-number conditions.", "Brownian motion makes their environment stochastic.", "Their operation depends on noncovalent interactions, temperature, and pH."],
+    "terms": [{"term": "Brownian motion", "meaning": "Random movement caused by collisions with surrounding molecules."}, {"term": "Low Reynolds number", "meaning": "A regime where viscous forces dominate over inertia."}, {"term": "Noncovalent interaction", "meaning": "A reversible interaction such as hydrogen bonding or electrostatic attraction."}, {"term": "Stochastic", "meaning": "Involving random variation or probability."}],
+    "interaction": {"type": "mcq", "q": "Which feature characterizes the environment of molecular motors?", "options": ["Low Reynolds number and Brownian motion", "Vacuum and high inertia", "No temperature dependence", "Only rigid covalent parts"], "answer": 0, "explanation": "At molecular scale in water, viscous effects and random molecular collisions dominate."}
+  },
+  {
+    "page": 143,
+    "title": "Molecular Motors Convert Energy",
+    "explain": "A molecular motor is a complex of biological macromolecules that converts one form of energy into directed motion or another function. A major energy source is ATP hydrolysis to ADP and inorganic phosphate.",
+    "mustKnow": ["Molecular motors are macromolecular complexes.", "They convert energy into directed motion or function.", "ATP is a major energy source.", "ATP hydrolysis produces ADP and Pi."],
+    "terms": [{"term": "Macromolecule", "meaning": "A large biological molecule such as a protein or nucleic acid."}, {"term": "ATP", "meaning": "A cellular energy-carrying nucleotide."}, {"term": "Hydrolysis", "meaning": "Chemical bond cleavage involving water."}, {"term": "Pi", "meaning": "Inorganic phosphate released during ATP hydrolysis."}],
+    "interaction": {"type": "mcq", "q": "Which reaction commonly supplies energy to a molecular motor?", "options": ["ATP → ADP + Pi", "DNA → ATP + protein", "Glucose → plasmid", "ADP + Pi → amino acid"], "answer": 0, "explanation": "ATP hydrolysis releases usable free energy that can be coupled to motor activity."}
+  },
+  {
+    "page": 144,
+    "title": "Principle 1: ATP or GTP Energy",
+    "explain": "The first fundamental principle is that molecular motors use energy from ATP or GTP. ATPases catalyze ATP hydrolysis, while ATP synthase can make ATP. The slide gives a standard ATP-hydrolysis free-energy change of about -7.3 kcal/mol.",
+    "mustKnow": ["ATP and GTP can power molecular motors.", "ATPase catalyzes ATP hydrolysis.", "ATP synthase produces ATP.", "The displayed standard ΔG for ATP hydrolysis is negative."],
+    "terms": [{"term": "ATPase", "meaning": "An enzyme that catalyzes ATP hydrolysis."}, {"term": "ATP synthase", "meaning": "A molecular machine that synthesizes ATP."}, {"term": "ΔG", "meaning": "Change in Gibbs free energy for a process."}, {"term": "GTP", "meaning": "A guanine nucleotide that can provide energy similarly to ATP."}],
+    "interaction": {"type": "mcq", "q": "What does a negative ΔG for ATP hydrolysis indicate?", "options": ["The reaction releases free energy under the stated standard conditions", "ATP contains no usable energy", "The reaction cannot occur", "ATP is a structural protein"], "answer": 0, "explanation": "A negative free-energy change means the hydrolysis direction is energetically favorable under the stated conditions."}
+  },
+  {
+    "page": 145,
+    "title": "Principle 2: Conformational Change",
+    "explain": "Binding ATP, hydrolyzing it, and exchanging ADP for ATP can shift a protein between different three-dimensional states. Repeating this nucleotide-controlled cycle lets molecular motors convert chemical events into mechanical movement.",
+    "mustKnow": ["ATP- and ADP-bound forms can have different conformations.", "ATP hydrolysis changes the nucleotide state.", "ADP-to-ATP exchange resets the cycle.", "Repeated conformational changes can generate movement."],
+    "terms": [{"term": "Conformation", "meaning": "The three-dimensional shape of a protein."}, {"term": "Nucleotide exchange", "meaning": "Replacement of one bound nucleotide by another."}, {"term": "State A/State B", "meaning": "Simplified labels for two protein conformations."}, {"term": "Mechanochemical cycle", "meaning": "A repeating cycle coupling chemical changes to mechanical action."}],
+    "interaction": {"type": "mcq", "q": "What directly links nucleotide use to movement in a molecular motor?", "options": ["Protein conformational changes", "Permanent DNA deletion", "Antibiotic resistance", "GFP fluorescence"], "answer": 0, "explanation": "ATP/ADP binding states favor different protein shapes, and shape changes generate mechanical action."}
+  },
+  {
+    "page": 146,
+    "title": "Active and Inactive Conformations",
+    "explain": "The slide asks how strongly the active ATP/GTP-bound conformation differs from the inactive ADP/GDP-bound conformation and shows an overlaid protein structure. The highlighted regions indicate that nucleotide state can alter selected parts of a protein rather than rebuilding the whole protein.",
+    "mustKnow": ["ATP/GTP-bound states are labeled active.", "ADP/GDP-bound states are labeled inactive.", "Different nucleotide states can produce different protein conformations.", "The structural comparison is the focus of the linked animation."],
+    "terms": [{"term": "Active conformation", "meaning": "A protein shape associated here with ATP or GTP binding."}, {"term": "Inactive conformation", "meaning": "A protein shape associated here with ADP or GDP binding."}, {"term": "Structural overlay", "meaning": "Superposition of structures to reveal conformational differences."}],
+    "interaction": {"type": "mcq", "q": "Which nucleotide-bound state is labeled active on the slide?", "options": ["ATP/GTP-bound", "ADP/GDP-bound", "No-nucleotide only", "Pi-only"], "answer": 0, "explanation": "The slide explicitly contrasts active ATP/GTP-bound and inactive ADP/GDP-bound conformations."}
+  },
+  {
+    "page": 147,
+    "title": "Categories of Biological Motors",
+    "explain": "The lecture divides biological motors into four categories: polymerization motors, cytoskeletal motors, rotary motors, and nucleic-acid motors.",
+    "mustKnow": ["Polymerization motors are one category.", "Cytoskeletal motors are one category.", "Rotary motors are one category.", "Nucleic-acid motors are one category."],
+    "terms": [{"term": "Polymerization motor", "meaning": "A system in which polymer growth or shrinkage produces force or movement."}, {"term": "Cytoskeletal motor", "meaning": "A motor protein that acts with cytoskeletal filaments."}, {"term": "Rotary motor", "meaning": "A molecular machine that generates rotation."}, {"term": "Nucleic-acid motor", "meaning": "A motor that moves along or acts on DNA or RNA."}],
+    "interaction": {"type": "mcq", "q": "Which is NOT one of the four categories listed?", "options": ["Cytoskeletal motors", "Rotary motors", "Nucleic-acid motors", "Antibiotic motors"], "answer": 3, "explanation": "The listed groups are polymerization, cytoskeletal, rotary, and nucleic-acid motors."}
+  },
+  {
+    "page": 148,
+    "title": "The Cytoskeleton",
+    "explain": "The cytoskeleton is a dynamic three-dimensional network throughout the cytoplasm. It supports cell shape and protection, motility, cytokinesis, intracellular transport, cell division, and organelle organization. Its three major filament systems are actin microfilaments, intermediate filaments, and tubulin microtubules.",
+    "mustKnow": ["Microfilaments are made of actin.", "Microtubules are made of tubulin.", "Intermediate filaments are the third major system.", "The cytoskeleton supports shape, movement, division, and transport."],
+    "terms": [{"term": "Cytoskeleton", "meaning": "A dynamic network of protein filaments inside cells."}, {"term": "Microfilament", "meaning": "A thin cytoskeletal filament built from actin."}, {"term": "Microtubule", "meaning": "A hollow cytoskeletal polymer built from tubulin."}, {"term": "Cytokinesis", "meaning": "Physical division of one cell into two daughter cells."}],
+    "interaction": {"type": "mcq", "q": "Which pairing is correct?", "options": ["Microfilament—actin", "Microtubule—collagen", "Intermediate filament—DNA", "Microfilament—tubulin"], "answer": 0, "explanation": "Actin forms microfilaments, while tubulin forms microtubules."}
+  },
+  {
+    "page": 149,
+    "title": "Muscle Fibers and Striations",
+    "explain": "The slide introduces skeletal muscle structure by pairing a visible muscle with microscopic images of repeating striations. The regular banding reflects an ordered, repeating internal organization within muscle fibers.",
+    "mustKnow": ["Muscle fibers show repeated striations.", "Striations are visible as regular microscopic bands.", "The pattern indicates ordered internal organization."],
+    "terms": [{"term": "Muscle fiber", "meaning": "An elongated muscle cell specialized for contraction."}, {"term": "Striation", "meaning": "A repeating light-and-dark banding pattern in striated muscle."}, {"term": "Microscopy", "meaning": "Use of magnification to observe structures too small for the unaided eye."}],
+    "interaction": {"type": "mcq", "q": "What visual feature is emphasized in the microscopic muscle images?", "options": ["Repeating striations", "Green fluorescence", "Bacterial colonies", "Plasmid rings"], "answer": 0, "explanation": "The images show the regular banding pattern characteristic of striated muscle fibers."}
+  },
+  {
+    "page": 150,
+    "title": "Muscle Movement Animation",
+    "explain": "This slide contains a linked video following the introduction to muscle fibers and striations. Its role is to provide an animated view of the muscle-movement topic introduced on the previous slide.",
+    "mustKnow": ["The slide is a video resource.", "It follows the muscle fiber and striation introduction.", "The linked topic is muscle movement."],
+    "terms": [{"term": "Animation", "meaning": "A moving visual sequence used to demonstrate a process."}, {"term": "Muscle movement", "meaning": "Mechanical action produced by muscle contraction."}],
+    "interaction": {"type": "tap", "label": "This slide is the linked animation for the muscle-movement section."}
+  }
+]

@@ -1,0 +1,985 @@
+[
+  {
+    "page": 121,
+    "questions": [
+      {
+        "q": "Which product group is classified on the slide as bio-based chemicals?",
+        "options": [
+          "Amino acids, vitamins, and organic acids",
+          "Chymosin and lactase",
+          "Amylase, protease, and lipase",
+          "Ethanol and bioplastics"
+        ],
+        "answer": 0,
+        "explanation": "The slide groups amino acids, vitamins, and organic acids under bio-based chemicals."
+      }
+    ]
+  },
+  {
+    "page": 122,
+    "questions": [
+      {
+        "q": "Which environmental application uses engineered microbes to break down organic waste and remove toxins from water?",
+        "options": [
+          "Bioremediation",
+          "Wastewater treatment",
+          "Biosensing",
+          "Sustainable bioprocessing"
+        ],
+        "answer": 1,
+        "explanation": "The wastewater-treatment panel specifically shows engineered microbes breaking down organic waste and removing toxins."
+      }
+    ]
+  },
+  {
+    "page": 124,
+    "questions": [
+      {
+        "q": "In the GFP mouse group, which mouse is identified as normal?",
+        "options": [
+          "The left mouse",
+          "The right mouse",
+          "The middle mouse",
+          "All three mice"
+        ],
+        "answer": 2,
+        "explanation": "The caption identifies the middle mouse as normal and the two outer mice as expressing enhanced GFP."
+      }
+    ]
+  },
+  {
+    "page": 125,
+    "questions": [
+      {
+        "q": "Which fuel is shown as a photosynthetic byproduct of engineered cyanobacteria?",
+        "options": [
+          "Diesel",
+          "Methane",
+          "Ethanol",
+          "Butanol"
+        ],
+        "answer": 3,
+        "explanation": "The slide states that engineered cyanobacteria can produce polyethylene and butanol as byproducts of photosynthesis."
+      }
+    ]
+  },
+  {
+    "page": 127,
+    "questions": [
+      {
+        "q": "Which crop had the highest GM adoption percentage in the displayed 2010 US data?",
+        "options": [
+          "Sugar beets",
+          "Soybeans",
+          "Cotton",
+          "Corn"
+        ],
+        "answer": 0,
+        "explanation": "Sugar beets are listed at 95%, higher than soybeans and cotton at 93% and corn at 86%."
+      }
+    ]
+  },
+  {
+    "page": 128,
+    "questions": [
+      {
+        "q": "What introduced genetic material is associated with the insect-resistant cabbage example?",
+        "options": [
+          "A Bt bacterial gene",
+          "A scorpion gene",
+          "A modified viral genome",
+          "A spider gene"
+        ],
+        "answer": 1,
+        "explanation": "The cabbage example states that scorpion genes were added to prevent insects from eating the plant."
+      }
+    ]
+  },
+  {
+    "page": 129,
+    "questions": [
+      {
+        "q": "Which modification on the slide is aimed most directly at reducing post-harvest food loss?",
+        "options": [
+          "Higher yield",
+          "Faster growth",
+          "Longer shelf life",
+          "Herbicide resistance"
+        ],
+        "answer": 2,
+        "explanation": "Longer shelf life directly delays spoilage after harvesting."
+      }
+    ]
+  },
+  {
+    "page": 131,
+    "questions": [
+      {
+        "q": "Which named commercial example represents the novelty-pet use of fluorescence?",
+        "options": [
+          "Bt corn",
+          "Golden Rice",
+          "AquAdvantage salmon",
+          "GloFish"
+        ],
+        "answer": 3,
+        "explanation": "The slide names GloFish as fluorescent novelty pets."
+      }
+    ]
+  },
+  {
+    "page": 132,
+    "questions": [
+      {
+        "q": "What stated physiological change makes the engineered salmon grow faster?",
+        "options": [
+          "Continuous growth-hormone production",
+          "Reduced methane production",
+          "Enhanced GFP expression",
+          "Increased insulin secretion"
+        ],
+        "answer": 0,
+        "explanation": "Genes from two other fish cause the salmon to produce growth hormone continually."
+      }
+    ]
+  },
+  {
+    "page": 134,
+    "questions": [
+      {
+        "q": "Which listed GMO concern describes selection for weeds that survive herbicide treatment?",
+        "options": [
+          "Farmer health",
+          "Herbicide-resistant super weeds",
+          "Pollen drift",
+          "Food labeling"
+        ],
+        "answer": 1,
+        "explanation": "The slide explicitly lists creation of herbicide-resistant super weeds as a concern."
+      }
+    ]
+  },
+  {
+    "page": 135,
+    "questions": [
+      {
+        "q": "Which measure belongs to regulation rather than biosafety, ethics, or environmental concerns?",
+        "options": [
+          "Preventing gene flow to wild relatives",
+          "Ensuring equitable access",
+          "Monitoring after commercialization",
+          "Detecting off-target changes"
+        ],
+        "answer": 2,
+        "explanation": "Post-release or post-commercialization monitoring is listed under regulation."
+      },
+      {
+        "q": "Which concern is specifically environmental?",
+        "options": [
+          "Heritable germline changes",
+          "Laboratory-use risks",
+          "Informed consent",
+          "Effects on non-target organisms"
+        ],
+        "answer": 3,
+        "explanation": "Effects on non-target organisms are grouped with ecosystem and biodiversity impacts under environmental concerns."
+      }
+    ]
+  },
+  {
+    "page": 136,
+    "questions": [
+      {
+        "q": "Which listed advantage is the basis of producing enzymes, vaccines, and therapeutic proteins by genetic engineering?",
+        "options": [
+          "Recombinant-product production",
+          "Precise trait modification",
+          "Continued environmental monitoring",
+          "Reduced regulatory oversight"
+        ],
+        "answer": 0,
+        "explanation": "The advantages column explicitly lists production of useful recombinant proteins, enzymes, and vaccines."
+      }
+    ]
+  },
+  {
+    "page": 137,
+    "questions": [
+      {
+        "q": "Which future direction involves constructing new biological systems and circuits?",
+        "options": [
+          "Personalized medicine",
+          "Synthetic biology and engineered cells",
+          "Sustainable biotechnology",
+          "Prime editing"
+        ],
+        "answer": 1,
+        "explanation": "New biological systems and circuits are listed under synthetic biology and engineered cells."
+      },
+      {
+        "q": "Therapies selected using an individual's genetic information belong to which future direction?",
+        "options": [
+          "Sustainable biotechnology",
+          "Industrial fermentation",
+          "Personalized medicine",
+          "Environmental release monitoring"
+        ],
+        "answer": 2,
+        "explanation": "The personalized-medicine section describes therapies based on individual genetics and targeted disease treatment."
+      }
+    ]
+  },
+  {
+    "page": 140,
+    "questions": [
+      {
+        "q": "On the Gibbs-free-energy graph, which region represents an energetically favorable forward reaction?",
+        "options": [
+          "The region labeled ΔG > 0",
+          "The minimum only",
+          "Every point after equilibrium",
+          "The region labeled ΔG < 0"
+        ],
+        "answer": 3,
+        "explanation": "A negative Gibbs free-energy change indicates that forward progress is energetically favorable."
+      }
+    ]
+  },
+  {
+    "page": 141,
+    "questions": [
+      {
+        "q": "According to the slide, why can the ordered state of living systems not persist at equilibrium?",
+        "options": [
+          "The second law requires maximum disorder at equilibrium",
+          "Equilibrium prevents ATP binding",
+          "Equilibrium eliminates all molecular motion",
+          "The first law prohibits energy conversion"
+        ],
+        "answer": 0,
+        "explanation": "The slide links equilibrium with maximum disorder under the second law, so living order requires a nonequilibrium state."
+      },
+      {
+        "q": "What do molecular machines interconvert or transduce to maintain cellular nonequilibrium?",
+        "options": [
+          "Only electrical voltage",
+          "Stores of nonequilibrium free energy",
+          "Covalent bonds into atoms",
+          "Genetic information into equilibrium"
+        ],
+        "answer": 1,
+        "explanation": "They are described as macromolecular complexes that interconvert or transduce different reservoirs of nonequilibrium free energy."
+      }
+    ]
+  },
+  {
+    "page": 142,
+    "questions": [
+      {
+        "q": "Which interaction type is emphasized as governing molecular motors?",
+        "options": [
+          "Only covalent bonds",
+          "Nuclear fusion",
+          "Non-covalent interactions",
+          "Metallic bonding"
+        ],
+        "answer": 2,
+        "explanation": "The slide explicitly states that biological motors are governed by non-covalent interactions."
+      },
+      {
+        "q": "Which property distinguishes molecular motors from the macroscopic motors contrasted on the slide?",
+        "options": [
+          "They operate independently of temperature and pH",
+          "They are made only of rigid parts",
+          "They require a high-Reynolds-number gas",
+          "They rely on motion within the motor molecule"
+        ],
+        "answer": 3,
+        "explanation": "Molecular motors rely on molecular dynamics and operate under restricted aqueous, temperature, and pH conditions."
+      }
+    ]
+  },
+  {
+    "page": 143,
+    "questions": [
+      {
+        "q": "What kind of biological structure is defined as a molecular motor on this slide?",
+        "options": [
+          "A complex of biological macromolecules",
+          "A lipid monolayer",
+          "A single inorganic ion",
+          "A DNA base pair"
+        ],
+        "answer": 0,
+        "explanation": "The slide defines molecular motors as complexes of biological macromolecules."
+      }
+    ]
+  },
+  {
+    "page": 144,
+    "questions": [
+      {
+        "q": "What standard free-energy change for ATP hydrolysis is displayed on the slide?",
+        "options": [
+          "+7.3 kcal/mol",
+          "-7.3 kcal/mol",
+          "-73 kcal/mol",
+          "+0.73 kcal/mol"
+        ],
+        "answer": 1,
+        "explanation": "The displayed value is ΔG = -7.3 kcal/mol."
+      }
+    ]
+  },
+  {
+    "page": 145,
+    "questions": [
+      {
+        "q": "Which nucleotide-bound state is assigned to conformation B in the simplified motor cycle?",
+        "options": [
+          "ATP-bound",
+          "GTP-bound",
+          "ADP- and Pi-bound",
+          "Nucleotide-free only"
+        ],
+        "answer": 2,
+        "explanation": "ATP hydrolysis converts state A into the ADP/Pi-bound state B."
+      },
+      {
+        "q": "What directly links nucleotide chemistry to mechanical output in the model?",
+        "options": [
+          "A change in DNA sequence",
+          "Permanent cleavage of the motor",
+          "Diffusion of the entire cell",
+          "A change in protein conformation"
+        ],
+        "answer": 3,
+        "explanation": "ATP binding, hydrolysis, and exchange drive alternating protein conformations, which can produce motion."
+      }
+    ]
+  },
+  {
+    "page": 148,
+    "questions": [
+      {
+        "q": "Which function is NOT listed for the cytoskeleton on the slide?",
+        "options": [
+          "DNA replication",
+          "Cell shape",
+          "Intracellular transport",
+          "Organization of organelles"
+        ],
+        "answer": 0,
+        "explanation": "The slide lists shape, protection, motility, cytokinesis, transport, division, and organelle organization, but not DNA replication."
+      }
+    ]
+  },
+  {
+    "page": 152,
+    "questions": [
+      {
+        "q": "What approximate molecular mass is given for one G-actin subunit?",
+        "options": [
+          "5 kDa",
+          "43 kDa",
+          "11 kDa",
+          "130 kDa"
+        ],
+        "answer": 1,
+        "explanation": "The slide gives a G-actin subunit mass of 43 kDa."
+      },
+      {
+        "q": "Which factors are stated to have major roles in actin polymerization and depolymerization?",
+        "options": [
+          "DNA polymerase and sodium ions",
+          "Ribosomes and chloride ions",
+          "Actin-binding proteins and calcium ions",
+          "Histones and iron ions"
+        ],
+        "answer": 2,
+        "explanation": "The slide specifically identifies actin-binding proteins and calcium ions."
+      }
+    ]
+  },
+  {
+    "page": 154,
+    "questions": [
+      {
+        "q": "During actin elongation, which filament end grows faster?",
+        "options": [
+          "The minus end",
+          "Both ends at identical rates",
+          "Neither end",
+          "The plus end"
+        ],
+        "answer": 3,
+        "explanation": "The source diagram and companion identify elongation at both ends, with faster growth at the plus end."
+      }
+    ]
+  },
+  {
+    "page": 156,
+    "questions": [
+      {
+        "q": "What happens to ATP after ATP-G-actin is incorporated into the filament?",
+        "options": [
+          "It is hydrolyzed to ADP",
+          "It is converted to GTP",
+          "It remains permanently unmodified",
+          "It is released before incorporation"
+        ],
+        "answer": 0,
+        "explanation": "Filament-incorporated actin hydrolyzes its bound ATP, producing ADP-actin."
+      },
+      {
+        "q": "Which actin species dissociates more readily from a filament?",
+        "options": [
+          "ATP-actin",
+          "ADP-actin",
+          "GTP-actin",
+          "Calcium-free actin only"
+        ],
+        "answer": 1,
+        "explanation": "The slide's nucleotide-state comparison indicates that ADP-actin is less stably retained and dissociates more readily."
+      }
+    ]
+  },
+  {
+    "page": 157,
+    "questions": [
+      {
+        "q": "What does the critical concentration separate in actin dynamics?",
+        "options": [
+          "ATP synthesis from glycolysis",
+          "Myosin from kinesin motion",
+          "Net polymerization from net depolymerization",
+          "Thin filaments from thick filaments"
+        ],
+        "answer": 2,
+        "explanation": "Above or below the critical concentration, the balance shifts between net subunit addition and net subunit loss."
+      },
+      {
+        "q": "Why can an actin filament at steady state still be dynamic?",
+        "options": [
+          "Every actin subunit stops exchanging",
+          "The filament is covalently fixed",
+          "ATP hydrolysis ceases completely",
+          "Subunit addition and loss can continue at equal overall rates"
+        ],
+        "answer": 3,
+        "explanation": "Steady length can coexist with ongoing addition at one end and loss at the other."
+      }
+    ]
+  },
+  {
+    "page": 158,
+    "questions": [
+      {
+        "q": "Which sarcomere region contains thick filament but no thin-filament overlap?",
+        "options": [
+          "H zone",
+          "I band",
+          "Z line",
+          "Entire A band"
+        ],
+        "answer": 0,
+        "explanation": "The H zone is the central thick-filament-only region around the M line."
+      },
+      {
+        "q": "Where are thin actin filaments anchored in the sarcomere diagram?",
+        "options": [
+          "At the M line",
+          "At the Z lines",
+          "Only within the H zone",
+          "At the center of each thick filament"
+        ],
+        "answer": 1,
+        "explanation": "Thin filaments extend inward from the Z lines toward the center of the sarcomere."
+      }
+    ]
+  },
+  {
+    "page": 159,
+    "questions": [
+      {
+        "q": "What is the composition of the myosin molecule shown?",
+        "options": [
+          "One heavy chain and four actin chains",
+          "Two tubulin chains and two regulatory chains",
+          "Two heavy chains, two essential light chains, and two regulatory light chains",
+          "One heavy chain, one essential light chain, and no regulatory chains"
+        ],
+        "answer": 2,
+        "explanation": "The slide lists two heavy chains plus two essential and two regulatory light chains."
+      },
+      {
+        "q": "Which structural region of myosin carries the essential and regulatory light chains?",
+        "options": [
+          "Head",
+          "Coiled-coil tail tip",
+          "Actin filament",
+          "Neck"
+        ],
+        "answer": 3,
+        "explanation": "The diagram places both classes of light chain around the neck region."
+      }
+    ]
+  },
+  {
+    "page": 162,
+    "questions": [
+      {
+        "q": "In what year did Arthur Ashkin observe three-dimensional trapping with one focused beam, according to the slide?",
+        "options": [
+          "1985",
+          "1829",
+          "1955",
+          "2005"
+        ],
+        "answer": 0,
+        "explanation": "The slide dates Ashkin's observation of single-beam three-dimensional trapping to 1985."
+      }
+    ]
+  },
+  {
+    "page": 163,
+    "questions": [
+      {
+        "q": "What happens to light rays when the focused beam interacts with the bead?",
+        "options": [
+          "They lose all momentum",
+          "They are bent by reflection and refraction",
+          "They become chemically bound to the bead",
+          "They pass through without changing direction"
+        ],
+        "answer": 1,
+        "explanation": "The slide describes bending of the rays according to reflection and refraction."
+      },
+      {
+        "q": "Which beam property creates the lateral intensity gradient used for trapping?",
+        "options": [
+          "Uniform intensity across the beam",
+          "Random polarization only",
+          "A Gaussian profile brighter at the center",
+          "A hollow center with bright edges"
+        ],
+        "answer": 2,
+        "explanation": "A Gaussian beam is brightest centrally and dimmer toward the edges, creating the required gradient."
+      }
+    ]
+  },
+  {
+    "page": 164,
+    "questions": [
+      {
+        "q": "Light momentum is described as proportional to which physical quantity?",
+        "options": [
+          "Its wavelength only",
+          "The bead diameter only",
+          "The fluid viscosity only",
+          "Its energy"
+        ],
+        "answer": 3,
+        "explanation": "The slide states that light carries momentum proportional to its energy and directed along propagation."
+      }
+    ]
+  },
+  {
+    "page": 165,
+    "questions": [
+      {
+        "q": "In which direction does the scattering-force component point?",
+        "options": [
+          "Primarily along the direction of incident light",
+          "Toward the beam center in the xy plane",
+          "Opposite every incident ray",
+          "Randomly because of Brownian motion"
+        ],
+        "answer": 0,
+        "explanation": "The slide separates scattering force along incident-light propagation from the inward gradient force."
+      },
+      {
+        "q": "What measurement ranges are emphasized for biological optical-tweezer experiments?",
+        "options": [
+          "Forces in newtons and displacements in metres",
+          "Forces in piconewtons and displacements in nanometres",
+          "Forces in joules and displacements in seconds",
+          "Forces in pascals and displacements in litres"
+        ],
+        "answer": 1,
+        "explanation": "The application is described as applying pN-range forces and measuring nm-range displacements."
+      }
+    ]
+  },
+  {
+    "page": 166,
+    "questions": [
+      {
+        "q": "At constant trap stiffness, what happens to restoring-force magnitude when displacement doubles?",
+        "options": [
+          "It halves",
+          "It is unchanged",
+          "It doubles",
+          "It becomes zero"
+        ],
+        "answer": 2,
+        "explanation": "From |F| = kx, doubling x at fixed k doubles the restoring-force magnitude."
+      }
+    ]
+  },
+  {
+    "page": 168,
+    "questions": [
+      {
+        "q": "What is the role of the two optically trapped beads in the dual-beam setup?",
+        "options": [
+          "They synthesize ATP",
+          "They coat the support with myosin",
+          "They directly fluoresce when ATP is hydrolyzed",
+          "They suspend and tension an actin filament"
+        ],
+        "answer": 3,
+        "explanation": "The actin filament is attached between the two trapped beads and held under tension."
+      },
+      {
+        "q": "Which motor properties can be extracted from bead displacements in this setup?",
+        "options": [
+          "Working stroke, attachment lifetime, and force magnitude",
+          "DNA sequence, mutation rate, and chromosome number",
+          "Only ATP concentration",
+          "Only filament diameter"
+        ],
+        "answer": 0,
+        "explanation": "The slide explicitly lists working stroke, attachment lifetime, and magnitude of force generation."
+      }
+    ]
+  },
+  {
+    "page": 169,
+    "questions": [
+      {
+        "q": "To approximately what tension was the suspended actin filament pulled?",
+        "options": [
+          "0.2 pN",
+          "2 pN",
+          "20 pN",
+          "200 pN"
+        ],
+        "answer": 1,
+        "explanation": "The second bead was moved until the actin filament experienced about 2 pN of tension."
+      },
+      {
+        "q": "Which detector provided high-resolution bead-position measurements?",
+        "options": [
+          "Geiger counter",
+          "Mass spectrometer",
+          "Quadrant photodiode",
+          "Patch-clamp electrode"
+        ],
+        "answer": 2,
+        "explanation": "A brightfield image of a bead was projected onto a quadrant photodiode detector."
+      }
+    ]
+  },
+  {
+    "page": 170,
+    "questions": [
+      {
+        "q": "Which trace acts as the perpendicular-motion control in the displayed recordings?",
+        "options": [
+          "The upper trace",
+          "Both traces are parallel motion",
+          "Neither trace records bead motion",
+          "The lower trace"
+        ],
+        "answer": 3,
+        "explanation": "The upper trace records motion along the actin filament; the lower trace records motion perpendicular to it."
+      }
+    ]
+  },
+  {
+    "page": 171,
+    "questions": [
+      {
+        "q": "What quantity is plotted on the vertical axis of the displacement histogram?",
+        "options": [
+          "Number of events",
+          "ATP concentration",
+          "Force in pN",
+          "Time in seconds"
+        ],
+        "answer": 0,
+        "explanation": "The histogram plots displacement on the horizontal axis and number of events on the vertical axis."
+      }
+    ]
+  },
+  {
+    "page": 172,
+    "questions": [
+      {
+        "q": "What quantity is plotted on the horizontal axis of the single-myosin histogram?",
+        "options": [
+          "Displacement in nm",
+          "Force in pN",
+          "ATP concentration in mM",
+          "Number of events"
+        ],
+        "answer": 1,
+        "explanation": "The horizontal axis is force in piconewtons, while the vertical axis is number of events."
+      }
+    ]
+  },
+  {
+    "page": 180,
+    "questions": [
+      {
+        "q": "What determines the limited set of signals to which a particular cell responds?",
+        "options": [
+          "Only the signal's molecular mass",
+          "Only distance from the bloodstream",
+          "The cell's history and current state",
+          "The total number of neighboring cells"
+        ],
+        "answer": 2,
+        "explanation": "The slide states that responsiveness depends on a cell's history and current state."
+      }
+    ]
+  },
+  {
+    "page": 181,
+    "questions": [
+      {
+        "q": "Steroid signaling molecules are derived from which precursor?",
+        "options": [
+          "Glucose",
+          "Glycogen",
+          "RNA",
+          "Cholesterol"
+        ],
+        "answer": 3,
+        "explanation": "The slide states that steroids are derived from cholesterol."
+      },
+      {
+        "q": "Which signal class includes glutamate, glycine, acetylcholine, epinephrine, dopamine, and thyroid hormone on this slide?",
+        "options": [
+          "Amino acids and amino-acid derivatives",
+          "Gases",
+          "Steroids only",
+          "Extracellular-matrix proteins only"
+        ],
+        "answer": 0,
+        "explanation": "All of these examples are placed in the amino-acid and amino-acid-derivative category."
+      }
+    ]
+  },
+  {
+    "page": 182,
+    "questions": [
+      {
+        "q": "Which feature defines autocrine signaling?",
+        "options": [
+          "The signal must enter the bloodstream",
+          "The producing cell also expresses receptors for its messenger",
+          "The ligand must remain membrane-bound on another cell",
+          "The signal acts only through an intracellular steroid receptor"
+        ],
+        "answer": 1,
+        "explanation": "In autocrine signaling, a cell releases a messenger to which that same cell can respond."
+      },
+      {
+        "q": "Why do paracrine messengers generally remain local?",
+        "options": [
+          "They are always covalently attached to DNA",
+          "They can travel only inside red blood cells",
+          "They are commonly unstable, degraded, or trapped by extracellular matrix",
+          "They cannot bind receptors"
+        ],
+        "answer": 2,
+        "explanation": "The slide lists instability, enzymatic degradation, and extracellular-matrix binding as limits on long-distance travel."
+      }
+    ]
+  },
+  {
+    "page": 183,
+    "questions": [
+      {
+        "q": "Which molecules are given as juxtacrine regulators of contact inhibition?",
+        "options": [
+          "Insulin and glucagon",
+          "NO and CO",
+          "Cortisol and estradiol",
+          "Integrins and cadherins"
+        ],
+        "answer": 3,
+        "explanation": "The slide cites the cell-adhesion molecules integrins and cadherins in contact-dependent signaling."
+      },
+      {
+        "q": "What response to insulin is used as the endocrine example?",
+        "options": [
+          "Glucose uptake in liver cells",
+          "Contact inhibition in epithelial cells",
+          "Histamine release from mast cells",
+          "Phagocytosis by neutrophils"
+        ],
+        "answer": 0,
+        "explanation": "Insulin from pancreatic beta cells is stated to stimulate glucose uptake in liver cells."
+      }
+    ]
+  },
+  {
+    "page": 184,
+    "questions": [
+      {
+        "q": "Which hormone in the table is a protein secreted by pancreatic beta cells?",
+        "options": [
+          "Glucagon",
+          "Insulin",
+          "Cortisol",
+          "Thyroxine"
+        ],
+        "answer": 1,
+        "explanation": "The table identifies insulin as a protein produced by pancreatic beta cells."
+      },
+      {
+        "q": "Which listed hormone stimulates metabolism in many cell types?",
+        "options": [
+          "Estradiol",
+          "Glucagon",
+          "Thyroid hormone",
+          "Testosterone"
+        ],
+        "answer": 2,
+        "explanation": "The thyroxine row lists stimulation of metabolism in many cell types."
+      }
+    ]
+  },
+  {
+    "page": 185,
+    "questions": [
+      {
+        "q": "Which local mediator causes blood vessels to dilate and become leaky during inflammation?",
+        "options": [
+          "EGF",
+          "TGF-beta",
+          "Delta",
+          "Histamine"
+        ],
+        "answer": 3,
+        "explanation": "The histamine row lists vasodilation and increased leakiness during inflammation."
+      },
+      {
+        "q": "Which contact-dependent signal inhibits neighboring cells from adopting the same specialized fate as the signaling cell?",
+        "options": [
+          "Delta",
+          "PDGF",
+          "Nitric oxide",
+          "Acetylcholine"
+        ],
+        "answer": 0,
+        "explanation": "The table describes Delta as a transmembrane signal that inhibits neighboring-cell specialization."
+      }
+    ]
+  },
+  {
+    "page": 186,
+    "questions": [
+      {
+        "q": "Which pathway feature combines information from multiple signaling inputs?",
+        "options": [
+          "Specificity",
+          "Integration",
+          "Amplification",
+          "Cascade"
+        ],
+        "answer": 1,
+        "explanation": "Integration is the feature that combines multiple inputs into a coordinated output."
+      }
+    ]
+  },
+  {
+    "page": 187,
+    "questions": [
+      {
+        "q": "When one receptor pathway produces several distinct downstream outputs, what network property is illustrated?",
+        "options": [
+          "Convergence",
+          "Equilibrium",
+          "Divergence",
+          "Contact inhibition"
+        ],
+        "answer": 2,
+        "explanation": "Branching from one input toward multiple outputs is divergence."
+      }
+    ]
+  },
+  {
+    "page": 188,
+    "questions": [
+      {
+        "q": "How does cortisol first enter its target cell in the depicted pathway?",
+        "options": [
+          "Through a ligand-gated ion channel",
+          "By receptor-mediated endocytosis",
+          "Through a gap junction",
+          "By diffusion through the lipid bilayer"
+        ],
+        "answer": 3,
+        "explanation": "As a steroid hormone, cortisol diffuses across the plasma membrane's lipid bilayer."
+      },
+      {
+        "q": "What is the direct nuclear effect of the activated glucocorticoid receptor?",
+        "options": [
+          "It binds target DNA and activates transcription",
+          "It hydrolyzes extracellular ATP",
+          "It opens a plasma-membrane ion channel",
+          "It degrades newly formed mRNA"
+        ],
+        "answer": 0,
+        "explanation": "After nuclear translocation, the hormone-receptor complex regulates target DNA transcription."
+      }
+    ]
+  },
+  {
+    "page": 189,
+    "questions": [
+      {
+        "q": "Which membrane-receptor class directly controls ion movement across the membrane?",
+        "options": [
+          "GPCRs",
+          "Ligand-gated ion channels",
+          "Receptor tyrosine kinases",
+          "Nuclear receptors"
+        ],
+        "answer": 1,
+        "explanation": "Ion-channel receptors regulate ion flow through the plasma membrane."
+      }
+    ]
+  },
+  {
+    "page": 190,
+    "questions": [
+      {
+        "q": "Which GPCR-table pathway links epinephrine to glycogen breakdown?",
+        "options": [
+          "Rhodopsin to phospholipase C",
+          "Muscarinic receptor to cGMP phosphodiesterase",
+          "Beta-adrenergic receptor to adenylyl cyclase",
+          "Chemotactic receptor to potassium channel"
+        ],
+        "answer": 2,
+        "explanation": "The epinephrine row pairs the beta-adrenergic receptor with adenylyl cyclase and glycogen breakdown."
+      },
+      {
+        "q": "Which stimulus uses a muscarinic receptor and a potassium-channel effector in the table?",
+        "options": [
+          "Serotonin",
+          "Light",
+          "fMet peptide",
+          "Acetylcholine"
+        ],
+        "answer": 3,
+        "explanation": "The acetylcholine row lists a muscarinic receptor, potassium channel, and slowing of pacemaker activity."
+      }
+    ]
+  }
+]

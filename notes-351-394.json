@@ -1,0 +1,986 @@
+[
+  {
+    "page": 351,
+    "title": "Drug Administration Routes",
+    "explain": "The route of administration controls where a drug enters the body and how quickly or directly it reaches its target. IV delivery enters the bloodstream directly, while routes such as oral, intramuscular, subcutaneous, inhaled, topical, transdermal, sublingual, epidural, and rectal delivery use different tissues for absorption.",
+    "mustKnow": [
+      "IV delivery avoids breakdown in the digestive tract.",
+      "Intramuscular delivery can be absorbed rapidly because muscle has many blood vessels.",
+      "Subcutaneous delivery is used for drugs such as insulin and monoclonal antibodies.",
+      "Transdermal patches provide controlled delivery through the skin."
+    ],
+    "terms": [
+      {"term": "IV", "meaning": "Intravenous delivery directly into a vein."},
+      {"term": "IM", "meaning": "Intramuscular injection into muscle."},
+      {"term": "SC", "meaning": "Subcutaneous injection below the dermis and epidermis."},
+      {"term": "Sublingual", "meaning": "Delivery under the tongue for absorption through the mucous membrane."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which route delivers a drug directly into the bloodstream and avoids digestive breakdown?",
+      "options": ["Intravenous", "Topical", "Rectal", "Otic"],
+      "answer": 0,
+      "explanation": "Intravenous administration places the drug directly into a vein."
+    }
+  },
+  {
+    "page": 352,
+    "title": "ADME Properties",
+    "explain": "ADME summarizes what the body does to a drug: it is absorbed into blood, distributed to tissues, chemically modified by metabolism, and removed by excretion. These stages determine how much active drug reaches its target and how long it remains in the body.",
+    "mustKnow": [
+      "Absorption moves a drug from its administration site into blood.",
+      "Distribution moves the drug from blood into tissues.",
+      "Metabolism can inactivate a drug or activate a prodrug.",
+      "Excretion occurs mainly through the kidneys, but also through bile and other routes."
+    ],
+    "terms": [
+      {"term": "ADME", "meaning": "Absorption, distribution, metabolism, and excretion."},
+      {"term": "Bioavailability", "meaning": "The fraction of an administered drug that reaches systemic circulation."},
+      {"term": "CYP450", "meaning": "A major enzyme family involved in drug metabolism."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which ADME stage mainly describes chemical alteration of a drug?",
+      "options": ["Absorption", "Distribution", "Metabolism", "Excretion"],
+      "answer": 2,
+      "explanation": "Metabolism chemically changes a drug, commonly through enzymes such as CYP450."
+    }
+  },
+  {
+    "page": 353,
+    "title": "Lecture 34: Drug Development",
+    "explain": "This lecture section focuses on how drugs move through the body, how they are metabolized, and how a large pool of candidate compounds is narrowed to an approved drug.",
+    "mustKnow": [
+      "The section links pharmacokinetics, metabolism, and the drug-development pipeline."
+    ],
+    "terms": [
+      {"term": "Drug development", "meaning": "The process of turning a candidate molecule into a tested and approved medicine."}
+    ],
+    "interaction": {
+      "type": "tap",
+      "label": "This section covers pharmacokinetics, metabolism, and development stages."
+    }
+  },
+  {
+    "page": 354,
+    "title": "ADME Revisited",
+    "explain": "A drug must pass through four linked stages. Route and formulation affect absorption; blood flow and binding affect distribution; enzymes alter the drug during metabolism; and kidneys, bile, lungs, or secretions remove it during excretion.",
+    "mustKnow": [
+      "ADME stages are linked rather than independent.",
+      "Distribution depends on factors such as blood flow, molecular size, lipophilicity, and plasma-protein binding.",
+      "Kidney removal is the main excretion route shown."
+    ],
+    "terms": [
+      {"term": "Lipophilicity", "meaning": "A molecule's tendency to dissolve in fats rather than water."},
+      {"term": "Plasma protein", "meaning": "A blood protein that can bind a drug and affect its distribution."},
+      {"term": "Prodrug", "meaning": "An inactive or less active compound converted into an active drug in the body."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which factor shown can influence drug distribution?",
+      "options": ["Blood flow to tissues", "Only tablet color", "Only patient height", "Room temperature alone"],
+      "answer": 0,
+      "explanation": "The slide lists tissue blood flow among the factors influencing distribution."
+    }
+  },
+  {
+    "page": 355,
+    "title": "Pharmacokinetic Concentration Curve",
+    "explain": "A plasma-concentration curve tracks drug level over time. Cmax is the highest concentration, tmax is when that peak occurs, half-life describes how quickly the level falls, and AUC measures total exposure.",
+    "mustKnow": [
+      "Cmax is the maximum plasma concentration.",
+      "tmax is the time at which Cmax occurs.",
+      "t1/2 is the drug half-life.",
+      "AUC represents total drug exposure over time."
+    ],
+    "terms": [
+      {"term": "Cmax", "meaning": "Maximum observed plasma-drug concentration."},
+      {"term": "tmax", "meaning": "Time required to reach Cmax."},
+      {"term": "Half-life", "meaning": "Time required for the drug concentration to fall by half."},
+      {"term": "AUC", "meaning": "Area under the concentration-time curve, representing total exposure."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which quantity represents total drug exposure across time?",
+      "options": ["Cmax", "tmax", "AUC", "Onset"],
+      "answer": 2,
+      "explanation": "The area under the concentration-time curve is the total measured exposure."
+    }
+  },
+  {
+    "page": 356,
+    "title": "Drug Metabolism Reactions",
+    "explain": "Drug metabolism generally makes lipophilic compounds more water-compatible so they can be eliminated. Oxidation, reduction, hydrolysis, and related reactions introduce or expose functional groups, while conjugation attaches highly hydrophilic groups.",
+    "mustKnow": [
+      "Metabolism commonly converts lipophilic molecules into more hydrophilic products.",
+      "Hydroxylation, hydrolysis, reduction, dealkylation, and oxidation are listed metabolic reactions.",
+      "Glucuronidation, sulphonation, glutathione conjugation, methylation, and acetylation are conjugation reactions.",
+      "Metabolism may detoxify a drug, activate it, or produce a toxic metabolite."
+    ],
+    "terms": [
+      {"term": "Hydroxylation", "meaning": "Addition of a hydroxyl group during metabolism."},
+      {"term": "Hydrolysis", "meaning": "Bond cleavage using water, such as cleavage of an ester or amide."},
+      {"term": "Conjugation", "meaning": "Attachment of a hydrophilic group to a drug or metabolite."},
+      {"term": "Glucuronidation", "meaning": "Conjugation with glucuronic acid to aid elimination."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What is a common overall result of drug metabolism?",
+      "options": ["A more hydrophilic product", "A permanently larger chromosome", "A new cell membrane", "A less excretable compound in every case"],
+      "answer": 0,
+      "explanation": "The slide emphasizes conversion of lipophilic molecules into hydrophilic metabolites that are easier to eliminate."
+    }
+  },
+  {
+    "page": 357,
+    "title": "Paracetamol Metabolism",
+    "explain": "Paracetamol follows multiple metabolic routes. Most is converted to conjugated products, while a smaller route creates a reactive metabolite that can be neutralized by glutathione. The diagram highlights glutathione as a protective detoxification molecule.",
+    "mustKnow": [
+      "Paracetamol has several competing metabolic pathways.",
+      "Glutathione detoxifies a reactive paracetamol metabolite.",
+      "Loss of sufficient glutathione increases the danger from the reactive pathway."
+    ],
+    "terms": [
+      {"term": "Glutathione", "meaning": "A cellular molecule that conjugates and detoxifies reactive compounds."},
+      {"term": "Reactive metabolite", "meaning": "A chemically reactive metabolic product capable of damaging cellular molecules."},
+      {"term": "Conjugate", "meaning": "A product formed by attaching another chemical group to a molecule."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What molecule shown helps detoxify the reactive paracetamol metabolite?",
+      "options": ["Glutathione", "Angiotensin", "Collagen", "Insulin"],
+      "answer": 0,
+      "explanation": "The slide explicitly identifies glutathione, or GSH, in the detoxification pathway."
+    }
+  },
+  {
+    "page": 358,
+    "title": "Phase III Handling of Glutathione Conjugates",
+    "explain": "Glutathione conjugates can be processed through the mercapturic acid pathway. Enzymes shorten the glutathione portion to a cysteine conjugate, which may be N-acetylated and excreted in urine. A competing beta-lyase route can generate reactive thiols that damage the kidney.",
+    "mustKnow": [
+      "The mercapturic acid pathway degrades glutathione conjugates.",
+      "Cysteine conjugates can be N-acetylated before urinary excretion.",
+      "Beta-lyase can instead produce reactive thiols associated with nephrotoxicity."
+    ],
+    "terms": [
+      {"term": "Mercapturic acid pathway", "meaning": "A pathway that processes glutathione conjugates toward excretion."},
+      {"term": "N-acetylation", "meaning": "Addition of an acetyl group to nitrogen."},
+      {"term": "Beta-lyase", "meaning": "An enzyme that can break down cysteine conjugates to reactive thiols."},
+      {"term": "Nephrotoxicity", "meaning": "Toxic damage to the kidneys."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which product can be formed by beta-lyase action on a cysteine conjugate?",
+      "options": ["A reactive thiol", "A chromosome", "A phospholipid bilayer", "Angiotensinogen"],
+      "answer": 0,
+      "explanation": "The slide states that beta-lyase degradation can form reactive thiols that cause nephrotoxicity."
+    }
+  },
+  {
+    "page": 359,
+    "title": "Main Drug-Development Stages",
+    "explain": "Drug development moves from discovery to preclinical testing, clinical development in humans, and regulatory review. Each stage asks a different question: whether a lead exists, whether it appears sufficiently safe and active before human use, whether it works in people, and whether authorities approve it.",
+    "mustKnow": [
+      "Drug discovery includes target identification, validation, lead finding, and lead optimization.",
+      "Preclinical development includes short-term testing, formulation, and pharmacokinetics.",
+      "Clinical development proceeds through Phase I, II, and III studies.",
+      "Regulatory approval follows review of efficacy and safety data."
+    ],
+    "terms": [
+      {"term": "Preclinical", "meaning": "Testing performed before human clinical trials."},
+      {"term": "Clinical trial", "meaning": "A controlled study of a drug in human participants."},
+      {"term": "Regulatory approval", "meaning": "Authorization by a regulatory authority to market a drug."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which stage occurs immediately before clinical development in the pipeline shown?",
+      "options": ["Preclinical development", "Regulatory approval", "Mass marketing", "Drug excretion"],
+      "answer": 0,
+      "explanation": "The diagram orders the stages as discovery, preclinical development, clinical development, and regulatory approval."
+    }
+  },
+  {
+    "page": 360,
+    "title": "From 10,000 Candidates to One Drug",
+    "explain": "Drug discovery is a severe filtering process. Thousands of candidates are progressively tested against many requirements, including target activity, safety, stability, solubility, reversibility, oral usefulness, patentability, and manufacturability, until very few remain.",
+    "mustKnow": [
+      "About 10,000 candidates may be narrowed to one drug molecule.",
+      "Potency alone is not enough for a candidate to succeed.",
+      "Safety, pharmacokinetic, formulation, and manufacturing properties also matter."
+    ],
+    "terms": [
+      {"term": "Candidate", "meaning": "A molecule being evaluated as a possible drug."},
+      {"term": "Lead optimization", "meaning": "Modification of a promising compound to improve its overall drug properties."},
+      {"term": "Manufacturability", "meaning": "The practicality of producing a molecule reliably at useful scale."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Why are most drug candidates removed during development?",
+      "options": ["A successful drug must satisfy many properties at once", "Only the heaviest molecule can be used", "Every candidate must be a protein", "Candidates are selected randomly"],
+      "answer": 0,
+      "explanation": "The staircase diagram shows multiple biological, chemical, safety, and production criteria."
+    }
+  },
+  {
+    "page": 361,
+    "title": "Attrition and Scale-Up",
+    "explain": "The development funnel shown reduces roughly 10,000 discovery compounds to about 250 entering preclinical work, about five entering clinical development, and one final compound. The manufacturing images emphasize that the surviving molecule must also be produced safely and at large scale.",
+    "mustKnow": [
+      "Drug development has very high attrition.",
+      "The funnel shown narrows 10,000 compounds to 250, then five, then one.",
+      "Large-scale manufacturing is part of turning a compound into a usable product."
+    ],
+    "terms": [
+      {"term": "Attrition", "meaning": "Loss of candidates as they fail successive development stages."},
+      {"term": "Scale-up", "meaning": "Expansion of production from small laboratory quantities to manufacturing quantities."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Approximately how many compounds in the diagram reach clinical development?",
+      "options": ["5", "250", "10,000", "50,000"],
+      "answer": 0,
+      "explanation": "The funnel labels about five compounds at the clinical-development stage."
+    }
+  },
+  {
+    "page": 362,
+    "title": "Lecture 35: Drug Discovery",
+    "explain": "This lecture section introduces biological drug targets, computational screening, high-throughput screening, the RAAS pathway, and the development of ACE inhibitors.",
+    "mustKnow": [
+      "The section connects target biology with methods for discovering and optimizing drugs."
+    ],
+    "terms": [
+      {"term": "Drug discovery", "meaning": "The early process of finding and improving molecules that act on a biological target."}
+    ],
+    "interaction": {
+      "type": "tap",
+      "label": "This section moves from biological targets to ACE-inhibitor discovery."
+    }
+  },
+  {
+    "page": 363,
+    "title": "Biomolecules as Drug Targets",
+    "explain": "Drug discovery can focus on different classes of biomolecules. Proteins include receptors, enzymes, carrier proteins, and structural proteins; nucleic acids include DNA and RNA; lipids form cell membranes; and carbohydrates appear on cell surfaces and in recognition molecules.",
+    "mustKnow": [
+      "Important protein targets include receptors and enzymes.",
+      "DNA and RNA are nucleic-acid targets.",
+      "Lipids and carbohydrates can also participate in drug-relevant biology."
+    ],
+    "terms": [
+      {"term": "Receptor", "meaning": "A biomolecule that recognizes a signal or ligand and produces a response."},
+      {"term": "Carrier protein", "meaning": "A protein that transports another molecule."},
+      {"term": "Nucleic acid", "meaning": "DNA or RNA, molecules that store or use genetic information."},
+      {"term": "Cell-surface carbohydrate", "meaning": "A carbohydrate exposed on a cell that can aid recognition."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which pair is listed as protein drug-target types?",
+      "options": ["Receptors and enzymes", "DNA and RNA", "Lipids and starch", "Water and minerals"],
+      "answer": 0,
+      "explanation": "The slide lists receptors and enzymes under the protein category."
+    }
+  },
+  {
+    "page": 364,
+    "title": "Computational Drug Discovery",
+    "explain": "In-silico virtual screening uses computation to rank molecules before laboratory testing. Structure-based methods use a target's three-dimensional structure for docking, scoring, and ranking, while ligand-based methods use known ligands through similarity, pharmacophore, or QSAR models. Predicted hits still require a biological assay.",
+    "mustKnow": [
+      "Structure-based screening uses the target structure.",
+      "Ligand-based screening uses information from known ligands.",
+      "Docking and scoring rank predicted binders.",
+      "Computational hits must be tested experimentally."
+    ],
+    "terms": [
+      {"term": "Virtual screening", "meaning": "Computational evaluation of many compounds as potential hits."},
+      {"term": "Docking", "meaning": "Prediction of how a molecule may fit into a target binding site."},
+      {"term": "Pharmacophore", "meaning": "A pattern of features associated with biological activity."},
+      {"term": "QSAR", "meaning": "A model relating chemical structure to measured biological activity."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which method specifically requires a three-dimensional target structure?",
+      "options": ["Structure-based virtual screening", "Ligand-based similarity search", "Clinical Phase III", "Rectal administration"],
+      "answer": 0,
+      "explanation": "Structure-based screening uses the known structure of the biological target."
+    }
+  },
+  {
+    "page": 365,
+    "title": "High-Throughput Screening",
+    "explain": "High-throughput screening, or HTS, uses automated assays to test very large compound libraries rapidly. Primary hits are checked again in secondary assays, confirmed hits are evaluated for dose-response behavior, and promising compounds become leads for optimization.",
+    "mustKnow": [
+      "HTS searches compound libraries for initial hits.",
+      "Automation allows many samples to be tested rapidly.",
+      "Primary hits require confirmation and dose-response testing.",
+      "Confirmed hits can become leads for medicinal chemistry."
+    ],
+    "terms": [
+      {"term": "HTS", "meaning": "Automated testing of large numbers of compounds in an assay."},
+      {"term": "Hit", "meaning": "A compound that produces the desired result in a screening assay."},
+      {"term": "Lead", "meaning": "A promising hit selected for further optimization."},
+      {"term": "Dose-response", "meaning": "The relationship between compound concentration and measured effect."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What is the main purpose of high-throughput screening?",
+      "options": ["Identify hits from large compound libraries", "Measure only drug excretion", "Replace all clinical trials", "Determine a patient's blood group"],
+      "answer": 0,
+      "explanation": "HTS is used to find active hits that may later be optimized into leads."
+    }
+  },
+  {
+    "page": 366,
+    "title": "Renin-Angiotensin-Aldosterone System",
+    "explain": "Low blood pressure or low sodium activates renin release from the kidney. Renin helps generate angiotensin I, and ACE converts it to angiotensin II. Angiotensin II raises blood pressure through vasoconstriction and by promoting aldosterone-dependent sodium and water retention.",
+    "mustKnow": [
+      "Low blood pressure stimulates renin release.",
+      "ACE converts angiotensin I to angiotensin II.",
+      "Angiotensin II causes vasoconstriction.",
+      "Aldosterone increases sodium and water retention, increasing blood pressure."
+    ],
+    "terms": [
+      {"term": "Renin", "meaning": "A kidney-released enzyme that initiates the RAAS cascade."},
+      {"term": "ACE", "meaning": "Angiotensin-converting enzyme, which generates angiotensin II from angiotensin I."},
+      {"term": "Angiotensin II", "meaning": "A RAAS peptide that promotes vasoconstriction and aldosterone release."},
+      {"term": "Aldosterone", "meaning": "A hormone that increases renal sodium and water retention."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which enzyme converts angiotensin I into angiotensin II?",
+      "options": ["ACE", "Renin", "GPX", "Beta-lyase"],
+      "answer": 0,
+      "explanation": "The RAAS diagram places ACE between angiotensin I and angiotensin II."
+    }
+  },
+  {
+    "page": 367,
+    "title": "Angiotensin Peptides and ACE",
+    "explain": "Angiotensins are related peptide hormones generated by stepwise cleavage. The slide shows angiotensin I as a peptide substrate and ACE as the enzyme that removes residues to generate shorter angiotensin products, including active angiotensin II.",
+    "mustKnow": [
+      "Angiotensin I is a peptide precursor.",
+      "ACE processes angiotensin I into a shorter peptide product.",
+      "ACE has a defined active site that recognizes peptide substrates."
+    ],
+    "terms": [
+      {"term": "Peptide", "meaning": "A chain of amino acids linked by peptide bonds."},
+      {"term": "Precursor", "meaning": "A molecule converted into another product in a pathway."},
+      {"term": "Active site", "meaning": "The region of an enzyme where substrate binding and catalysis occur."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What type of molecule is angiotensin I?",
+      "options": ["A peptide precursor", "A membrane lipid", "A carbohydrate polymer", "A DNA-repair enzyme"],
+      "answer": 0,
+      "explanation": "The slide displays angiotensin I as a chain of amino-acid residues processed by ACE."
+    }
+  },
+  {
+    "page": 368,
+    "title": "Captopril: First ACE Inhibitor",
+    "explain": "The path to captopril began with teprotide, a nine-amino-acid ACE inhibitor isolated from Brazilian pit-viper venom. Researchers synthesized analogs of this venom peptide, leading to captopril, the first orally bioavailable ACE inhibitor.",
+    "mustKnow": [
+      "Bothrops jararaca venom showed blood-pressure-lowering activity.",
+      "Teprotide is a nonapeptide that inhibits ACE.",
+      "Captopril was developed from analog studies inspired by teprotide.",
+      "Captopril was the first orally bioavailable ACE inhibitor."
+    ],
+    "terms": [
+      {"term": "Teprotide", "meaning": "A nine-amino-acid ACE-inhibiting peptide isolated from pit-viper venom."},
+      {"term": "ACE inhibitor", "meaning": "A compound that blocks angiotensin-converting enzyme."},
+      {"term": "Orally bioavailable", "meaning": "Able to reach systemic circulation in an active form after oral dosing."},
+      {"term": "Analog", "meaning": "A chemically related molecule made by modifying a starting structure."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which venom-derived peptide guided the development of captopril?",
+      "options": ["Teprotide", "Insulin", "Angiotensinogen", "Glutathione"],
+      "answer": 0,
+      "explanation": "Teprotide from Bothrops jararaca venom inhibited ACE and inspired synthetic analogs."
+    }
+  },
+  {
+    "page": 369,
+    "title": "How Captopril Binds ACE",
+    "explain": "Captopril uses several contacts in the ACE active site. Its zinc-binding group coordinates the catalytic Zn2+, its carboxylate forms ionic and hydrogen-bond interactions, and hydrophobic portions occupy hydrophobic binding regions.",
+    "mustKnow": [
+      "Coordination with Zn2+ is essential for captopril activity.",
+      "The carboxylate forms ionic and hydrogen-bond interactions.",
+      "Hydrophobic substituents can strengthen contacts in hydrophobic pockets."
+    ],
+    "terms": [
+      {"term": "Coordination", "meaning": "Binding interaction between a metal ion and an electron-donating group."},
+      {"term": "Carboxylate", "meaning": "The negatively charged form of a carboxylic acid group."},
+      {"term": "Hydrogen bond", "meaning": "A directional noncovalent attraction involving a hydrogen-bearing group."},
+      {"term": "Hydrophobic pocket", "meaning": "A nonpolar region of a protein binding site."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which metal ion is central to captopril binding in ACE?",
+      "options": ["Zn2+", "Ca2+", "Na+", "Fe3+"],
+      "answer": 0,
+      "explanation": "The slide states that coordination with Zn2+ is essential for activity."
+    }
+  },
+  {
+    "page": 370,
+    "title": "Structure-Activity Relationships of ACE Inhibitors",
+    "explain": "ACE-inhibitor activity depends on recurring structural features. The N-ring contains a carboxylic acid, larger hydrophobic rings can improve potency and pharmacokinetics, and zinc-binding groups such as thiol, carboxylate, or phosphate interact with ACE. Esterification can create prodrugs.",
+    "mustKnow": [
+      "The N-ring must contain a carboxylic acid in the SAR shown.",
+      "Larger hydrophobic N-rings can improve potency and pharmacokinetics.",
+      "Thiol binds Zn2+ more strongly than the carboxylate and phosphate groups shown.",
+      "Esterification of carboxylate or phosphate can produce a prodrug."
+    ],
+    "terms": [
+      {"term": "SAR", "meaning": "Structure-activity relationship: how structural changes alter biological activity."},
+      {"term": "Thiol", "meaning": "A sulfur-containing -SH group."},
+      {"term": "Esterification", "meaning": "Conversion of an acid group into an ester."},
+      {"term": "Potency", "meaning": "The amount of a compound required to produce a given effect."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What can esterification of an ACE inhibitor's carboxylate or phosphate produce?",
+      "options": ["A prodrug", "A chromosome", "A receptor protein", "A phospholipid membrane"],
+      "answer": 0,
+      "explanation": "The slide explicitly identifies esterification as a way to produce ACE-inhibitor prodrugs."
+    }
+  },
+  {
+    "page": 371,
+    "title": "Lecture 36: Discovery and Techniques",
+    "explain": "This lecture section combines drug-discovery strategies with experimental techniques, moving from computational and phenotypic screening to prodrugs and thermal shift assays.",
+    "mustKnow": [
+      "The section links compound discovery, drug-property improvement, and protein-stability measurement."
+    ],
+    "terms": [
+      {"term": "Biophysical technique", "meaning": "A method that measures a physical property of a biological molecule or interaction."}
+    ],
+    "interaction": {
+      "type": "tap",
+      "label": "This section covers screening, prodrugs, and thermal shift assays."
+    }
+  },
+  {
+    "page": 372,
+    "title": "Virtual Screening Workflow",
+    "explain": "Computational screening can begin from either a protein structure or known active ligands. Both routes rank candidate molecules, produce a final hit list, and pass those compounds to a biological assay for experimental confirmation.",
+    "mustKnow": [
+      "Structure-based and ligand-based screening are two computational routes.",
+      "Computation creates a ranked hit list rather than proving activity.",
+      "Biological assays validate predicted hits."
+    ],
+    "terms": [
+      {"term": "Hit list", "meaning": "A ranked set of compounds predicted to be promising."},
+      {"term": "Biological assay", "meaning": "An experiment that measures a compound's biological activity."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What should happen after a final virtual-screening hit list is produced?",
+      "options": ["Test the hits in a biological assay", "Assume every hit is an approved drug", "Skip experimental validation", "Administer all hits to patients"],
+      "answer": 0,
+      "explanation": "The workflow sends computational hits to a biological assay for confirmation."
+    }
+  },
+  {
+    "page": 373,
+    "title": "HTS Workflow",
+    "explain": "High-throughput screening uses automated liquid handling and detection systems to test many compounds. A primary screen identifies possible activity, secondary assays confirm it, and dose-response analysis helps select a lead.",
+    "mustKnow": [
+      "HTS depends heavily on automation.",
+      "Secondary assays reduce false or nonreproducible hits.",
+      "Dose-response testing follows hit confirmation.",
+      "The goal is a credible lead for optimization."
+    ],
+    "terms": [
+      {"term": "Primary screen", "meaning": "The first large-scale assay used to find possible hits."},
+      {"term": "Secondary assay", "meaning": "A follow-up test used to confirm and characterize primary hits."},
+      {"term": "Liquid handler", "meaning": "An automated instrument that dispenses small liquid volumes."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Why are secondary assays used after a primary HTS screen?",
+      "options": ["To confirm and characterize hits", "To increase tablet size", "To measure blood pressure in every case", "To replace the compound library"],
+      "answer": 0,
+      "explanation": "Secondary assays verify that primary-screen activity is real and useful."
+    }
+  },
+  {
+    "page": 374,
+    "title": "Phenotypic Screening",
+    "explain": "Phenotypic screening selects compounds because they produce a desired change in cells or organisms, such as stopping unwanted proliferation. It does not require the molecular target to be known first, but target identification may be needed later.",
+    "mustKnow": [
+      "Phenotypic screening begins with an observable biological effect.",
+      "The target does not need to be known before screening.",
+      "Target deconvolution may be required after an active compound is found."
+    ],
+    "terms": [
+      {"term": "Phenotype", "meaning": "An observable characteristic or response of a cell or organism."},
+      {"term": "Target-based screening", "meaning": "Screening compounds directly against a predefined molecular target."},
+      {"term": "Target deconvolution", "meaning": "Identification of the molecular target responsible for a compound's phenotypic effect."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What is selected first in phenotypic screening?",
+      "options": ["A desired observable biological response", "A known protein structure in every case", "A regulatory approval letter", "A route of excretion"],
+      "answer": 0,
+      "explanation": "Phenotypic screening identifies compounds by their effect on a cell or organism."
+    }
+  },
+  {
+    "page": 375,
+    "title": "Phenotypic Screening Against RAS Mutants",
+    "explain": "HRAS, KRAS, and NRAS are small GTPases involved in proliferation, growth, and apoptosis. Oncogenic RAS mutations can drive uncontrolled cell division. The example compares compound potency in mutant HRASG12V cells with wild-type HRAS cells; lower EC50 values in the mutant indicate mutant-selective activity.",
+    "mustKnow": [
+      "HRAS, KRAS, and NRAS are small GTPases.",
+      "RAS mutations can cause uncontrolled cell growth and occur in about 30% of human cancers.",
+      "Lower EC50 means greater potency.",
+      "The compounds shown are more potent in HRASG12V than in wild-type HRAS."
+    ],
+    "terms": [
+      {"term": "Small GTPase", "meaning": "A signaling protein that switches between GTP-bound and GDP-bound states."},
+      {"term": "Oncogene", "meaning": "A gene whose activating alteration can promote cancer."},
+      {"term": "EC50", "meaning": "Concentration producing half of the compound's maximum measured effect."},
+      {"term": "Wild type", "meaning": "The standard nonmutant form used for comparison."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "A compound has EC50 values of 25 nM in HRASG12V cells and 578 nM in wild-type cells. Where is it more potent?",
+      "options": ["HRASG12V cells", "Wild-type cells", "Equally potent in both", "Potency cannot be related to EC50"],
+      "answer": 0,
+      "explanation": "A lower EC50 means less compound is needed, so the compound is more potent in HRASG12V cells."
+    }
+  },
+  {
+    "page": 376,
+    "title": "Ferroptosis",
+    "explain": "Ferroptosis is a regulated cell-death process driven by iron-associated oxidation of polyunsaturated phospholipids. The pathway diagram contrasts reactions that generate lipid peroxides with antioxidant systems, including glutathione-dependent peroxidase activity and ferroptosis-suppressor pathways, that limit this damage.",
+    "mustKnow": [
+      "Ferroptosis is associated with lipid peroxidation.",
+      "Polyunsaturated fatty acids in phospholipids provide oxidation-sensitive substrates.",
+      "Iron uptake and lipoxygenase-linked reactions can promote oxidative damage.",
+      "Glutathione/peroxidase and FSP pathways oppose ferroptosis."
+    ],
+    "terms": [
+      {"term": "Ferroptosis", "meaning": "Regulated cell death associated with iron-dependent lipid peroxidation."},
+      {"term": "PUFA", "meaning": "Polyunsaturated fatty acid."},
+      {"term": "Lipid peroxidation", "meaning": "Oxidative damage to membrane lipids."},
+      {"term": "FSP", "meaning": "Ferroptosis suppressor protein."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which cellular damage is central to ferroptosis in the slide?",
+      "options": ["Lipid peroxidation", "DNA replication", "Ribosome assembly", "Glycogen synthesis"],
+      "answer": 0,
+      "explanation": "The pathway centers on oxidative damage to PUFA-containing phospholipids."
+    }
+  },
+  {
+    "page": 377,
+    "title": "Why Make a Prodrug?",
+    "explain": "A prodrug is an inactive or less active derivative converted into the active drug inside the body. Prodrugs are designed to reduce poor properties such as low solubility, weak absorption, instability, toxicity, bad taste, or short duration, and may enable a different route or dosage form.",
+    "mustKnow": [
+      "A prodrug must be converted into an active drug in the body.",
+      "Prodrugs can improve physicochemical or biological properties.",
+      "They can alter route of administration or dosage form.",
+      "Possible goals include better solubility, permeability, stability, taste, or duration."
+    ],
+    "terms": [
+      {"term": "Prodrug", "meaning": "An inactive or less active drug derivative converted to the active form in the body."},
+      {"term": "Physicochemical property", "meaning": "A physical or chemical feature such as solubility or stability."},
+      {"term": "Permeability", "meaning": "Ability of a molecule to cross a biological barrier."},
+      {"term": "Dosage form", "meaning": "The physical form in which a medicine is administered."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which statement correctly describes a prodrug?",
+      "options": ["It is converted into an active drug in the body", "It can never be metabolized", "It must always be injected", "It is always more active before administration"],
+      "answer": 0,
+      "explanation": "The defining feature shown is conversion of an inactive derivative into the active drug."
+    }
+  },
+  {
+    "page": 378,
+    "title": "How Prodrugs Are Activated",
+    "explain": "A prodrug contains a removable group or linking strategy that masks part of the drug. Activation can occur through enzymes such as phosphatases, esterases, and peptidases, through chemical processes such as hydrolysis, decarboxylation, or light, or through a mixture of both.",
+    "mustKnow": [
+      "Enzymes can activate prodrugs.",
+      "Chemical reactions can also activate prodrugs.",
+      "Phosphatase, esterase, and peptidase are listed activating enzymes.",
+      "Hydrolysis, decarboxylation, and light are listed chemical triggers."
+    ],
+    "terms": [
+      {"term": "Esterase", "meaning": "An enzyme that hydrolyzes ester bonds."},
+      {"term": "Phosphatase", "meaning": "An enzyme that removes phosphate groups."},
+      {"term": "Peptidase", "meaning": "An enzyme that cleaves peptide bonds."},
+      {"term": "Promoiety", "meaning": "A temporary chemical group attached to improve a drug property and later removed."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which enzyme is listed as a possible prodrug activator?",
+      "options": ["Esterase", "DNA polymerase", "Renin receptor", "Hemoglobin"],
+      "answer": 0,
+      "explanation": "Esterase is one of the enzymatic activation mechanisms listed on the slide."
+    }
+  },
+  {
+    "page": 379,
+    "title": "Prodrug Strategy for Masking Bad Taste",
+    "explain": "A water-soluble drug can dissolve in the mouth and contact taste receptors, creating an unpleasant taste. Converting it to a less water-soluble prodrug reduces dissolution in the mouth. The example converts bitter chloramphenicol into chloramphenicol palmitate.",
+    "mustKnow": [
+      "Taste requires dissolved molecules to contact taste receptors.",
+      "Reducing water solubility can reduce dissolution in the mouth.",
+      "Chloramphenicol palmitate is shown as a taste-masking prodrug."
+    ],
+    "terms": [
+      {"term": "Chloramphenicol", "meaning": "The water-soluble bitter drug used in the slide example."},
+      {"term": "Chloramphenicol palmitate", "meaning": "A less water-soluble prodrug used to mask chloramphenicol's taste."},
+      {"term": "Taste receptor", "meaning": "A receptor activated by dissolved chemicals in the mouth."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "How does chloramphenicol palmitate reduce bad taste?",
+      "options": ["It dissolves less in the mouth", "It activates more taste receptors", "It increases water solubility", "It blocks ACE"],
+      "answer": 0,
+      "explanation": "Lower water solubility reduces dissolution and therefore reduces contact with taste receptors."
+    }
+  },
+  {
+    "page": 380,
+    "title": "Thermal Shift Assay",
+    "explain": "A thermal shift assay measures protein stability by heating a protein while monitoring fluorescence. SYPRO Orange fluoresces more when it binds hydrophobic surfaces exposed during unfolding. The midpoint of the unfolding transition is the melting temperature, Tm; fluorescence later falls as unfolded proteins aggregate and release dye.",
+    "mustKnow": [
+      "TSA measures changes in protein thermal stability.",
+      "SYPRO Orange binds exposed hydrophobic surfaces.",
+      "Fluorescence rises as the protein unfolds.",
+      "Tm is the midpoint of the unfolding transition."
+    ],
+    "terms": [
+      {"term": "TSA", "meaning": "Thermal shift assay."},
+      {"term": "SYPRO Orange", "meaning": "A fluorescent dye that binds exposed hydrophobic protein surfaces."},
+      {"term": "Tm", "meaning": "Melting temperature at the midpoint of thermal unfolding."},
+      {"term": "Denaturation", "meaning": "Loss of a protein's folded structure."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Why does SYPRO Orange fluorescence initially increase during protein heating?",
+      "options": ["Unfolding exposes hydrophobic surfaces that bind the dye", "The protein synthesizes more dye", "DNA concentration increases", "The sample freezes"],
+      "answer": 0,
+      "explanation": "Heating exposes hydrophobic regions, allowing more SYPRO Orange binding and fluorescence."
+    }
+  },
+  {
+    "page": 381,
+    "title": "Using TSA to Compare Protein Stability",
+    "explain": "The RecA curves show how buffer pH changes the temperature at which unfolding occurs. A curve shifted to a higher temperature has a higher Tm and indicates greater thermal stability under that condition. The derivative plot helps locate each transition peak.",
+    "mustKnow": [
+      "TSA can compare protein stability across buffer conditions.",
+      "A higher-temperature transition means a higher Tm.",
+      "A higher Tm indicates greater thermal stability.",
+      "The example tests the effect of pH on RecA."
+    ],
+    "terms": [
+      {"term": "RecA", "meaning": "An ATP-dependent protein involved in DNA-damage repair."},
+      {"term": "Melt curve", "meaning": "Fluorescence plotted against temperature during protein unfolding."},
+      {"term": "Derivative plot", "meaning": "A transformed melt curve used to identify the unfolding-transition peak."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What does a melt curve shifted to a higher temperature usually indicate?",
+      "options": ["Greater protein thermal stability", "Lower protein concentration in every case", "Immediate protein synthesis", "Loss of all hydrophobic residues"],
+      "answer": 0,
+      "explanation": "A rightward shift corresponds to a higher Tm and therefore greater thermal stability."
+    }
+  },
+  {
+    "page": 382,
+    "title": "Detecting Ligand Binding with TSA",
+    "explain": "If a small molecule binds preferentially to the native folded protein, it can stabilize that structure. The protein-ligand complex then unfolds at a higher temperature than the unbound protein, producing a positive shift in Tm and in the melt curve.",
+    "mustKnow": [
+      "A stabilizing ligand preferentially binds the native protein.",
+      "Ligand stabilization raises the complex's Tm.",
+      "A positive thermal shift can indicate protein-ligand interaction."
+    ],
+    "terms": [
+      {"term": "Ligand", "meaning": "A molecule that binds to a protein."},
+      {"term": "Thermal shift", "meaning": "A change in melting temperature relative to a comparison sample."},
+      {"term": "Native state", "meaning": "The normally folded form of a protein."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What TSA result is expected when a ligand stabilizes the native protein?",
+      "options": ["A higher Tm", "A lower molecular weight", "No protein present", "A change from DNA to RNA"],
+      "answer": 0,
+      "explanation": "A stabilizing ligand makes more heat necessary for unfolding, shifting Tm upward."
+    }
+  },
+  {
+    "page": 383,
+    "title": "Lecture 37: Biochemistry and Biophysics Techniques",
+    "explain": "This lecture section covers techniques for measuring protein stability and molecular interactions, including thermal shift assays, isothermal titration calorimetry, and FRET.",
+    "mustKnow": [
+      "The section compares fluorescence-based and heat-based measurements of molecular behavior."
+    ],
+    "terms": [
+      {"term": "Biophysics", "meaning": "Application of physical principles and measurements to biological systems."}
+    ],
+    "interaction": {
+      "type": "tap",
+      "label": "This section covers TSA, ITC, and FRET."
+    }
+  },
+  {
+    "page": 384,
+    "title": "TSA Signal and Melting Temperature",
+    "explain": "In TSA, a protein is gradually heated. Exposed hydrophobic surfaces bind SYPRO Orange as the protein unfolds, increasing fluorescence. The transition midpoint gives Tm, while aggregation at still higher temperature can release dye and reduce the signal.",
+    "mustKnow": [
+      "Protein unfolding exposes hydrophobic regions.",
+      "SYPRO Orange binding increases fluorescence.",
+      "Tm is read from the midpoint of the unfolding transition.",
+      "Aggregation can cause fluorescence to decrease after the peak."
+    ],
+    "terms": [
+      {"term": "Hydrophobic surface", "meaning": "A nonpolar protein region normally buried away from water."},
+      {"term": "Aggregation", "meaning": "Association of unfolded proteins into larger clusters."},
+      {"term": "Fluorescence", "meaning": "Light emitted by a molecule after it absorbs light."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "At what feature of a TSA curve is Tm defined?",
+      "options": ["The midpoint of the unfolding transition", "The starting protein concentration", "The final room temperature", "The wavelength of visible light alone"],
+      "answer": 0,
+      "explanation": "Tm is the midpoint temperature of the thermal unfolding transition."
+    }
+  },
+  {
+    "page": 385,
+    "title": "TSA as a Binding Assay",
+    "explain": "A ligand that binds and stabilizes the folded protein shifts the melt curve toward higher temperatures. Comparing the protein alone with protein-plus-ligand therefore gives a quick indication of a stabilizing interaction.",
+    "mustKnow": [
+      "Compare ligand-bound and unbound protein curves.",
+      "A positive Tm shift indicates stabilization.",
+      "TSA detects a stability change rather than directly locating the binding site."
+    ],
+    "terms": [
+      {"term": "Protein-ligand complex", "meaning": "A protein with a ligand bound to it."},
+      {"term": "Positive shift", "meaning": "Movement of the unfolding transition to a higher temperature."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Which curve would represent a protein stabilized by a ligand?",
+      "options": ["The curve with a higher Tm", "The curve with no temperature axis", "A curve showing no protein", "The curve with the lowest wavelength"],
+      "answer": 0,
+      "explanation": "Stabilization means the protein requires a higher temperature to unfold."
+    }
+  },
+  {
+    "page": 386,
+    "title": "Isothermal Titration Calorimeter",
+    "explain": "An isothermal titration calorimeter contains a sample cell with protein and a reference cell with buffer inside an insulated jacket. The instrument measures the feedback power needed to keep both cells at the same temperature as binding releases or absorbs heat.",
+    "mustKnow": [
+      "The sample cell contains protein and the reference cell contains buffer.",
+      "The instrument detects tiny temperature differences between the cells.",
+      "Feedback power maintains equal temperatures.",
+      "Exothermic binding decreases sample-cell feedback power; endothermic binding increases it."
+    ],
+    "terms": [
+      {"term": "ITC", "meaning": "Isothermal titration calorimetry, a method that measures heat during molecular binding."},
+      {"term": "Reference cell", "meaning": "The control cell, containing buffer in the setup shown."},
+      {"term": "Exothermic", "meaning": "Releasing heat."},
+      {"term": "Endothermic", "meaning": "Absorbing heat."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What does an ITC instrument directly monitor during an interaction?",
+      "options": ["Power needed to keep sample and reference cells at the same temperature", "DNA sequence", "Cell shape", "Drug color"],
+      "answer": 0,
+      "explanation": "The calorimeter records the compensating power associated with heat released or absorbed."
+    }
+  },
+  {
+    "page": 387,
+    "title": "Early ITC Injections",
+    "explain": "At the start of an ITC titration, protein binding sites are mostly free, so an injected ligand binds extensively and produces a large heat signal. In the exothermic example, heat release means delta H is negative and the feedback power decreases. The signal returns to baseline before the next injection.",
+    "mustKnow": [
+      "Early injections can produce large peaks because many binding sites are free.",
+      "Exothermic binding has negative delta H.",
+      "After binding reaches equilibrium, the signal returns to baseline.",
+      "The next injection is made after baseline recovery."
+    ],
+    "terms": [
+      {"term": "Delta H", "meaning": "Enthalpy change of the binding reaction."},
+      {"term": "Baseline", "meaning": "The stable instrument signal before or between injection peaks."},
+      {"term": "Equilibrium", "meaning": "A state with no net change in binding populations."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What is the sign of delta H for the exothermic binding example shown?",
+      "options": ["Negative", "Positive", "Always zero", "Undefined"],
+      "answer": 0,
+      "explanation": "An exothermic reaction releases heat, so the slide labels delta H as less than zero."
+    }
+  },
+  {
+    "page": 388,
+    "title": "ITC Saturation",
+    "explain": "As repeated ligand injections fill more protein binding sites, less newly injected ligand can bind and each heat peak becomes smaller. Once the protein is saturated, the remaining signal is mainly the heat of dilution rather than binding.",
+    "mustKnow": [
+      "Peak size decreases as protein binding sites become occupied.",
+      "Complete occupancy is called saturation.",
+      "After saturation, the observed signal is mainly heat of dilution."
+    ],
+    "terms": [
+      {"term": "Saturation", "meaning": "The state in which essentially all available binding sites are occupied."},
+      {"term": "Heat of dilution", "meaning": "Heat produced or absorbed when a solution is diluted, independent of specific binding."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Why do ITC peaks usually become smaller during successive injections?",
+      "options": ["Fewer protein binding sites remain free", "The protein gains new chromosomes", "The reference cell disappears", "The ligand becomes DNA"],
+      "answer": 0,
+      "explanation": "As the protein approaches saturation, less ligand binds after each injection."
+    }
+  },
+  {
+    "page": 389,
+    "title": "Reading ITC Results",
+    "explain": "The raw ITC trace contains one heat peak per ligand injection. Integrating each peak gives the heat per injection, which is plotted against the ligand-to-protein molar ratio to form a binding isotherm. Its plateau, inflection point, and slope provide enthalpy, stoichiometry, and binding affinity.",
+    "mustKnow": [
+      "Each raw peak corresponds to one ligand injection.",
+      "Peak areas are integrated to obtain heat values.",
+      "Integrated heat is plotted against ligand-to-protein molar ratio.",
+      "ITC can provide enthalpy, stoichiometry, and affinity."
+    ],
+    "terms": [
+      {"term": "Binding isotherm", "meaning": "A binding-response curve measured at constant temperature."},
+      {"term": "Stoichiometry", "meaning": "The number of ligand molecules bound per protein molecule or binding unit."},
+      {"term": "Ka", "meaning": "Association constant; larger values indicate stronger association."},
+      {"term": "Kd", "meaning": "Dissociation constant; Ka equals 1 divided by Kd in the relation shown."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What is plotted on the x-axis of the integrated ITC binding curve shown?",
+      "options": ["Molar ratio of ligand to protein", "Wavelength", "Cell number", "Blood pressure"],
+      "answer": 0,
+      "explanation": "Integrated injection heats are plotted against the ligand-to-protein molar ratio."
+    }
+  },
+  {
+    "page": 390,
+    "title": "ITC c-Value and Dilution Control",
+    "explain": "A useful ITC binding curve must have enough sigmoid shape to estimate binding parameters accurately. The c-value, c = n[P]Ka, controls this shape through stoichiometry, protein concentration, and association strength. Heat from ligand dilution must be measured separately and subtracted.",
+    "mustKnow": [
+      "A sigmoidal isotherm is needed for accurate binding-affinity analysis.",
+      "The c-value is given as n times protein concentration times Ka.",
+      "Ligand dilution itself can release or absorb heat.",
+      "A ligand-into-buffer control is subtracted from the binding experiment."
+    ],
+    "terms": [
+      {"term": "c-value", "meaning": "The ITC parameter n[P]Ka that influences binding-isotherm sigmoidicity."},
+      {"term": "Sigmoidicity", "meaning": "The degree to which a curve has an S shape."},
+      {"term": "Dilution control", "meaning": "Ligand titrated into buffer to measure nonbinding heat effects."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "Why is ligand titrated into buffer in an ITC control experiment?",
+      "options": ["To measure heat of dilution for subtraction", "To create more protein", "To determine DNA sequence", "To increase the number of binding sites"],
+      "answer": 0,
+      "explanation": "The control measures heat caused by dilution rather than protein-ligand binding."
+    }
+  },
+  {
+    "page": 391,
+    "title": "MDM2 and MDMX Control p53",
+    "explain": "The diagram shows MDM2 and MDMX as negative regulators of the tumor suppressor p53. MDM2 binds p53, promotes its ubiquitination, nuclear export, and proteasomal degradation, reducing p53-driven tumor-suppressor gene activity.",
+    "mustKnow": [
+      "MDM2 and MDMX negatively regulate p53.",
+      "MDM2 can promote p53 ubiquitination.",
+      "Ubiquitinated p53 can be degraded by the proteasome.",
+      "Reducing p53 lowers expression of p53 target genes."
+    ],
+    "terms": [
+      {"term": "p53", "meaning": "A tumor-suppressor transcription factor activated by cellular stress and DNA damage."},
+      {"term": "MDM2", "meaning": "A negative regulator that binds p53 and promotes its ubiquitination and degradation."},
+      {"term": "Ubiquitination", "meaning": "Attachment of ubiquitin that can mark a protein for degradation."},
+      {"term": "Proteasome", "meaning": "A cellular complex that degrades selected proteins."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What happens to p53 when MDM2 promotes its ubiquitination?",
+      "options": ["It is targeted for proteasomal degradation", "It becomes DNA", "It forms angiotensin II", "It is secreted as insulin"],
+      "answer": 0,
+      "explanation": "The diagram connects MDM2-mediated ubiquitination with p53 degradation by the proteasome."
+    }
+  },
+  {
+    "page": 392,
+    "title": "Bcl-2 Family Regulation of Apoptosis",
+    "explain": "The Bcl-2 protein family controls the mitochondrial decision to undergo apoptosis. Pro-apoptotic and anti-apoptotic family members interact at the mitochondrial membrane; their balance determines whether mitochondrial permeabilization and downstream caspase activation occur.",
+    "mustKnow": [
+      "Bcl-2 family proteins regulate the mitochondrial apoptosis pathway.",
+      "The family contains both pro-apoptotic and anti-apoptotic members.",
+      "Their interactions control mitochondrial membrane permeabilization.",
+      "Mitochondrial permeabilization promotes downstream caspase activation."
+    ],
+    "terms": [
+      {"term": "Bcl-2 family", "meaning": "A group of proteins that promote or block mitochondrial apoptosis."},
+      {"term": "Apoptosis", "meaning": "A regulated program of cell death."},
+      {"term": "Mitochondrial permeabilization", "meaning": "Formation of openings that allow apoptotic factors to leave mitochondria."},
+      {"term": "Caspase", "meaning": "A protease that executes or regulates apoptosis."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What determines whether Bcl-2 family signaling promotes mitochondrial apoptosis?",
+      "options": ["The balance of pro- and anti-apoptotic family members", "The color of the mitochondrion", "Blood type alone", "The drug administration route"],
+      "answer": 0,
+      "explanation": "Opposing Bcl-2 family proteins interact to control mitochondrial permeabilization and apoptosis."
+    }
+  },
+  {
+    "page": 393,
+    "title": "Förster Resonance Energy Transfer",
+    "explain": "FRET transfers excitation energy from a donor fluorophore to a nearby acceptor without photon emission between them. Efficient transfer requires overlap between donor emission and acceptor absorption spectra and a very short distance. Efficiency follows E = 1/[1 + (r/R0)^6], so it falls steeply as distance increases.",
+    "mustKnow": [
+      "FRET requires a donor and an acceptor fluorophore.",
+      "Donor emission must overlap acceptor absorption.",
+      "FRET is strongly distance dependent and usually occurs within about 10 nm.",
+      "R0 is the distance at which transfer efficiency is 50%."
+    ],
+    "terms": [
+      {"term": "FRET", "meaning": "Distance-dependent nonradiative energy transfer from a donor to an acceptor fluorophore."},
+      {"term": "Donor", "meaning": "The fluorophore that supplies excitation energy."},
+      {"term": "Acceptor", "meaning": "The nearby fluorophore that receives energy from the donor."},
+      {"term": "Förster radius", "meaning": "R0, the donor-acceptor distance giving 50% transfer efficiency."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What happens to FRET efficiency when donor-acceptor distance increases substantially?",
+      "options": ["It decreases steeply", "It always becomes 100%", "It is completely independent of distance", "It converts the fluorophores into proteins"],
+      "answer": 0,
+      "explanation": "The sixth-power distance relationship makes FRET efficiency fall sharply as separation increases."
+    }
+  },
+  {
+    "page": 394,
+    "title": "Cameleon FRET Sensor for Calcium",
+    "explain": "Cameleon is a genetically encoded calcium sensor containing calmodulin and the M13 calmodulin-binding segment between CFP and YFP. Without Ca2+, the fluorophores remain arranged for weak FRET and cyan emission. Ca2+ makes calmodulin bind M13, bringing CFP and YFP into a FRET-active arrangement and producing yellow emission.",
+    "mustKnow": [
+      "Cameleon monitors Ca2+ concentration in living cells.",
+      "It contains calmodulin, M13, CFP, and YFP.",
+      "Without Ca2+, the signal is mainly cyan.",
+      "With Ca2+, calmodulin binds M13, FRET increases, and the signal becomes yellow."
+    ],
+    "terms": [
+      {"term": "Cameleon", "meaning": "A FRET-based genetically encoded sensor for cellular Ca2+."},
+      {"term": "Calmodulin", "meaning": "A Ca2+-binding protein that changes conformation when calcium binds."},
+      {"term": "M13", "meaning": "A calmodulin-binding peptide module used in the sensor."},
+      {"term": "CFP/YFP", "meaning": "Cyan and yellow fluorescent proteins serving as the FRET donor and acceptor."}
+    ],
+    "interaction": {
+      "type": "mcq",
+      "q": "What causes Cameleon to switch from mainly cyan to yellow fluorescence?",
+      "options": ["Ca2+-dependent binding of calmodulin to M13", "Loss of both fluorescent proteins", "ACE cleavage", "Glutathione conjugation"],
+      "answer": 0,
+      "explanation": "Ca2+ promotes the calmodulin-M13 interaction, changing sensor geometry and increasing CFP-to-YFP FRET."
+    }
+  }
+]

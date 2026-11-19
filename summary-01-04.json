@@ -1,0 +1,670 @@
+[
+ {
+  "topic": "Bioenergetics",
+  "oneLiner": "Cells obey thermodynamics: ΔG (= ΔH − TΔS) sets reaction direction, actual ΔG depends on concentrations, and ATP couples favorable to unfavorable reactions mainly through group transfer.",
+  "sections": [
+   {
+    "heading": "Metabolism: catabolism vs anabolism",
+    "points": [
+     "Metabolism = sum of all enzyme-catalyzed chemical transformations, organized as ordered metabolic pathways (linear, branched or cyclic).",
+     "Catabolism breaks down nutrients, releases energy; generally convergent (many inputs → few common products).",
+     "Anabolism builds molecules using energy; generally divergent (few precursors → many products); many anabolic reactions are endergonic.",
+     "Opposing pathways use separate enzyme sets, are reciprocally regulated, may use different reaction sequences and different compartments → prevents futile cycling.",
+     "Nitrogen needed for amino acids and nucleic acids; energy conversion always loses some free energy as heat (entropy increases)."
+    ],
+    "pages": [
+     3,
+     4,
+     5,
+     6,
+     7
+    ]
+   },
+   {
+    "heading": "Enzyme kinetics and regulation",
+    "points": [
+     "Michaelis–Menten: rate rises with [S] and plateaus at Vmax as enzyme saturates (Vmax is for a given enzyme concentration).",
+     "Km = substrate concentration at which rate = Vmax/2.",
+     "Three regulation modes: substrate availability ([S] low relative to Km limits rate), allosteric regulation (binding away from active site), hormonal regulation (changes enzyme synthesis/degradation)."
+    ],
+    "pages": [
+     8,
+     9
+    ]
+   },
+   {
+    "heading": "Thermodynamics: ΔG, ΔH, ΔS",
+    "points": [
+     "ΔG = ΔH − TΔS; −ΔH (heat release) and +ΔS (more disorder) both push ΔG negative.",
+     "ΔG < 0: exergonic, spontaneous, can do work (many catabolic reactions); ΔG > 0: endergonic, needs input; reverse of endergonic is exergonic.",
+     "ΔG < 0 favors forward, > 0 favors reverse, = 0 at equilibrium; spontaneous ≠ fast.",
+     "ΔG is a state function: path-independent and additive across sequential reactions."
+    ],
+    "pages": [
+     10,
+     11,
+     13,
+     14,
+     23
+    ]
+   },
+   {
+    "heading": "Standard state, K′eq and actual ΔG",
+    "points": [
+     "Keq = [C]^c[D]^d/[A]^a[B]^b; biochemical standard state: pH 7 ([H⁺] = 10⁻⁷ M), water = 55.5 M, solutes 1 M.",
+     "ΔG°′ = −RT ln K′eq: K′eq > 1 → ΔG°′ < 0; K′eq = 1 → 0; K′eq < 1 → ΔG°′ > 0.",
+     "Worked example: A ⇌ B, K′eq = 12 → ΔG°′ ≈ −6.15 kJ/mol (favors B).",
+     "Actual ΔG = ΔG°′ + RT ln([products]/[reactants]); concentrations can reverse the favored direction in the cell.",
+     "1 kcal = 4.184 kJ."
+    ],
+    "pages": [
+     12,
+     15,
+     16,
+     17,
+     18,
+     22
+    ]
+   },
+   {
+    "heading": "Reaction coupling",
+    "points": [
+     "Sequential reactions A→B, B→C: shared intermediate cancels; ΔG°′(A→C) = ΔG°′1 + ΔG°′2.",
+     "Glucose + Pi → glucose 6-phosphate (+13.8 kJ/mol) coupled with ATP hydrolysis (−30.5) gives net −16.7 kJ/mol.",
+     "Glycolysis: glucose → pyruvate; ATP invested in early phosphorylation steps, ATP (substrate-level phosphorylation) and NADH produced later."
+    ],
+    "pages": [
+     19,
+     20,
+     21,
+     33
+    ]
+   },
+   {
+    "heading": "ATP as energy currency",
+    "points": [
+     "ATP = adenine + ribose + 3 phosphates; ATP → ADP + Pi or ATP → AMP + PPi, both release energy.",
+     "ΔG°′ of ATP hydrolysis = −30.5 kJ/mol; cellular ΔG differs since [ATP], [ADP], [Pi] are unequal and ≪ 1 M (erythrocyte ≈ −51.82 kJ/mol).",
+     "Mg²⁺ binds ATP/ADP in cytosol; MgATP²⁻ is the true substrate for most phosphoryl transfers.",
+     "ATP/ADP ratio = energy charge signal; low ATP/ADP promotes ATP synthesis by oxidative phosphorylation.",
+     "Cells are isothermal: photosynthetic cells capture sunlight, heterotrophs oxidize nutrients; both store energy as ATP.",
+     "Redox potential = tendency to donate/accept electrons; depends on reduced:oxidized ratio; NAD⁺/NADH key pair."
+    ],
+    "pages": [
+     24,
+     25,
+     26,
+     29,
+     30,
+     31,
+     32
+    ]
+   },
+   {
+    "heading": "High-energy compounds and phosphoryl-transfer potential",
+    "points": [
+     "High-energy compound: releases > 7.0 kcal/mol on hydrolysis (slide's cutoff); many but not all are phosphates.",
+     "Classes: acyl phosphates (ATP, PPi, 1,3-BPG), enol phosphates (PEP), thiol esters (acetyl-CoA), guanidino phosphates (phosphocreatine).",
+     "Ranking by −ΔG°′ of hydrolysis: PEP > 1,3-BPG > phosphocreatine > ATP > glucose 6-phosphate, glycerol phosphate; ATP is intermediate.",
+     "Compounds above ATP can phosphorylate ADP; ATP phosphorylates those below it.",
+     "1,3-BPG + ADP → ATP + 3-phosphoglycerate (substrate-level phosphorylation).",
+     "PEP's high potential: hydrolysis gives enol pyruvate, which tautomerizes to stable keto pyruvate (product stabilization)."
+    ],
+    "pages": [
+     27,
+     28,
+     34,
+     35,
+     37
+    ]
+   },
+   {
+    "heading": "How ATP does work: group transfer and firefly light",
+    "points": [
+     "ATP usually acts by group transfer, not isolated hydrolysis: phosphoryl transfer → ADP left; pyrophosphoryl → AMP left; adenylyl (AMP) transfer → PPi left.",
+     "Hydrolysis-driven conformational cycles power muscle motion and proteins moving along DNA/mRNA (helicases, RecA, topoisomerases, replication ATPases).",
+     "Firefly: luciferase uses ATP to activate luciferin → luciferyl adenylate (adenylyl transfer).",
+     "With O₂ + luciferase, oxidative decarboxylation → oxyluciferin + light; luciferase structure sets light colour; luciferin regenerated."
+    ],
+    "pages": [
+     36,
+     38,
+     39,
+     40
+    ]
+   }
+  ],
+  "mustRemember": [
+   "ΔG = ΔH − TΔS",
+   "ΔG°′ = −RT ln K′eq",
+   "ΔG = ΔG°′ + RT ln([products]/[reactants])",
+   "Biochemical standard state: pH 7, [H₂O] = 55.5 M, 1 M solutes",
+   "ATP hydrolysis ΔG°′ = −30.5 kJ/mol; erythrocyte actual ΔG ≈ −51.82 kJ/mol",
+   "Glucose → G6P +13.8 kJ/mol; coupled with ATP → −16.7 kJ/mol",
+   "K′eq = 12 → ΔG°′ ≈ −6.15 kJ/mol",
+   "1 kcal = 4.184 kJ",
+   "Km = [S] at Vmax/2",
+   "High-energy compound cutoff: > 7.0 kcal/mol hydrolysis",
+   "PEP (enol phosphate), 1,3-BPG (acyl phosphate), phosphocreatine (guanidino phosphate), acetyl-CoA (thiol ester)",
+   "MgATP²⁻ is the true enzyme substrate",
+   "Firefly: luciferin + ATP → luciferyl adenylate → (O₂) oxyluciferin + light"
+  ],
+  "distinguish": [
+   {
+    "pair": "Catabolism vs anabolism",
+    "difference": "Catabolism: breakdown, energy-releasing, convergent; anabolism: biosynthesis, energy-requiring, divergent."
+   },
+   {
+    "pair": "Exergonic vs endergonic",
+    "difference": "Exergonic ΔG < 0, releases energy, spontaneous; endergonic ΔG > 0, needs energy input."
+   },
+   {
+    "pair": "ΔG°′ vs ΔG",
+    "difference": "ΔG°′ is a fixed constant at standard conditions (from K′eq); ΔG is actual, includes current concentration ratio."
+   },
+   {
+    "pair": "Km vs Vmax",
+    "difference": "Vmax is maximal rate at saturation; Km is the [S] giving half Vmax."
+   },
+   {
+    "pair": "Phosphoryl vs pyrophosphoryl vs adenylyl transfer",
+    "difference": "Leaves ADP, AMP and PPi respectively."
+   },
+   {
+    "pair": "ATP → ADP + Pi vs ATP → AMP + PPi",
+    "difference": "Terminal phosphate removal vs pyrophosphate cleavage; both exergonic."
+   },
+   {
+    "pair": "Substrate-level vs oxidative phosphorylation",
+    "difference": "Substrate-level: direct phosphate transfer from an intermediate (1,3-BPG, PEP) to ADP; oxidative: ATP synthesis activated when energy is low."
+   }
+  ],
+  "traps": [
+   "ΔG°′ is not actual ΔG; only actual ΔG includes concentrations.",
+   "Negative ΔG predicts direction, not speed; enzymes change rate, never ΔG.",
+   "Km is a substrate concentration, not a rate.",
+   "ATP usually works by group transfer (as MgATP²⁻), not by releasing heat from isolated hydrolysis.",
+   "ATP is intermediate, not highest, in phosphoryl-transfer potential (PEP, 1,3-BPG, phosphocreatine are higher).",
+   "Not all high-energy compounds are phosphates (e.g. acetyl-CoA thioester)."
+  ]
+ },
+ {
+  "topic": "Gene Expression and Regulation",
+  "oneLiner": "Genetic information flows DNA → RNA → protein via replication, transcription and translation; prokaryotes regulate mainly at transcription initiation, exemplified by the inducible lac operon (repressor + CAP/cAMP) and the repressible trp operon.",
+  "sections": [
+   {
+    "heading": "Genes and the central dogma",
+    "points": [
+     "Gene = segment of DNA carrying inherited information; contributes to traits and inherited disease.",
+     "Central dogma: DNA → RNA → protein (residue-by-residue information flow).",
+     "Replication: DNA → DNA; transcription: DNA → RNA; translation: mRNA → protein.",
+     "Genes may be constitutive (always on) or inducible (switched on by a signal)."
+    ],
+    "pages": [
+     42,
+     43,
+     44
+    ]
+   },
+   {
+    "heading": "DNA replication",
+    "points": [
+     "Occurs in S phase; semiconservative — each daughter duplex has one parental + one new strand.",
+     "Helicase opens DNA at the Y-shaped replication fork.",
+     "Leading strand made continuously toward fork movement; lagging strand discontinuously as Okazaki fragments.",
+     "RNA primers provide starting points for DNA synthesis."
+    ],
+    "pages": [
+     45,
+     46
+    ]
+   },
+   {
+    "heading": "Transcription and RNA processing",
+    "points": [
+     "RNA polymerase stages: initiation (binds promoter, opens transcription bubble) → promoter escape → elongation → termination.",
+     "Location: prokaryotic cytoplasm; eukaryotic nucleus.",
+     "Template = antisense/noncoding strand; mRNA is complementary to it.",
+     "Coding/sense strand = same sequence as mRNA, with T instead of U.",
+     "Eukaryotic pre-mRNA has exons (coding) + introns (noncoding); splicing removes introns and joins exons → mature mRNA."
+    ],
+    "pages": [
+     48,
+     49,
+     50
+    ]
+   },
+   {
+    "heading": "Translation and protein maturation",
+    "points": [
+     "Occurs on ribosomes in cytoplasm; mRNA = message, tRNA = carries amino acids, ribosome = joins them.",
+     "mRNA read 5′ → 3′; protein grows N-terminus → C-terminus.",
+     "Protein then folds (chaperones help) and may be transported via ER and Golgi."
+    ],
+    "pages": [
+     52,
+     53,
+     54
+    ]
+   },
+   {
+    "heading": "Principles of gene regulation",
+    "points": [
+     "Regulation matches gene activity to metabolism, growth, development and differentiation.",
+     "Prokaryotes: mainly transcription initiation; no nucleus → transcription and translation simultaneous.",
+     "Eukaryotes: regulate transcription, RNA processing, RNA export to cytosol and translation.",
+     "Positive regulation ↑ expression (activator/inducer); negative ↓ expression (repressor/inhibitor).",
+     "Operon = prokaryotic cluster of related genes under one promoter, transcribed as one mRNA (lac, ara, gal for sugars); not in eukaryotes."
+    ],
+    "pages": [
+     55,
+     56,
+     57,
+     58
+    ]
+   },
+   {
+    "heading": "Lac operon: components",
+    "points": [
+     "Lets E. coli use lactose when preferred sugar glucose is unavailable.",
+     "lacZ → β-galactosidase (lactose → glucose + galactose; also forms allolactose); lacY → permease (imports lactose); lacA → transacetylase.",
+     "Promoter binds RNA polymerase; operator (overlaps promoter) binds lac repressor; CAP site upstream binds CAP.",
+     "CAP encoded by a separate gene, made constitutively, but active only when bound to cAMP."
+    ],
+    "pages": [
+     59,
+     60,
+     62,
+     63,
+     66
+    ]
+   },
+   {
+    "heading": "Lac operon: two controls",
+    "points": [
+     "Negative control (lactose arm): no lactose → repressor binds operator, blocks RNA pol; lactose → allolactose binds repressor, releases it.",
+     "Inducible operon: default off; allolactose = inducer.",
+     "Positive control (glucose arm): low glucose → high cAMP ('hunger signal') → cAMP–CAP binds DNA → helps RNA pol bind → high transcription.",
+     "Glucose+/lactose−: none; glucose+/lactose+: low (leaky); glucose−/lactose−: none; glucose−/lactose+: strong."
+    ],
+    "pages": [
+     61,
+     64,
+     65,
+     67,
+     68,
+     69,
+     70,
+     71
+    ]
+   },
+   {
+    "heading": "Trp operon: repressible control",
+    "points": [
+     "Structural genes trpE, trpD, trpC, trpB, trpA on one transcript encode tryptophan-biosynthesis enzymes.",
+     "Tryptophan absent: repressor inactive → operon on (default).",
+     "Tryptophan present: binds repressor as co-repressor → active complex binds operator → off.",
+     "Lac (inducible) and trp (repressible) are both negatively regulated by repressors."
+    ],
+    "pages": [
+     72,
+     73,
+     74
+    ]
+   }
+  ],
+  "mustRemember": [
+   "Central dogma: DNA → RNA → protein",
+   "Replication: S phase, semiconservative; leading continuous, lagging = Okazaki fragments; RNA primers",
+   "Template = antisense; coding strand = mRNA with T for U",
+   "Translation: mRNA 5′→3′, protein N→C",
+   "lacZ = β-galactosidase, lacY = permease, lacA = transacetylase",
+   "Allolactose = lac inducer; tryptophan = trp co-repressor",
+   "Low glucose → high cAMP → active CAP → strong transcription",
+   "Strong lac transcription only with lactose present AND glucose absent",
+   "Glucose + lactose present → low/leaky transcription",
+   "Repressor binds operator; RNA pol binds promoter; CAP binds CAP site",
+   "Trp genes: trpE, D, C, B, A"
+  ],
+  "distinguish": [
+   {
+    "pair": "Template vs coding strand",
+    "difference": "Template (antisense) is read and is complementary to mRNA; coding (sense) matches mRNA except T vs U."
+   },
+   {
+    "pair": "Leading vs lagging strand",
+    "difference": "Leading synthesized continuously toward fork; lagging discontinuously as Okazaki fragments."
+   },
+   {
+    "pair": "Exon vs intron",
+    "difference": "Exons coding, retained in mature mRNA; introns noncoding, spliced out."
+   },
+   {
+    "pair": "Lac repressor vs CAP",
+    "difference": "Repressor: negative control at operator, responds to lactose; CAP: positive control at CAP site, responds to glucose via cAMP."
+   },
+   {
+    "pair": "Inducible (lac) vs repressible (trp)",
+    "difference": "Lac default off, inducer inactivates repressor; trp default on, co-repressor activates repressor."
+   },
+   {
+    "pair": "Inducer vs co-repressor",
+    "difference": "Inducer (allolactose) removes repressor from DNA; co-repressor (Trp) enables repressor to bind DNA."
+   },
+   {
+    "pair": "Prokaryotic vs eukaryotic regulation",
+    "difference": "Prokaryotes mainly at transcription initiation with coupled translation; eukaryotes at transcription, processing, export, translation."
+   }
+  ],
+  "traps": [
+   "Replication/transcription/translation swaps in options: copy DNA / make RNA / make protein.",
+   "Template strand = antisense; coding strand resembles mRNA (T vs U).",
+   "Lactose alone only removes repression; strong expression also needs low glucose (cAMP–CAP).",
+   "CAP is positive, repressor negative — they bind different sites (CAP site vs operator).",
+   "Low glucose cannot overcome a bound repressor (glucose−/lactose− = no transcription).",
+   "Trp operon is also negatively regulated — 'repressible' does not mean positive control."
+  ]
+ },
+ {
+  "topic": "Genetic Engineering Applications 1",
+  "oneLiner": "Genetic engineering isolates a gene, cuts and ligates it into a vector, transfers it into a host and selects/screens clones; core tools are restriction enzymes, DNA ligase, PCR, gel electrophoresis, Sanger sequencing and CRISPR-Cas9.",
+  "sections": [
+   {
+    "heading": "Definitions and milestones",
+    "points": [
+     "Genetic engineering = deliberate isolation, modification and transfer of DNA; underlies recombinant DNA technology.",
+     "Recombinant DNA = sequences from different sources joined; vector carries it into a host cell.",
+     "Clone = genetically identical population from one progenitor cell; transformation = introducing foreign DNA into a host.",
+     "Milestones: 1973 first GM bacteria; 1974 GM mice; 1982 commercial insulin-producing bacteria; 1994 GM food sold; 2003 GM pets (GloFish)."
+    ],
+    "pages": [
+     76,
+     77,
+     79,
+     81
+    ]
+   },
+   {
+    "heading": "Cloning workflow",
+    "points": [
+     "Isolate/PCR-amplify gene → cut insert + vector with compatible restriction enzymes → ligate with DNA ligase → transform host → select & screen → express.",
+     "Selection finds cells carrying vector (selectable marker); screening verifies correct recombinant insert.",
+     "Construct elements: promoter + terminator (transcription), selectable marker, origin of replication."
+    ],
+    "pages": [
+     76,
+     80,
+     81
+    ]
+   },
+   {
+    "heading": "Restriction enzymes",
+    "points": [
+     "Restriction endonucleases: bacterial defense enzymes cutting DNA at specific 4–8 bp recognition sites, often palindromic.",
+     "Same enzyme on vector and insert → compatible ends.",
+     "Sticky (cohesive) ends have single-stranded overhangs that base-pair; blunt ends have none.",
+     "Enzyme choice depends on location of recognition sites and needed compatibility."
+    ],
+    "pages": [
+     82,
+     83
+    ]
+   },
+   {
+    "heading": "DNA ligase",
+    "points": [
+     "Seals sugar-phosphate backbone: phosphodiester bond between 3′-OH and 5′-phosphate (seals nicks).",
+     "T4 DNA ligase is ATP-dependent: forms ligase–AMP (releasing PPi) → AMP transferred to DNA 5′-phosphate → 3′-OH attacks → bond formed.",
+     "Sticky ends ligate more efficiently than blunt (overhang pairing aligns ends, raising effective concentration)."
+    ],
+    "pages": [
+     84,
+     85,
+     86
+    ]
+   },
+   {
+    "heading": "PCR",
+    "points": [
+     "In vitro selective amplification of a DNA region in a thermal cycler; primers define target boundaries.",
+     "Components: template DNA, primers, dNTPs, (heat-stable) DNA polymerase, buffer.",
+     "Cycle order: denaturation (strand separation by heat) → annealing (primers bind) → extension (polymerase synthesis).",
+     "Ideal copies ≈ 2ⁿ after n cycles.",
+     "Uses: cloning, pathogen detection, mutation/SNP analysis, sequencing template prep."
+    ],
+    "pages": [
+     87,
+     88,
+     89
+    ]
+   },
+   {
+    "heading": "Gel electrophoresis and Sanger sequencing",
+    "points": [
+     "DNA's negative phosphate backbone → migrates to positive anode.",
+     "Agarose acts as molecular sieve: separation by size; smaller fragments move faster/farther (distance inversely related to size).",
+     "Sanger: normal dNTPs + small amount of ddNTPs; ddNTP lacks 3′-OH → chain termination.",
+     "Fragments of varying length, each ending at a specific base, reveal sequence."
+    ],
+    "pages": [
+     90,
+     91
+    ]
+   },
+   {
+    "heading": "CRISPR-Cas9",
+    "points": [
+     "Adapted from bacterial antiviral defense; guide RNA gives specificity, Cas9 = nuclease.",
+     "gRNA pairs with ~20-nt target adjacent to a PAM; Cas9 makes a double-strand break.",
+     "NHEJ: error-prone → indels → gene knockout.",
+     "HDR: uses donor DNA template → precise insertion/correction."
+    ],
+    "pages": [
+     92,
+     93
+    ]
+   },
+   {
+    "heading": "Vectors",
+    "points": [
+     "Vector = DNA vehicle carrying foreign DNA into host for replication, sometimes expression.",
+     "Needs ori (replication), selectable marker, insertion site (MCS = multiple restriction sites), ability to enter host.",
+     "Choice depends on insert size and purpose; expression needs added promoter/expression elements."
+    ],
+    "pages": [
+     94
+    ]
+   }
+  ],
+  "mustRemember": [
+   "PCR copies ≈ 2ⁿ after n cycles",
+   "PCR order: denaturation → annealing → extension",
+   "Ligase: 3′-OH + 5′-phosphate → phosphodiester bond; T4 ligase uses ATP (ligase–AMP intermediate)",
+   "Restriction sites 4–8 bp, often palindromic",
+   "DNA migrates to + anode; smaller = farther",
+   "ddNTP lacks 3′-OH → chain termination",
+   "CRISPR: ~20-nt guide + PAM; Cas9 double-strand break; NHEJ → knockout, HDR → precise edit",
+   "Vector essentials: ori, selectable marker, MCS",
+   "1973 GM bacteria, 1974 GM mice, 1982 insulin bacteria, 1994 GM food, 2003 GloFish"
+  ],
+  "distinguish": [
+   {
+    "pair": "Restriction enzyme vs DNA ligase",
+    "difference": "Restriction enzyme cuts at specific sites; ligase joins fragments by phosphodiester bonds."
+   },
+   {
+    "pair": "Sticky vs blunt ends",
+    "difference": "Sticky have complementary overhangs (more efficient ligation); blunt have none."
+   },
+   {
+    "pair": "Selection vs screening",
+    "difference": "Selection retains cells carrying vector (marker); screening identifies clones with desired insert."
+   },
+   {
+    "pair": "dNTP vs ddNTP",
+    "difference": "dNTP has 3′-OH and extends chain; ddNTP lacks 3′-OH and terminates."
+   },
+   {
+    "pair": "NHEJ vs HDR",
+    "difference": "NHEJ error-prone, indels, knockout; HDR template-guided, precise insertion/correction."
+   },
+   {
+    "pair": "PCR vs Sanger vs CRISPR",
+    "difference": "PCR amplifies DNA; Sanger reads sequence; CRISPR edits a targeted site."
+   }
+  ],
+  "traps": [
+   "Restriction enzymes cut, ligase joins — roles often swapped.",
+   "Selection ≠ screening.",
+   "DNA moves toward the positive electrode; smaller fragments migrate farther (not larger).",
+   "Cas9 needs both guide match and an adjacent PAM to cut.",
+   "Ligase links 3′-OH to 5′-phosphate (not 5′-OH to 3′-phosphate)."
+  ]
+ },
+ {
+  "topic": "Genetic Engineering Applications 2",
+  "oneLiner": "Moving from DNA insert to product: choose cloning vs expression vector, marker/reporter, host and cDNA insert, then run the ordered pipeline (isolate → insert → transform → select → screen → confirm → express → purify) and apply it in medicine, agriculture, industry and environment.",
+  "sections": [
+   {
+    "heading": "Cloning vectors and plasmids",
+    "points": [
+     "Cloning vector mainly carries/replicates DNA, not necessarily expresses it.",
+     "Good plasmid: small, easy to introduce, often high-copy; has ori (sets copy number), selectable marker, MCS.",
+     "pBR322: early plasmid with ampicillin- and tetracycline-resistance markers.",
+     "pUC: high-copy series used for cloning and blue-white screening."
+    ],
+    "pages": [
+     95
+    ]
+   },
+   {
+    "heading": "Expression vectors",
+    "points": [
+     "Contain promoter, translation-initiation signal (RBS) and terminator to make RNA/protein.",
+     "pET system: vector in E. coli, IPTG induces T7 promoter → transcription → translation.",
+     "IPTG = chemical inducer of lac-controlled expression systems.",
+     "A cloning vector is not automatically an expression vector."
+    ],
+    "pages": [
+     96
+    ]
+   },
+   {
+    "heading": "Selectable markers vs reporters",
+    "points": [
+     "Selectable marker: survival under selective condition (AmpR → grows on ampicillin; KanR).",
+     "Reporter: visible/measurable signal — GFP (fluorescence), lacZ (blue-white screening), luciferase (light)."
+    ],
+    "pages": [
+     97
+    ]
+   },
+   {
+    "heading": "Host systems",
+    "points": [
+     "E. coli: fast, cheap, high yield, but lacks eukaryotic post-translational modifications (e.g. glycosylation).",
+     "Yeast (S. cerevisiae): some PTMs.",
+     "Plant cells: scalable but slower.",
+     "Mammalian (CHO) cells: most appropriate complex PTMs/quality for therapeutic proteins; slower, costlier."
+    ],
+    "pages": [
+     98
+    ]
+   },
+   {
+    "heading": "Recombinant DNA pipeline",
+    "points": [
+     "Isolate gene → insert into vector → transform host → select → screen → confirm → express (induce) → purify.",
+     "Transformation: DNA into competent cells; selection: keeps marker-carrying cells; screening: likely recombinants.",
+     "Confirmation tests insert directly: colony PCR, restriction digestion or sequencing.",
+     "Expression induced only after a correct clone is confirmed."
+    ],
+    "pages": [
+     99
+    ]
+   },
+   {
+    "heading": "Gene isolation: genomic DNA vs cDNA",
+    "points": [
+     "Genomic DNA contains introns + regulatory regions.",
+     "cDNA made from mature mRNA by reverse transcription → no introns.",
+     "Use cDNA to express human/eukaryotic genes in E. coli — bacteria cannot splice introns.",
+     "PCR (gene-specific primers) amplifies gene; product purified to remove primers, free nucleotides, enzymes before cloning."
+    ],
+    "pages": [
+     100,
+     101
+    ]
+   },
+   {
+    "heading": "Protein production and purification",
+    "points": [
+     "Induce expression → harvest cells → lyse → bind His-tagged protein to Ni-NTA.",
+     "Wash with low imidazole; elute with high imidazole.",
+     "Check purity/result by SDS-PAGE."
+    ],
+    "pages": []
+   },
+   {
+    "heading": "Applications",
+    "points": [
+     "Four buckets: medicine, agriculture, industry, environment.",
+     "Recombinant insulin: expressed and purified from recombinant host.",
+     "Hepatitis B vaccine: recombinant HBsAg made in yeast.",
+     "Bt crops: express bacterial Cry toxin → insect resistance.",
+     "Golden Rice: β-carotene (provitamin A) in endosperm.",
+     "Gene therapy: add, replace, silence or edit genetic material."
+    ],
+    "pages": []
+   }
+  ],
+  "mustRemember": [
+   "8-step pipeline: isolate, insert, transform, select, screen, confirm, express, purify",
+   "Vector checklist: ori, selectable marker, MCS (+ promoter, RBS, terminator for expression)",
+   "pBR322 = AmpR + TetR; pUC = high-copy, blue-white screening",
+   "pET: IPTG induces T7 promoter in E. coli",
+   "Markers: AmpR, KanR; reporters: GFP, lacZ, luciferase",
+   "cDNA (no introns) for eukaryotic gene expression in bacteria",
+   "His-tag → Ni-NTA; low imidazole wash, high imidazole elute; SDS-PAGE check",
+   "E. coli lacks PTMs; CHO cells for complex therapeutics",
+   "HBV vaccine = HBsAg in yeast; Bt = Cry toxin; Golden Rice = β-carotene in endosperm"
+  ],
+  "distinguish": [
+   {
+    "pair": "Cloning vs expression vector",
+    "difference": "Cloning vector replicates DNA; expression vector adds promoter, RBS, terminator to produce protein."
+   },
+   {
+    "pair": "Selectable marker vs reporter gene",
+    "difference": "Marker confers survival (AmpR); reporter gives detectable signal (GFP, lacZ, luciferase)."
+   },
+   {
+    "pair": "Genomic DNA vs cDNA",
+    "difference": "Genomic has introns + regulatory DNA; cDNA is reverse-transcribed from mRNA, intron-free."
+   },
+   {
+    "pair": "Selection vs screening vs confirmation",
+    "difference": "Selection = carries marker; screening = likely recombinant; confirmation = insert verified by colony PCR/digest/sequencing."
+   },
+   {
+    "pair": "E. coli vs mammalian host",
+    "difference": "E. coli fast, cheap, no eukaryotic PTMs; mammalian slow, costly, proper complex PTMs."
+   },
+   {
+    "pair": "Bt crops vs Golden Rice",
+    "difference": "Bt: insect resistance via Cry toxin; Golden Rice: provitamin A via β-carotene."
+   },
+   {
+    "pair": "Low vs high imidazole",
+    "difference": "Low imidazole washes away contaminants; high imidazole elutes His-tagged protein."
+   }
+  ],
+  "traps": [
+   "Survival on antibiotic proves marker presence, not the desired insert.",
+   "A cloning vector is not automatically an expression vector.",
+   "Low imidazole washes, high imidazole elutes — not the reverse.",
+   "Don't use genomic DNA to express human genes in E. coli — introns can't be removed.",
+   "Bt and Golden Rice solve different problems (insects vs vitamin A deficiency)."
+  ]
+ }
+]
