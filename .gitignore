@@ -1,2 +1,9 @@
 node_modules/
 .DS_Store
+
+# local-only speedrun sources
+build_speedrun.py
+secondpass-data.json
+speedrun.html
+speedrun.template.html
+.speedrun-path
