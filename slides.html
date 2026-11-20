@@ -32,7 +32,9 @@ details summary{cursor:pointer;font-weight:650}
 .pager{display:flex;gap:10px;justify-content:space-between;margin:10px 0 40px}
 .zoom{position:fixed;inset:0;background:#000d;display:flex;align-items:center;justify-content:center;z-index:20;cursor:zoom-out}.zoom img{max-width:96vw;max-height:94vh}
 body.collapsed .layout{grid-template-columns:1fr}body.collapsed nav{display:none}
-@media(max-width:900px){.layout{grid-template-columns:1fr}nav{display:none;position:fixed;inset:54px 0 0 0;height:auto;z-index:10}nav.open{display:block!important}main{padding:12px}}
+body.horizontal main{max-width:1700px}body.horizontal .card{grid-template-columns:minmax(0,1.2fr) minmax(0,.8fr);align-items:start}
+body.horizontal .card>div:first-child{position:sticky;top:66px}body.horizontal .card h2{font-size:19px}
+@media(max-width:900px){.layout{grid-template-columns:1fr}nav{display:none;position:fixed;inset:54px 0 0 0;height:auto;z-index:10}nav.open{display:block!important}main{padding:12px}body.horizontal .card{grid-template-columns:1fr}body.horizontal .card>div:first-child{position:static}}
 </style>
 </head>
 <body>
@@ -41,6 +43,7 @@ body.collapsed .layout{grid-template-columns:1fr}body.collapsed nav{display:none
   <h1>SBL100 · Slides &amp; Explanations</h1>
   <span id="where" class="meta"></span>
   <span class="grow"></span>
+  <button id="layoutBtn" class="btn" title="Switch between slide-above-text and side-by-side">⇅ Vertical</button>
   <a class="btn" href="summary.html" id="summaryLink">Summary</a>
   <a class="btn" href="questions.html" id="practiceLink">Practice this topic →</a>
   <a class="btn" href="index.html">Home</a>
@@ -95,6 +98,10 @@ function open(i,page){
 }
 $("menuBtn").onclick=()=>{if(matchMedia("(max-width:900px)").matches)$("nav").classList.toggle("open");else{const c=document.body.classList.toggle("collapsed");try{localStorage.setItem("sbl-nav-collapsed",c?"1":"")}catch{}}};
 try{if(localStorage.getItem("sbl-nav-collapsed"))document.body.classList.add("collapsed")}catch{}
+function setLayout(hz){document.body.classList.toggle("horizontal",hz);$("layoutBtn").textContent=hz?"⇆ Horizontal":"⇅ Vertical";try{localStorage.setItem("sbl-layout",hz?"h":"v")}catch{}}
+$("layoutBtn").onclick=()=>{const top=[...document.querySelectorAll(".card")].find(c=>c.getBoundingClientRect().bottom>70);setLayout(!document.body.classList.contains("horizontal"));if(top)top.scrollIntoView()};
+let savedLayout=null;try{savedLayout=localStorage.getItem("sbl-layout")}catch{}
+setLayout(savedLayout?savedLayout==="h":innerWidth>innerHeight);
 // deep link: #page=123 or #topic=Name
 const h=new URLSearchParams(location.hash.slice(1));
 if(h.get("page")){const s=D.slides.find(x=>x.page===+h.get("page"));if(s)open(D.topics.indexOf(s.topic),s.page);else open(0)}
