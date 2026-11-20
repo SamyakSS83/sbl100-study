@@ -29,6 +29,9 @@ details summary{cursor:pointer;font-weight:650}
 .card ul{padding-left:20px;margin:0}.card li{margin:4px 0}
 .terms{display:grid;grid-template-columns:auto 1fr;gap:5px 12px;margin:0}.terms dt{font-weight:700}.terms dd{margin:0;color:var(--muted)}
 .diagram{border-left:4px solid var(--accent);padding-left:10px}
+.video{margin-top:14px;border:1px solid var(--line);border-left:4px solid #d33;border-radius:10px;padding:10px 14px;background:var(--bg)}
+.video h3{margin:0 0 4px;font-size:15px}.video h3 a{text-decoration:none}.video .vnote{background:var(--warn2);color:var(--ink);border-radius:7px;padding:5px 9px;margin:6px 0;font-size:13.5px}
+.badge{display:inline-block;font-size:11.5px;border:1px solid var(--line);border-radius:20px;padding:0 7px;margin-left:4px;color:var(--muted);font-weight:400}
 .pager{display:flex;gap:10px;justify-content:space-between;margin:10px 0 40px}
 .zoom{position:fixed;inset:0;background:#000d;display:flex;align-items:center;justify-content:center;z-index:20;cursor:zoom-out}.zoom img{max-width:96vw;max-height:94vh}
 body.collapsed .layout{grid-template-columns:1fr}body.collapsed nav{display:none}
@@ -69,6 +72,14 @@ function renderNav(){
   $("nav").querySelectorAll(".topic").forEach(b=>b.onclick=()=>{open(+b.dataset.i);$("nav").classList.remove("open")});
 }
 function list(title,arr,cls=""){return arr&&arr.length?`<section class="${cls}"><h3>${title}</h3><ul>${arr.map(x=>`<li>${esc(x)}</li>`).join("")}</ul></section>`:""}
+const fmt=t=>`${Math.floor(t/60)}:${String(t%60).padStart(2,"0")}`;
+function videoHtml(v){
+  const url=`https://www.youtube.com/watch?v=${v.id}${v.start?`&t=${v.start}s`:""}`;
+  return `<section class="video"><h3>▶ <a href="${url}" target="_blank" rel="noopener">${esc(v.title)}</a></h3>
+    <div class="meta">${esc(v.channel)} · ${fmt(v.duration)}${v.start?` · starts at ${fmt(v.start)}`:""}${v.end?` · watch up to ${fmt(v.end)}`:""}<span class="badge">${v.narrated?"summary from narration":"no narration – summary from video description"}</span></div>
+    ${v.note?`<div class="vnote">${esc(v.note)}</div>`:""}
+    <ul>${v.summary.map(x=>`<li>${esc(x)}</li>`).join("")}</ul></section>`;
+}
 function open(i,page){
   cur=i;const t=D.topics[i];store.set({topic:t});
   const ss=D.slides.filter(s=>s.topic===t);
@@ -84,6 +95,7 @@ function open(i,page){
     <div><img loading="lazy" src="slides/slide-${pad(s.page)}.jpg" alt="Slide ${s.page}: ${esc(s.title)}"><div class="meta">Slide ${s.page} · ${esc(s.topic)} #${s.slideInLecture}</div></div>
     <div><h2>${esc(s.title)}</h2><p>${esc(s.explain)}</p>
       ${s.diagramGuide.length?list("How to read the diagram",s.diagramGuide,"diagram"):""}
+      ${s.videos.map(videoHtml).join("")}
       ${list("What the examiner can ask",s.mustKnow)}
       ${s.terms.length?`<h3>Vocabulary</h3><dl class="terms">${s.terms.map(x=>`<dt>${esc(x.term)}</dt><dd>${esc(x.meaning)}</dd>`).join("")}</dl>`:""}
     </div></article>`).join("");

@@ -41,6 +41,8 @@ const moduleTopics = [
 ];
 for (const t of moduleTopics.flat()) if (t !== MIXED && !topics.includes(t)) throw new Error(`Unknown topic ${t}`);
 
+// ---------- YouTube video notes (videos.json, keyed by slide page) ----------
+const videoMap = new Map(read("videos.json").map((x) => [x.page, x.videos]));
 // ---------- slides data ----------
 const slides = source.map((s, i) => {
   const n = notes[i];
@@ -48,7 +50,7 @@ const slides = source.map((s, i) => {
   return {
     page: s.page, topic: s.lecture, slideInLecture: s.slideInLecture,
     title: n.title, explain: n.explain, mustKnow: n.mustKnow || [],
-    terms: n.terms || [], diagramGuide: n.diagramGuide || [],
+    terms: n.terms || [], diagramGuide: n.diagramGuide || [], videos: videoMap.get(s.page) || [],
   };
 });
 const overviews = modules.map((m, i) => ({

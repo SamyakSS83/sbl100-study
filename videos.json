@@ -1,0 +1,231 @@
+[
+  {"page": 47, "videos": [
+    {"id": "TNKWgcFPHqw", "title": "DNA replication – 3D", "channel": "yourgenome", "duration": 208, "narrated": true,
+     "summary": [
+       "DNA = two complementary, antiparallel strands (A–T, C–G), each with a 5′ and 3′ end.",
+       "Helicase unzips the helix → replication fork; each strand becomes a template.",
+       "Primase lays down a short RNA primer; DNA polymerase extends it, only 5′→3′.",
+       "Leading strand is made continuously; lagging strand is made in short Okazaki fragments, each starting from its own primer.",
+       "Exonuclease removes RNA primers, another DNA polymerase fills the gaps, DNA ligase seals the nicks.",
+       "Result is semi-conservative: each daughter helix = one old strand + one new strand."
+     ]},
+    {"id": "0Ha9nppnwOc", "title": "DNA Replication", "channel": "Oxford Academic (OUP)", "duration": 342, "narrated": true,
+     "summary": [
+       "Bacterial replication shown in three phases: initiation, elongation, termination.",
+       "Initiation: DNA opens at the origin; a hexameric helicase is loaded on each side → two forks moving apart (replication bubble).",
+       "DNA polymerase cannot start from scratch – primase makes an RNA primer first.",
+       "Clamp loader uses ATP to open the ring-shaped sliding clamp around the primer–template junction; the clamp keeps the polymerase on the DNA (processivity).",
+       "Leading strand synthesised continuously; lagging strand primed repeatedly and made as Okazaki fragments, all 5′→3′.",
+       "Primers are later replaced with DNA and fragments joined by ligase."
+     ]}
+  ]},
+  {"page": 51, "videos": [
+    {"id": "7Hk9jct2ozY", "start": 201, "title": "DNA animation (2002–2014) by Drew Berry & Etsuko Uno", "channel": "WEHI.tv", "duration": 439, "narrated": false,
+     "summary": [
+       "Compilation of WEHI molecular animations (no narration; on-screen text). The slide's link starts at 3:21 (its translation section).",
+       "Translation: mRNA threads through the ribosome; tRNAs bring amino acids matched codon-to-anticodon, and the polypeptide grows as each codon is read 5′→3′.",
+       "Earlier parts of the reel show DNA packaging (nucleosomes → chromosomes), replication and transcription – useful revision of the central dogma."
+     ]}
+  ]},
+  {"page": 91, "videos": [
+    {"id": "wUAYwr6zPkY", "title": "DNA sequencing explained", "channel": "yourgenome", "duration": 158, "narrated": true,
+     "summary": [
+       "Sanger (capillary) sequencing: PCR-like reaction with normal dNTPs + a few fluorescent chain-terminating nucleotides (ddNTPs), one colour per base.",
+       "Whenever a terminator is incorporated, polymerase stops → products of every length, each ending in a coloured base.",
+       "Capillary electrophoresis separates fragments by size; DNA (negative) moves to + electrode, shorter fragments faster – single-nucleotide resolution.",
+       "A laser excites each fragment's dye at the end of the capillary; a camera records colour → chromatogram.",
+       "Reading the colour peaks in order of size gives the sequence, stored digitally for bioinformatics."
+     ]}
+  ]},
+  {"page": 146, "videos": [
+    {"id": "6ZRIOSRBMt8", "title": "H-Ras: active (GTP) → inactive (GDP) conformational change", "channel": "Perunamuusi", "duration": 10, "narrated": false,
+     "summary": [
+       "10-second morph of the Ras protein structure between its GTP-bound (active) and GDP-bound (inactive) shapes.",
+       "Most of the protein is unchanged; the change is concentrated in the small 'switch' loops around the nucleotide (γ-phosphate senses GTP vs GDP).",
+       "GEF swaps GDP→GTP (turns ON); GAP stimulates GTP hydrolysis (turns OFF) – same switch logic used by motor proteins and G proteins.",
+       "Key point: a small chemical change (loss of one phosphate) → a conformational change that alters what the protein binds."
+     ]}
+  ]},
+  {"page": 150, "videos": [
+    {"id": "VVgXDW_8O4U", "title": "Actin filament assembly", "channel": "Mechanobiology Institute, Singapore", "duration": 168, "narrated": false,
+     "summary": [
+       "F-actin filaments are built from G-actin monomers bound to ATP or ADP.",
+       "ATP-actin adds mainly at the barbed (+) end → elongation; ATP is hydrolysed to ADP after incorporation.",
+       "ADP-actin dissociates preferentially from the pointed (−) end.",
+       "Net addition at + and loss at − gives treadmilling; assembly is driven by ATP hydrolysis and nucleation can occur spontaneously in vitro.",
+       "Context for the slide: these polarised actin tracks are what myosin walks on in muscle."
+     ]}
+  ]},
+  {"page": 160, "videos": [
+    {"id": "oHDRIwRZRVI", "title": "Muscle Myosin", "channel": "Graham Johnson (for Vale & Milligan, Science)", "duration": 105, "narrated": true,
+     "summary": [
+       "Myosin II is a dimer: two independent heads (catalytic core + lever arm) joined by a coiled-coil rod anchored in the thick filament.",
+       "Start: head holds ADP + Pi and binds actin weakly.",
+       "Head docks on actin → Pi released → strong binding + power stroke (lever arm swings, actin moves).",
+       "ADP leaves; ATP binds → head detaches from actin.",
+       "ATP hydrolysed on the detached head → lever re-cocks (stores energy like a spring); cycle repeats.",
+       "Actin doesn't slip back because many other myosin heads are attached at any moment."
+     ]}
+  ]},
+  {"page": 175, "videos": [
+    {"id": "B7PMf7bBczQ", "title": "Bacterial flagellum", "channel": "Biology Help", "duration": 313, "narrated": true,
+     "summary": [
+       "Flagellum = helical filament (~20 nm wide, up to 15 µm long, ~100 rotations/s) + flexible hook + basal body.",
+       "Basal body: rod + rings in inner membrane, peptidoglycan and outer membrane (L and P rings in Gram-negatives act as a bearing).",
+       "Motor = stator (MotA/MotB, fixed to peptidoglycan) + rotor (FliG, FliM, FliN on the MS ring made of 26 FliF subunits).",
+       "Powered by a proton gradient (not ATP): H⁺ flow through MotA/MotB; a conserved Asp in MotB binds protons → conformational changes → power strokes on the rotor.",
+       "Assembly is inside-out: MS ring → rotor → export apparatus → rod → hook (with cap) → filament, with subunits exported through the hollow core and added at the distal tip."
+     ]}
+  ]},
+  {"page": 205, "videos": [
+    {"id": "-vmtK-bAC5E", "title": "What is Apoptosis? The Apoptotic Pathways and the Caspase Cascade", "channel": "Elvire Thouvenot", "duration": 238, "narrated": true,
+     "summary": [
+       "Apoptosis = programmed cell death; e.g. removes webbing between fetal fingers and eliminates cells with irreparable DNA damage.",
+       "Executed from within by caspases, which must first be activated.",
+       "Extrinsic pathway: FasL on a T cell binds Fas (death receptor) on the target → FADD adaptor → caspase cascade.",
+       "Intrinsic pathway: balance of anti-apoptotic Bcl-2/Bcl-xL vs pro-apoptotic Bax/Bak at mitochondria. Damage/loss of survival signals → Bax/Bak form pores → cytochrome c released.",
+       "Cytochrome c + Apaf-1 → apoptosome → activates the caspase cascade (common end-point of both pathways).",
+       "Cancer cells survive partly by blocking apoptosis – a target for therapy."
+     ]}
+  ]},
+  {"page": 206, "videos": [
+    {"id": "DR80Huxp4y8", "title": "Apoptosis (2006) by Drew Berry", "channel": "WEHI.tv", "duration": 278, "narrated": false,
+     "summary": [
+       "No narration (sound design only). Molecular animation of Fas-mediated (extrinsic) apoptosis, published in Sci. STKE 2007.",
+       "A killer cell's Fas ligand engages Fas death receptors on the target cell surface, clustering them.",
+       "Receptor clustering recruits adaptor proteins (FADD) and initiator caspases inside the cell → caspase cascade.",
+       "Executioner caspases dismantle the cell: cytoskeleton collapse, membrane blebbing, nuclear/DNA fragmentation, break-up into apoptotic bodies."
+     ]}
+  ]},
+  {"page": 213, "videos": [
+    {"id": "DDqDmsQwfLU", "title": "Mitosis in an Animal Cell Under the Microscope", "channel": "Science Source", "duration": 31, "narrated": false,
+     "summary": [
+       "31-s real time-lapse of a Chinese Hamster Ovary (CHO) cell dividing (no narration).",
+       "Cell rounds up from the substrate → prophase (chromosomes condense) → metaphase (align at plate) → anaphase (sisters separate) → telophase.",
+       "Cytokinesis pinches the cell in two; the daughter cells flatten and re-attach to the dish.",
+       "Note: although the slide is titled for apoptosis detection, this clip shows normal mitosis – useful for contrasting the orderly division with apoptotic blebbing/shrinkage."
+     ]}
+  ]},
+  {"page": 217, "videos": [
+    {"id": "uTrgqzOsH_Y", "title": "Chromosome – 3D animation (Short)", "channel": "Dharm Tula Medical Academy", "duration": 14, "narrated": false,
+     "summary": [
+       "14-s 3D animation zooming from a chromosome down to the DNA double helix (no narration).",
+       "Reinforces packaging: DNA → nucleosomes → chromatin fibre → condensed chromosome.",
+       "Links to the slide: after S phase each chromosome has two identical sister chromatids joined at the centromere (G2), versus a single chromatid in G1."
+     ]}
+  ]},
+  {"page": 219, "videos": [
+    {"id": "FPtFXNmhI_g", "title": "GFP mitosis (Short)", "channel": "Froodish Guy", "duration": 9, "narrated": false,
+     "summary": [
+       "9-s fluorescence time-lapse of a dividing cell with GFP-labelled chromosomes/spindle (no narration).",
+       "Chromosomes condense, line up at the metaphase plate, then split to opposite poles (anaphase) and decondense as two nuclei form.",
+       "Shows that GFP tagging lets mitosis be followed in living cells in real time."
+     ]}
+  ]},
+  {"page": 222, "videos": [
+    {"id": "IvJrDsRuWxQ", "title": "Kinetochore and Mitosis (2014) – Drew Berry", "channel": "WEHI.tv", "duration": 163, "narrated": true,
+     "summary": [
+       "Mitotic chromosome = two identical sister chromatids; spindle microtubules attach from either side.",
+       "Kinetochore (red) = interface between chromosome and microtubule ends – one of the largest molecular machines in the cell.",
+       "Three jobs: (1) grips dynamic microtubule ends to move the chromosome, (2) senses tension to check correct bi-orientation, (3) broadcasts a 'stop/wait' signal (spindle checkpoint) until attachment is correct.",
+       "Once tension is right, dynein motors walk the stop-signal proteins away down the microtubule; kinesins also transport cargo along the spindle.",
+       "When every kinetochore is satisfied → anaphase: sister chromatids pulled to opposite poles."
+     ]}
+  ]},
+  {"page": 224, "videos": [
+    {"id": "nlMVeW594F4", "title": "Mitosis annotated", "channel": "WEHI.tv", "duration": 38, "narrated": false,
+     "summary": [
+       "Real time-lapse microscopy of a dividing cell (Jeremy Pickett-Heaps) with Drew Berry's animated overlay labelling the structures.",
+       "Follow the overlay: spindle poles and microtubules, chromosomes aligning at metaphase, separating in anaphase.",
+       "Ends with telophase/cytokinesis – nuclear envelopes re-form and the cell splits into two daughters."
+     ]}
+  ]},
+  {"page": 231, "videos": [
+    {"id": "SEejivHRIbE", "title": "See a Salamander Grow From a Single Cell (time-lapse)", "channel": "National Geographic – Short Film Showcase", "duration": 402, "narrated": false,
+     "summary": [
+       "6-min time-lapse of an alpine newt/salamander from fertilised egg to hatching (music only).",
+       "Cleavage: the single zygote divides 2 → 4 → 8 … into many smaller cells (blastula).",
+       "Gastrulation: cells move inward through the blastopore, forming germ layers.",
+       "Neurulation: neural folds rise and close into the neural tube; body axis, somites, eyes, gills and a beating heart then form.",
+       "Shows the slide's point: one totipotent cell → many specialised cell types through division + differentiation."
+     ]}
+  ]},
+  {"page": 232, "videos": [
+    {"id": "WLtJTywFpoI", "title": "Heart cells derived from iPSCs beat in a culture dish", "channel": "Cell Applications, Inc.", "duration": 15, "narrated": true,
+     "summary": [
+       "Human skin fibroblasts were reprogrammed into induced pluripotent stem cells (iPSCs).",
+       "The iPSCs were then differentiated into cardiomyocytes.",
+       "The cells contract spontaneously in vitro, with a wave of beating spreading across the dish – evidence that they are functional heart cells."
+     ]}
+  ]},
+  {"page": 240, "videos": [
+    {"id": "SIODoHiFcrs", "title": "XYClone stem cell laser: ICM excision", "channel": "Hamilton Thorne", "duration": 49, "narrated": false,
+     "summary": [
+       "Microscope footage of a blastocyst (no narration).",
+       "A laser is used to cut out the inner cell mass (ICM) from the surrounding trophectoderm.",
+       "The isolated ICM is the source of pluripotent embryonic stem (ES) cells when cultured.",
+       "Remember: ICM → embryo proper (pluripotent); trophectoderm → placenta/extra-embryonic tissue."
+     ]}
+  ]},
+  {"page": 242, "videos": [
+    {"id": "rSIurckMtfU", "title": "Spemann–Mangold organizer and embryonic induction", "channel": "Zar", "duration": 129, "narrated": true,
+     "summary": [
+       "Spemann & Mangold (1924) showed that interactions between cell groups pattern the embryo.",
+       "The organizer = tissue at the dorsal lip of the blastopore in the gastrulating amphibian (Xenopus) embryo.",
+       "Experiment: dorsal-lip tissue is cut from one embryo and grafted into the ventral side of another.",
+       "Two days later the host forms a second body axis (conjoined twins) with its own nervous system, eyes and somites.",
+       "Conclusion: the organizer induces neighbouring host cells to change fate – embryonic induction."
+     ]}
+  ]},
+  {"page": 277, "videos": [
+    {"id": "ZUUfdP87Ssg", "title": "Neutrophil Chemotaxis", "channel": "FreeScienceLectures", "duration": 78, "narrated": true,
+     "summary": [
+       "Human blood neutrophils migrate rapidly to sites of injury/infection.",
+       "They follow chemoattractants released by immune cells or microbes.",
+       "In the experiment a micropipette releases chemoattractant; neutrophils polarise and crawl toward it.",
+       "When the pipette is moved, the cell immediately sends out a new leading-edge protrusion and reorients – chemotaxis follows the gradient in real time."
+     ]}
+  ]},
+  {"page": 279, "videos": [
+    {"id": "I_xh-bkiv_c", "title": "Crawling neutrophil chasing a bacterium", "channel": "David Rogers (Vanderbilt, 1950s film)", "duration": 28, "narrated": false,
+     "summary": [
+       "Classic 1950s 16-mm film: a neutrophil among red blood cells chases a bacterium (no narration).",
+       "The neutrophil follows the bacterium's every turn (chemotaxis toward bacterial products).",
+       "It finally engulfs the bacterium by phagocytosis – the first step before intracellular killing."
+     ]}
+  ]},
+  {"page": 289, "videos": [
+    {"id": "GXECgTLGLtI", "title": "Toll-like receptor 4 signalling", "channel": "Immunology Toronto", "duration": 305, "narrated": true,
+     "note": "Heads-up: the slide is titled for NK-cell killing, but this video is actually about TLR4/LPS signalling in innate immunity.",
+     "summary": [
+       "Innate immunity: pattern-recognition receptors (PRRs) detect pathogen-associated molecular patterns (PAMPs). Humans have 10 TLRs.",
+       "TLR4 on macrophages detects LPS from the cell wall of Gram-negative bacteria.",
+       "LPS-binding protein carries LPS → CD14 → loads it onto TLR4 with accessory protein MD-2 → TLR4 dimerises.",
+       "Dimerised TIR domains recruit the adaptor MyD88 → signalling cascade.",
+       "IκB is phosphorylated and degraded → NF-κB freed → enters nucleus → transcription of cytokines and chemokines → inflammation.",
+       "Balance matters: too little inflammation → infection; too much → damage from the immune response itself."
+     ]}
+  ]},
+  {"page": 290, "videos": [
+    {"id": "_VhcZTGv0CU", "end": 272, "title": "Immunology in the skin", "channel": "Nature Video", "duration": 450, "narrated": true,
+     "note": "The slide says watch up to 4:32.",
+     "summary": [
+       "Skin = epidermis (keratinocytes; dead corneocytes form the barrier) + dermis (fibroblasts, collagen/elastin, blood and lymph vessels) + fat; commensal microbes help protection.",
+       "Sentinels: Langerhans cells (epidermal dendritic cells) and dermal dendritic cells sample antigen.",
+       "Effectors: skin holds >2× the T cells in blood, mostly memory. Epidermis → resident CD8 (cytotoxic) T cells; dermis → mostly CD4 helper T cells, plus NK cells, eosinophils, mast cells.",
+       "Damage/infection is sensed via PRRs; keratinocytes make antimicrobial peptides, IL-1 and chemokines that recruit neutrophils, macrophages and T cells.",
+       "Dendritic cells migrate to lymph nodes and prime naive T cells; effector cytotoxic T cells return and kill virus-infected keratinocytes; memory CD8 T cells then stay in the epidermis."
+     ]}
+  ]},
+  {"page": 291, "videos": [
+    {"id": "rDEduT62Awc", "title": "Cytotoxic T cells", "channel": "WEHI.tv (Etsuko Uno)", "duration": 353, "narrated": true,
+     "summary": [
+       "Most T cells are naive and circulate through blood, lymph and lymph nodes; naive CD8⁺ T cells can become cytotoxic.",
+       "T cells can't see pathogens directly – antigen-presenting cells bring virus peptides on MHC to the lymph node.",
+       "A T cell whose unique TCR fits the peptide–MHC complex binds it; co-receptor CD8 also binds; receptors cluster → activation.",
+       "The activated cell proliferates into clones that acquire cytotoxic granules (clonal expansion).",
+       "Chemical cues guide them to the infection; they recognise the same peptide–MHC on infected cells.",
+       "Granule contents (perforin, granzymes) are delivered into the infected cell → it dies. Only infected cells display the peptide, so healthy cells are spared."
+     ]}
+  ]}
+]
